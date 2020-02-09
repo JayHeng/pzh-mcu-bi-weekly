@@ -25,12 +25,12 @@
 
 **项目**
 
-> * 【第 001 期】1、OpenMV-RT - 基于恩智浦 i.MXRT 系列的开源机器视觉AI模块
+> * 【第 001 期】1、OpenMV-RT - 基于恩智浦 i.MXRT 系列的开源机器视觉 AI 模块
 > * 【第 001 期】2、TheAlgorithms/C - 各种基础算法、数据结构的 C 语言实现
-> * 【第 001 期】3、armink/SFUD -  一款基于JEDEC SFDP标准的串行 (SPI) Flash 通用驱动库
+> * 【第 001 期】3、armink/SFUD -  一款基于 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库
 
 **工具**
 
-> * 【第 001 期】1、MCUXpresso Secure Provisioning Tool v1.0 - 恩智浦官方MCU一站式安全启动/下载工具
-> * 【第 001 期】2、H7-TOOL - 专为单片机工程师设计的一款实用的多功能开发调试工具
+> * 【第 001 期】1、MCUXpresso Secure Provisioning Tool v1.0 - 恩智浦官方 MCU 一站式安全启动/下载工具
+> * 【第 001 期】2、H7-TOOL - 安富莱电子专为单片机工程师设计的一款开源多功能开发调试工具
 

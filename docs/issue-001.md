@@ -58,7 +58,7 @@ MS-RTOS 支持内核空间内存保护（应用程序通过 syscall 访问内核
 
 ## 项目类
 
-### <font color="red">1、OpenMV-RT - 基于恩智浦 i.MXRT 系列的开源机器视觉AI模块</font>
+### <font color="red">1、OpenMV-RT - 基于恩智浦 i.MXRT 系列的开源机器视觉 AI 模块</font>
 
 OpenMV-RT 是一款基于恩智浦最近主打的 i.MXRT 超高性能系列 MCU 的视觉模块，模块设计者是恩智浦大牛工程师宋岩（对，就是 ARM Cortex-M3 权威指南中文版作者）。
 
@@ -84,7 +84,7 @@ OpenMV-RT 是一款基于恩智浦最近主打的 i.MXRT 超高性能系列 MCU 
 
 ![](http://henjay724.com/image/biweekly/TheAlgorithms_lang_list.JPG)
 
-### <font color="red">3、armink/SFUD -  一款基于JEDEC SFDP标准的串行 (SPI) Flash 通用驱动库</font>
+### <font color="red">3、armink/SFUD -  一款基于 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库</font>
 
 SFUD 是一款开源的串行 SPI Flash 通用驱动库，作者是上海睿赛德(RT-Thread)公司技术总监朱天龙大神。
 
@@ -100,7 +100,7 @@ SFUD 目前主要提供的 Demo 平台是STM32，但良好的代码结构也很�
 
 ## 工具类
 
-### <font color="red">1、MCUXpresso Secure Provisioning Tool v1.0 - 恩智浦官方MCU一站式安全启动/下载工具</font>
+### <font color="red">1、MCUXpresso Secure Provisioning Tool v1.0 - 恩智浦官方 MCU 一站式安全启动/下载工具</font>
 
 恩智浦半导体自 2017 年开始推出 i.MXRT 系列 MCU 以来，让广大嵌入式从业者既爱又恨，爱的是这颗 MCU 的超高性能，恨的是入门较难，配套启动下载工具使用太复杂。如今，千呼万唤的官方一站式启动工具 MCUXpresso Secure Provisioning Tool 终于推出了。
 
@@ -116,7 +116,7 @@ MCUXpresso Secure Provisioning Tool v1.0 界面设计得非常清爽，目前仅
 
 ![](http://henjay724.com/image/biweekly/MCUXpresso_Secure_Provisioning_Tool_GUI.JPG)
 
-### <font color="red">2、H7-TOOL - 专为单片机工程师设计的一款实用的多功能开发调试工具</font>
+### <font color="red">2、H7-TOOL - 安富莱电子专为单片机工程师设计的一款开源多功能开发调试工具</font>
 
 H7-TOOL是一个专为单片机工程师设计的实用的多功能开发调试工具，工具作者是安富莱电子大牛硬汉哥，而且原理图和所有代码全部开源。
 
