@@ -54,7 +54,7 @@ MS-RTOS 最大的特点是开创性地在没有 MMU 和资源极其稀少的 MCU
 
 MS-RTOS 支持内核空间内存保护（应用程序通过 syscall 访问内核），使得内核有着非常高的安全性。MS-RTOS 在提供足够丰富功能的同时，保持了高效简洁的实现，对 ROM、RAM 消耗极低，特别适用于对硬件成本敏感、安全性要求特别高的产品。
 
-![](http://henjay724.com/image/biweekly/MS-RTOS-arch-diagram.webp)
+![](http://henjay724.com/image/biweekly/MS-RTOS-arch-diagram.JPG)
 
 ## 项目类
 
@@ -68,7 +68,7 @@ OpenMV-RT 是一款基于恩智浦最近主打的 i.MXRT 超高性能系列 MCU 
 
 大牛宋岩为这个模块编写了很多 AI 方面的应用实例，如人脸识别、物体识别、性别识别等，这些实例还在持续增长中，所以这可不是一个简单的硬件模块，而是你入门 AI 的极佳机会。
 
-![](http://henjay724.com/image/biweekly/OpenMV-RT-1060.webp)
+![](http://henjay724.com/image/biweekly/OpenMV-RT-1060.JPG)
 
 更多 OpenMV-RT 的特点，可参看作者写的文章 [《基于i.MX RT1060的可编程视觉模块》](https://mp.weixin.qq.com/s/JkB6K0IcMDRzcHINopxLyA) 和我写的上手实践 [《OpenMV-RT模块初体验》](https://www.cnblogs.com/henjay724/p/11965518.html)。
 
