@@ -77,13 +77,14 @@ https://github.com/SiliconLabs/uC-USBH
 
 ## 项目类
 
-### <font color="red">1、AMetal - 具有跨 MCU 平台通用接口的裸机软件驱动包</font>
+### <font color="red">1、AMetal - 具有跨 MCU 平台通用接口的轻量级嵌入式开发平台</font>
 
 AMetal 是周立功（ZLG）公司维护的芯片级裸机软件包，定义了跨平台的通用接口（使得基于 AMetal 的应用程序可以和具体硬件完全分离，实现跨平台复用），并提供了一系列驱动及常用的软件服务。AMetal 是周立功 AWorksOS 架构底层里的重要一环。
 
-> 项目主页：https://github.com/zlgopen/ametal
+> 项目主页：http://www.zlgmcu.com/Category_2520/Index.aspx
+> 代码主页：https://github.com/zlgopen/ametal
 
-![](http://henjay724.com/image/biweekly/AWorks_Components.PNG)
+![](http://henjay724.com/image/biweekly/AMetal_Components.PNG)
 
 AMetal 主要特点如下，其目前已经支持周立功、华大半导体、灵动微电子、恩智浦半导体等公司的 MCU 产品，并且其还支持了非常多的嵌入式里常用的驱动组件（见下表，未完全列出）
 
