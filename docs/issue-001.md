@@ -26,7 +26,7 @@
 
 让我们再来回顾一下 i.MXRT1170 的厉害之处。i.MX RT系列从 RT1170 开始首次引入了双核，Cortex-M4 的引入可不仅仅是刷新 CoreMark 总分那么简单（当然6468的跑分确实挺震撼），有了这颗 Cortex-M4，一些相对简单的键盘响应、传感器采集、电机控制等任务便可以交给它来做，而超强的 Cortex-M7 则可以专注在音视频识别与处理、千兆以太网通讯控制等复杂任务上。
 
-![](http://henjay724.com/image/biweekly/i.MX-RT1170-DualCore-Task.PNG)
+![](http://henjay724.com/image/biweekly/i.MX-RT1170-DualCore-Task_v2.PNG)
 
 更多 i.MXRT1170 的细节，详见痞子衡之前写的 [《终于可以放开聊一聊i.MXRT1170这颗划时代MCU了》](https://www.cnblogs.com/henjay724/p/11624973.html)。
 
@@ -40,7 +40,7 @@
 
 > 视频直播/回看入口： https://class.eetree.cn/index
 
-![](http://henjay724.com/image/biweekly/eetree_tech_class.jpg)
+![](http://henjay724.com/image/biweekly/eetree_tech_class_v2.jpg)
 
 硬禾学堂计划在2月17 - 5月31日之间开设 100 期”半导体产业前沿技术大讲堂”的栏目，帮助半导体行业的朋友们以技术直播、系列讲座、短平快教程的方式高效、快速地开展线上市场营销业务，硬禾学堂会提供全方位的平台支撑和宣传推广服务。
 
@@ -54,7 +54,7 @@ MS-RTOS 最大的特点是开创性地在没有 MMU 和资源极其稀少的 MCU
 
 MS-RTOS 支持内核空间内存保护（应用程序通过 syscall 访问内核），使得内核有着非常高的安全性。MS-RTOS 在提供足够丰富功能的同时，保持了高效简洁的实现，对 ROM、RAM 消耗极低，特别适用于对硬件成本敏感、安全性要求特别高的产品。
 
-![](http://henjay724.com/image/biweekly/MS-RTOS-arch-diagram.JPG)
+![](http://henjay724.com/image/biweekly/MS-RTOS-arch-diagram_v2.JPG)
 
 ## 项目类
 
@@ -68,7 +68,7 @@ OpenMV-RT 是一款基于恩智浦最近主打的 i.MXRT 超高性能系列 MCU 
 
 大牛宋岩为这个模块编写了很多 AI 方面的应用实例，如人脸识别、物体识别、性别识别等，这些实例还在持续增长中，所以这可不是一个简单的硬件模块，而是你入门 AI 的极佳机会。
 
-![](http://henjay724.com/image/biweekly/OpenMV-RT-1060.JPG)
+![](http://henjay724.com/image/biweekly/OpenMV-RT-1060_v2.JPG)
 
 更多 OpenMV-RT 的特点，可参看作者写的文章 [《基于i.MX RT1060的可编程视觉模块》](https://mp.weixin.qq.com/s/JkB6K0IcMDRzcHINopxLyA) 和我写的上手实践 [《OpenMV-RT模块初体验》](https://www.cnblogs.com/henjay724/p/11965518.html)。
 
@@ -82,7 +82,7 @@ OpenMV-RT 是一款基于恩智浦最近主打的 i.MXRT 超高性能系列 MCU 
 
 这个项目基本涵盖了常见数据结构和算法，而且代码非常简洁，一点都不晦涩，全部理解并手敲一遍，必然让你编程技巧更上一层楼。
 
-![](http://henjay724.com/image/biweekly/TheAlgorithms_lang_list.JPG)
+![](http://henjay724.com/image/biweekly/TheAlgorithms_lang_list_v2.JPG)
 
 ### <font color="red">3、armink/SFUD -  一款基于 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库</font>
 
@@ -96,7 +96,7 @@ SFUD 主要特点是支持 SPI/QSPI 接口、面向对象（同时支持多个 F
 
 SFUD 目前主要提供的 Demo 平台是STM32，但良好的代码结构也很方便移植到其他MCU，下表为所有已在 Demo 平台上进行过真机测试过的 Flash。
 
-![](http://henjay724.com/image/biweekly/SFDP_flash_list.JPG)
+![](http://henjay724.com/image/biweekly/SFDP_flash_list_v2.JPG)
 
 ## 工具类
 
@@ -110,11 +110,11 @@ SFUD 目前主要提供的 Demo 平台是STM32，但良好的代码结构也很�
 
 如今终于等来了官方正式版 MCUXpresso Secure Provisioning Tool，从设计原理上来说，MCUXpresso Secure Provisioning Tool 跟 NXP-MCUBootUtility 其实是类似的，不过 MCUXpresso Secure Provisioning Tool 计划支持所有系统（Windows/Linux/macOS），并且还提供命令行接口，方便自动化测试和批量生产。
 
-![](http://henjay724.com/image/biweekly/MCUXpresso_Secure_Provisioning_Tool.JPG)
+![](http://henjay724.com/image/biweekly/MCUXpresso_Secure_Provisioning_Tool_v2.JPG)
 
 MCUXpresso Secure Provisioning Tool v1.0 界面设计得非常清爽，目前仅支持 i.MXRT1050 和 i.MXRT1060，操作上也是足够简单。还不快赶紧下载试用？
 
-![](http://henjay724.com/image/biweekly/MCUXpresso_Secure_Provisioning_Tool_GUI.JPG)
+![](http://henjay724.com/image/biweekly/MCUXpresso_Secure_Provisioning_Tool_GUI_v2.JPG)
 
 ### <font color="red">2、H7-TOOL - 安富莱电子专为单片机工程师设计的一款开源多功能开发调试工具</font>
 
@@ -126,7 +126,7 @@ H7-TOOL是一个专为单片机工程师设计的实用的多功能开发调试�
 
 这时候你就需要一个 H7-TOOL，有了H7-TOOL就等于随时携带了一个小型实验室，各种常用仪器全都齐活了。
 
-![](http://henjay724.com/image/biweekly/H7-TOOL.jpg)
+![](http://henjay724.com/image/biweekly/H7-TOOL_v2.jpg)
 
 来看看 H7-TOOL 这个“小型实验室”里都有哪些仪器吧，是不是叹为观止？
 
@@ -157,5 +157,5 @@ H7-TOOL是一个专为单片机工程师设计的实用的多功能开发调试�
 
 而且 H7-TOOL 配套上位机工具也非常漂亮易用哦。
 
-![](http://henjay724.com/image/biweekly/H7-TOOL-GUI.png)
+![](http://henjay724.com/image/biweekly/H7-TOOL-GUI_v2.png)
 

@@ -44,7 +44,7 @@ mcuboot 是由 JuulLabs-OSS 组织维护的开源 Bootloader 项目，它可以�
 
 恩智浦 AE 团队做的 i.MXRT OTA 方案中就使用了 mcuboot 来实现应用程序升级。
 
-![](http://henjay724.com/image/biweekly/imxrt_ota_framework.JPG)
+![](http://henjay724.com/image/biweekly/imxrt_ota_framework_v2.JPG)
 
 ### <font color="red">2、BalanceCar - 基于恩智浦 MKE18F 的蓝牙控制两轮自平衡小车</font>
 
@@ -68,11 +68,11 @@ mcuboot 是由 JuulLabs-OSS 组织维护的开源 Bootloader 项目，它可以�
 
 > 项目主页：https://github.com/avem-labs/Avem
 
-![](http://henjay724.com/image/biweekly/Avem_product.JPG)
+![](http://henjay724.com/image/biweekly/Avem_product_v2.JPG)
 
 无人机主控是意法半导体 STM32F103 系列 MCU，飞控功能是利用了六轴传感器 MPU6050（3 轴陀螺仪和 3 轴加速度计），传感器数据通过 I2C 接口发送给 MCU 处理，姿态控制算法是该网友自己写的所谓串级 PID。无人机可搭配 GPS 模块来实现超视距飞行。
 
-![](http://henjay724.com/image/biweekly/Avem_framework.JPG)
+![](http://henjay724.com/image/biweekly/Avem_framework_v2.JPG)
 
 ### <font color="red">4、myPhone - 基于微芯 ATmega128 的简易 GSM 手机原型</font>
 
@@ -84,7 +84,7 @@ mcuboot 是由 JuulLabs-OSS 组织维护的开源 Bootloader 项目，它可以�
 
 这个原型共有两版，v1 版需要外部供电且键盘在主 PCB 上，v2 版增加了电池供电并且使用了薄膜按键。
 
-![](http://henjay724.com/image/biweekly/myPhone.JPG)
+![](http://henjay724.com/image/biweekly/myPhone_v2.JPG)
 
 ## 工具类
 
