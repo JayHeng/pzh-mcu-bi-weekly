@@ -12,7 +12,7 @@
 
 今天是谷雨，春季的最后一个节气。
 
-本期共收录 2条资讯、3个项目、2个工具、1个RT产品，希望对你有帮助！
+本期共收录 2条资讯、3个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -43,7 +43,7 @@ u8g2 是目前 Arduino 平台上使用最广泛的单色图形库。U8g2 支持�
 
 ![](http://henjay724.com/image/biweekly/u8g2_esp32_ssd1306_oled.PNG)
 
-### <font color="red">2、emXGUI - 一个经过十年深度优化的图像引擎</font>
+### <font color="red">2、emXGUI - 一个经过十年深度优化的图像引擎(GUI)</font>
 
 emXGUI 是由国内刘巍于 2008 年开始编写，2010 年开始商用的一款图像引擎，主要产品是警用酒精检测仪，产品主要是出口，没有在国内宣传过。
 
@@ -63,16 +63,28 @@ emXGUI 的特色如下：
 
 ![](http://henjay724.com/image/biweekly/emXGUI_tests.png)
 
-### <font color="red">3、</font>
+### <font color="red">3、LearningGUI - 一款100%使用 C 语言开发的通用嵌入式开源 GUI</font>
 
+LearningGUI 被设计成独立于具体的硬件平台和具体的软件平台，是一款通用的嵌入式开源 GUI 系统。LearningGUI 的目标是替代 emWin，同时抢占中低端的 QT 市场。
 
+LearningGUI 无浮点运算，只调用 C，无汇编代码。显示，键盘，鼠标等驱动由用户在应用中编写注册，因此，LearningGUI 的通用性,可移植性非常好！它可以裸奔，也可以在 RTOS 上运行，同时更适合在 Linux 下运行。
+
+LearningGUI 的特色如下：
+```text
+1、占用内存小。Basic版实行静态内存管理，占用10多K RAM. Windows版实行动态内存管理，占用内存与建立控件多少相关。
+2、支持内置GB2312—80标准汉字库。
+3、提供开放式字库访问接口。
+4、提供开放式颜色转换接口。
+5、提供消息驱动机制。
+6、提供类似于Win32 SDK式样的API接口。
+```
+
+![](http://henjay724.com/image/biweekly/LearningGUI_test.jpg)
 
 ## 工具类
 
 ### <font color="red">1、 </font>
 
-
-### <font color="red">2、</font>
 
 
 ## i.MXRT出品
