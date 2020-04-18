@@ -60,8 +60,13 @@ u8g2 是目前 Arduino 平台上使用最广泛的单色图形库。U8g2 支持�
 
 ## i.MXRT出品
 
-### <font color="red">1、</font>
+### <font color="red">1、新北洋 - 针式收据打印机(BTP-M180II)</font>
 
+BTP-M180II 是新北洋推出的升级款针式收据打印机，打印相关部件可靠性全面提升，固件控制更智能，继承了上一代产品更换耗材方便快捷、耗材适应性强等全部优势，稳定性全面提升。
 
+> RT芯片：i.MXRT1050
+> 产品主页： http://www.snbc.cn/product/1289.html
+> 参考售价： 369 元
 
+![](http://henjay724.com/image/biweekly/SNBC_BTP-M180II.PNG)
 
