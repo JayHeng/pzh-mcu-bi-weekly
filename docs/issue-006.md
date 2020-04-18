@@ -43,8 +43,25 @@ u8g2 是目前 Arduino 平台上使用最广泛的单色图形库。U8g2 支持�
 
 ![](http://henjay724.com/image/biweekly/u8g2_esp32_ssd1306_oled.PNG)
 
-### <font color="red">2、</font>
+### <font color="red">2、emXGUI - 一个经过十年深度优化的图像引擎</font>
 
+emXGUI 是由国内刘巍于 2008 年开始编写，2010 年开始商用的一款图像引擎，主要产品是警用酒精检测仪，产品主要是出口，没有在国内宣传过。
+
+> 项目主页：http://www.emxgui.com/
+
+emXGUI 源码不开源，提供多平台的 LIB 文件，提供完善的 API 手册，无论是个人还是公司都可以很快的上手。目前测试过的平台有：Cortex-M0/3/4/7，Cortex-A系列，ARM9 等。
+
+emXGUI 的特色如下：
+```text
+1、占用资源少，效率高，在STM32F103不外扩RAM的情况下可以流畅运行
+3、友好地支持矢量字体，提供矢量字体制作工具，除了制作矢量字体外，还可以制作矢量的符号
+3、使用unicode字符编码支持多国语言，中文，英文，越南语，西班牙语等等
+4、支持鼠标，支持触摸
+5、自带滑动控件，非常方便，即在液晶屏上可以实现类似现在手机界面滑动的效果
+6、高性能的绘图引擎+高效的Z序剪切策略 双管齐下
+```
+
+![](http://henjay724.com/image/biweekly/emXGUI_tests.png)
 
 ### <font color="red">3、</font>
 
