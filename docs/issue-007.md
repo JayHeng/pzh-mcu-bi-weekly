@@ -10,7 +10,7 @@
 
 ## 唠两句
 
-今天是立夏，夏季的第一个节气。
+今天是立夏，夏季的第一个节气。立夏表示告别春天，夏天要开始了。今天也是五一小长假最后一天，不知道你的假期如何度过的？痞子衡回了一趟老家，受老家的慢生活感染，不仅饭量见长，睡眠也补得相当充足。在城市里匆忙惯了，适期回趟老家，感受乡土，抚慰心灵，挺好！
 
 本期共收录 2条资讯、3个项目、2个工具，希望对你有帮助！
 
@@ -73,7 +73,25 @@ EasyFlash是一款开源的轻量级嵌入式Flash存储器库，方便开发者
 
 目前EasyFlash的最新版本V4.0支持了更多新特性，支持了增量升级、数据加密及压缩等功能，感兴趣的读者可以去项目主页一探究竟。
 
-### <font color="red">3、</font>
+### <font color="red">3、20MHz DDS AWG Generator - 最小的基于FPGA的DDS任意波形发生器</font>
+
+来自电子森林苏老师“入门PCB设计的正确姿势”的实战项目作品，不仅蕴含了全面的基础设计要点，也可以说是全球最小的基于FPGA、能产生20MHz频率的DDS任意波形发生器！
+
+> 项目介绍：https://mp.weixin.qq.com/s?src=11&timestamp=1588569967&ver=2317&signature=MsKTM-xOWU1qXMkdmN*0ESE*sov9Hp20ZqH0O*UxEOhIy2NE-lue7ZIwaLN3HwfUlqoo2kv5brtPMDFCuDwfPkfet3o4FbkeeOsSAVzg0UkgkWP*2Ym-xfHNLwaivXo8&new=1
+
+这个项目是用来学习基础的工具，它诞生的意义在于学习PCB设计、FPGA编程、深入体验模电、数电的理论到实际的应用、同PC的通信、上位机软件编写（无论是Labview、Matlab还是其它）等等。
+
+项目硬件构成：
+
+```text
+1. 核心器件为Lattice的XO2-1200HC-QN32 FPGA
+2. CH340E实现USB-UART接口，所有参数均可通过PC上位机进行控制
+3. R-2R的电阻网络实现高速DAC的功能
+4. AD4851-1配2阶低通滤波器对DAC输出的信号进行成形滤波，截止频率设定为10MHz，最大输出电平为8Vpp，直流偏移可以在-4V ～ 4V之间调节
+5. MMCX射频插座方便连接示波器等测试设备
+```
+
+![](http://henjay724.com/image/biweekly/20MHz_DDS_AWG_Generator.PNG)
 
 ## 工具类
 
