@@ -77,7 +77,19 @@ EasyFlash是一款开源的轻量级嵌入式Flash存储器库，方便开发者
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、KiCad - 备受全球创客推崇的开源 PCB 设计软件</font>
+
+KiCad 是一款完全免费开源的 EDA 设计软件，最初由法国工程师 Jean-Pierre Charras 独立开发，在 1992 年时就公布了最早的发行版。目前，KiCad 的开发不再由个人完成，而是由专门的开发者团队进行维护升级。
+
+> 软件主页: https://kicad-pcb.org/
+
+说到 PCB 设计软件，大家首先想到的肯定是 Altium Designer，Cadence Allegero，或者Eagle等等，不过这些软件的使用，有一个绕不开的问题，那就是版权。网上随手一搜 AD 正版使用一年的价格，至少10W+，这对个人爱好者来说根本无力承担。
+
+KiCad 免费、开源、兼容性好三大优点使得它现在几乎是创客发起开源项目的首选 PCB 设计软件。下图便是大名鼎鼎的无线电开源项目 HackRF One 的硬件设计，使用得就是 KiCad。
+
+![](http://henjay724.com/image/biweekly/kicad_pcbnew.png)
+
+![](http://henjay724.com/image/biweekly/kicad_3dviewer.png)
 
 ### <font color="red">2、千呼万唤始出来！IntelliJ IDEA 2020.1正式发布</font>
 
