@@ -86,7 +86,7 @@ EasyLogger 运行效果如下：
 
 ![](http://henjay724.com/image/biweekly/EasyLogger_Demo.gif)
 
-### <font color="red">2、基于RT-Thread的潘多拉智能遥控小车</font>
+### <font color="red">2、pandora_zhongtian_car - 基于RT-Thread的潘多拉智能遥控小车</font>
 
 今天介绍的是基于Rt-Thread的潘多拉麦克纳娒智能车，整体由底盘，驱动，电池，蓝牙，APP控制，全向轮等组成。
 
@@ -98,5 +98,21 @@ EasyLogger 运行效果如下：
 
 ## 工具类
 
+### <font color="red">1、LabVIEW大众版 - 让工程爱好者居家也可以进行创新开发</font>
 
+美国国家仪器（NI）宣布，推出免费下载的针对非商业用户使用的LabVIEW大众版和LabVIEW NXG大众版。而且，该版本提供了与LabVIEW专业版相同的功能。
 
+> 软件主页: https://www.ni.com/zh-cn/shop/labview/select-edition/labview-community-edition.html
+
+![](http://henjay724.com/image/biweekly/LabVIEW_Community.PNG)
+
+LabVIEW大众版包含：
+
+```text
+1. LabVIEW 2020大众版和LabVIEW NXG大众版
+2. LabVIEW专业版的所有功能
+3. 针对Raspberry Pi、BeagleBoard和Arduino平台的LINX工具包
+4. 可访问LabVIEW NXG Web模块，以创建基于Web的应用程序
+```
+
+LabVIEW大众版和LabVIEW NXG大众版将会让越来越多的制造商和工程师认识这种直观的图形化语言，这些版本无疑将充分调动开发人员的主动性和创造力以及促进新的合作方式。
