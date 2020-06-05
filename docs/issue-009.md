@@ -78,6 +78,16 @@ EmbedXrpc应用场景：单片机近距离Client/Server交互场景（USB、串�
 
 ![](http://henjay724.com/image/biweekly/EmbedXrpc.PNG)
 
+### <font color="red">2、m4vgalib - 基于单片机的VGA格式视频生成库</font>
+
+m4vgalib库能使得微控制器（比如STM32F40x/1x）输出高质量、高分辨率彩色图形，并且这个库使用很少的外部组件。
+
+> 项目主页: https://github.com/cbiffle/m4vgalib
+
+该库示例单片机STM32F407是一个Cortex-M4微控制器，它既没有视频控制器，也没有足够的RAM用于任何合理分辨率的帧缓冲区。m4vgalib围绕这一点工作，生成稳定的800x600（或640x480）256色视频。m4vgalib不使用视频控制器，而是使用两个定时器、一个DMA控制器和一个GPIO端口。
+
+尽管m4vgalib在一个不是为任何类型设计的处理器上维护320Mb/s的数据流，但是大多数CPU和硬件资源都留给应用程序使用。为了避免引入抖动，应用程序必须同意在执行的某些阶段避开AHB1。（比如可以使用中断来通知应用程序。）
+
 ## 工具类
 
 ### <font color="red">1、SpeedCrunch - 高精度科学计算器</font>
