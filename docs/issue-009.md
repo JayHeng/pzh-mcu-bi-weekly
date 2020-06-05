@@ -61,8 +61,22 @@ VectorBlox加速器软件开发工具包（SDK）是Microchip嵌入式解决方�
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、EmbedXrpc - 面向单片机的嵌入式小型RPC</font>
 
+EmbedXrpc类似于Google的gRPC，但是应用场景是单片机。RPC远程调用极大的方便了开发，使得不必关注于协议解析，数据的序列化和反序列化等繁琐的工作。
+
+> 项目主页: https://gitee.com/snikeguo/EmbedXrpc
+
+EmbedXrpc应用场景：单片机近距离Client/Server交互场景（USB、串口、CAN（如J1939 、ISO15765协议等），）只要是流协议都支持。
+
+项目提供了一个Sample1工程，这是最简单的例子，除了main.cpp的代码是手工写的之外，其他的代码都是工具生成的！此Sample1工程演示了：
+
+```text
+1.客户端每一秒向服务端发送1、2 服务端计算出来3后，把3发送给客户端
+2.服务端每1秒广播当前的时间，客户端打印到控制台上
+```
+
+![](http://henjay724.com/image/biweekly/EmbedXrpc.PNG)
 
 ## 工具类
 
