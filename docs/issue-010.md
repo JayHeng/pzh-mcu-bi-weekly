@@ -98,10 +98,14 @@ TinyGSM是一个由网友vshymanskyy维护的小型的用于GSM模块的Arduino�
 
 ## 工具类
 
+### <font color="red">1、Typora - 一个所见即所得的Markdown格式文本编辑器</font>
 
+程序员写得最多的首先是代码，代码之外应该是注释和使用文档。当下最火的文档格式非Markdown莫属。今天给大家推荐的Typora是一款Markdown编辑器。
 
-## i.MXRT出品
+> 软件官网: https://www.typora.io/
 
+![](http://henjay724.com/image/biweekly/Typora_feature.gif)
 
+Typora 是一款支持实时预览的 Markdown 文本编辑器。它有 OS X、Windows、Linux 三个平台的版本，并且由于仍在测试中，是完全免费的。
 
-
+Typora 一直是我认为桌面端笔记应用应有的终极形态。它的功能之强大、设计之冷静、体验之美妙、理念之先进，我认为值得所有笔记应用厂商学习。
