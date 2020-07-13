@@ -155,3 +155,13 @@ RoboMaster S1 是一款智能教育机器人，以寓教于乐的形式为你开
 > 官网定价： 2699 元起
 
 ![](http://henjay724.com/image/biweekly/MavicMin_440x246.gif)
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](http://henjay724.com/image/github/pzhMcu_qrcode_258x258.jpg)
+
+

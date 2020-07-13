@@ -129,3 +129,13 @@ excel2json主要支持以下三个功能：
 ```
 
 ![](http://henjay724.com/image/biweekly/Exceljson.PNG)
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](http://henjay724.com/image/github/pzhMcu_qrcode_258x258.jpg)
+
+
