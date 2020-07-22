@@ -11,7 +11,7 @@
 ## 唠两句
 
 
-本期共收录 3条资讯、1个项目、1个工具，希望对你有帮助！
+本期共收录 3条资讯、1个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -108,6 +108,18 @@ EIDE即Embedded IDE，这是一款由网友github0null开发并维护的应用�
 ![](http://henjay724.com/image/biweekly/EIDE.png)
 
 vscode作为当下非常流行的码农编辑器，嵌入式er们利用这款插件也能使用这款明星IDE进行MCU项目的开发啦。
+
+## i.MXRT出品
+
+### <font color="red">1、迈瑞医疗 - 心电除颤仪BeneHeart C系列</font>
+
+这款心电与除颤仪具有智能易用（7＂彩色大屏，ResQNavi ™，开盖即开机，支持中英双语）、快速有效（QShock™，360J双相波）、可靠耐用（1.5米六面抗跌落，IP55防尘防水）、省心互联（AED-Alert™ 2.0-IoT远程设备管理，无需人工巡检）四大优点。
+
+> RT芯片：i.MXRT1052
+> 产品主页： https://www.mindray.com/cn/product/BeneHeart_C%E7%B3%BB%E5%88%97.html
+> 参考售价： 未知
+
+![](http://henjay724.com/image/biweekly/Mindary_BeneHeartC.PNG)
 
 ### 欢迎订阅
 
