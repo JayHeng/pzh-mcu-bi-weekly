@@ -36,9 +36,15 @@ GD32E5产品组合提供了3个通用系列和1个专用系列，4种封装类�
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Air:bit - 用Micro:bit制作的无人机</font>
 
+Air:bit是挪威的一个团队在Kickstarter上众筹的一个无人机，机身用Micro:bit制作，遥控器也通过Micro:bit板实现。
 
+> 众筹主页： https://www.kickstarter.com/projects/makekit/airbit
+
+![](http://henjay724.com/image/biweekly/air-bit.png)
+
+![](http://henjay724.com/image/biweekly/air-bit-control.png)
 
 ## 工具类
 
