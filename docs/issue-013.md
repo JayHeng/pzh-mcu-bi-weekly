@@ -12,7 +12,7 @@
 
 今天是立秋，立秋并不代表酷热天气就此结束，初秋期间天气仍然很热。
 
-本期共收录 2条资讯、 个项目、2个工具，希望对你有帮助！
+本期共收录 2条资讯、2个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -45,6 +45,20 @@ Air:bit是挪威的一个团队在Kickstarter上众筹的一个无人机，机�
 ![](http://henjay724.com/image/biweekly/air-bit.png)
 
 ![](http://henjay724.com/image/biweekly/air-bit-control.png)
+
+### <font color="red">2、nr_micro_shell - 适用资源较少的MCU的基本命令行工具</font>
+
+在进行调试和维护时，常常需要与单片机进行交互，获取、设置某些参数或执行某些操作，nr_micro_shell正是为满足这一需求，针对资源较少的MCU编写的基本命令行工具。虽然RT_Thread组件中已经提供了强大的finsh命令行交互工具，但对于ROM、RAM资源较少的单片机，finsh还是略显的庞大，在这些平台上，若仍想保留基本的命令行交互功能，nr_micro_shell是一个不错的选择。
+
+> 项目主页： https://github.com/Nrusher/nr_micro_shell
+
+nr_micro_shell具有以下优点：
+
+```text
+1.占用资源少，使用简单，灵活方便。使用过程只涉及两个shell_init()和shell()两个函数，无论是使用RTOS还是裸机都可以方便的应用该工具，不需要额外的编码工作。
+2.交互体验好。完全类似于linux shell命令行，当串口终端支持ANSI（如Hypertrm终端）时，其不仅支持基本的命令行交互，还提供Tab键命令补全，查询历史命令，方向键移动光标修改功能。
+3.扩展性好。nr_micro_shell为用户提供自定义命令的标准函数原型，只需要按照命令编写命令函数，并注册命令函数，即可使用命令。
+```
 
 ## 工具类
 
