@@ -42,11 +42,15 @@ GD32E5产品组合提供了3个通用系列和1个专用系列，4种封装类�
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、VSPD - 超级好用的虚拟串口软件</font>
 
+为解决计算机的物理串口个数的限制，在进行串口调试实验时，应尽可能采用虚拟串口软件。VSPD（Virtual Serial Ports Driver）虚拟串口软件是由Eltima软件公司设计的虚拟串口软件，使用方便且稳定。
 
+> 软件官网： https://www.virtual-serial-port.org/
 
+使用虚拟串口也是规避风险的好办法，尤其对新手而言，应该先在虚拟串口环境下调试自己的代码，成功之后再连接物理串口，链接物理串口之前一定要检查连线是否正确，并用万能表检测是否有短路断路情况发生，否则极易烧毁串口。
 
+![](http://henjay724.com/image/biweekly/Virtual_Serial_Port_Driver.PNG)
 
 ### 欢迎订阅
 
