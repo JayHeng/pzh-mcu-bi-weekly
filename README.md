@@ -11,6 +11,8 @@
 
 ## 2020农历庚子鼠年
 
+[第 013 期(立秋)](docs/issue-013.md)
+
 [第 012 期(大暑)](docs/issue-012.md) | [第 011 期(小暑)](docs/issue-011.md) | [第 010 期(夏至)](docs/issue-010.md) | [第 009 期(芒种)](docs/issue-009.md) | [第 008 期(小满)](docs/issue-008.md) | [第 007 期(立夏)](docs/issue-007.md)
 
 [第 006 期(谷雨)](docs/issue-006.md) | [第 005 期(清明)](docs/issue-005.md) | [第 004 期(春分)](docs/issue-004.md) | [第 003 期(惊蛰)](docs/issue-003.md) | [第 002 期(雨水)](docs/issue-002.md) | [第 001 期(立春)](docs/issue-001.md)
@@ -50,6 +52,8 @@
 > * 【第 012 期】27、安谋中国自研第一代星辰处理器(STAR-MC1)正式商用
 > * 【第 012 期】28、Imagination推出汽车行业最先进GPU IP产品 - XS GPU
 > * 【第 012 期】29、基于NXP i.MXRT的可刷脸的智能门锁来了！
+> * 【第 013 期】30、全志将基于平头哥玄铁平台开发RISC-V芯片
+> * 【第 013 期】31、兆易创新发布中国首款Cortex-M33内核GD32E5系列MCU
 
 **项目(软)**
 
@@ -72,6 +76,8 @@
 > * 【第 010 期】17、TinyGSM - 用于GSM模块的小型Arduino库
 > * 【第 010 期】18、MultiButton - 一个小巧简单易用的事件驱动型按键驱动库
 > * 【第 012 期】19、IOTQQ - 一个跨平台QQ机器人
+> * 【第 013 期】20、nr_micro_shell - 适用资源较少的MCU的基本命令行工具
+> * 【第 013 期】21、CmBacktrace - ARM Cortex-M系列MCU错误追踪库
 
 **项目(硬)**
 
@@ -90,6 +96,7 @@
 > * 【第 008 期】13、RT1052-AutoQuad - 基于i.MXRT1052的开源AutoQuad飞控
 > * 【第 010 期】14、NES-Game - 基于 ESP32 的自制掌上游戏机
 > * 【第 010 期】15、RPI_web_remote_control - 基于树莓派和web界面的远程家电控制器
+> * 【第 013 期】16、Air:bit - 用Micro:bit制作的无人机
 
 **工具(软)**
 
@@ -111,6 +118,8 @@
 > * 【第 011 期】16、MQTT.fx - 一款超级好用的 MQTT 客户端
 > * 【第 011 期】17、excel2json - 能够将Excel数据转换成Json格式的工具
 > * 【第 012 期】18、EIDE - 一款能使vscode支持MCU开发的插件
+> * 【第 013 期】19、VSPD - 超级好用的虚拟串口软件
+> * 【第 013 期】20、Everything - 非常优秀的文件搜索软件
 
 **工具(硬)**
 
