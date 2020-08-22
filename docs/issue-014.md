@@ -28,8 +28,29 @@ TSC_WL_EVK评估板板载瑞兴恒方(RisingHF)出品的的高集成度RHF0M0E5 
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、tinyriscv - 一个极简易懂的RISC-V处理器核</font>
 
+tinyriscv 是网友 liangkangnan 设计并维护的一个从零开始写的极简、非常易懂的RISC-V处理器核。作者从事的是嵌入式软件相关的工作，做这个项目的初衷是为了入门RISC-V，熟悉RISC-V的指令内容和汇编语法。
+
+> 项目地址： https://gitee.com/liangkangnan/tinyriscv
+
+tinyriscv 是一个单核32位的小型RISC-V处理器核，采用verilog语言编写，设计目标是对标ARM Cortex-M3系列处理器。tinyriscv 在 Xilinx Artix-7 35T FPGA 平台(时钟50MHz)上运行CoreMark跑分成绩为2.4。其整体框架如下：
+
+![](http://henjay724.com/image/biweekly/tinyriscv_arch.PNG)
+
+tinyriscv 有以下特点：
+
+```text
+1. 支持RV32IM指令集，通过RISC-V指令兼容性测试；
+2. 采用三级流水线，即取指，译码，执行；
+3. 可以运行C语言程序；
+4. 支持JTAG，可以通过openocd读写内存(在线更新程序)；
+5. 支持中断；
+6. 支持总线；
+7. 支持FreeRTOS；
+8. 支持通过串口更新程序；
+9. 容易移植到任何FPGA平台(如果资源足够的话)；
+```
 
 
 ## 工具类
