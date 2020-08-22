@@ -12,7 +12,7 @@
 
 今天是处暑。
 
-本期共收录 1条资讯、2个项目、个工具、1个RT产品，希望对你有帮助！
+本期共收录 1条资讯、2个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -79,9 +79,15 @@ FlashDB 主要特性如下：
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、TortoiseGIT - 一个Git版本控制系统的Windows客户端</font>
 
+作为一个软件开发人员，不可能不知道Git。Git作为一个复杂的版本控制系统，命令之多，即使经常使用，一些命令也记不住，一般只记住几个常用的命令。TortoiseGit是Windows用户一致推荐的客户端，用GUI（图形界面）方式来操作Git，并且它还是开源的。
 
+> 软件官网： https://tortoisegit.org/
+
+装好TortoiseGit后，软件便会自动识别PC上的所有Git仓库，并标示仓库下各文件状态。使用TortoiseGit特别简单，在仓库文件夹上右击选择对应Git命令即可。
+
+![](http://henjay724.com/image/biweekly/TortoiseGit_cmds.PNG)
 
 ## i.MXRT出品
 
