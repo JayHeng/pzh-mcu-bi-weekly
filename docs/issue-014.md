@@ -16,14 +16,15 @@
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、智芯云联合ST、瑞兴恒方同步发行LoRaWAN® OpenCPU评估板TSC_WL_EVK</font>
 
+近日，深圳智芯云联合意法半导体(STM)、腾讯TenentOSTiny团队、瑞兴恒方同步发行基于TencentOS Tiny开源物联网操作系统的LoRaWAN® OpenCPU评估板TSC_WL_EVK。
 
-![](http://henjay724.com/image/biweekly/.PNG)
+![](http://henjay724.com/image/biweekly/TSC_WL_EVK.png)
 
+TSC_WL_EVK评估板板载瑞兴恒方(RisingHF)出品的的高集成度RHF0M0E5 LoRa模组，模组整体体积只有12x12x2.5mm，外围电路简单，外设接口丰富便于开发者根据项目要求进行灵活配置。评估板集成了物联网俱乐部兼容的E53扩展接口，可以外接所有兼容E53接口的传感器扩展板。
 
-
-
+借助腾讯云TencentOSTiny物联网开源操作系统，可以让开发者快速上手体验TencentOS Tiny基础内核和最新的LoRaWAN物联网组网技术。能帮助客户进一步节省资源，降低开发成本和BOM成本，优化系统功耗，让物联网产品开发更加便捷，加速终端产品的落地和推向市场。
 
 ## 项目类
 
