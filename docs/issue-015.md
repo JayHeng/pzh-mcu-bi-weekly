@@ -12,7 +12,7 @@
 
 今天是白露。
 
-本期共收录 2条资讯、0个项目、2个工具，希望对你有帮助！
+本期共收录 2条资讯、1个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -56,7 +56,26 @@
 
 ## 项目类
 
+### <font color="red">1、Simple Dynamic Strings - </font>
 
+Simple Dynamic Strings (简称 SDS) 是一个 C 语言字符串库，旨在通过添加堆分配的字符串来增强有限的libc字符串处理功能。
+
+> 项目主页： https://github.com/antirez/sds
+
+SDS设计中没有使用C结构来表示字符串，而是使用存储在SDS返回给用户的字符串的实际指针之前的二进制前缀。
+
+![](http://henjay724.com/image/biweekly/Simple_Dynamic_Strings.PNG)
+
+SDS 特点如下：
+
+```text
+使用更简单;
+二进制安全;
+效率更高;
+与 C 字符串函数兼容;
+```
+
+SDS是作者过去为满足日常C编程需要而开发的一个C字符串，后来它被移到Redis中，在那里它被广泛使用，并在那里进行了修改以适合高性能操作。现在它是从Redis中提取出来的，并作为一个独立的项目分叉。
 
 ## 工具类
 
