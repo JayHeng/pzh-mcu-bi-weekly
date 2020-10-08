@@ -39,6 +39,29 @@ znFAT作者还为该项目专门写了一本书：
 
 ![](http://henjay724.com/image/biweekly/znFAT_book.PNG)
 
+### <font color="red">2、NorthFrame - 一个单片机极简图形化状态机框架</font>
+
+NorthFrame是基于非UML极简理念的状态机框架，配合NF_FsmDesigner图形化开发工具，可无负担替代传统switch-case状态机开发。
+
+> 项目主页: https://gitee.com/PISCES_X/NorthFrame 
+
+NorthFrame包含三个组件：
+
+```text
+NF_FSM : 极简非UML状态机框架
+NF_FsmDesigner : 基于C# Winform开发的状态机图形化开发工具，可直接生成C代码
+NF_Signal : 用于代替全局变量的动态信号机制
+```
+
+![](http://henjay724.com/image/biweekly/NorthFrame.PNG)
+
+创建一个在VS2012环境中运行的判断QE组合键的状态机例程仅需如下三步：
+
+```text
+Step1 : 使用NF_FsmDesigner工具设计绘制状态转换图，并保存为XML文件
+Step2 : 点击生成代码，生成C语言代码
+Step3 : 在main.c文件中实现按键处理，并发送事件给状态机
+```
 
 ### 欢迎订阅
 
