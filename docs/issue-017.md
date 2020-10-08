@@ -63,6 +63,16 @@ Step2 : 点击生成代码，生成C语言代码
 Step3 : 在main.c文件中实现按键处理，并发送事件给状态机
 ```
 
+### <font color="red">3、MonoGUI - 一个黑白图形用户接口系统</font>
+
+MonoGUI是针对电子词典、高级计算器、电子手表、标签打印机、收款机、电子货签等 具有黑白屏幕的小电子设备开发的专用GUI系统。本系统具有结构简单、使用容易、内 存占用小、单线程、处理器负担轻等特点。虽然图形能力仅有黑与白，但其支持完整的 中文显示处理功能（GB18030中2字节汉字，即旧GB13000标准），其Edit控件和中文输 入法（包括九键输入法）功能上达到Windows和Android的输入法水平，且扩展容易。
+
+> 项目主页: https://gitee.com/liuxinouc/MonoGUI 
+
+MonoGUI使用纯C++编写，不依赖于第三方源码，便于移植和调试。配套的工具软件， 如图片转换器、对话框模板编辑器等，全部开源。设计资料完整，文档充实，也是一份 不可多得的研究资料。
+
+![](http://henjay724.com/image/biweekly/MonoGUI.PNG)
+
 ### 欢迎订阅
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
