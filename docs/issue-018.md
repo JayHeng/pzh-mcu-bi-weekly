@@ -12,7 +12,7 @@
 
 今天是霜降。
 
-本期共收录 1条资讯、3个项目、0个工具，希望对你有帮助！
+本期共收录 1条资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -71,7 +71,15 @@ CMockery 主要特点：
 5. 可离线使用串口调试功能（仅支持英文及常用数字符号）
 ```
 
-### <font color="red">3、mini-violin - 一款ATtiny单片机制作的PCB小提琴</font>
+### <font color="red">3、LiPow - 一款USB type-C供电的锂电池充电器</font>
+
+这是一个基于STM32G0的带USB type-C电源传输的锂电池充电器项目，使用了带电源传输的USB type-C为锂聚合物电池充电。支持2s-4s packs的充电和平衡，支持高达100W的充电。
+
+> 项目主页: https://github.com/AlexKlimaj/LiPow-Firmware
+
+![](http://henjay724.com/image/biweekly/LiPow.PNG)
+
+### <font color="red">4、mini-violin - 一款ATtiny单片机制作的PCB小提琴</font>
 
 这是一个小提琴设计的开源项目，电路原理图相当简单。ATtiny85控制着两个LED和一个压电蜂鸣器，此外还有一个按钮来切换歌曲，特别有意思的是，小提琴的琴弦被连接到微控制器的模拟输入端，这样就可以通过接触导电材料来演奏小提琴了。
 
