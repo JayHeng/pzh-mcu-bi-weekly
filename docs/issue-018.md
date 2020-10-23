@@ -56,6 +56,14 @@
 5. 可离线使用串口调试功能（仅支持英文及常用数字符号）
 ```
 
+### <font color="red">2、mini-violin - 一款ATtiny单片机制作的PCB小提琴</font>
+
+这是一个小提琴设计的开源项目，电路原理图相当简单。ATtiny85控制着两个LED和一个压电蜂鸣器，此外还有一个按钮来切换歌曲，特别有意思的是，小提琴的琴弦被连接到微控制器的模拟输入端，这样就可以通过接触导电材料来演奏小提琴了。
+
+> 项目主页: https://github.com/Alexandra182/mini-violin
+
+![](http://henjay724.com/image/biweekly/mini-violin.jpg)
+
 ## 工具类
 
 ### <font color="red">1、</font>
