@@ -38,8 +38,23 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、OfflineSWD - 一款超迷你的SWD离线烧写器</font>
 
+这是一个开源的SWD离线烧写器，非常Mini，带OLED屏，使用STM32F103RET6作为主控，基于ST官方CMSIS-DAP项目进行修改，实现可脱机、可去读保护烧写。
+
+> 项目主页: https://github.com/MBronsom/OfflineSWD
+
+![](http://henjay724.com/image/biweekly/OfflineSWD.jpg)
+
+该SWD离线烧写器功能特性如下：
+
+```text
+1. 使用8M FLASH，可使用虚拟U盘向FLASH放置HEX文件或BIN文件进行烧写（BIN较快）
+2. 可去除目标板的读保护，直接烧写（烧写后可能需要手动重启）
+3. 支持手动切换模式，使离线烧写器支持DAP仿真
+4. 安装驱动后可支持虚拟USB转TTL
+5. 可离线使用串口调试功能（仅支持英文及常用数字符号）
+```
 
 ## 工具类
 
