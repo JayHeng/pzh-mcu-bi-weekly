@@ -12,7 +12,7 @@
 
 今天是霜降。
 
-本期共收录 1条资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 1条资讯、3个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,7 +38,22 @@
 
 ## 项目类
 
-### <font color="red">1、OfflineSWD - 一款超迷你的SWD离线烧写器</font>
+### <font color="red">1、Cmockery - 谷歌出品的C单元测试的轻量级框架</font>
+
+CMockery 是 Google 发布的用于 C 单元测试的一个轻量级的框架。它很小巧，对其他开源包没有依赖，对被测试代码侵入性小。CMockery 的源代码行数不到 3K，阅读一下 will_return 和 mock 的源代码就一目了然了。
+
+> 项目主页: https://github.com/google/cmockery
+
+CMockery 主要特点：
+
+```text
+1. 免费且开源，Google 提供技术支持；
+2. 轻量级的框架，使测试更加快速简单；
+3. 避免使用复杂的编译器特性，对老版本的编译器来讲，兼容性好;
+4. 并不强制要求待测代码必须依赖 C99 标准，这一特性对许多嵌入式系统的开发很有用
+```
+
+### <font color="red">2、OfflineSWD - 一款超迷你的SWD离线烧写器</font>
 
 这是一个开源的SWD离线烧写器，非常Mini，带OLED屏，使用STM32F103RET6作为主控，基于ST官方CMSIS-DAP项目进行修改，实现可脱机、可去读保护烧写。
 
@@ -56,17 +71,13 @@
 5. 可离线使用串口调试功能（仅支持英文及常用数字符号）
 ```
 
-### <font color="red">2、mini-violin - 一款ATtiny单片机制作的PCB小提琴</font>
+### <font color="red">3、mini-violin - 一款ATtiny单片机制作的PCB小提琴</font>
 
 这是一个小提琴设计的开源项目，电路原理图相当简单。ATtiny85控制着两个LED和一个压电蜂鸣器，此外还有一个按钮来切换歌曲，特别有意思的是，小提琴的琴弦被连接到微控制器的模拟输入端，这样就可以通过接触导电材料来演奏小提琴了。
 
 > 项目主页: https://github.com/Alexandra182/mini-violin
 
 ![](http://henjay724.com/image/biweekly/mini-violin.jpg)
-
-## 工具类
-
-### <font color="red">1、</font>
 
 ### 欢迎订阅
 
