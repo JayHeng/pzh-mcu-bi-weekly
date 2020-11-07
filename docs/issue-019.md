@@ -12,7 +12,7 @@
 
 今天是立冬。
 
-本期共收录 0条资讯、2个项目，希望对你有帮助！
+本期共收录 0条资讯、3个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,6 +36,18 @@ TencentOS tiny 是腾讯面向物联网领域开发的实时操作系统，具�
 > 项目主页: https://github.com/Tencent/TencentOS-tiny
 
 ![](http://henjay724.com/image/biweekly/TencentOS-tiny.PNG)
+
+### <font color="red">3、OneOS - 中国移动针对物联网领域推出的轻量级操作系统</font>
+
+OneOS是中国移动针对物联网领域推出的轻量级操作系统，具有可裁剪、跨平台、低功耗、高安全等特点，支持ARM Cortex-M/R/A、MIPS、RISC-V等主流CPU架构，兼容POSIX、CMSIS等标准接口，支持Micropython语言开发，提供图形化开发工具，能够有效提高开发效率并降低开发成本，帮助客户开发稳定可靠、安全易用的物联网应用。
+
+> 项目主页: https://os.iot.10086.cn/
+
+另外，针对物联网应用的硬件碎片化、网络多样化、接入复杂化以及安全等问题，OneOS 具有如下特性：
+
+![](http://henjay724.com/image/biweekly/OneOS.PNG)
+
+作为一款新晋 RTOS，OneOS 有着精准的行业定位，未来将被广泛运用到智能穿戴、智能门锁、智慧充电、环境监测等智慧系统。
 
 ### 欢迎订阅
 
