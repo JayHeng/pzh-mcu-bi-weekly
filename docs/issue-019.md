@@ -12,7 +12,7 @@
 
 今天是立冬。
 
-本期共收录 0条资讯、3个项目，希望对你有帮助！
+本期共收录 0条资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -48,6 +48,18 @@ OneOS是中国移动针对物联网领域推出的轻量级操作系统，具有
 ![](http://henjay724.com/image/biweekly/OneOS.PNG)
 
 作为一款新晋 RTOS，OneOS 有着精准的行业定位，未来将被广泛运用到智能穿戴、智能门锁、智慧充电、环境监测等智慧系统。
+
+### <font color="red">4、Component Tester - 超迷你的元器件测试仪</font>
+
+Component Tester是印度小伙Akshay Baweja设计的元器件测试仪，前后做了三款不同硬件版本。其实现原理其实很简单，通过ADC将3个管脚上的电压信号量化后再软件处理，核心是支持的那些元器件参数计算方法。
+
+> * 项目主页（钥匙扣型）: https://hackaday.io/project/173267-component-tester-in-a-keychain
+> * 项目主页（UNO标准型）: https://hackaday.io/project/175338-component-tester-uno-shield
+> * 项目主页（USB接口型）: https://hackaday.io/project/173922-usb-component-tester
+
+这个元器件测试仪支持的器件很多，比如电阻、电容、电感、二极管、晶体管、场效应管、晶闸管、双向可控硅等。下图便是其实测电阻的效果图。
+
+![](http://henjay724.com/image/biweekly/ComponentTester.PNG)
 
 ### 欢迎订阅
 
