@@ -13,15 +13,21 @@
 今天是小雪。
 
 
-本期共收录 0条资讯、4个项目、1个工具，希望对你有帮助！
+本期共收录 1条资讯、4个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、乐鑫发布全新低成本IoT芯片 ESP32-C3</font>
 
+千呼万唤始出来，乐鑫正式推出全新低成本 IoT 芯片 ESP32-C3，成本对标 ESP8266，可 pin to pin 兼容 ESP8266 模组；继承 ESP32 成熟软件架构，搭载 RISC-V 处理器。
 
+![](http://henjay724.com/image/bi-weekly/ESP32-C3_v2.PNG)
 
-
+```text
+1. 支持 Wi-Fi + Bluetooth LE 5.0
+2. 400 KB SRAM + 384 KB ROM
+3. 睡眠状态电流低至 5 μA
+```
 
 ## 项目类
 
