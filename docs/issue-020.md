@@ -13,7 +13,7 @@
 今天是小雪。
 
 
-本期共收录 0条资讯、3个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、4个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -74,6 +74,16 @@ LittlevGL 特点如下：
 5. 多语言支持  UTF-8格式文字编码
 6. 完全自定义  图形元素
 ```
+
+### <font color="red">4、PlatformIO - 开源的物联网开发生态系统</font>
+
+PlatformIO 是开源的物联网开发生态系统。提供跨平台的代码构建器、集成开发环境（IDE），兼容 Arduino 和 MBED。PlatformIO 使用纯 Python 开发，无需依赖其他第三方库。可以让你在 PC 上创建信用卡般大小的计算机，例如Raspberry Pi, BeagleBone, CubieBoard。
+
+> 项目官网： https://platformio.org/
+
+![](http://henjay724.com/image/bi-weekly/PlatformIO.PNG)
+
+PlatformIO 支持超过 200 个的开发板和超过 15 种的开发平台以及 10 种开发框架，所以绝大多数流行的开发板都是包含其中的。PlatformIO 中收集整理上百种开发库，方便开发者轻松使用。PlatformIO 最初以命令行的形态进行开发，现如今它可以完美配合其它的 IDE 进行使用，比如 Eclipse、Visual Studio、Atom等。
 
 ## 工具类
 
