@@ -13,7 +13,7 @@
 今天是小雪。
 
 
-本期共收录 0条资讯、1个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、2个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,6 +36,23 @@
 FossaSat-1分为3个主要的40x40mm板：电力系统板，传感器分线板，板载计算机和通信。
 
 FossaSat-1使用廉价的LoRa模块为全球提供免费和开源的物联网通信，学生将能够以低于20欧元的价格与卫星进行通信。
+
+### <font color="red">2、DAPLink - ARM官方开源的一款调试烧录器</font>
+
+DAPLink是ARM官方开源的一款调试烧录器，一开始叫CMSIS DAP，后来改名成了DAPLink。DAPLink可以调试Arm Cortex全系列MCU，不挑厂家，相比ST-LINK和J-Link具有原生优势。 官方的维护一直在更新，未来也会扩充更多功能。
+
+> 项目地址： https://github.com/ARMmbed/DAPLink
+
+![](http://henjay724.com/image/bi-weekly/CMSIS-DAP.PNG)
+
+DAPLink 主要包含如下四大功能：
+
+```text
+1. Arm-cortex芯片的调试和烧录（HID）
+2. 自带虚拟串口，省去usb转串口（CDC）
+3. 拖拽式编程，模拟出u盘，hex或者bin拷贝进行完成烧录（MSC）
+4. WEBUSB功能（固件要升级到2050）
+```
 
 ## 工具类
 
