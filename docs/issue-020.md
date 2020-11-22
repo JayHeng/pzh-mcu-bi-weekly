@@ -13,7 +13,7 @@
 今天是小雪。
 
 
-本期共收录 0条资讯、0个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、1个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -25,9 +25,17 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、FossaSat-1 - 有史以来发射到太空的最小卫星</font>
 
+马德里的一个非盈利组织Fossa Systems开发的开源卫星项目，于2019年10月推出，是西班牙第一颗微型卫星。FossaSat-1尺寸仅为5x5x5cm，重量仅为250g，是有史以来发射到太空的最小卫星之一。
 
+> 项目地址： https://github.com/FOSSASystems/FOSSASAT-1
+
+![](http://henjay724.com/image/bi-weekly/FossaSat-1.JPG)
+
+FossaSat-1分为3个主要的40x40mm板：电力系统板，传感器分线板，板载计算机和通信。
+
+FossaSat-1使用廉价的LoRa模块为全球提供免费和开源的物联网通信，学生将能够以低于20欧元的价格与卫星进行通信。
 
 ## 工具类
 
