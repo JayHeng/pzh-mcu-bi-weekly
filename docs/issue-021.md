@@ -14,7 +14,7 @@
 
 今天的半月刊是史上第二次延期。
 
-本期共收录 2条资讯、0个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 2条资讯、0个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -49,7 +49,15 @@ CM32M101A具备丰富的片上资源。高达108MHz的内核，可提供较高�
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、 SerialChart - 能将串口数据实时绘制成波形的软件</font>
+
+SerialChart是由Sergiu Baluta开发的开源软件，它能用于实时绘制通过串行（RS-232）端口接收到的数据。它可以通过插件和WebView javascript集成来支持其他类型的端口。这个软件采用模块化的设计允许受激励的编码器添加新类型的端口、解码器和显示过滤器。
+
+SerialChart基本数据处理流程为：端口（来自串行/USB端口的原始数据）->解码器（处理数据）->值（显示在屏幕/图表上）。
+
+> 下载地址：https://github.com/starlino/serialchart
+
+![](http://henjay724.com/image/biweekly/SerialChart.png)
 
 ## i.MXRT出品
 
