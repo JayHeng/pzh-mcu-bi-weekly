@@ -14,13 +14,23 @@
 
 今天的半月刊是史上第二次延期。
 
-本期共收录 0条资讯、0个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 1条资讯、0个项目、0个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、芯来科技RISC-V处理器家族迎来新成员900系列IP</font>
 
+近日芯来科技发布RISC-V处理器家族新成员 - 900系列IP，该系列处理器具备丰富的配置并支持多种操作系统以满足工业级控制、AI等高性能计算、或交互式图型多媒体应用等多种领域的需求，非常适合对标ARM Cortex-A35，A53，M7，R5等内核。
 
+芯来科技900系列的所有产品均为9级流水线、双发射架构，可通过模块化进行特性组合，方便用户按领域需求定制，其中：
+
+```text
+•N900为32位高性能嵌入式和实时控制处理器；
+•NX900为64位高性能嵌入式和实时控制处理器；
+•UX900为配置内存管理单元（MMU）的64位双模处理器，既可作为支持Linux系统加载的应用处理器，又可作为实时控制处理器。
+```
+
+![](http://henjay724.com/image/bi-weekly/nucleisys_900series.PNG)
 
 ## 项目类
 
@@ -43,7 +53,7 @@ fireDAP是一款基于CMSIS DAP深度优化的仿真器，集在线硬件仿真�
 > 产品主页： https://www.firebbs.cn/forum.php?mod=viewthread&tid=30894&highlight=fireDAP
 > 官网定价： 138 元
 
-![](http://henjay724.com/image/cnblogs/fireDAP_view.PNG))
+![](http://henjay724.com/image/cnblogs/fireDAP_view.PNG)
 
 ### 欢迎订阅
 
