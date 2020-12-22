@@ -105,8 +105,7 @@
 > * 【第 020 期】35、DAPLink - ARM官方开源的一款调试烧录器
 > * 【第 020 期】36、LittlevGL - 开源嵌入式图形用户界面库
 > * 【第 020 期】37、PlatformIO - 开源的物联网开发生态系统
-> * 【第 021 期】38、FlexibleButton - 一个小巧灵活的C语言按键处理库
-> * 【第 021 期】39、letter shell - 一款开源嵌入式shell工具
+> * 【第 021 期】38、letter shell - 一款开源嵌入式shell工具
 
 **项目(硬)**
 
