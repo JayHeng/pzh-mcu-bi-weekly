@@ -12,7 +12,7 @@
 
 昨天是冬至。又称日短至、冬节、亚岁等，兼具自然与人文两大内涵，也是中国民间的传统节日。
 
-本期共收录 0条资讯、2个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 0条资讯、2个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -77,7 +77,23 @@ void HAL_SYSTICK_Callback(void)
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、DSLogic - 一款跨平台的逻辑信号分析仪</font>
+
+DSLogic是梦源实验室出品的一款基于USB的逻辑分析仪，支持最大采样率高达1GHz，stream模式下最大采样深度16G。DSLogic有配套专用上位机，支持各种模式，例如逻辑分析仪，示波器，数据采集等，随着功能的不断集成和完善，DSLogic被打造成易上手的信号分析综合平台。
+
+> * 产品主页: https://dreamsourcelab.cn/product/dslogic-series/
+> * 项目主页: https://github.com/DreamSourceLab/DSLogic-hdl
+
+![](http://henjay724.com/image/biweekly/DreamSourceLab-DSLogic2.PNG)
+
+![](http://henjay724.com/image/biweekly/DreamSourceLab-DSLogic.png)
+
+DSLogic的两大优势：
+
+```text
+1.支持Windows / MacOS / Linux。 由于具有开源功能，还可以将DSView移植到个人平台上。
+2.易于使用是DreamSourceLab的设计初衷，能够有效、快速地帮助您的项目落地成功。
+```
 
 
 ## i.MXRT出品
