@@ -12,7 +12,7 @@
 
 昨天是冬至。又称日短至、冬节、亚岁等，兼具自然与人文两大内涵，也是中国民间的传统节日。
 
-本期共收录 0条资讯、1个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 0条资讯、2个项目、0个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -45,6 +45,35 @@ LwRB 的代码设计很完善了，是个开源项目，更难能可贵的是它
 
 ![](http://henjay724.com/image/biweekly/LwRB.PNG)
 
+### <font color="red">2、MultiTimer - 超精简的纯软件定时器驱动</font>
+
+MultiTimer 是网友  0x1abin  开发的一个纯软件定时器扩展模块，可无限扩展你所需的定时器任务，取代传统的标志位判断方式， 更优雅更便捷地管理程序的时间触发时序。
+
+> 项目主页：https://github.com/0x1abin/MultiTimer
+
+MultiTimer 使用用法特别简单：
+
+```C
+#include "multi_timer.h"
+struct Timer timer;
+void timer_callback()
+{
+    printf("timer timeout!\r\n");
+}
+int main()
+{
+    timer_init(&timer, timer_callback, 1000, 1000); //1s loop
+    timer_start(&timer);
+    while(1)
+    {
+        timer_loop();
+    }
+}
+void HAL_SYSTICK_Callback(void)
+{
+    timer_ticks(); //1ms ticks
+}
+```
 
 ## 工具类
 
