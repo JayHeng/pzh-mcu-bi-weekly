@@ -12,14 +12,17 @@
 
 昨天是小寒。
 
-本期共收录 0条资讯、3个项目、1个工具，希望对你有帮助！
+本期共收录 1条资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、乐鑫科技发布 ESP32-S3 芯片，精准聚焦 AIoT 市场</font>
 
+为响应市场对 AI 算力的技术需求，乐鑫科技近日推出了 ESP32-S3 芯片，这是一款集成 2.4 GHz Wi-Fi 和 Bluetooth LE 5.0 的 MCU 芯片，支持远距离模式 (Long Range)。ESP32-S3 搭载 Xtensa® 32 位 LX7 双核处理器，主频高达 240 MHz，内置 512 KB SRAM (TCM)，具有 44 个可编程 GPIO 管脚和丰富的通信接口。与 ESP32 相比，ESP32-S3 支持更大容量的高速 Octal SPI flash 和片外 RAM，支持用户配置数据缓存与指令缓存。
 
-![](http://henjay724.com/image/biweekly/.png)
+> 资讯主页: https://www.espressif.com/zh-hans/news/ESP32_S3
+
+![](http://henjay724.com/image/biweekly/ESP32-S3.png)
 
 ## 项目类
 
