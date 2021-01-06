@@ -12,7 +12,7 @@
 
 昨天是小寒。
 
-本期共收录 0条资讯、0个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、1个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -23,9 +23,19 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、OLED-Boy - 基于 ATmega328P 的迷你 OLED 游戏机</font>
 
+这是网友 aziddy 的一个开源作品，基于经典的 Adafruit Feather 328P 开发板（MCU主控是微芯公司的ATmega328P） 和 128x64 OLED 屏的mini电子游戏机。
 
+> 项目主页：https://github.com/aziddy/Mini-OLED-Retro-Handheld
+
+项目硬件连接相当之简单，将 Adafruit Feather 328P 开发板连上锂电池和 OLED 屏以及几个轻触开关即可（示意图用得是Fritzing，是个能够支持面包板视图的电路设计软件）。
+
+![](http://henjay724.com/image/biweekly/OLED-Boy_circuit.PNG)
+
+作者在这个简易硬件板上一共实现了 4 个示例小游戏，下面是其中一个小游戏的效果：
+
+![](http://henjay724.com/image/biweekly/OLED-Boy.gif)
 
 ## 工具类
 
