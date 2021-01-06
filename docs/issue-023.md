@@ -12,7 +12,7 @@
 
 昨天是小寒。
 
-本期共收录 0条资讯、2个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -23,7 +23,17 @@
 
 ## 项目类
 
-### <font color="red">1、OLED-Boy - 基于 ATmega328P 的迷你 OLED 游戏机</font>
+### <font color="red">1、GuiLite - 适用全平台的超轻量级GUI库</font>
+
+GuiLite是一个具有5000行C++代码的准系统GUI框架，它可以在所有平台上运行（例如，iOS，Android，Linux，Windows，macOS，Docker和带或不带OS的MCU）。
+
+> 项目主页: https://github.com/idea4good/GuiLite 
+
+GuiLite是可嵌入的，它在其他UI框架内运行（例如，Qt，MFC，Winform，Cocoa）。您可以同时使用GuiLite功能和主机UI功能。GuiLite独立于OS和图形库呈现UI。GuiLite可以使用多种语言（例如，Swift，Java，C＃，Golang）。
+
+![](http://henjay724.com/image/biweekly/GuiLite.gif)
+
+### <font color="red">2、OLED-Boy - 基于 ATmega328P 的迷你 OLED 游戏机</font>
 
 这是网友 aziddy 的一个开源作品，基于经典的 Adafruit Feather 328P 开发板（MCU主控是微芯公司的ATmega328P） 和 128x64 OLED 屏的mini电子游戏机。
 
@@ -37,7 +47,7 @@
 
 ![](http://henjay724.com/image/biweekly/OLED-Boy.gif)
 
-### <font color="red">2、PIKOCUBE - 可 WiFi 控制的由 54 颗 LED 组成的可编程骰子</font>
+### <font color="red">3、PIKOCUBE - 可 WiFi 控制的由 54 颗 LED 组成的可编程骰子</font>
 
 PIKOCUBE是一个非常有趣的项目，它是个可编程骰子，带有 54 颗 LED、陀螺仪，支持 WiFi 控制。项目所有资料都是公开的，包含PCB图纸，结构设计，Arduino 代码，上位机端App。
 
