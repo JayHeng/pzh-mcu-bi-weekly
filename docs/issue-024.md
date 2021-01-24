@@ -12,7 +12,7 @@
 
 这周三是大寒。二十四节气中的最后一个节气，大寒是天气寒冷到极致的意思。
 
-本期共收录 1条资讯、2个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 1条资讯、2个项目、1个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -55,6 +55,16 @@ microLite作为一个嵌入式裸机系统软件平台，有如下特点：
 ```
 
 ## 工具类
+
+### <font color="red">1、Matlab Simulink - 可用于嵌入式系统的可视化仿真及代码生成工具</font>
+
+Matlab是由MathWorks公司出品的一款数学分析软件，主要用于算法开发，数据分析等领域，而Matlab软件中的一个非常重要组件Simulink，这个组件对于嵌入式开发也能提供很大的帮助。
+
+> 工具主页：https://www.mathworks.com/products/simulink.html?s_tid=hp_products_simulink
+
+Simulink软件可以提供基于事件建模、物理建模、实时仿真与测试、验证与测试以及代码生成的各类工具箱，能满足嵌入式软硬件设计中各阶段的需求。
+
+![](http://henjay724.com/image/biweekly/SImulink_Embedded_coder.png)
 
 ## i.MXRT出品
 
