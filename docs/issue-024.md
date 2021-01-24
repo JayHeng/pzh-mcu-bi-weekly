@@ -12,7 +12,7 @@
 
 这周三是大寒。二十四节气中的最后一个节气，大寒是天气寒冷到极致的意思。
 
-本期共收录 1条资讯、0个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 1条资讯、1个项目、0个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -31,6 +31,11 @@
 
 ## 项目类
 
+### <font color="red">1、perf_counter - 一个专为Cortex-M SysTick设计的性能计数器</font>
+
+perf_counter是ARM公司大神王卓然（江湖绰号傻孩子）维护的项目，是一个Cortex-M SysTick专用的性能计数器。它与用户原有的SysTick功能共享SysTick而不受干扰。这个库将带来新的功能，如time.h中定义的性能计数器、delay_us()和clock()函数。
+
+> 项目主页： https://github.com/GorgonMeducer/perf_counter
 
 ## 工具类
 
