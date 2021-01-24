@@ -12,7 +12,7 @@
 
 这周三是大寒。二十四节气中的最后一个节气，大寒是天气寒冷到极致的意思。
 
-本期共收录 1条资讯、1个项目、0个工具、1个RT产品，希望对你有帮助！
+本期共收录 1条资讯、2个项目、0个工具、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -31,11 +31,28 @@
 
 ## 项目类
 
-### <font color="red">1、perf_counter - 一个专为Cortex-M SysTick设计的性能计数器</font>
+### <font color="red">1、perf_counter - 专为Cortex-M SysTick设计的性能计数器</font>
 
 perf_counter是ARM公司大神王卓然（江湖绰号傻孩子）维护的项目，是一个Cortex-M SysTick专用的性能计数器。它与用户原有的SysTick功能共享SysTick而不受干扰。这个库将带来新的功能，如time.h中定义的性能计数器、delay_us()和clock()函数。
 
 > 项目主页： https://github.com/GorgonMeducer/perf_counter
+
+### <font color="red">2、microLite - 极简可靠的嵌入式裸机系统软件平台</font>
+
+microLite，是一个嵌入式裸机系统软件平台，基本属性是多个任务顺序执行，本质是前后台系统。经过多年沉淀，microLite功能丰富，性能稳定，可有效降低开发门槛、缩短开发周期。
+
+> 项目介绍： https://blog.csdn.net/xlsbz1/article/details/111655405
+
+![](http://henjay724.com/image/biweekly/microLite.PNG)
+
+microLite作为一个嵌入式裸机系统软件平台，有如下特点：
+
+```text
+1. microLite采用C语言编写，与RTOS相比较，其实现更加浅显易懂，模块化编程，方面快速剪裁。
+2. 相较于RTOS，microLite体积小、成本低、启动快速，除此之外microLite还具有占用堆栈资源小等特点。
+3. microLite集成了文件系统、网络协议栈、驱动框架等，具有丰富的中间件组件。
+4. microLite拥有高效、灵活的软件内核定时器API接口。
+```
 
 ## 工具类
 
