@@ -11,17 +11,17 @@
 
 ## 2021农历辛丑牛年
 
-[第 025 期(立春)](docs/issue-025.md)
+[第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
 
 ## 2020农历庚子鼠年
 
-[第 024 期(大寒)](docs/issue-024.md) | [第 023 期(小寒)](docs/issue-023.md) | [第 022 期(冬至)](docs/issue-022.md) | [第 021 期(大雪)](docs/issue-021.md) | [第 020 期(小雪)](docs/issue-020.md) | [第 019 期(立冬)](docs/issue-019.md)
+[第 024 期](docs/issue-024.md) | [第 023 期](docs/issue-023.md) | [第 022 期](docs/issue-022.md) | [第 021 期](docs/issue-021.md) | [第 020 期](docs/issue-020.md) | [第 019 期](docs/issue-019.md)
 
-[第 018 期(霜降)](docs/issue-018.md) | [第 017 期(寒露)](docs/issue-017.md) | [第 016 期(秋分)](docs/issue-016.md) | [第 015 期(白露)](docs/issue-015.md) | [第 014 期(处暑)](docs/issue-014.md) | [第 013 期(立秋)](docs/issue-013.md)
+[第 018 期](docs/issue-018.md) | [第 017 期](docs/issue-017.md) | [第 016 期](docs/issue-016.md) | [第 015 期](docs/issue-015.md) | [第 014 期](docs/issue-014.md) | [第 013 期](docs/issue-013.md)
 
-[第 012 期(大暑)](docs/issue-012.md) | [第 011 期(小暑)](docs/issue-011.md) | [第 010 期(夏至)](docs/issue-010.md) | [第 009 期(芒种)](docs/issue-009.md) | [第 008 期(小满)](docs/issue-008.md) | [第 007 期(立夏)](docs/issue-007.md)
+[第 012 期](docs/issue-012.md) | [第 011 期](docs/issue-011.md) | [第 010 期](docs/issue-010.md) | [第 009 期](docs/issue-009.md) | [第 008 期](docs/issue-008.md) | [第 007 期](docs/issue-007.md)
 
-[第 006 期(谷雨)](docs/issue-006.md) | [第 005 期(清明)](docs/issue-005.md) | [第 004 期(春分)](docs/issue-004.md) | [第 003 期(惊蛰)](docs/issue-003.md) | [第 002 期(雨水)](docs/issue-002.md) | [第 001 期(立春)](docs/issue-001.md)
+[第 006 期](docs/issue-006.md) | [第 005 期](docs/issue-005.md) | [第 004 期](docs/issue-004.md) | [第 003 期](docs/issue-003.md) | [第 002 期](docs/issue-002.md) | [第 001 期](docs/issue-001.md)
 
 
 
@@ -74,6 +74,8 @@
 > * 【第 024 期】43、树莓派推出首款微控制器级产品Pi Pico
 > * 【第 025 期】44、瑞萨电子推出Arm Cortex MCU产品家族全新RA4M2 MCU产品群，扩展在低功耗工业与物联网应用中的覆盖范围
 > * 【第 025 期】45、瑞萨正式收购Dialog，为车用芯片业务市场积极布局
+> * 【第 026 期】46、KIOXIA铠侠和西部数据联合宣布推出第六代3D闪存技术
+> * 【第 026 期】47、恩智浦等五家行业领导厂商联合打造汽车数据生命周期平台Fusion Project
 
 **项目(软)**
 
@@ -150,6 +152,10 @@
 > * 【第 023 期】24、PIKOCUBE - 可 WiFi 控制的由 54 颗 LED 组成的可编程骰子
 > * 【第 024 期】25、Frequency Probe - 一款超迷你频率探头
 > * 【第 025 期】26、WATCH-X - 一款功能丰富的智能手表
+> * 【第 026 期】27、Watchy - 带有开源硬件和软件的电子墨水手表
+> * 【第 026 期】28、stm32_weather - 支持语音识别的智能桌面天气预报系统
+> * 【第 026 期】29、CASIO F-91W - 挂墙上的电子手表
+> * 【第 026 期】30、MicroByte - 一款DIY复古游戏机
 
 **工具(软)**
 
