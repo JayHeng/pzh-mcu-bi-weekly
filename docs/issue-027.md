@@ -91,7 +91,7 @@ Bluetooth Visual Speaker是由github网友redchenjs开发的一款基于ESP32的
 
 此类音箱项目在github上由很多，感兴趣的朋友可以根据相关的资料，自己DIY一个蓝牙音箱，会是一种不错的体验。
 
-![](http://henjay724.com/image/biweekly20210221/Visual_Speaker.png)
+![](http://henjay724.com/image/biweekly20210314/Visual_Speaker2.png)
 
 ### <font color="red">3、TeenyUSB - 一个简易的STM32的USB协议栈</font>
 
