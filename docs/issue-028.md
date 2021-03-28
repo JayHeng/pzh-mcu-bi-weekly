@@ -12,7 +12,7 @@
 
 
 
-本期共收录 1条资讯、3个项目，希望对你有帮助！
+本期共收录 1条资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,7 +36,17 @@
 
 ![](http://henjay724.com/image/biweekly20210404/LinglongGUI.PNG)
 
-### <font color="red">2、audio-spectrum-visualizer-analyzer - 动感音乐节拍频谱显示器</font>
+### <font color="red">2、voltage-current-calibrator - 开源的电压电流校准仪(五位半)</font>
+
+国外网友spo256al2开源在elektormagazine上的项目，一款难度不大可以自己DIY的五位半电压电流校准仪。输出电压±10V，单步调节20uV。电流0至40mA，单步调节100nA。  
+
+器件选型：基准电压MAX6350ESA，DAC是AD5791，仪表放大器AD8276，PZT1222和AD8677
+
+> 项目主页: https://www.elektormagazine.com/labs/voltage-current-calibrator-0-to-10v-and-0-to-40ma-0001
+
+![](http://henjay724.com/image/biweekly20210404/voltage-current-calibrator.PNG)
+
+### <font color="red">3、audio-spectrum-visualizer-analyzer - 动感音乐节拍频谱显示器</font>
 
 基于Arduino的32分频、动感音乐节拍频谱器支持多种方式的音频输入，配有四块点阵屏，能够实时显示音乐的频谱信息，随着音乐动感的节拍实时跳动显示。该设计制作简单，可玩性强，如果有对音频处理感兴趣的小伙伴可以动手玩一下。
 
@@ -56,7 +66,7 @@
 
 ATmega328P内置ADC，可以将输入音频信号转换为数字信号。 ADC的 采样时钟频率为 38.46khz ，通过将 ADC 预分频器配置为32分频来实现。采样频率为 38.64Khz意味着数字样本可以高达19.32Kz的输入频率，这就满足奈奎斯特采样定理。ArduinoFFT 库是将输入模拟信号转换为频谱的核心代码。这个库使用简单，支持的点数从16到128。本项目使用的LED 矩阵为32列×8行，通过MD_MAX72xx 库使显示控制部件非常容易。
 
-### <font color="red">3、garden monitor - 基于树莓派的灌溉系统</font>
+### <font color="red">4、garden monitor - 基于树莓派的灌溉系统</font>
 
 基于树莓派驱动的物联网滴灌系统利用物联网来监测和维护植物的正常生长，将传感器与植物相结合，实时监测植物状态，配合App软件，可以根据反馈的数据做出对应的操作来保证植物的健康生长。整个系统由树莓派采集数据信息，例如光照、温湿度和土壤中的水分含量等，随后将各种传感器的数据传送到云数据库中进行处理。使用智能手机应用程序在任何地点支持访问，用户在手机APP上将指令（例如水泵的状态）发送至滴灌系统并执行相关的命令。
 
