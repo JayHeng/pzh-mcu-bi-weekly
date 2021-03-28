@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
+[第 028 期](docs/issue-028.md) | [第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
 
 ## 2020农历庚子鼠年
 
@@ -78,6 +78,7 @@
 > * 【第 026 期】47、恩智浦等五家行业领导厂商联合打造汽车数据生命周期平台Fusion Project
 > * 【第 027 期】48、NXP i.MX系列连推新品，助力边缘计算
 > * 【第 027 期】49、格芯22FDX射频解决方案为下一代毫米波汽车雷达提供了基础
+> * 【第 028 期】50、Dialog推出低功耗蓝牙降噪耳机应用方案
 
 **项目(软)**
 
@@ -128,6 +129,7 @@
 > * 【第 027 期】45、TeenyUSB - 一个简易的STM32的USB协议栈
 > * 【第 027 期】46、raylib - 一个使你享受视频游戏编程乐趣的库
 > * 【第 027 期】47、Nuklear - 可快速移植使用的跨平台GUI库
+> * 【第 028 期】48、玲珑GUI - 面向单片机级别低价产品的开源GUI
 
 **项目(硬)**
 
@@ -144,8 +146,8 @@
 > * 【第 007 期】11、20MHz DDS AWG Generator - 最小的基于FPGA的DDS任意波形发生器
 > * 【第 008 期】12、pandora_zhongtian_car - 基于RT-Thread的潘多拉智能遥控小车
 > * 【第 008 期】13、RT1052-AutoQuad - 基于i.MXRT1052的开源AutoQuad飞控
-> * 【第 010 期】14、NES-Game - 基于 ESP32 的自制掌上游戏机
-> * 【第 010 期】15、RPI_web_remote_control - 基于树莓派和web界面的远程家电控制器
+> * 【第 011 期】14、NES-Game - 基于 ESP32 的自制掌上游戏机
+> * 【第 011 期】15、RPI_web_remote_control - 基于树莓派和web界面的远程家电控制器
 > * 【第 013 期】16、Air:bit - 用Micro:bit制作的无人机
 > * 【第 016 期】17、Mini-DSO - 一款低成本简易示波器
 > * 【第 018 期】18、OfflineSWD - 一款超迷你的SWD离线烧写器
@@ -163,6 +165,9 @@
 > * 【第 026 期】30、MicroByte - 一款DIY复古游戏机
 > * 【第 027 期】31、IO Watch - 一款Arduino UNO 制造的可编程手表
 > * 【第 027 期】32、Bluetooth Visual Speaker - 一个基于ESP32的蓝牙音箱
+> * 【第 028 期】33、voltage-current-calibrator - 开源的电压电流校准仪(五位半)
+> * 【第 028 期】34、audio-spectrum-visualizer-analyzer - 动感音乐节拍频谱显示器
+> * 【第 028 期】35、garden monitor - 基于树莓派的灌溉系统
 
 **工具(软)**
 
