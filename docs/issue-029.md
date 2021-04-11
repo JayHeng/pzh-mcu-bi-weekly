@@ -12,7 +12,7 @@
 
 清明是上周日的事，历史上的今天：1910年4月11日津浦铁路（京沪铁路前身）首次开通旅客列车。
 
-本期共收录 2条资讯、0个项目，希望对你有帮助！
+本期共收录 2条资讯、1个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,12 +38,40 @@ ESP32-C6 的 CPU、内存和安全性能与 ESP32-C3 相似，它搭载 RISC-V 3
 
 ![](http://henjay724.com/image/biweekly20210411/ESP32-C6.PNG)
 
-
-
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Arm-2D - 基于Cortex-M的2D图形加速库</font>
 
+ARM官方出品的2D图形加速库，在Cortex-M55系统频率 8MHz 下就可以实现30fps的渲染（6图层。320x240,rgb565）。
+
+> 项目主页: https://github.com/ARM-software/EndpointAI/tree/master/Kernels/Research/Arm-2D
+
+![](http://henjay724.com/image/biweekly20210411/Arm-2D_Alpha-blending.gif)
+
+Arm-2D 库特性包括但不限于:
+
+```text
+* Alpha-Blending
+    - With or without Colour-Masking
+* Image Copy / Texture Paving
+    - With or without Colour-Masking
+    - Four mirroring mode: None, X-mirroring, Y-mirroring and XY-mirroring
+* Colour format conversions
+    - RGB565 and RGB888
+    - Generic RGB16 and RGB32
+* Region/Window Clipping
+* Generic Partial Frame-buffer (PFB) Support
+    - Transparent for upper layer software/GUI services
+    - Easy to implement
+    - No limitation on target screen resolution
+    - No limitation on PFB size and shape (it could be line or cube with any size)
+* Unified and User Friendly Programmers' Mode
+    - APIs could be used in Synchronous manner ( Classic Blocking code ) and/or Asynchronous manner ( Event-Driven )
+    - Support both bare-metal and RTOS
+    - Ultra small memory footprint
+```
+
+![](http://henjay724.com/image/biweekly20210411/Arm-2D.PNG)
 
 ### 欢迎订阅
 
