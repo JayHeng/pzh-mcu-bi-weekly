@@ -59,6 +59,17 @@ Serial Studio是一个多平台，多用途的串行数据可视化的应用软�
 
 Serial Studio采用JSON “映射”文件，创客们可以根据自身的需要来定制自己的控制面板接口，使用插件来显示他们的数据并导出所有接收到的信息到CSV/Excel格式，并有时间戳来标记每一帧的信息。Serial Studio可以扩展支持几乎所有与数据采集/测量相关的项目。
 
+### <font color="red">2、VOFA+ - 插件驱动的高自由度上位机</font>
+
+VOFA+ 是一款通过直观简洁的协议将字节流翻译成多通道数据的软件，支持十六进制浮点数据，也支持CSV格式字符串流。VOFA+ 通过拖动的操作逻辑动态添加控件，并将数据绑定到控件上，以实现传感器数据的可视化。
+
+> * 软件主页: https://www.vofa.plus/
+> * 插件库： https://github.com/je00/Vodka
+
+VOFA+主体尚不开源，Vodka 是VOFA+上位机的插件库（这个库是开源的），当前包含3个协议、5个控件。
+
+![](http://henjay724.com/image/biweekly20210425/Vodka.PNG)
+
 ### 欢迎订阅
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
