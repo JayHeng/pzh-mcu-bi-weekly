@@ -12,7 +12,7 @@
 
 这周二是谷雨，历史上的今天：
 
-本期共收录 0条资讯、1个项目，希望对你有帮助！
+本期共收录 0条资讯、1个项目，1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -47,6 +47,17 @@ libopencm3 库当前支持的MCU包括但不限于:
 
 ![](http://henjay724.com/image/biweekly20210425/.PNG)
 
+## 工具类
+
+### <font color="red">1、Serial Studio - 跨平台、多功能串行数据可视化程序</font>
+
+Serial Studio是一个多平台，多用途的串行数据可视化的应用软件。Serial Studio的目标是使嵌入式开发人员和制造商可以轻松地可视化的呈现和分析其项目和设备生成的数据，而无需为每个项目编写专用的计算机软件。
+
+> 软件主页: https://github.com/Serial-Studio/Serial-Studio
+
+![](http://henjay724.com/image/biweekly20210425/Serial-Studio.gif)
+
+Serial Studio采用JSON “映射”文件，创客们可以根据自身的需要来定制自己的控制面板接口，使用插件来显示他们的数据并导出所有接收到的信息到CSV/Excel格式，并有时间戳来标记每一帧的信息。Serial Studio可以扩展支持几乎所有与数据采集/测量相关的项目。
 
 ### 欢迎订阅
 
