@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-这周二是谷雨，历史上的今天：
+这周二是谷雨，历史上的今天：1986年4月25日国务院批准确定全国儿童预防接种宣传日，这一天，既是广大儿童的节日， 也是广大免疫预防工作者的节日。
 
-本期共收录 1个项目，4个工具，希望对你有帮助！
+本期共收录 1个项目，5个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -59,7 +59,15 @@ SerialPlot是一个可视化的串口收发工具，QT源码开源。这个软�
 
 ![](http://henjay724.com/image/biweekly20210425/SerialPlot.gif)
 
-### <font color="red">3、VOFA+ - 插件驱动的高自由度上位机</font>
+### <font color="red">3、ScriptCommunicator - 支持多种接口的可脚本化跨平台数据终端</font>
+
+ScriptCommunicator 是一种可编写脚本的跨平台数据终端，支持串行端口（RS232、USB到串行）、UDP、TCP客户机/服务器、SPI、I2C和CAN。所有发送和接收的数据都可以显示在控制台中，并可以记录在html和文本日志中。
+
+> 软件主页: https://github.com/szieke/ScriptCommunicator_serial-terminal
+
+![](http://henjay724.com/image/biweekly20210425/ScriptCommunicator.png)
+
+### <font color="red">4、VOFA+ - 插件驱动的高自由度上位机</font>
 
 VOFA+ 是一款通过直观简洁的协议将字节流翻译成多通道数据的软件，支持十六进制浮点数据，也支持CSV格式字符串流。VOFA+ 通过拖动的操作逻辑动态添加控件，并将数据绑定到控件上，以实现传感器数据的可视化。
 
@@ -70,7 +78,7 @@ VOFA+主体尚不开源，Vodka 是VOFA+上位机的插件库（这个库是开�
 
 ![](http://henjay724.com/image/biweekly20210425/Vodka.PNG)
 
-### <font color="red">4、amaoCom - 集思广益而出的串口网络调试助手</font>
+### <font color="red">5、amaoCom - 集思广益而出的串口网络调试助手</font>
 
 amaoCom 即猫猫串口网络调试助手，集成com串口和TCP/UDP服务器，是开发者阿猫在项目开发过程中遇到各种问题解决方法，网友建议，与开发需求相结合而开发的一个实用简洁高效的串口网络调试助手
 
