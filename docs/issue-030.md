@@ -12,13 +12,7 @@
 
 这周二是谷雨，历史上的今天：
 
-本期共收录 0条资讯、1个项目，3个工具，希望对你有帮助！
-
-## 资讯类
-
-### <font color="red">1、</font>
-
-
+本期共收录 1个项目，4个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -44,8 +38,6 @@ libopencm3 库当前支持的MCU包括但不限于:
 ```
 
 该固件库完全是根据MCU厂商的数据表、编程手册和应用程序说明从头开始编写的。代码配合ARM GCC工具链一起使用，可以使用OpenOCD ARM JTAG软件将代码下载到MCU。
-
-![](http://henjay724.com/image/biweekly20210425/.PNG)
 
 ## 工具类
 
@@ -77,6 +69,16 @@ VOFA+ 是一款通过直观简洁的协议将字节流翻译成多通道数据�
 VOFA+主体尚不开源，Vodka 是VOFA+上位机的插件库（这个库是开源的），当前包含3个协议、5个控件。
 
 ![](http://henjay724.com/image/biweekly20210425/Vodka.PNG)
+
+### <font color="red">4、amaoCom - 集思广益而出的串口网络调试助手</font>
+
+amaoCom 即猫猫串口网络调试助手，集成com串口和TCP/UDP服务器，是开发者阿猫在项目开发过程中遇到各种问题解决方法，网友建议，与开发需求相结合而开发的一个实用简洁高效的串口网络调试助手
+
+> * 软件主页: http://www.amaocom.com/
+
+![](http://henjay724.com/image/biweekly20210425/amaoCom.png)
+
+amaoCom 支持多种编码格式显示ASCII,Unicode,GB2312/GBK,UTF-8,UTF-7,UTF-32,Hex,Dec,Oct,Bin等，配置自动保存，更换电脑配置不变，更常用的发送扩展和自动回复功能，可以无限增加(BUG级别)。
 
 ### 欢迎订阅
 
