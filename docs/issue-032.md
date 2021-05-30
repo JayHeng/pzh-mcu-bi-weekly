@@ -16,7 +16,7 @@
 
 ![](http://henjay724.com/image/biweekly20210530/mcu_geek_group2.PNG)
 
-本期共收录 0条资讯、2个项目，0个工具，希望对你有帮助！
+本期共收录 0条资讯、3个项目，0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -24,7 +24,17 @@
 
 ## 项目类
 
-### <font color="red">1、TraNOR - 2495个晶体管DIY的8位/7MHz的CPU</font>
+### <font color="red">1、Gear-Lib - 适用于IoT/嵌入式/网络服务开发的C基础库</font>
+
+Gear-Lib是一个适用于IOT/嵌入式/网络服务开发的C基础库。软件全部用POSIX C实现，目标是为了跨平台兼容Linux, Windows, Android, iOS。  
+
+> 项目主页：https://github.com/gozfree/gear-lib
+
+目前Gear-Lib中实现了涵盖数据结构、网络库、异步、I/O、多媒体、系统抽象层等方向共34个库。  
+
+![](http://henjay724.com/image/biweekly20210530/Gear-Lib.PNG)
+
+### <font color="red">2、TraNOR - 2495个晶体管DIY的8位/7MHz的CPU</font>
 
 TraNOR是国外一个叫Dennis Kuschel的哥们做的主频7MHz的8位CPU，还有操作系统并支持I2C和SPI总线，所有设计文件全部开源。
 
@@ -36,7 +46,7 @@ TraNor为100%的分立计算机设计，除了使用现成的ROM、RAM和LCD模�
 
 ![](http://henjay724.com/image/biweekly20210530/TraNOR.PNG)
 
-### <font color="red">2、Polyphonic Touch PCB Piano - 基于Atmega328P单片机制作的迷你电子琴</font>
+### <font color="red">3、Polyphonic Touch PCB Piano - 基于Atmega328P单片机制作的迷你电子琴</font>
 
 来自Hackaday上的一个项目，作者分享了所有的设计文件 - PCB的原理图、布局布线图、Gerber文件（可以直接打板）、直接下载使用的Hex文件以及Arduino的源代码。  
 
