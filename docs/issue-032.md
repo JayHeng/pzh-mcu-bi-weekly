@@ -16,11 +16,17 @@
 
 ![](http://henjay724.com/image/biweekly20210530/mcu_geek_group2.PNG)
 
-本期共收录 0条资讯、4个项目，0个工具，希望对你有帮助！
+本期共收录 1条资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、恩智浦(NXP)全球首个AI应用创新中心于天津正式启动</font>
+
+恩智浦半导体（NXP）近日于天津启动人工智能应用创新中心。创新中心共分两期，一期为人工智能应用示范基地，将集中展示超过100个恩智浦及合作伙伴的前沿技术和终端应用，覆盖智慧城市、智能家居、智能出行、智能工业等多领域。二期项目为人工智能创新实践基地，将通过技术培训和领先的研发平台赋能合作伙伴开展本地化创新，成为与当地生态合作伙伴协作的枢纽，激发创新。
+
+> 咨询主页： https://www.nxp.com.cn/company/about-nxp/worldwide-locations/greater-china/aiot-applications-innovation-center:AIOT-LAB?cid=ps_PRG538900_TAC538909_BAIDU_AIOT_LAB&xid=146
+
+![](http://henjay724.com/image/biweekly20210530/NXP-AIoT_Center.PNG)
 
 ## 项目类
 
@@ -65,10 +71,6 @@ TraNor为100%的分立计算机设计，除了使用现成的ROM、RAM和LCD模�
 核心器件采用了Arduino Uno上的经典8位单片机Atmega328P，输入按键采用了触摸按键的方式，没有物理按键，节省了成本，输出声音采用蜂鸣器，并用4个不同的频率合成以达到较好的声音效果。
 
 ![](http://henjay724.com/image/biweekly20210530/Polyphonic-Touch-PCB-Piano.PNG)
-
-## 工具类
-
-
 
 ### 欢迎订阅
 
