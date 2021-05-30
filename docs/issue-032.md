@@ -16,7 +16,7 @@
 
 ![](http://henjay724.com/image/biweekly20210530/mcu_geek_group2.PNG)
 
-本期共收录 0条资讯、1个项目，0个工具，希望对你有帮助！
+本期共收录 0条资讯、2个项目，0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,6 +36,15 @@ TraNor为100%的分立计算机设计，除了使用现成的ROM、RAM和LCD模�
 
 ![](http://henjay724.com/image/biweekly20210530/TraNOR.PNG)
 
+### <font color="red">2、Polyphonic Touch PCB Piano - 基于Atmega328P单片机制作的迷你电子琴</font>
+
+来自Hackaday上的一个项目，作者分享了所有的设计文件 - PCB的原理图、布局布线图、Gerber文件（可以直接打板）、直接下载使用的Hex文件以及Arduino的源代码。  
+
+> 项目主页：https://hackaday.io/project/178953-polyphonic-touch-pcb-piano
+
+核心器件采用了Arduino Uno上的经典8位单片机Atmega328P，输入按键采用了触摸按键的方式，没有物理按键，节省了成本，输出声音采用蜂鸣器，并用4个不同的频率合成以达到较好的声音效果。
+
+![](http://henjay724.com/image/biweekly20210530/Polyphonic-Touch-PCB-Piano.PNG)
 
 ## 工具类
 
