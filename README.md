@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 031 期](docs/issue-031.md) 
+[第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md) 
 
 [第 030 期](docs/issue-030.md) | [第 029 期](docs/issue-029.md) | [第 028 期](docs/issue-028.md) | [第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
 
@@ -83,6 +83,7 @@
 > * 【第 028 期】50、Dialog推出低功耗蓝牙降噪耳机应用方案
 > * 【第 029 期】51、ARM推出了全新的Armv9架构
 > * 【第 029 期】52、乐鑫发布新款RISC-V SoC ESP32-C6
+> * 【第 032 期】53、恩智浦(NXP)全球首个AI应用创新中心于天津正式启动
 
 **项目(软)**
 
@@ -142,6 +143,8 @@
 > * 【第 031 期】54、CuTest - 最简洁的C语言单元测试框架
 > * 【第 031 期】55、LuatOS - 支持lua语言开发的物联网RTOS
 > * 【第 031 期】56、EFSM - 一个基于事件驱动的有限状态机
+> * 【第 032 期】57、Gear-Lib - 适用于IoT/嵌入式/网络服务开发的C基础库
+> * 【第 032 期】58、Quantum Platform - 一种轻量级的实时嵌入式框架
 
 **项目(硬)**
 
@@ -181,6 +184,8 @@
 > * 【第 028 期】34、audio-spectrum-visualizer-analyzer - 动感音乐节拍频谱显示器
 > * 【第 028 期】35、garden monitor - 基于树莓派的灌溉系统
 > * 【第 031 期】36、WowCube - 具有24个屏幕的魔方游戏机
+> * 【第 032 期】37、TraNOR - 2495个晶体管DIY的8位/7MHz的CPU
+> * 【第 032 期】38、Polyphonic Touch PCB Piano - 基于Atmega328P单片机制作的迷你电子琴
 
 **工具(软)**
 
