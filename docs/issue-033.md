@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 2条资讯、4个项目，希望对你有帮助！
+本期共收录 2条资讯、5个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -40,7 +40,13 @@ Keil Studio 是 Keil 去年就开始预热的下一代开发工具。近日 Keil
 
 ## 项目类
 
-### <font color="red">1、microseconds - MCU通用微秒(us)计时函数框架</font>
+### <font color="red">1、LibU - 支持多平台的 C 语言程序库</font>
+
+LibU 是一个支持多平台的 C 语言程序库，包含很多独立的模块，例如：内存分配、网络和URI解析、字符串处理、调试和日志记录，LibU 是一个很小的库，差不多只有 70K 左右。这是一个模块化的，支持多平台，包括嵌入式平台的程序库。
+
+> 项目主页：https://github.com/koanlogic/libu
+
+### <font color="red">2、microseconds - MCU通用微秒(us)计时函数框架</font>
 
 microseconds 是一种非常简单实用的通用计时函数框架，这个框架的目的是统一计时函数接口，并且在实现上将通用部分和硬件相关部分剥离开，这样嵌入式项目在使用这个框架时可以无缝快捷地切换底层定时器。
 
@@ -65,7 +71,7 @@ void microseconds_set_delay(uint32_t us);
 bool microseconds_is_timeout(void);
 ```
 
-### <font color="red">2、RunTiny - 基于ATtiny10仅778字节实现的跑步小游戏</font>
+### <font color="red">3、RunTiny - 基于ATtiny10仅778字节实现的跑步小游戏</font>
 
 RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 OLED 的跑步者小游戏，代码和硬件设计文件全部开源。
 
@@ -75,7 +81,7 @@ RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 O
 
 ![](http://henjay724.com/image/biweekly20210613/RunTiny.gif)
 
-### <font color="red">3、ESP32-Smart-Watch  - 基于ESP32 WROOM的开源智能手表</font>
+### <font color="red">4、ESP32-Smart-Watch  - 基于ESP32 WROOM的开源智能手表</font>
 
 这个项目是一个完全开放源码的基于 ESP32 WROOM 模块实现的智能手表，完成度非常高。项目设计里串行通信和充电完全通过板载micro usb接口，无需任何外部接口板处理。
 
@@ -85,7 +91,7 @@ RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 O
 
 ![](http://henjay724.com/image/biweekly20210613/ESP32-Smart-Watch.PNG)
 
-### <font color="red">4、Macro Mechanical Keypad  - 6键超迷你键盘DIY</font>
+### <font color="red">5、Macro Mechanical Keypad  - 6键超迷你键盘DIY</font>
 
 一个国外小哥写的超详细教程，教我们制作一个由 Arduino 控制的 6 键小键盘。
 
