@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 2条资讯、0个项目，希望对你有帮助！
+本期共收录 2条资讯、1个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -30,19 +30,40 @@
 
 Keil Studio 是 Keil 去年就开始预热的下一代开发工具。近日 Keil 公布了其第一个组件 Keil Studio Cloud（beta版评测），这是一个基于浏览器的IDE，可用于IoT、ML和嵌入式开发。
 
-> * 资讯主页：https://www.keil.com/pr/article/1295.htm
+> 资讯主页：https://www.keil.com/pr/article/1295.htm
 
 ![](http://henjay724.com/image/biweekly20210613/Keil_Studio_Cloud.PNG)
 
+首批加入Keil Studio Cloud评测的三款 MCU 平台均出自痞子衡的东家恩智浦：
+
+![](http://henjay724.com/image/biweekly20210613/Keil_Studio_Cloud_HW.PNG)
+
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、microseconds - MCU通用微秒(us)计时函数框架</font>
 
+microseconds 是一种非常简单实用的通用计时函数框架，这个框架的目的是统一计时函数接口，并且在实现上将通用部分和硬件相关部分剥离开，这样嵌入式项目在使用这个框架时可以无缝快捷地切换底层定时器。
 
+> 项目主页：https://github.com/JayHeng/microseconds
 
-> 项目主页：
+microseconds 提供的实用 API 接口包括：
 
-
+```C
+//! @brief 获取定时器时钟源数值
+uint32_t microseconds_get_clock(void);
+//! @brief 获取系统累计计数值
+uint64_t microseconds_get_ticks(void);
+//! @brief 将计数值转换为时间值(微秒)
+uint32_t microseconds_convert_to_microseconds(uint64_t ticks);
+//! @brief 将时间值(微秒)转换为计数值
+uint64_t microseconds_convert_to_ticks(uint32_t microseconds);
+//! @brief 阻塞型延时(微秒级)
+void microseconds_delay(uint32_t us);
+//! @brief 设置超时时间（用于非阻塞型延时）
+void microseconds_set_delay(uint32_t us);
+//! @brief 判断是否超时（用于非阻塞型延时）
+bool microseconds_is_timeout(void);
+```
 
 
 ### 欢迎订阅
