@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 2条资讯、3个项目，希望对你有帮助！
+本期共收录 2条资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -84,6 +84,16 @@ RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 O
 固件分为 V1 和 V2 两版，V1偏低功耗设计，需要触摸唤醒使用；V2是全功能设计，仅轻度睡眠，可用加速度计唤醒。
 
 ![](http://henjay724.com/image/biweekly20210613/ESP32-Smart-Watch.PNG)
+
+### <font color="red">4、Macro Mechanical Keypad  - 6键超迷你键盘DIY</font>
+
+一个国外小哥写的超详细教程，教我们制作一个由 Arduino 控制的 6 键小键盘。
+
+通过这个教程，我们可以学习到：完成一个小键盘需要什么，如何组装，如何编程，以及如何改进或自己独立创新。
+
+> 教程主页：https://www.instructables.com/Custom-Macro-Mechanical-Keypad/
+
+![](http://henjay724.com/image/biweekly20210613/Macro-Mechanical-Keypad.PNG)
 
 ### 欢迎订阅
 
