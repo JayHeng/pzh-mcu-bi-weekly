@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 2条资讯、2个项目，希望对你有帮助！
+本期共收录 2条资讯、3个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -74,6 +74,16 @@ RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 O
 为了能够将代码塞到 1KB 的 Flash 存储器里面，作者做了优化，全部用汇编语言写成，最终的代码只有778个字节，不仅实现了游戏的功能，也处理了 MCU 的 I/O 与显示屏的通信（基于TWI接口协议）。
 
 ![](http://henjay724.com/image/biweekly20210613/RunTiny.gif)
+
+### <font color="red">3、ESP32-Smart-Watch  - 基于ESP32 WROOM的开源智能手表</font>
+
+这个项目是一个完全开放源码的基于 ESP32 WROOM 模块实现的智能手表，完成度非常高。项目设计里串行通信和充电完全通过板载micro usb接口，无需任何外部接口板处理。
+
+> 项目主页：https://github.com/Bellafaire/ESP32-Smart-Watch
+
+固件分为 V1 和 V2 两版，V1偏低功耗设计，需要触摸唤醒使用；V2是全功能设计，仅轻度睡眠，可用加速度计唤醒。
+
+![](http://henjay724.com/image/biweekly20210613/ESP32-Smart-Watch.PNG)
 
 ### 欢迎订阅
 
