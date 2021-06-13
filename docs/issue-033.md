@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 1条资讯、0个项目，希望对你有帮助！
+本期共收录 2条资讯、0个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -25,6 +25,14 @@
 ![](http://henjay724.com/image/biweekly20210613/Intel_RISC-V.PNG)
 
 谈判尚处早期阶段，SiFive 也面对着其他多家公司的收购意向，最终可能仍保持独立。
+
+### <font color="red">2、Keil发布新一代开发工具 - Keil Studio</font>
+
+Keil Studio 是 Keil 去年就开始预热的下一代开发工具。近日 Keil 公布了其第一个组件 Keil Studio Cloud（beta版评测），这是一个基于浏览器的IDE，可用于IoT、ML和嵌入式开发。
+
+> * 资讯主页：https://www.keil.com/pr/article/1295.htm
+
+![](http://henjay724.com/image/biweekly20210613/Keil_Studio_Cloud.PNG)
 
 ## 项目类
 
