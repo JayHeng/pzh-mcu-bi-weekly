@@ -12,7 +12,7 @@
 
 上周六是芒种，历史上的今天：2011年6月13日，达拉斯小牛队4:2击败三巨头热火，第一次夺得NBA总冠军，诺维茨基获NBA总决赛MVP。
 
-本期共收录 2条资讯、1个项目，希望对你有帮助！
+本期共收录 2条资讯、2个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -65,6 +65,15 @@ void microseconds_set_delay(uint32_t us);
 bool microseconds_is_timeout(void);
 ```
 
+### <font color="red">2、RunTiny - 基于ATtiny10仅778字节实现的跑步小游戏</font>
+
+RunTiny 是一个国外小哥设计的基于 AVR ATtiny10 以及 128x32 单色 OLED 的跑步者小游戏，代码和硬件设计文件全部开源。
+
+> 项目主页：https://github.com/ridoluc/RunTiny
+
+为了能够将代码塞到 1KB 的 Flash 存储器里面，作者做了优化，全部用汇编语言写成，最终的代码只有778个字节，不仅实现了游戏的功能，也处理了 MCU 的 I/O 与显示屏的通信（基于TWI接口协议）。
+
+![](http://henjay724.com/image/biweekly20210613/RunTiny.gif)
 
 ### 欢迎订阅
 
