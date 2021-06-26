@@ -38,7 +38,7 @@
 
 ### <font color="red">1、RT-FOTA - 基于 STM32 的开源 Bootloader 框架</font>
 
-RT-OTA 是 RT-Thread 官方推出的 STM32 系列单片机的通用 bootloader（商用性质，不公开源码），而 RT-FOTA 可以理解为是 RT-OTA 项目的民间开源版，由王海靖个人维护。  
+RT-OTA 是 RT-Thread 官方推出的 STM32 系列单片机的通用 bootloader（商用性质，不公开源码），而 RT-FOTA 可以理解为是 RT-OTA 项目的民间开源版，由王希个人维护。  
 
 > 项目主页：https://gitee.com/spunky_973/rt-fota
 
