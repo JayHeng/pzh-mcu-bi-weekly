@@ -12,7 +12,7 @@
 
 这周一是夏至，历史上的今天：1997年6月26日，英国魔幻文学作品《哈利波特1 - 神秘的魔法石》出版。
 
-本期共收录 1条资讯、0个项目，希望对你有帮助！
+本期共收录 2条资讯、0个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -24,14 +24,24 @@
 
 ![](http://henjay724.com/image/biweekly20210626/RISC-V_World_Conference_China_1st.PNG)
 
-### <font color="red">2、</font>
+### <font color="red">2、中科院计算所公布开源RISC-V处理器核心 - 香山</font>
+
+中国科学院计算技术研究所的包云岗团队推出了一款开源的高性能 RISC-V 处理器 - 香山，该核心基于 Chisel 硬件设计语言实现，支持 RV64GC 指令集。香山共有两版微架构，第一版叫雁栖湖，第二版叫南湖。
+
+> 项目主页：https://github.com/OpenXiangShan/XiangShan
+
+雁栖湖是一个11级流水、6发射、4个访存部件的乱序处理器核，该架构的频率可以达到1.3GHz@TSMC 28nm，性能预计可以达到 7 分 / GHz（SPEC CPU 2006）。南湖的设计目标更高：频率期望达到 2GHz@SMIC 14nm，性能期望达到 10 分 / GHz（SPEC CPU 2006 ）。
+
+![](http://henjay724.com/image/biweekly20210626/Xiangshan_yanxihu.PNG)
+
+### <font color="red">3、</font>
 
 ## 项目类
 
 ### <font color="red">1、</font>
 
 
-> 项目主页：
+
 
 
 ### 欢迎订阅
