@@ -12,7 +12,7 @@
 
 这周一是夏至，历史上的今天：1997年6月26日，英国魔幻文学作品《哈利波特1 - 神秘的魔法石》出版。
 
-本期共收录 2条资讯、2个项目、2个工具，希望对你有帮助！
+本期共收录 2条资讯、3个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -63,6 +63,25 @@ RanFS是基于C(C89)编写的，提供POSIX兼容的文件操作API，轻量级�
 RanFS可运行在资源很少的单片机环境里，比如 8051, PIC, AVR, ARM, DSP, Z80, 78K 等等。RanFS目前支持 fat12/16/32 可读写文件系统，ntfs、ext2、ext3、ext4可读文件系统，支持大于512字节扇区的盘，支持超过2T的硬盘，支持多分区 多文件，支持长文件名打开、创建、删除，支持通过扇区偏移量快速打开文件，支持创建目录等等。
 
 ![](http://henjay724.com/image/biweekly20210626/RanFS.PNG)
+
+### <font color="red">3、SimpleGUI - 一款针对单色显示屏设计的GUI接口库</font>
+
+SimpleGUI是一套针对单色显示屏的可拓展嵌入式的开源GUI解决方案，提供了各种常用界面元素的绘制接口与一个简练的HMI交互引擎，此外还包含一个简易LCD模拟器，带有截图保存和复制功能， 用户也可以在模拟环境中模拟自己需要的处理逻辑。
+
+> 项目主页：https://gitee.com/Polarix/simplegui
+
+SimpleGUI 在尽可能减小资源消耗的前提下，提供以下功能：
+```text
+1. 点、线、基本几何图形、单色位图、文字等的绘制功能。
+2. 列表、进度条、滚动条、提示框、曲线图等部件的设置元显示功能。
+3. 单色显示屏模拟环境，方便脱离硬件平台进行部分GUI开发。
+```
+
+![](http://henjay724.com/image/biweekly20210626/SimpleGUI.PNG)
+
+SimpleGUI的LCD模拟器基于wxWidgetsGUI框架开发。系统工程CodeBlocks集成开发环境与MinGW编译器搭建。
+
+![](http://henjay724.com/image/biweekly20210626/SimpleGUI_sim.PNG)
 
 ## 工具类
 
