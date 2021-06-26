@@ -12,7 +12,7 @@
 
 这周一是夏至，历史上的今天：1997年6月26日，英国魔幻文学作品《哈利波特1 - 神秘的魔法石》出版。
 
-本期共收录 2条资讯、0个项目、2个工具，希望对你有帮助！
+本期共收录 2条资讯、1个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,7 +36,23 @@
 
 ## 项目类
 
+### <font color="red">1、RT-FOTA - 基于 STM32 的开源 Bootloader 框架</font>
 
+RT-OTA 是 RT-Thread 官方推出的 STM32 系列单片机的通用 bootloader（商用性质，不公开源码），而 RT-FOTA 可以理解为是 RT-OTA 项目的民间开源版，由王海靖个人维护。  
+
+> 项目主页：https://gitee.com/spunky_973/rt-fota
+
+RT-FOTA 主要的功能：
+
+```text
+1. 支持 RTT 官方的 RBL 打包软件，使用方式也一致。目前支持包括 CRC32、AES256、quicklz 和 fastlz 功能；
+2. 支持命令行模式（FINSH 组件）和出厂固件恢复；
+3. 支持 FLASH 分区（FAL 组件）；
+4. 支持功能扩展（RTT 组件）；
+5. 其他功能可自行方便扩展；
+```
+
+![](http://henjay724.com/image/biweekly20210626/RT-FOTA.PNG)
 
 ## 工具类
 
