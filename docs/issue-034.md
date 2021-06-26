@@ -12,7 +12,7 @@
 
 这周一是夏至，历史上的今天：1997年6月26日，英国魔幻文学作品《哈利波特1 - 神秘的魔法石》出版。
 
-本期共收录 2条资讯、0个项目，希望对你有帮助！
+本期共收录 2条资讯、0个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -34,15 +34,20 @@
 
 ![](http://henjay724.com/image/biweekly20210626/Xiangshan_yanxihu.PNG)
 
-### <font color="red">3、</font>
-
 ## 项目类
 
 ### <font color="red">1、</font>
 
 
+## 工具类
 
+### <font color="red">1、CLion - 专为C/C++而生的跨平台IDE</font>
 
+CLion是JetBrain出品的一款专为开发C及C++所设计的跨平台IDE，它以IntelliJ为基础设计，包含了许多智能功能来帮助开发人员在Linux、OS X和Windows上来开发C/C++，同时它还使用智能编辑器来提高代码质量、自动代码重构并且深度整合CMake编译系统，从而提高开发人员的开发效率。
+
+> 软件主页：https://www.jetbrains.com/zh-cn/clion/promo/
+
+![](http://henjay724.com/image/biweekly20210626/CLion.PNG)
 
 ### 欢迎订阅
 
