@@ -12,7 +12,7 @@
 
 这周一是夏至，历史上的今天：1997年6月26日，英国魔幻文学作品《哈利波特1 - 神秘的魔法石》出版。
 
-本期共收录 2条资讯、0个项目、1个工具，希望对你有帮助！
+本期共收录 2条资讯、0个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -24,7 +24,7 @@
 
 ![](http://henjay724.com/image/biweekly20210626/RISC-V_World_Conference_China_1st.PNG)
 
-### <font color="red">2、中科院计算所公布开源RISC-V处理器核心 - 香山</font>
+### <font color="red">2、中科院计算所公布开源 RISC-V 处理器核心 - 香山</font>
 
 中国科学院计算技术研究所的包云岗团队推出了一款开源的高性能 RISC-V 处理器 - 香山，该核心基于 Chisel 硬件设计语言实现，支持 RV64GC 指令集。香山共有两版微架构，第一版叫雁栖湖，第二版叫南湖。
 
@@ -36,18 +36,25 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
 
 
 ## 工具类
 
-### <font color="red">1、CLion - 专为C/C++而生的跨平台IDE</font>
+### <font color="red">1、CLion - 专为 C/C++ 而生的跨平台 IDE</font>
 
 CLion是JetBrain出品的一款专为开发C及C++所设计的跨平台IDE，它以IntelliJ为基础设计，包含了许多智能功能来帮助开发人员在Linux、OS X和Windows上来开发C/C++，同时它还使用智能编辑器来提高代码质量、自动代码重构并且深度整合CMake编译系统，从而提高开发人员的开发效率。
 
 > 软件主页：https://www.jetbrains.com/zh-cn/clion/promo/
 
 ![](http://henjay724.com/image/biweekly20210626/CLion.PNG)
+
+### <font color="red">2、TabNine - 最好的代码自动补全工具</font>
+
+这是来自加拿大的学霸 Jacob Jackson 开发的一款”Deep TabNine“代码补全工具，它支持23种编程语言（Java/Python/C++等等）、5种编辑器(VS Code/Sublime Text/Atom/Emacs/Vim)，使用简单，效果惊艳。不少使用过的网友都说：TabNine是他们用过的最好的代码补全工具，这是属于程序员的杀手级应用。
+
+> 软件主页：https://www.tabnine.com/
+
+![](http://henjay724.com/image/biweekly20210626/TabNine.gif)
 
 ### 欢迎订阅
 
