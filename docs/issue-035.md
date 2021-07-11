@@ -12,7 +12,7 @@
 
 这周三是小暑，历史上的今天：1405年7月11日，明朝航海家郑和开始了他的第一次下西洋的航行。
 
-本期共收录 1条资讯、2个项目，希望对你有帮助！
+本期共收录 1条资讯、3个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -48,6 +48,25 @@ ART-Pi 硬件具备性能强大的主控 STM32H750，实用的外设，丰富的
 ![](http://henjay724.com/image/biweekly20210711/ART-Pi_HW_board.PNG)
 
 ![](http://henjay724.com/image/biweekly20210711/ART-Pi_BlockDiagram.PNG)
+
+### <font color="red">3、iRTU - 开源 DTU/RTU 解决方案</font>
+
+iRTU 是基于合宙 air202/208/800/801/720/724/H/D/G/U 系列模块的开源DTU/RTU解决方案，已成功运行在上百万设备，安全可靠。
+
+> 项目主页： https://gitee.com/hotdll/iRTU
+
+iRTU 主要功能包括：
+
+```text
+1. 支持TCP/UDP socket,支持HTTP,MQTT,等常见透传和非透传模式
+2. 支持OneNET,阿里云，百度云，腾讯云等常见公有云。
+3. 支持RTU主控模式
+4. 支持数据流模版
+5. 支持消息推送(电话，短信，网络通知)
+6. 支持GPS数据以及相关数据采集
+7. 支持ADC,I2C等外设，可以方便的扩展为屏幕、二维码等解决方案.
+8. 需要将配置文件烧录到固件的，修改源码irtu.cfg文件，然后打包源码+lib+core 成固件即可; irtu.cfg 内包含demo，可以用web导出的配置json文件替换''(单引号内的json字符串)即可。
+```
 
 ### 欢迎订阅
 
