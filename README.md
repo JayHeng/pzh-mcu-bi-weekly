@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
+[第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
 [第 030 期](docs/issue-030.md) | [第 029 期](docs/issue-029.md) | [第 028 期](docs/issue-028.md) | [第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
 
@@ -89,6 +89,7 @@
 > * 【第 033 期】56、英特尔拟收购RISC-V阵营领头厂商SiFive
 > * 【第 034 期】57、首届 RISC-V 中国峰会在上海举行
 > * 【第 034 期】58、中科院计算所公布开源 RISC-V 处理器核心 - 香山
+> * 【第 035 期】59、华米科技自研 OS 即将发布
 
 **项目(软)**
 
@@ -155,6 +156,10 @@
 > * 【第 034 期】61、RT-FOTA - 基于 STM32 的开源 Bootloader 框架
 > * 【第 034 期】62、RanFS - 一个轻量级的嵌入式文件系统库
 > * 【第 034 期】63、SimpleGUI - 一款针对单色显示屏设计的GUI接口库
+> * 【第 035 期】64、TBOX - 一个用 C 语言实现的跨平台开发库
+> * 【第 035 期】65、iRTU - 开源 DTU/RTU 解决方案
+> * 【第 035 期】66、mbedTLS - 最小巧的 SSL 加密库
+> * 【第 035 期】67、LwIP - 小型开源 TCP/IP 协议栈
 
 **项目(硬)**
 
@@ -199,6 +204,7 @@
 > * 【第 033 期】39、RunTiny - 基于ATtiny10仅778字节实现的跑步小游戏
 > * 【第 033 期】40、ESP32-Smart-Watch  - 基于ESP32 WROOM的开源智能手表
 > * 【第 033 期】41、Macro Mechanical Keypad  - 6键超迷你键盘DIY
+> * 【第 035 期】42、ART-Pi - RT-Thread 推出的 DIY 开源硬件
 
 **工具(软)**
 
