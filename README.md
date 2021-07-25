@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
+[第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
 [第 030 期](docs/issue-030.md) | [第 029 期](docs/issue-029.md) | [第 028 期](docs/issue-028.md) | [第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
 
@@ -160,6 +160,9 @@
 > * 【第 035 期】65、iRTU - 开源 DTU/RTU 解决方案
 > * 【第 035 期】66、mbedTLS - 最小巧的 SSL 加密库
 > * 【第 035 期】67、LwIP - 小型开源 TCP/IP 协议栈
+> * 【第 036 期】68、AntOS - 适用 8051 的超轻量级实时操作系统
+> * 【第 036 期】69、AT Command  - 一种 AT 命令通信解析模块
+> * 【第 036 期】70、RIL - 适用嵌入式的无线通信模块(GSM/GPRS/CatM1/NB)管理框架
 
 **项目(硬)**
 
@@ -205,6 +208,7 @@
 > * 【第 033 期】40、ESP32-Smart-Watch  - 基于ESP32 WROOM的开源智能手表
 > * 【第 033 期】41、Macro Mechanical Keypad  - 6键超迷你键盘DIY
 > * 【第 035 期】42、ART-Pi - RT-Thread 推出的 DIY 开源硬件
+> * 【第 036 期】43、weather-ink-screen - 支持汉朔2.9寸墨水屏E029A01的天气预报
 
 **工具(软)**
 
@@ -249,6 +253,8 @@
 > * 【第 031 期】39、ImHex - 一款功能强大的开源十六进制编辑器
 > * 【第 034 期】40、CLion - 专为 C/C++ 而生的跨平台 IDE
 > * 【第 034 期】41、TabNine - 最好的代码自动补全工具
+> * 【第 036 期】42、Copilot - OpenAI与GitHub联合出品的自动代码生成AI
+> * 【第 036 期】43、VirtualLCD - 可用于 GUI 移植的 LCD 模拟器
 
 **工具(硬)**
 
