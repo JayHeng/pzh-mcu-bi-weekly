@@ -12,7 +12,7 @@
 
 这周四是大暑，历史上的今天：1991年7月25日，中国长城、故宫、北京人遗址、敦煌莫高窟、秦始皇陵墓五处古迹列为世界遗产。
 
-本期共收录 3个项目、2个工具，希望对你有帮助！
+本期共收录 4个项目、2个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -55,6 +55,16 @@ RIL 基本特性包含：
 ```
 
 ![](http://henjay724.com/image/biweekly20210725/RIL.PNG)
+
+### <font color="red">4、weather-ink-screen - 支持汉朔2.9寸墨水屏E029A01的天气预报</font>
+
+weather-ink-screen 是基于 DUCK 的天气墨水屏硬件项目的固件应用设计，默认支持2.9寸墨水屏，代号029A01。固件使用Arduino开发，使用到的库包括GxEPD2、U8g2_for_Adafruit_GFX、NTPClient、ArduinoJson、ESP_EEPROM等。
+
+> 项目主页： https://gitee.com/Lichengjiez/weather-ink-screen
+
+weather-ink-screen 功能包含天气模式、阅读模式、时钟模式、配网模式、自定义图片模式。
+
+![](http://henjay724.com/image/biweekly20210725/weather-ink-screen.PNG)
 
 ## 工具类
 
