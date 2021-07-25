@@ -12,7 +12,7 @@
 
 这周四是大暑，历史上的今天：1991年7月25日，中国长城、故宫、北京人遗址、敦煌莫高窟、秦始皇陵墓五处古迹列为世界遗产。
 
-本期共收录 0条资讯、0个项目、1个工具，希望对你有帮助！
+本期共收录 0条资讯、0个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -20,8 +20,6 @@
 
 
 ## 项目类
-
-### <font color="red">1、</font>
 
 
 
@@ -38,6 +36,16 @@ Copilot 能够把注释转化成代码，只需描述出你想要执行的命令
 Copilot 适用于多种框架和语言，在Python、JavaScript、TypeScript、Rudy、Go几种语言上的表现格外突出。目前，Copilot作为Visual Studio Code插件，支持在本地或GitHub Codespaces上使用。
 
 ![](http://henjay724.com/image/biweekly20210725/Copilot.PNG)
+
+### <font color="red">2、VirtualLCD - 可用于 GUI 移植的 LCD 模拟器</font>
+
+VirtualLCD 是一款 LCD 模拟器，可用于GUI移植，如ucGUI,emWin,MiniGUI等。
+
+> 项目主页： https://gitee.com/kerndev/VirtualLCD
+
+使用 VirtLCD 时，同样需要一个demo（VirtSTM32）工程编写我们的界面设计代码，调试好之后可以很快地移到 STM32 工程上。
+
+![](http://henjay724.com/image/biweekly20210725/VirtualLCD.PNG)
 
 ### 欢迎订阅
 
