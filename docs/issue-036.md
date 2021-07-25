@@ -12,7 +12,7 @@
 
 这周四是大暑，历史上的今天：1991年7月25日，中国长城、故宫、北京人遗址、敦煌莫高窟、秦始皇陵墓五处古迹列为世界遗产。
 
-本期共收录 0条资讯、0个项目、2个工具，希望对你有帮助！
+本期共收录 0条资讯、1个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -21,7 +21,15 @@
 
 ## 项目类
 
+### <font color="red">1、AntOS - 适用 8051 的超轻量级实时操作系统</font>
 
+AntOS 是一款超轻量级实时操作系统，抢占式调度极简内核，专门为小型家电及轻量型物联网终端设计，适合在8051为内核的MCU上运行。
+
+> 项目主页： https://gitee.com/zeweni/ant-os
+
+AntOS 提供层级服务，可以进行任意裁剪。内核层包含两个子系统，提供 AntOS 最基本的功能；服务层对内核层进行封装，提供组件和服务；应用层提供给发者编写业务逻辑，同时提供移植第三方软件包的接口。
+
+![](http://henjay724.com/image/biweekly20210725/AntOS.PNG)
 
 ## 工具类
 
@@ -41,7 +49,7 @@ Copilot 适用于多种框架和语言，在Python、JavaScript、TypeScript、R
 
 VirtualLCD 是一款 LCD 模拟器，可用于GUI移植，如ucGUI,emWin,MiniGUI等。
 
-> 项目主页： https://gitee.com/kerndev/VirtualLCD
+> 工具主页： https://gitee.com/kerndev/VirtualLCD
 
 使用 VirtLCD 时，同样需要一个demo（VirtSTM32）工程编写我们的界面设计代码，调试好之后可以很快地移到 STM32 工程上。
 
