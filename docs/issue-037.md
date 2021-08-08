@@ -12,7 +12,7 @@
 
 昨天是立秋，历史上的今天：2008年8月8日，第29届夏季奥林匹克运动会在北京开幕。
 
-本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、3个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -42,7 +42,15 @@ IEEE 802.15.4 和 Bluetooth LE 的结合，也将赋能 ESP32-H2 构建基于 Ma
 
 ## 项目类
 
-### <font color="red">1、CANable - 开源 USB 转 CAN 适配器</font>
+### <font color="red">1、pyOCD - 用于调试烧写 Cortex-M 芯片的开源 Python 包</font>
+
+pyOCD 是一个开源 Python 软件包，用于多种受支持的硬件调试器（DAP-Link、J-Link、ST-Link）下编程和调试Arm Cortex-M微控制器。它是完全跨平台的，并支持Linux，macOS和Windows。它内置支持多达70种流行的MCU。
+
+> 项目主页： https://github.com/pyocd/pyOCD
+
+pyOCD 允许用户通过命令来：烧录、擦除、单步、停止、设置断点、全速运行、芯片上锁、读写外设寄存器、读写存储空间等操作。
+
+### <font color="red">2、CANable - 开源 USB 转 CAN 适配器</font>
 
 CANable 是一个小型的低成本开源 USB-to-CAN 适配器。CANable在计算机上显示为虚拟串行端口，并充当到CAN总线接口的串行线。
 
@@ -53,7 +61,7 @@ CANable 与基于ARM的嵌入式平台兼容，如Raspberry Pi、Raspberry Pi Ze
 
 ![](http://henjay724.com/image/biweekly20210808/CANable_v2.PNG)
 
-### <font color="red">2、Cumu - 开源智能 WIFI 万用表</font>
+### <font color="red">3、Cumu - 开源智能 WIFI 万用表</font>
 
 Cumu 是 elecfans 坛友设计的一台智能 WIFI 万用表，主控是 STM32F030，万用表芯片采用 FS9721，整体硬件成本在100元左右。它具有物联网功能，你身边所有的智能设备都将是这台万用表的显示窗口。  
 
@@ -62,12 +70,6 @@ Cumu 是 elecfans 坛友设计的一台智能 WIFI 万用表，主控是 STM32F0
 Cumu 支持乐联网、YEELINK和传感云免费物联网平台，可以将测量数据上传到平台上，平台有很多玩法，比如：设置上下限、短信报警、微信获取数据等，Cumu的使用范围很广阔。
 
 ![](http://henjay724.com/image/biweekly20210808/Cumu.PNG)
-
-## 工具类
-
-### <font color="red">1、</font>
-
-
 
 ### 欢迎订阅
 
