@@ -11,6 +11,8 @@
 
 ## 2021农历辛丑牛年
 
+[第 037 期](docs/issue-037.md) 
+
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
 [第 030 期](docs/issue-030.md) | [第 029 期](docs/issue-029.md) | [第 028 期](docs/issue-028.md) | [第 027 期](docs/issue-027.md) | [第 026 期](docs/issue-026.md) | [第 025 期](docs/issue-025.md)
@@ -90,6 +92,8 @@
 > * 【第 034 期】57、首届 RISC-V 中国峰会在上海举行
 > * 【第 034 期】58、中科院计算所公布开源 RISC-V 处理器核心 - 香山
 > * 【第 035 期】59、华米科技自研 OS 即将发布
+> * 【第 037 期】60、TI 发布全新 Sitara™ AM2x 系列高性能MCU
+> * 【第 037 期】61、乐鑫发布 IEEE 802.15.4 + Bluetooth 5.2 (LE) RISC-V SoC ESP32-H2
 
 **项目(软)**
 
@@ -163,6 +167,8 @@
 > * 【第 036 期】68、AntOS - 适用 8051 的超轻量级实时操作系统
 > * 【第 036 期】69、AT Command  - 一种 AT 命令通信解析模块
 > * 【第 036 期】70、RIL - 适用嵌入式的无线通信模块(GSM/GPRS/CatM1/NB)管理框架
+> * 【第 037 期】71、pyOCD - 用于调试烧写 Cortex-M 芯片的开源 Python 包
+> * 【第 037 期】72、thundercracker - sifteo二代智能积木开源软件工具链
 
 **项目(硬)**
 
@@ -209,6 +215,8 @@
 > * 【第 033 期】41、Macro Mechanical Keypad  - 6键超迷你键盘DIY
 > * 【第 035 期】42、ART-Pi - RT-Thread 推出的 DIY 开源硬件
 > * 【第 036 期】43、weather-ink-screen - 支持汉朔2.9寸墨水屏E029A01的天气预报
+> * 【第 037 期】44、CANable - 开源 USB 转 CAN 适配器
+> * 【第 037 期】45、Cumu - 开源智能 WIFI 万用表
 
 **工具(软)**
 
