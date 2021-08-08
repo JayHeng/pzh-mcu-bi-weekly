@@ -12,7 +12,7 @@
 
 昨天是立秋，历史上的今天：2008年8月8日，第29届夏季奥林匹克运动会在北京开幕。
 
-本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、1个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -42,8 +42,16 @@ IEEE 802.15.4 和 Bluetooth LE 的结合，也将赋能 ESP32-H2 构建基于 Ma
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、CANable - 一个开源的 USB 转 CAN 适配器</font>
 
+CANable 是一个小型的低成本开源 USB-to-CAN 适配器。CANable在计算机上显示为虚拟串行端口，并充当到CAN总线接口的串行线。
+
+> 项目官网： https://canable.io/
+> 固件主页： https://github.com/candle-usb/candleLight_fw
+
+CANable 与基于ARM的嵌入式平台兼容，如Raspberry Pi、Raspberry Pi Zero、ODROID、BeagleBone等，非常适合集成到OEM产品中。
+
+![](http://henjay724.com/image/biweekly20210808/CANable_v2.PNG)
 
 ## 工具类
 
