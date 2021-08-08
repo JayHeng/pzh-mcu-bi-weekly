@@ -12,7 +12,7 @@
 
 昨天是立秋，历史上的今天：2008年8月8日，第29届夏季奥林匹克运动会在北京开幕。
 
-本期共收录 1个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -27,6 +27,18 @@ Sitara™ AM2x MCU产品系列基于高性能Arm® MCU内核，包含运行速�
 Sitara AM243x 器件扩展了 TI 对多个千兆工业以太网协议和时间敏感网络 (TSN) 的支持，可实现下一代工厂网络。借助 AM243x，工程师可以利用经过认证的、TI 直接提供的协议栈支持 EtherNet/IP™、EtherCAT®、PROFINET® 和 IO-Link 主站等，从而满足不断发展的工业通信标准。
 
 ![](http://henjay724.com/image/biweekly20210808/Sitara-AM2x.PNG)
+
+### <font color="red">2、乐鑫发布 IEEE 802.15.4 + Bluetooth 5.2 (LE) RISC-V SoC ESP32-H2</font>
+
+乐鑫科技近日宣布推出 ESP32-H2 芯片，首次在 2.4 GHz 频段集成 IEEE 802.15.4 和 Bluetooth 5.2 (LE) 技术。
+
+> 资讯主页： https://www.espressif.com/zh-hans/news/ESP32_H2
+
+ESP32-H2 搭载 RISC-V 32 位单核处理器，主频高达 96 MHz，内置 256 KB SRAM，并支持扩展外部 flash。ESP32-H2 融合了两种重要的无线连接技术：IEEE 802.15.4 针对低功耗 mesh 网络场景，通过对 Thread 和 Zigbee 协议的支持，使其拥有广阔的应用领域；Bluetooth LE 支持点对点、广播和 mesh 组网等多种拓扑结构，并能够与智能手机直接通信。
+
+IEEE 802.15.4 和 Bluetooth LE 的结合，也将赋能 ESP32-H2 构建基于 Matter 协议的智能家居设备，实现多生态系统的互联互通。
+
+![](http://henjay724.com/image/biweekly20210808/ESP32-H2.PNG)
 
 ## 项目类
 
