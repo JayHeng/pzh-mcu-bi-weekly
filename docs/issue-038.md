@@ -12,7 +12,7 @@
 
 昨天是立秋，历史上的今天：961年8月22日，宋太祖赵匡胤 “杯酒释兵权”，罢去禁军将领及地方藩镇的兵权，加强了中央集权。
 
-本期共收录 0个资讯、1个项目，希望对你有帮助！
+本期共收录 0个资讯、2个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -32,6 +32,16 @@ mini-T12 是开源条形焊台项目，15Hz PWM输出，DCDC-LDO二级降压电�
 ![](http://henjay724.com/image/biweekly20210822/miniT12-1.PNG)
 
 ![](http://henjay724.com/image/biweekly20210822/miniT12-2.PNG)
+
+### <font color="red">2、MiniDSO-Pro - B站老刘示波器Pro版本</font>
+
+B站老刘示波器Pro版本，在原版的基础上，扩展了测量负电压的功能，更新了UI设计，屏幕升级为1.3寸OLED屏。
+
+> 项目主页： hhttps://gitee.com/zeweni/mini-dso-pro
+
+![](http://henjay724.com/image/biweekly20210822/MiniDSO-Pro-1.PNG)
+
+![](http://henjay724.com/image/biweekly20210822/MiniDSO-Pro-2.PNG)
 
 ### 欢迎订阅
 
