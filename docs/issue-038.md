@@ -12,7 +12,7 @@
 
 昨天是立秋，历史上的今天：961年8月22日，宋太祖赵匡胤 “杯酒释兵权”，罢去禁军将领及地方藩镇的兵权，加强了中央集权。
 
-本期共收录 0个资讯、2个项目，希望对你有帮助！
+本期共收录 0个资讯、3个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -42,6 +42,14 @@ B站老刘示波器Pro版本，在原版的基础上，扩展了测量负电压�
 ![](http://henjay724.com/image/biweekly20210822/MiniDSO-Pro-1.PNG)
 
 ![](http://henjay724.com/image/biweekly20210822/MiniDSO-Pro-2.PNG)
+
+### <font color="red">3、XS40 - 一款小巧的80键分体键盘</font>
+
+XS40 是80键分体键盘，采用非常便宜的单片机（新唐的N76E003）和USB HID接口芯片（南京沁恒CH9328），目的就是打造一款低成本的机械键盘DIY方案。
+
+> 项目主页： https://gitee.com/play565/XS40
+
+![](http://henjay724.com/image/biweekly20210822/XS40.PNG)
 
 ### 欢迎订阅
 
