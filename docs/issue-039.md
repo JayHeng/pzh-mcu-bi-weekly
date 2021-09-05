@@ -12,7 +12,7 @@
 
 后天是白露，历史上的今天：1983年9月5日，中国最大的城市引水工程 - 引滦入津工程正式通水。
 
-本期共收录 1个资讯、4个项目，希望对你有帮助！
+本期共收录 1个资讯、4个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -48,7 +48,7 @@ EVM 优势特点：
 
 ### <font color="red">2、blinker-library - 一套跨硬件、跨平台的物联网解决方案</font>
 
-Blinker 是一套跨硬件、跨平台的物联网解决方案，提供APP端、设备端、服务器端支持，使用公有云服务进行数据传输存储。可用于智能家居、数据监测等领域，可以帮助用户更好更快地搭建物联网项目。支持 Arduino, ESP8266, ESP32。
+Blinker 是一套跨硬件、跨平台的物联网解决方案，提供APP端、设备端、服务器端支持，使用公有云服务进行数据传输存储。可用于智能家居、数据监测等领域，可以帮助用户更好更快地搭建物联网项目。Blinker 当前支持 Arduino, ESP8266, ESP32 平台。
 
 > 项目主页： https://github.com/blinker-iot/blinker-library
 
@@ -75,6 +75,14 @@ IonDB 专为 Arduino 和 IoT 提供开箱即用的，基于磁盘的快速存储
 ```
 
 ## 工具类
+
+### <font color="red">1、USB-HID-TEST - 轻量级 USB 调试工具</font>
+
+USB-HID-TEST 是 jakey 大神用 python2.7、Tkinter、pywinusb(pyusb-linux) 模块开发的 USB 调试工具。  
+
+> 工具主页： https://gitee.com/jakey.chen/USB-HID-TEST
+
+![](http://henjay724.com/image/biweekly20210905/USB-HID-TEST.PNG)
 
 ### 欢迎订阅
 
