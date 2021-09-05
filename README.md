@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) 
+[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) 
 
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
@@ -94,6 +94,7 @@
 > * 【第 035 期】59、华米科技自研 OS 即将发布
 > * 【第 037 期】60、TI 发布全新 Sitara™ AM2x 系列高性能MCU
 > * 【第 037 期】61、乐鑫发布 IEEE 802.15.4 + Bluetooth 5.2 (LE) RISC-V SoC ESP32-H2
+> * 【第 039 期】62、知名媒体 Aspencore 主办的“全球 MCU 生态发展大会” 落幕
 
 **项目(软)**
 
@@ -171,6 +172,10 @@
 > * 【第 037 期】72、thundercracker - sifteo二代智能积木开源软件工具链
 > * 【第 038 期】73、AWTK - ZLG 开发的开源 GUI 引擎
 > * 【第 038 期】74、CodeBrick - 一种无OS的MCU实用软件管理系统
+> * 【第 039 期】75、EVM - 一款通用、精简的超轻量物联网虚拟机
+> * 【第 039 期】76、blinker-library - 一套跨硬件、跨平台的物联网解决方案
+> * 【第 039 期】77、LittleD - 为嵌入式设备和传感器节点设计的关系型数据库
+> * 【第 039 期】78、IonDB - 用于资源受限系统的键值数据库
 
 **项目(硬)**
 
@@ -269,6 +274,7 @@
 > * 【第 034 期】41、TabNine - 最好的代码自动补全工具
 > * 【第 036 期】42、Copilot - OpenAI与GitHub联合出品的自动代码生成AI
 > * 【第 036 期】43、VirtualLCD - 可用于 GUI 移植的 LCD 模拟器
+> * 【第 039 期】44、USB-HID-TEST - 轻量级 USB 调试工具
 
 **工具(硬)**
 
