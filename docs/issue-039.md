@@ -12,7 +12,7 @@
 
 后天是白露，历史上的今天：1983年9月5日，中国最大的城市引水工程 - 引滦入津工程正式通水。
 
-本期共收录 1个资讯、2个项目，希望对你有帮助！
+本期共收录 1个资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -46,13 +46,35 @@ EVM 优势特点：
 
 ![](http://henjay724.com/image/biweekly20210905/EVM.PNG)
 
-### <font color="red">2、LittleD - 为嵌入式设备和传感器节点设计的关系型数据库</font>
+### <font color="red">2、blinker-library - 一套跨硬件、跨平台的物联网解决方案</font>
+
+Blinker 是一套跨硬件、跨平台的物联网解决方案，提供APP端、设备端、服务器端支持，使用公有云服务进行数据传输存储。可用于智能家居、数据监测等领域，可以帮助用户更好更快地搭建物联网项目。支持 Arduino, ESP8266, ESP32。
+
+> 项目主页： https://github.com/blinker-iot/blinker-library
+
+### <font color="red">3、LittleD - 为嵌入式设备和传感器节点设计的关系型数据库</font>
 
 LittleD 是为嵌入式设备和传感器节点设计的关系型数据库，提供一个 SQL 前端来管理关系模型的数据。
 
 > 项目主页： https://github.com/graemedouglas/LittleD
 
 LittleD 是专为 Arduino Mega2560 这些设备所专门设计的。LittleD 支持表创建，数据插入和 SELECT-FROM-WHERE 语法。LittleD 也支持错误信息，但不是强制性的。一个简单的配置头部文件可以指定编译的特性，所以可以根据应用的需求控制数据库代码脚本。
+
+### <font color="red">4、IonDB - 用于资源受限系统的键值数据库</font>
+
+IonDB 专为 Arduino 和 IoT 提供开箱即用的，基于磁盘的快速存储功能，为受限系统提供键值存储功能，速度非常快，可以充分提升 Arduino 的性能。
+
+> 项目主页： https://github.com/iondbproject/iondb
+
+一般情况下，IonDB 支持：
+```text
+1. 存储一个键的任意值
+2. 重复键支持
+3. 范围和等值查询
+4. 基于硬盘的持久化数据存储
+```
+
+## 工具类
 
 ### 欢迎订阅
 
