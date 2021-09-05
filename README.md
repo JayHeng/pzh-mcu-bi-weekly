@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 037 期](docs/issue-037.md) 
+[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) 
 
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
@@ -169,6 +169,8 @@
 > * 【第 036 期】70、RIL - 适用嵌入式的无线通信模块(GSM/GPRS/CatM1/NB)管理框架
 > * 【第 037 期】71、pyOCD - 用于调试烧写 Cortex-M 芯片的开源 Python 包
 > * 【第 037 期】72、thundercracker - sifteo二代智能积木开源软件工具链
+> * 【第 038 期】73、AWTK - ZLG 开发的开源 GUI 引擎
+> * 【第 038 期】74、CodeBrick - 一种无OS的MCU实用软件管理系统
 
 **项目(硬)**
 
@@ -217,6 +219,10 @@
 > * 【第 036 期】43、weather-ink-screen - 支持汉朔2.9寸墨水屏E029A01的天气预报
 > * 【第 037 期】44、CANable - 开源 USB 转 CAN 适配器
 > * 【第 037 期】45、Cumu - 开源智能 WIFI 万用表
+> * 【第 038 期】46、mini-T12 - 基于Arduino平台Atmege328p的条形焊台
+> * 【第 038 期】47、MiniDSO-Pro - B站老刘示波器Pro版本
+> * 【第 038 期】48、XS40 - 一款小巧的80键分体键盘
+> * 【第 038 期】49、XUAN-Bike - 自动驾驶自行车
 
 **工具(软)**
 
