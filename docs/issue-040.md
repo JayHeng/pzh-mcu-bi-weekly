@@ -12,7 +12,7 @@
 
 这周四是秋分。明天是中秋节，痞子衡祝各位读者阖家欢乐，幸福团圆。
 
-本期共收录 2个资讯、0个项目、1个RT产品，希望对你有帮助！
+本期共收录 2个资讯、1个项目、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,9 +38,20 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、pico-debug - RP2040 Raspberry Pi Pico板的虚拟调试器</font>
 
+Raspberry Pi Pico所使用的RP2040实际上是一个双核Cortex-M0+，一般情况下，我们都只会使用其中一个核，而另外一个核就处于啥事不干的休眠状态。网上有大神 majbthrd 琢磨着把其中一个Cortex-M0+拿来做调试器，这便是 Pico-debug。
 
+> 项目主页： https://github.com/majbthrd/pico-debug
+
+Pico-debug 方案特点如下：
+
+```text
+1. 它不需要额外的硬件：一根USB线，加你手上已有的Pico就行；
+2. 它不需要额外的上位机软件，只要一个额外提供的 uf2 文件就行；
+3. 它直接把其中一个Cortex-M0+变成了 CMSIS-DAP 调试器，而且是无需用户额外连SWD线——直接就在内部对另外一个Cortex-M0+进行调试。
+4. 它不占用Flash，只占用 0x2003C000 ~ 0x2003FFFF 区间的 16K RAM。考虑到Pico总共有264KB的SRAM，这种安排实际上保留了绝大部分的SRAM（248KB）给用户使用。
+```
 
 ## i.MXRT出品
 
