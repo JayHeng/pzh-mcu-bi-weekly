@@ -12,7 +12,7 @@
 
 这周四是秋分。明天是中秋节，痞子衡祝各位读者阖家欢乐，幸福团圆。
 
-本期共收录 2个资讯、2个项目、1个RT产品，希望对你有帮助！
+本期共收录 2个资讯、3个项目、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -53,11 +53,31 @@ Pico-debug 方案特点如下：
 4. 它不占用Flash，只占用 0x2003C000 ~ 0x2003FFFF 区间的 16K RAM。考虑到Pico总共有264KB的SRAM，这种安排实际上保留了绝大部分的SRAM（248KB）给用户使用。
 ```
 
-### <font color="red">2、CBUF - 一款极优雅的宏实现环形缓冲区</font>
+### <font color="red">2、CBUF - 极优雅的宏实现环形缓冲区</font>
 
 循环缓冲区是嵌入式软件工程师在日常开发过程中的关键组件。今天推荐的这个 CBUF 模块使用宏实现循环缓冲区，虽然很多人不喜欢以这种方式使用宏，但 CBUF 实现已被证明是快速、高效且工作相对良好的。  
 
 > 项目主页： https://github.com/barraq/BRBrain/blob/master/firmware/CBUF.h
+
+### <font color="red">3、Zoolark - 一款多功能袖珍仪器</font>
+
+全球最著名的众筹网站Kickstarter最近上线了一款叫Zoolark（翻译过来叫梅林雀）的多功能袖珍仪器。主要的定位就是让每个学习电子电路的学生、调试电路的工程师都可以随时、随地便捷地观测信号、调试电路。
+
+> 项目主页： https://www.kickstarter.com/projects/evoinmotion/zoolark-an-engaging-way-to-learn-electronics-and-circuits?ref=discovery&term=zoolark
+
+![](http://henjay724.com/image/biweekly20210920/Zoolark.PNG)
+
+性能指标汇总一下：
+
+```text
+1. 信号发生器输出 - 三角波、方波、正弦波，能够从0.1Hz到1MHz可调，幅度8Vpp可调
+2. 可编程直流电压源输出 - -4V到+4V可调
+3. 直流电源输出 - +5V、-5V（50mA）、+3.3V（200mA）
+4. PWM信号输出 - 频率0.1Hz到1MHz可调，占空比10%到90%可调
+5. 示波器功能 - 双通道、最高测量到30Vpp/1MHz，采样率为5Msps
+6. 频谱分析 - 100Hz - 2.5MHz
+7. 电池供电 - 一次充电可以使用1.5小时
+```
 
 ## i.MXRT出品
 
