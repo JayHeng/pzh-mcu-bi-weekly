@@ -12,7 +12,7 @@
 
 这周四是秋分。明天是中秋节，痞子衡祝各位读者阖家欢乐，幸福团圆。
 
-本期共收录 2个资讯、1个项目、1个RT产品，希望对你有帮助！
+本期共收录 2个资讯、2个项目、1个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -53,6 +53,12 @@ Pico-debug 方案特点如下：
 4. 它不占用Flash，只占用 0x2003C000 ~ 0x2003FFFF 区间的 16K RAM。考虑到Pico总共有264KB的SRAM，这种安排实际上保留了绝大部分的SRAM（248KB）给用户使用。
 ```
 
+### <font color="red">2、CBUF - 一款极优雅的宏实现环形缓冲区</font>
+
+循环缓冲区是嵌入式软件工程师在日常开发过程中的关键组件。今天推荐的这个 CBUF 模块使用宏实现循环缓冲区，虽然很多人不喜欢以这种方式使用宏，但 CBUF 实现已被证明是快速、高效且工作相对良好的。  
+
+> 项目主页： https://github.com/barraq/BRBrain/blob/master/firmware/CBUF.h
+
 ## i.MXRT出品
 
 ### <font color="red">1、科瑞格绿山 - Keurig POP咖啡机</font>
@@ -60,7 +66,7 @@ Pico-debug 方案特点如下：
 Keurig公司是美国的一家胶囊咖啡及咖啡机生产商，提供家用及商用咖啡机，其主要产品为K-Cup(K杯)。
 
 > * RT芯片：i.MXRT1052   
-> * 产品主页： https://www.keurig.com 
+> * 产品官网： https://www.keurig.com 
 > * 官网定价： N/A  
 
 ![](http://henjay724.com/image/biweekly20210920/Keurig_POP.jpg)
