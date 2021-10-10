@@ -12,7 +12,7 @@
 
 这周五是寒露，历史上的今天：1925年10月10日，北京故宫博物院首次对外开放。
 
-本期共收录 4个项目、0个工具、0个RT产品，希望对你有帮助！
+本期共收录 4个项目、1个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -65,6 +65,16 @@ nRF51_Platform 是基于nRF51平台开发的一套轻量级SDK，可大大地降
 只要会C语言，就可以开发蓝牙硬件，因为SDK已经将所有蓝牙的通信配置，对于寄存器的处理步骤，封装在了一些简易识别的API中，用户只需要调用合适的api即可实现相应的功能，符合初学者的逻辑，不需要了解蓝牙协议栈的复杂名词和架构。
 
 ![](http://henjay724.com/image/biweekly20211010/nRF51_Platform.PNG)
+
+## 工具类
+
+### <font color="red">1、Mind+ - 图形化Arduino编程工具</font>
+
+Mind+ 是一款开源的图形化Arduino编程工具，在Windows，Mac和Linux上都能运行。无需任何编程背景，只需拉拽选择模块，设定参数，给模块连线并上传到Arduino，便能轻松快速的完成模型。编程从未变得如此快速和简单。
+
+> 工具主页： https://github.com/DFRobot/Mindplus-Desktop
+
+![](http://henjay724.com/image/biweekly20211010/Mind+.PNG)
 
 ### 欢迎订阅
 
