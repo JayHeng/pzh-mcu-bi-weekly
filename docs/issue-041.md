@@ -12,7 +12,7 @@
 
 这周五是寒露，历史上的今天：1925年10月10日，北京故宫博物院首次对外开放。
 
-本期共收录 0个资讯、1个项目、0个工具、0个RT产品，希望对你有帮助！
+本期共收录 0个资讯、2个项目、0个工具、0个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -32,6 +32,28 @@ ECBM 是基于STC8单片机的外设函数库，也是“Everything Can Be Modul
 > 项目主页： https://gitee.com/jackchio/ecbm_library
 
 STC8是目前51单片机里最好用的系列，拥有最多8K的SRAM、64K的Flash、5个定时器、4个串口。全系列都带IIC和SPI，大部分带ADC。STC8H还带有硬件USB。
+
+### <font color="red">2、stcgal - STC单片机的命令行编程工具</font>
+
+stcgal 是 STC MCU 的命令行编程工具，兼容 8051 系列单片机。是 STC Windows 软件的全功能开源替代品，便携使用，适合自动化。
+
+> 项目主页： https://github.com/grigorig/stcgal
+
+功能特性包含：
+
+```text
+1. 支持 STC 89/90/10/11/12/15/8 系列
+2. 支持 UART 和 USB BSL
+3. 显示芯片信息
+4. 确定的操作频率
+5. 编程 flash
+6. 编程 IAP/EEPROM
+7. 设置设备选项
+8. 读取唯一设备ID(STC 10/11/12/15/8)
+9. 修整RC振荡器频率(STC 15/8)
+10. 使用 DTR 切换或自定义 shell 命令自动重启电源
+11. 自动的 UART 协议检测
+```
 
 ### 欢迎订阅
 
