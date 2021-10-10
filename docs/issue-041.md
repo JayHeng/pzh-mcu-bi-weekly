@@ -12,20 +12,27 @@
 
 这周五是寒露，历史上的今天：1925年10月10日，北京故宫博物院首次对外开放。
 
-本期共收录 0个资讯、2个项目、0个工具、0个RT产品，希望对你有帮助！
+本期共收录 0个资讯、3个项目、0个工具、0个RT产品，希望对你有帮助！
 
 ## 资讯类
 
 ### <font color="red">1、</font>
 
 
-![](http://henjay724.com/image/biweekly20211010/.PNG)
-
-
 
 ## 项目类
 
-### <font color="red">1、ECBM - 基于STC8系列的通用底层驱动函数库</font>
+### <font color="red">1、AliOS Things - 阿里出品轻量级物联网嵌入式操作系统</font>
+
+AliOS Things 发布于2017年杭州云栖大会， 是 AliOS 家族旗下的、面向IoT领域的、高可伸缩的物联网操作系统。AliOS Things 致力于搭建云端一体化IoT基础设施，具备极致性能、极简开发、云端一体。
+
+> 项目主页： https://github.com/alibaba/AliOS-Things
+
+AliOS Things 支持多种CPU架构，包括：ARM，C-Sky，MIPS，RISCV等。AliOS Things 适配了分层架构和组件架构，包括下图全部组件，所有的模块都作为组件的形式存在，通过yaml进行配置，应用程序可以很方便的选择需要的组件。
+
+![](http://henjay724.com/image/biweekly20211010/AliOS-Things.PNG)
+
+### <font color="red">2、ECBM - 基于STC8系列的通用底层驱动函数库</font>
 
 ECBM 是基于STC8单片机的外设函数库，也是“Everything Can Be Module”的简称，意思是“一切都可以成为模块”，其宗旨是“软件、硬件模块化，只造一次轮子”。目前该库已经演进到了V3版本，支持STC8全型号。库的作者是奈特，一枚6年STC铁粉。
 
@@ -33,7 +40,7 @@ ECBM 是基于STC8单片机的外设函数库，也是“Everything Can Be Modul
 
 STC8是目前51单片机里最好用的系列，拥有最多8K的SRAM、64K的Flash、5个定时器、4个串口。全系列都带IIC和SPI，大部分带ADC。STC8H还带有硬件USB。
 
-### <font color="red">2、stcgal - STC单片机的命令行编程工具</font>
+### <font color="red">3、stcgal - STC单片机的命令行编程工具</font>
 
 stcgal 是 STC MCU 的命令行编程工具，兼容 8051 系列单片机。是 STC Windows 软件的全功能开源替代品，便携使用，适合自动化。
 
