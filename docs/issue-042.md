@@ -12,7 +12,7 @@
 
 下周六是霜降，历史上的今天：1990年10月17日，世界上第一家互联网数据资料库诞生，简称“IMDB”，在美国成立。
 
-本期共收录 0个项目、2个工具、2个RT产品，希望对你有帮助！
+本期共收录 0个项目、3个工具、2个RT产品，希望对你有帮助！
 
 ## 项目类
 
@@ -50,6 +50,16 @@ Black Duck 是最早进行开源代码检测工具开发的公司（2017年被 S
 > 软件主页： https://www.blackducksoftware.com/
 
 ![](http://henjay724.com/image/biweekly20211017/BlackDuckProtex.PNG)
+
+### <font color="red">3、Coverity - 知名的代码静态检测工具</font>
+
+Coverity 是一款快速、准确且高度可扩展的静态分析 (SAST) 解决方案（这家公司于2014年被 Synopsys 收购），可帮助开发和安全团队在软件开发生命周期 (SDLC) 的早期解决安全和质量缺陷，跟踪和管理整个应用组合的风险，并确保符合安全和编码标准。 
+
+> 软件主页： https://scan.coverity.com/
+
+Coverity 主页还记录了其检测出的大量知名项目里的潜在代码问题，代码片段全部列了出来，大家都可以去看看这些代码，对提升代码能力非常有帮助。 
+
+> 典型案例： https://scan.coverity.com/o/oss_success_stories
 
 ## i.MXRT出品
 
