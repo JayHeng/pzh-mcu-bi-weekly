@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) | [第 040 期](docs/issue-040.md) | [第 041 期](docs/issue-041.md) 
+[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) | [第 040 期](docs/issue-040.md) | [第 041 期](docs/issue-041.md) | [第 042 期](docs/issue-042.md) 
 
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
@@ -185,6 +185,8 @@
 > * 【第 041 期】83、stcgal - STC单片机的命令行编程工具
 > * 【第 041 期】84、nRF51_Platform - 基于nRF51平台(蓝牙4.0)的轻量级SDK
 > * 【第 041 期】85、OpenLoongsonLib1c - 基于龙芯1C的底层驱动函数库
+> * 【第 042 期】86、irtu-gps - 基于iRTU项目实现GPS数据的接收和展示
+> * 【第 042 期】87、u8g2_wqy - 适合 u8g2 图形库的中文字体
 
 **项目(硬)**
 
@@ -286,6 +288,9 @@
 > * 【第 036 期】43、VirtualLCD - 可用于 GUI 移植的 LCD 模拟器
 > * 【第 039 期】44、USB-HID-TEST - 轻量级 USB 调试工具
 > * 【第 041 期】45、Mind+ - 图形化Arduino编程工具
+> * 【第 042 期】46、Jenkins - 最流行的开源免费持续集成工具
+> * 【第 042 期】47、Black Duck Protex - 知名的开源代码检测工具
+> * 【第 042 期】48、Coverity - 知名的代码静态检测工具
 
 **工具(硬)**
 
@@ -309,3 +314,5 @@
 > * 【第 022 期】12、格力电器 - 热泵洗护机XQG100
 > * 【第 024 期】13、造隆股份 - 摩托车仪表盘VSC-01
 > * 【第 040 期】14、科瑞格绿山 - Keurig POP咖啡机
+> * 【第 042 期】15、Amazfit - 智能手表 GTR 3
+> * 【第 042 期】16、Amazfit - 智能手表 GTR 3 Pro
