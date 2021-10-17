@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) | [第 040 期](docs/issue-040.md) 
+[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) | [第 040 期](docs/issue-040.md) | [第 041 期](docs/issue-041.md) 
 
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
@@ -180,6 +180,11 @@
 > * 【第 039 期】78、IonDB - 用于资源受限系统的键值数据库
 > * 【第 040 期】79、pico-debug - RP2040 Raspberry Pi Pico板的虚拟调试器
 > * 【第 040 期】80、CBUF - 极优雅的宏实现环形缓冲区
+> * 【第 041 期】81、AliOS Things - 阿里出品轻量级物联网嵌入式操作系统
+> * 【第 041 期】82、ECBM - 基于STC8系列的通用底层驱动函数库
+> * 【第 041 期】83、stcgal - STC单片机的命令行编程工具
+> * 【第 041 期】84、nRF51_Platform - 基于nRF51平台(蓝牙4.0)的轻量级SDK
+> * 【第 041 期】85、OpenLoongsonLib1c - 基于龙芯1C的底层驱动函数库
 
 **项目(硬)**
 
@@ -280,6 +285,7 @@
 > * 【第 036 期】42、Copilot - OpenAI与GitHub联合出品的自动代码生成AI
 > * 【第 036 期】43、VirtualLCD - 可用于 GUI 移植的 LCD 模拟器
 > * 【第 039 期】44、USB-HID-TEST - 轻量级 USB 调试工具
+> * 【第 041 期】45、Mind+ - 图形化Arduino编程工具
 
 **工具(硬)**
 
