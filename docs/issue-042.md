@@ -12,7 +12,7 @@
 
 下周六是霜降，历史上的今天：1990年10月17日，世界上第一家互联网数据资料库诞生，简称“IMDB”，在美国成立。
 
-本期共收录 0个项目、0个工具、2个RT产品，希望对你有帮助！
+本期共收录 0个项目、1个工具、2个RT产品，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,17 @@
 
 ![](http://henjay724.com/image/biweekly20211017/.PNG)
 
+## 工具类
 
+### <font color="red">1、Jenkins - 最流行的开源免费持续集成工具</font>
+
+Jenkins 是一个开源的、提供友好操作界面的持续集成(CI)工具，起源于Hudson（Hudson是商用的），主要用于持续、自动的构建/测试软件项目、监控外部任务的运行。
+
+Jenkins 用Java语言编写，可在Tomcat等流行的servlet容器中运行，也可独立运行。通常与版本管理工具(SCM)、构建工具结合使用。
+
+> 软件主页： https://www.jenkins.io/
+
+![](http://henjay724.com/image/biweekly20211017/Jenkins_CI.PNG)
 
 ## i.MXRT出品
 
