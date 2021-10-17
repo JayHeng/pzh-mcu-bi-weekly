@@ -12,17 +12,26 @@
 
 下周六是霜降，历史上的今天：1990年10月17日，世界上第一家互联网数据资料库诞生，简称“IMDB”，在美国成立。
 
-本期共收录 0个项目、3个工具、2个RT产品，希望对你有帮助！
+本期共收录 1个项目、3个工具、2个RT产品，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、irtu-gps - 基于iRTU项目实现GPS数据的接收和展示</font>
 
+irtu-gps 基于iRTU项目（一个开源的DTU/RTU解决方案，基于合宙硬件模块），实现了GPS数据的接收和展示，设备PCB开源/服务器端开源/小程序全开源。
 
+> 项目主页： https://gitee.com/wendal/irtu-gps
 
-> 项目主页： 
+技术特点:
 
-![](http://henjay724.com/image/biweekly20211017/.PNG)
+```text
+1. 基于smart-socket的高性能io框架,轻松支持10w设备同时在线
+2. 直接支持iRTU内置的JSON注册包
+3. 无缝支持GPS的json数据包和hex数据包, 推荐选用hex,节省流量,性能更高
+4. 自动建表,自动初始化. 默认配置H2数据库, 无需额外安装. 可按需要使用其他数据库
+5. 基于NutzBoot,单个jar即可运行, 无需web容器,内存占用最低可到48mb
+6. 配套微信小程序 https://gitee.com/wendal/irtu-gps-miniapp
+```
 
 ## 工具类
 
