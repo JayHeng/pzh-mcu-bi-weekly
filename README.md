@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 037 期](docs/issue-037.md) | [第 038 期](docs/issue-038.md) | [第 039 期](docs/issue-039.md) | [第 040 期](docs/issue-040.md) | [第 041 期](docs/issue-041.md) | [第 042 期](docs/issue-042.md) 
+[第 042 期](docs/issue-042.md) | [第 041 期](docs/issue-041.md) | [第 040 期](docs/issue-040.md) | [第 039 期](docs/issue-039.md) | [第 038 期](docs/issue-038.md) | [第 037 期](docs/issue-037.md) 
 
 [第 036 期](docs/issue-036.md) | [第 035 期](docs/issue-035.md) | [第 034 期](docs/issue-034.md) | [第 033 期](docs/issue-033.md) | [第 032 期](docs/issue-032.md) | [第 031 期](docs/issue-031.md)
 
