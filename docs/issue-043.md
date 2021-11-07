@@ -12,7 +12,7 @@
 
 今天是立冬，历史上的今天：2000年11月7日，周杰伦第一张同名专辑《Jay》发布。
 
-本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、1个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -40,9 +40,28 @@ Bifort可以提供PCIe Gen2x4 / SATA3主控接口，并提供6个独立的Flash 
 
 ## 项目类
 
+### <font color="red">1、soft-and-hard - 基于JS的经典入门物联网教程</font>
 
+soft-and-hard 是一个以物联网项目为主方向分享 web 开发教程，制作并演示一个物联网系统是怎么跑起来的，介绍如何学习相关知识。
 
+> 项目主页：https://github.com/alwxkxk/soft-and-hard
 
+教程内容包括：
+
+```text
+1. 硬件上选择价格便宜(淘宝价十几块钱)的NodeMCU开发板，使用Arduino进行开发。
+2. 物联网你还得先懂网，在教程中简单介绍了计算机网络基础知识、TCP/IP协议、HTTP协议、MQTT协议等等。
+3. Web上选择了无所不能的JavaScript，在教程中将会演示其在网页开发、小程序开发、桌面应用开发、服务器后端服务开发。
+4. 整个教程里，推荐先用后学，先把项目跑起来看看效果，再按需学习相关知识，直到自己能把项目写出来。
+```
+
+demo1演示了最简的系统，实现软件显示硬件的数据，可控制硬件执行动作。 
+
+![](http://henjay724.com/image/biweekly20211107/soft-and-hard1.jpg)
+
+在demo1的基础上，demo2添加了MongoDB数据库、实时显示数据（websocket协议）、数据可视化(Echart图表)功能。 
+
+![](http://henjay724.com/image/biweekly20211107/soft-and-hard2.jpg)
 
 ## 工具类
 
