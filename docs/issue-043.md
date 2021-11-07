@@ -12,7 +12,7 @@
 
 今天是立冬，历史上的今天：2000年11月7日，周杰伦第一张同名专辑《Jay》发布。
 
-本期共收录 2个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -34,17 +34,30 @@ Bifort是一个高性能，高可靠性 PCIe/SATA双接口控制器，同时提�
 
 Bifort可以提供PCIe Gen2x4 / SATA3主控接口，并提供6个独立的Flash 通道，控制器配备两个RISC CPU 以达到杰出的性能。
 
-> 产品主页：https://www.exadevice.com/productinfo/30319.html
+> * 产品主页：https://www.exadevice.com/productinfo/30319.html
 
 ![](http://henjay724.com/image/biweekly20211107/Bifort.PNG)
 
 ## 项目类
 
-### <font color="red">1、soft-and-hard - 基于JS的经典入门物联网教程</font>
+### <font color="red">1、OpenOCD - 开源的片上调试器（GDB服务程序）</font>
+
+OpenOCD（Open On-Chip Debugger）是一个开源的片上调试器，它可以控制包括Wiggler之内的很多JTAG硬件，我们可以将它理解为一种GDB服务程序。OpenOCD 旨在提供针对嵌入式设备的调试、系统编程和边界扫描功能。
+
+> * 项目官网：https://openocd.org/
+> * 项目主页：https://github.com/openocd-org/openocd
+
+OpenOCD 的功能需要调试仿真器来辅助完成，调试仿真器是一个提供调试目标电信号的小型硬件单元。常用的有JLink、STLink等，一些开发板直接集成了调试仿真器。
+
+下面的 OpenOCD 架构图可以看出 OpenOCD 提供了GDB Server，可以通过它进行GDB相关的调试操作。提供Telnet Server，可以通过Telnet连接对目标板进行烧录、重启等操作。OpenOCD的配置基于TCL脚本，可以使用默认自带的TCL脚本，也可以编写自定义的脚本。
+
+![](http://henjay724.com/image/biweekly20211107/OpenOCD.PNG)
+
+### <font color="red">2、soft-and-hard - 基于JS的经典入门物联网教程</font>
 
 soft-and-hard 是一个以物联网项目为主方向分享 web 开发教程，制作并演示一个物联网系统是怎么跑起来的，介绍如何学习相关知识。
 
-> 项目主页：https://github.com/alwxkxk/soft-and-hard
+> * 项目主页：https://github.com/alwxkxk/soft-and-hard
 
 教程内容包括：
 
@@ -63,12 +76,10 @@ demo1演示了最简的系统，实现软件显示硬件的数据，可控制硬
 
 ![](http://henjay724.com/image/biweekly20211107/soft-and-hard2.jpg)
 
+
 ## 工具类
 
 ### <font color="red">1、</font>
-
-
-
 
 
 ### 欢迎订阅
