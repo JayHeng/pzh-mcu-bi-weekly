@@ -12,7 +12,7 @@
 
 今天是立冬，历史上的今天：2000年11月7日，周杰伦第一张同名专辑《Jay》发布。
 
-本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、3个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -53,7 +53,19 @@ OpenOCD 的功能需要调试仿真器来辅助完成，调试仿真器是一个
 
 ![](http://henjay724.com/image/biweekly20211107/OpenOCD.PNG)
 
-### <font color="red">2、soft-and-hard - 基于JS的经典入门物联网教程</font>
+### <font color="red">2、Mega-Cube - 4096个RGB LED的光立方（16x16x16）</font>
+
+Mega-Cube 是一个基于 PL9823 驱动 4096 个 LED 的光立方，主控方面是基于恩智浦 i.MXRT1060 FlexIO 功能的Teensy4.0 和很多个 595 移位寄存器，最多能控制32个通道，每个通道1000个LED。
+
+> * 项目主页：https://github.com/MaltWhiskey/Mega-Cube
+
+i.MXRT1060 中带有DMA功能的FlexIO，每秒能驱动100万个LED的更新，大概算下来，32个通道，每个通道100个LED以330帧/秒的速度更新，这还是没有CPU干预的情况下，这样可以带一个屏幕，同步显示光立方上面的运行动画。
+
+![](http://henjay724.com/image/biweekly20211107/Mega-Cube2.PNG)
+
+![](http://henjay724.com/image/biweekly20211107/Mega-Cube.PNG)
+
+### <font color="red">3、soft-and-hard - 基于JS的经典入门物联网教程</font>
 
 soft-and-hard 是一个以物联网项目为主方向分享 web 开发教程，制作并演示一个物联网系统是怎么跑起来的，介绍如何学习相关知识。
 
