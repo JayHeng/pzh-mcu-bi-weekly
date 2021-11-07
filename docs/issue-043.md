@@ -12,7 +12,7 @@
 
 今天是立冬，历史上的今天：2000年11月7日，周杰伦第一张同名专辑《Jay》发布。
 
-本期共收录 2个资讯、3个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -26,7 +26,7 @@
 
 ![](http://henjay724.com/image/biweekly20211107/t-head_yitian710.PNG)
 
-### <font color="red">2、中国首款宇航级存储控制器芯片 - Bifort</font>
+### <font color="red">2、中国首款宇航级存储控制器芯片Bifort</font>
 
 Bifort 是西安艾可萨科技推出的适用于宇航应用的PCIe Gen2x4 / SATA3双接口SSD控制器。
 
@@ -88,11 +88,16 @@ demo1演示了最简的系统，实现软件显示硬件的数据，可控制硬
 
 ![](http://henjay724.com/image/biweekly20211107/soft-and-hard2.jpg)
 
-
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、gdbgui - gdb调试的一个Web可视化扩展</font>
 
+gdbgui 是gdb的一个Web可视化扩展，可以向开发人员提供Web展示前端，因此可以在浏览器中实现断点添加，堆栈查看跟踪以及更改上下文和参数值等操作。
+
+> * 软件官网：https://www.gdbgui.com/
+> * 软件主页：https://github.com/cs01/gdbgui
+
+![](http://henjay724.com/image/biweekly20211107/gdbgui.gif)
 
 ### 欢迎订阅
 
