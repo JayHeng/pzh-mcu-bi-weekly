@@ -99,7 +99,7 @@ EasyFlash是一款开源的轻量级嵌入式Flash存储器库，方便开发者
 
 KiCad 是一款完全免费开源的 EDA 设计软件，最初由法国工程师 Jean-Pierre Charras 独立开发，在 1992 年时就公布了最早的发行版。目前，KiCad 的开发不再由个人完成，而是由专门的开发者团队进行维护升级。
 
-> 软件主页: https://kicad-pcb.org/
+> 软件主页: https://kicad.org/
 
 说到 PCB 设计软件，大家首先想到的肯定是 Altium Designer，Cadence Allegero，或者Eagle等等，不过这些软件的使用，有一个绕不开的问题，那就是版权。网上随手一搜 AD 正版使用一年的价格，至少10W+，这对个人爱好者来说根本无力承担。
 
