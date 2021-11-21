@@ -12,7 +12,7 @@
 
 明天是小雪，历史上的今天：1983年11月21日，中国第一台亿次巨型计算机 - “银河—Ⅰ”通过国家鉴定。
 
-本期共收录 3个项目、1个工具，希望对你有帮助！
+本期共收录 3个项目、3个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -44,7 +44,35 @@ LittlevGL 自带了丰富的控件：窗口、按键、标签、list、图表等
 
 ## 工具类
 
-### <font color="red">1、IDA Pro - 大名鼎鼎的交互式反汇编工具</font>
+### <font color="red">1、SCons - 嵌入式项目里最常用的自动化构建工具</font>
+
+SCons 是一个Python写的自动化构建工具，从构建这个角度说，它跟GNU make是同一类的工具。它是一种改进，并跨平台的gnu make替代工具，其集成功能类似于autoconf/automake 。
+
+SCons 的设计目标就是让开发人员更容易、更可靠和更快速的建造软件。
+
+> * 软件官网：https://www.scons.org/
+
+### <font color="red">2、project_generator - 嵌入式IDE工程文件自动生成工具</font>
+
+project_generator 是一个嵌入式项目生成器，简称progen。我们可以编写一个特定语法的YAML文件用于管理我们的项目，并根据记录中定义的规则来生成 IDE 项目文件。
+
+> * 软件官网：https://pypi.org/project/project-generator/
+
+progen项目生成器目前支持生成以下工具（IDE、Makefile等）的项目：
+
+```text
+uVision4 和 uVision5
+IAR
+生成文件 (GCC ARM)
+生成文件 (ARMCC)
+Cmake (GCC ARM)
+CoIDE (GCC ARM)
+Eclipse（带有 GCC ARM 的 Makefile）
+Sublime（带有 GCC ARM 的 Makefile）
+Visual Studio（带有 GCC ARM 的 Makefile）
+```
+
+### <font color="red">3、IDA Pro - 大名鼎鼎的交互式反汇编工具</font>
 
 IDA Pro 是目前最棒的一个静态反编译软件，其已经成为事实上的分析敌意代码的标准，也是攻击研究领域的重要工具。
 
