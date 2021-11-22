@@ -1,4 +1,4 @@
-# 痞子衡嵌入式半月刊： 第 43 期
+# 痞子衡嵌入式半月刊： 第 44 期
 
 ![](http://henjay724.com/image/cnblogs/pzh_mcu_bi_weekly.PNG)
 
