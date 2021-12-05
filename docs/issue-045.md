@@ -43,6 +43,29 @@ HPM6000全系列产品支持双精度浮点运算及强大的DSP扩展，内置2
 ## 工具类
 
 
+## i.MXRT出品
+
+
+### <font color="red">1、大疆创新 - 航拍小飞机(Mini 2)</font>
+
+Mini 2 是 Mavic mini 的续作，机重量轻于249g，机身迷你，图传距离远达10公里；续航时间长达31分钟，5级风也能扛；4K影像+三轴云台增稳，能够带来自由驰骋的拍摄体验。
+
+> * RT芯片：i.MXRT1064
+> * 产品主页： https://www.dji.com/cn/mini-2
+> * 官网定价： 2899 元起
+
+![](http://henjay724.com/image/biweekly20211205/DJI_Mini2.PNG)
+
+### <font color="red">2、大疆创新 - 航拍小飞机(Mini SE)</font>
+
+Mini SE 是 Mavic mini 的微小升级版，抗风性由4级提升到5级，此外电池稍微缩小了一些，由2400mAh降低为2250mAh，但飞行续航时长保持了相同水平（30分钟）。
+
+> * RT芯片：i.MXRT1064
+> * 产品主页： https://www.dji.com/cn/mini-se
+> * 官网定价： 1999 元起
+
+![](http://henjay724.com/image/biweekly20211205/DJI_MiniSE.PNG)
+
 
 ### 欢迎订阅
 
