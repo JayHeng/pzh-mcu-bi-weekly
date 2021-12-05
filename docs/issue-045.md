@@ -12,7 +12,7 @@
 
 后天是大雪，历史上的今天：1949年12月5日，北京新华广播电台正式定名为中央人民广播电台。
 
-本期共收录 1个资讯、1个项目、0个工具、2个RT产品，希望对你有帮助！
+本期共收录 1个资讯、2个项目、2个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,9 +38,17 @@ Mbed OS 将物联网所需的所有基础组件，包括安全, 通信传输与�
 
 ![](http://henjay724.com/image/biweekly20211205/MbedOS.PNG)
 
+### <font color="red">2、NodeMcu - 超简单的物联网开发平台</font>
 
-## 工具类
+NodeMCU 是一款开源快速硬件原型平台，包括固件和开发板，用几行简单的 Lua 脚本就能开发物联网应用。
 
+NodeMCU 主要用于 Espressif 的 ESP8266 WiFi SOC，并使用基于模块内闪存的 SPIFFS 文件系统。NodeMCU 是用 C 实现的，并且在 Espressif 非操作系统 SDK 上分层。
+
+> * 项目官网：http://www.nodemcu.com/index_cn
+
+固件最初是作为流行的基于 ESP8266 的 NodeMCU 开发模块的配套项目开发的，但该项目现在得到社区支持，并且固件现在可以在任何ESP模块上运行。
+
+![](http://henjay724.com/image/biweekly20211205/NodeMCU.PNG)
 
 ## i.MXRT出品
 
