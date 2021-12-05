@@ -12,7 +12,7 @@
 
 后天是大雪，历史上的今天：1949年12月5日，北京新华广播电台正式定名为中央人民广播电台。
 
-本期共收录 1个资讯、2个项目、2个RT产品，希望对你有帮助！
+本期共收录 1个资讯、3个项目、2个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -50,8 +50,17 @@ NodeMCU 主要用于 Espressif 的 ESP8266 WiFi SOC，并使用基于模块内�
 
 ![](http://henjay724.com/image/biweekly20211205/NodeMCU.PNG)
 
-## i.MXRT出品
+### <font color="red">3、MicroEJ VEE - 具有所有标准服务的嵌入式物联网虚拟执行环境</font>
 
+MicroEJ 是做虚拟机的公司，现在也涉略物联网领域，其推出的 MicroEJ VEE 是一个标准，安全，可靠的嵌入式软件平台，能够在包括微控制器（MCU），微处理器（MPU）和片上系统（SoC）在内的任何处理器上运行。
+
+> * 项目官网：https://www.microej.com/product/vee/
+
+MicroEJ VEE 充当一个软件容器，与 Android 共享相同的虚拟化标准，可在嵌入式系统中常用的任何OS/RTOS（FreeRTOS、QP/C、ucOS、ThreadX、mBed OS、VxWorks、PikeOS、Integrity、Linux等）上运行，也可以在没有RTOS（裸机）或专有RTOS的情况下运行。
+
+![](http://henjay724.com/image/biweekly20211205/MicroEJ-VEE.PNG)
+
+## i.MXRT出品
 
 ### <font color="red">1、大疆创新 - 航拍小飞机(Mini 2)</font>
 
