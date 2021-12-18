@@ -12,7 +12,7 @@
 
 下周二是冬至，历史上的今天：1959年12月18日，世界上第一台晶体管计算机 - IBM7090由美国国际商用机器公司制造成功。
 
-本期共收录 1个资讯、0个项目、0个RT产品，希望对你有帮助！
+本期共收录 2个资讯、0个项目、0个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -24,6 +24,15 @@
 
 ![](http://henjay724.com/image/biweekly20211218/dishuihu_luntan2.PNG)
 ![](http://henjay724.com/image/biweekly20211218/dishuihu_luntan.PNG)
+
+### <font color="red">2、2021 RT-Thread开发者大会召开</font>
+
+2021 RDC (RT-Thread Developer Conference,RT-Thread 开发者大会)以“Beyond”为主题，寓意超越自我，突破边界，RT-Thread将展示其最新的技术动态，产业服务能力。
+
+本届会议四个分会场关于嵌入式的 16 个主题演讲干货满满，还搭配了相应动手环节，绝对的技术盛宴。
+
+![](http://henjay724.com/image/biweekly20211218/2021_RTT_RDC.PNG)
+![](http://henjay724.com/image/biweekly20211218/2021_RTT_RDC1.PNG)
 
 ## 项目类
 
