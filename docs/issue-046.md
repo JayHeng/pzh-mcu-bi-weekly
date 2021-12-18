@@ -12,7 +12,7 @@
 
 下周二是冬至，历史上的今天：1959年12月18日，世界上第一台晶体管计算机 - IBM7090由美国国际商用机器公司制造成功。
 
-本期共收录 2个资讯、0个项目、0个RT产品，希望对你有帮助！
+本期共收录 2个资讯、1个项目、0个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,9 +36,15 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、PikaScript - 面向嵌入式的超轻量级python引擎</font>
 
+PikaScript（前称mimiscript）是一个完全重写的超轻量级python引擎，零依赖，零配置，可以在少于4KB的RAM下运行(如stm32g030c8和stm32f103c8)，极易部署和扩展。
 
+> 项目地址：https://github.com/pikasTech/pikascript
+
+PikaScript是使用c语言写成的开源脚本支持库，可以非侵入地为mcu提供面向对象的脚本支持。PikaScript能够将c语言的原生函数以及变量绑定到脚本对象上，然后直接使用脚本调用。其架构图如下：
+
+![](http://henjay724.com/image/biweekly20211218/mimiScript.PNG)
 
 ### 欢迎订阅
 
