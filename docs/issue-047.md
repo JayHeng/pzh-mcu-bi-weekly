@@ -12,7 +12,7 @@
 
 本周三是小寒，历史上的今天：2007年1月9日，备受瞩目的A股保险第一股 — 中国人寿（601628）于在上海证券交易所挂牌上市。
 
-本期共收录 0个资讯、1个项目、0个RT产品，希望对你有帮助！
+本期共收录 0个资讯、1个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -30,8 +30,17 @@ Gregory Davill 是来自澳大利亚的一个技术牛人，在开源硬件领�
 
 ![](http://henjay724.com/image/biweekly20220109/advent-calendar-of-circuits-2020.PNG)
 
-## i.MXRT出品
+## 工具类
 
+### <font color="red">1、gcov - 标准c/c++代码覆盖率测试工具</font>
+
+gcov 全称 GCC Coverage，是一个测试代码覆盖率的工具，命令行方式的控制台程序，伴随GCC发布，配合GCC共同实现对C/C++文件的语句覆盖和分支覆盖测试；
+
+> * 工具地址：https://gcc.gnu.org/onlinedocs/gcc/Gcov.html
+
+gcov 可以统计每一行代码的执行频率，实际上哪些代码确实被执行了，每一段代码(section code)的耗时(执行时间)，因此，gcov可以帮你优化代码，当然这个优化动作还是应该由开发者完成。
+
+![](http://henjay724.com/image/biweekly20220109/gcov.PNG)
 
 ### 欢迎订阅
 
