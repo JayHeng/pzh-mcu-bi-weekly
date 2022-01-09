@@ -12,7 +12,7 @@
 
 本周三是小寒，历史上的今天：2007年1月9日，备受瞩目的A股保险第一股 — 中国人寿（601628）于在上海证券交易所挂牌上市。
 
-本期共收录 0个资讯、1个项目、2个工具，希望对你有帮助！
+本期共收录 0个资讯、1个项目、3个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -42,7 +42,15 @@ gcov 可以统计每一行代码的执行频率，实际上哪些代码确实被
 
 ![](http://henjay724.com/image/biweekly20220109/gcov.PNG)
 
-### <font color="red">2、gprof - 标准c/c++代码性能分析工具</font>
+### <font color="red">2、lcov - GCC测试覆盖率的前端图形展示工具</font>
+
+lcov 是 GCC 测试覆盖率的前端图形展示工具，简单说就是 gcov 结果展现的一个前端。它通过收集多个源文件的行、函数和分支的代码覆盖信息（程序执行之后生成gcda、gcno文件） 并且将收集后的信息生成 HTML 页面。
+
+> * 结果示例：http://ltp.sourceforge.net/coverage/lcov/output/index.html
+
+![](http://henjay724.com/image/biweekly20220109/lcov.PNG)
+
+### <font color="red">3、gprof - 标准c/c++代码性能分析工具</font>
 
 gprof 全称 GNU profiler，是一个性能分析工具。gprof 可以显示程序运行的“flat profile”，包括每个函数的调用次数，每个函数消耗的处理器时间。也可以显示“调用图”，包括函数的调用关系，每个函数调用花费了多少时间。还可以显示“注释的源代码”，是程序源代码的一个复本，标记有程序中每行代码的执行次数。
 
