@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 046 期](docs/issue-046.md) | [第 045 期](docs/issue-045.md) | [第 044 期](docs/issue-044.md) | [第 043 期](docs/issue-043.md)
+[第 047 期](docs/issue-047.md) | [第 046 期](docs/issue-046.md) | [第 045 期](docs/issue-045.md) | [第 044 期](docs/issue-044.md) | [第 043 期](docs/issue-043.md)
 
 [第 042 期](docs/issue-042.md) | [第 041 期](docs/issue-041.md) | [第 040 期](docs/issue-040.md) | [第 039 期](docs/issue-039.md) | [第 038 期](docs/issue-038.md) | [第 037 期](docs/issue-037.md) 
 
@@ -259,6 +259,7 @@
 > * 【第 040 期】50、Zoolark - 一款多功能袖珍仪器
 > * 【第 043 期】51、Mega-Cube - 4096个RGB LED的光立方（16x16x16）
 > * 【第 046 期】52、ATmega-Soldering-Station - 成熟的 T12 焊台控制器
+> * 【第 047 期】53、advent-calendar-of-circuits-2020 - 一个月每天用KiCad设计一个PCB项目
 
 **工具(软)**
 
@@ -315,6 +316,10 @@
 > * 【第 044 期】51、SCons - 嵌入式项目里最常用的自动化构建工具
 > * 【第 044 期】52、project_generator - 嵌入式IDE工程文件自动生成工具
 > * 【第 044 期】53、IDA Pro - 大名鼎鼎的交互式反汇编工具
+> * 【第 047 期】54、gcov - 标准c/c++代码覆盖率测试工具
+> * 【第 047 期】55、lcov - GCC测试覆盖率的前端图形展示工具
+> * 【第 047 期】56、gprof - 标准c/c++代码性能分析工具
+> * 【第 047 期】57、Enterprise Architect - 最全面的UML建模和生命周期工具
 
 **工具(硬)**
 
