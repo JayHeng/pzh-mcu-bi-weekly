@@ -12,7 +12,7 @@
 
 本周四是大寒，历史上的今天：2004年1月23日，在环火星轨道上运行的欧洲航天局“火星快车”探测器在火星表面发现了水的痕迹，这是人类首次在火星表面发现水。
 
-本期共收录 2个资讯、1个项目、1个工具、2个RT产品，希望对你有帮助！
+本期共收录 2个资讯、2个项目、1个工具、2个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -47,6 +47,17 @@ YTM32B1L系列产品是云途半导体2021年初推出的首款车规级32位MCU
 > * 项目来源：https://www.amobbs.com/thread-3339369-1-12.html
 
 ![](http://henjay724.com/image/biweekly20220123/STM32+CH375_USB_UART.PNG)
+
+### <font color="red">2、Arduino Laser Infrared Thermometer - 基于 Arduino 的便携式红外测温仪</font>
+
+红外测温仪能够测量物体的表面温度，其优点是非接触式测温，可以方便且精准地测量远端物体温度，应用广泛。这个项目包括自制一把红外测温仪所需要的材料、工具和制造的方法等全部流程。
+
+> * 项目主页1：https://make.quwj.com/project/157
+> * 项目主页2：https://www.instructables.com/Arduino-Laser-Infrared-Thermometer/
+
+这个项目使用的是 GY-906 红外线温度计传感器。这款模块非常便宜，易于集成，并且支持带有 10K 上拉电阻的 I2C 接口 。此款温度传感器的出厂校准为：传感器温度范围为 -40 至 125 摄氏度，物体温度范围为 -70 至 380 摄氏度。传感器的误差范围约为 0.5 摄氏度。
+
+![](http://henjay724.com/image/biweekly20220123/Arduino_Laser_Infrared_Thermometer.PNG)
 
 ## 工具类
 
