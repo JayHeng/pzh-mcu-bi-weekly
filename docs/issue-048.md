@@ -12,7 +12,7 @@
 
 本周四是大寒，历史上的今天：2004年1月23日，在环火星轨道上运行的欧洲航天局“火星快车”探测器在火星表面发现了水的痕迹，这是人类首次在火星表面发现水。
 
-本期共收录 2个资讯、0个项目、1个工具、2个RT产品，希望对你有帮助！
+本期共收录 2个资讯、1个项目、1个工具、2个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -32,12 +32,21 @@ YTM32B1L系列产品是云途半导体2021年初推出的首款车规级32位MCU
 
 近日、云途宣布YTM32B1L系列产品成功通过AEC-Q100车规认证，其中包括加速环境应力可靠性检验、加速寿命模拟可靠性验证、封装可靠性检验、芯片晶圆制程可靠性检验、电学参数验证、缺陷筛选检验等最高 28 项车规芯片认证。
 
+> * 资讯来源：https://mp.weixin.qq.com/s?src=11&timestamp=1642928090&ver=3575&signature=4cyVmwbdLExyWsPMjGmxds2FeXWHOK-xbmR4i-tf8KPhTi5N-Y9mvp3qJCVd3lFj01EAkXsUGJdWB4E05pf-DXuSJy8U9nSXa*164RjvQaWOtsOMQWC4TuksJOEOIBTK&new=1
+
 ![](http://henjay724.com/image/biweekly20220123/YTM32B1L.PNG)
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、串口U盘 - 基于STM32+CH375的郁闷的工程师利器</font>
 
+辛勤地打工的工程师们，你们是否曾经有过这样的经历,自己辛辛苦苦为公司写的代码和设计的PCB，却无论如何都不能据为己有？因为公司不允许个人电脑上网，因为公司的电脑居然把USB口也封闭了！这时候，我们是万般地郁闷，但是，作为一个以电子开发为主的公司，无论他把多少个USB口封了，都永远会留给你一个串口！
+
+正是这个串口，使我们想到了这样的一个东西 - 串口也可插U盘，设计思路：利用STM32的ARM CPU作为主控+CH375 USB HOST芯片，设计出一个转换板，U盘插进这个板上，板的另一头则是串口，插到电脑上，利用常用的串口调试工具SSCOM或者WINDOW的超级终端，实现把电脑上任意文件通过232传送到U盘上。
+
+> * 项目来源：https://www.amobbs.com/thread-3339369-1-12.html
+
+![](http://henjay724.com/image/biweekly20220123/STM32+CH375_USB_UART.PNG)
 
 ## 工具类
 
