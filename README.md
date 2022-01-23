@@ -11,7 +11,7 @@
 
 ## 2021农历辛丑牛年
 
-[第 047 期](docs/issue-047.md) | [第 046 期](docs/issue-046.md) | [第 045 期](docs/issue-045.md) | [第 044 期](docs/issue-044.md) | [第 043 期](docs/issue-043.md)
+[第 048 期](docs/issue-048.md) | [第 047 期](docs/issue-047.md) | [第 046 期](docs/issue-046.md) | [第 045 期](docs/issue-045.md) | [第 044 期](docs/issue-044.md) | [第 043 期](docs/issue-043.md)
 
 [第 042 期](docs/issue-042.md) | [第 041 期](docs/issue-041.md) | [第 040 期](docs/issue-040.md) | [第 039 期](docs/issue-039.md) | [第 038 期](docs/issue-038.md) | [第 037 期](docs/issue-037.md) 
 
@@ -104,6 +104,8 @@
 > * 【第 045 期】67、先楫半导体发布超高性能RISC-V微控制器 - HPM6000
 > * 【第 046 期】68、首届“滴水湖中国RISC-V产业论坛”开启
 > * 【第 046 期】69、2021 RT-Thread开发者大会召开
+> * 【第 048 期】70、灵动微电子加推基于STAR-MC1内核的微控制器MM32F5270
+> * 【第 048 期】71、云途半导体首款微控制器YTM32B1L通过AEC-Q100车规认证
 
 **项目(软)**
 
@@ -260,6 +262,8 @@
 > * 【第 043 期】51、Mega-Cube - 4096个RGB LED的光立方（16x16x16）
 > * 【第 046 期】52、ATmega-Soldering-Station - 成熟的 T12 焊台控制器
 > * 【第 047 期】53、advent-calendar-of-circuits-2020 - 一个月每天用KiCad设计一个PCB项目
+> * 【第 048 期】54、串口U盘 - 基于STM32+CH375的郁闷的工程师利器
+> * 【第 048 期】55、Arduino Laser Infrared Thermometer - 基于 Arduino 的便携式红外测温仪
 
 **工具(软)**
 
@@ -320,6 +324,7 @@
 > * 【第 047 期】55、lcov - GCC测试覆盖率的前端图形展示工具
 > * 【第 047 期】56、gprof - 标准c/c++代码性能分析工具
 > * 【第 047 期】57、Enterprise Architect - 最全面的UML建模和生命周期工具
+> * 【第 048 期】58、WOKWI - 在线的Arduino/ESP32/树莓派Pico仿真学习平台
 
 **工具(硬)**
 
@@ -348,3 +353,5 @@
 > * 【第 045 期】17、大疆创新 - 航拍小飞机(Mini 2)
 > * 【第 045 期】18、大疆创新 - 航拍小飞机(Mini SE)
 > * 【第 046 期】19、北京智慧水务发展研究院 - 边缘抄表器
+> * 【第 048 期】20、大疆创新 - 无线麦克风(Mic)
+> * 【第 048 期】21、野火电子 - fireFlasher Mini脱机下载器
