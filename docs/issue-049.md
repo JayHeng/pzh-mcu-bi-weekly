@@ -14,7 +14,7 @@
 
 痞子衡祝各位读者在 2022 虎年里工作顺利，事业有成，爱情甜蜜，家庭幸福，专业技术突飞猛进，成为行业专家。
 
-本期共收录 1个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -26,6 +26,16 @@
 
 > * 资讯来源：https://blogs.nvidia.cn/2022/02/09/nvidia-and-softbank-group-announce-termination-of-nvidias-acquisition-of-arm-limited/
 
+### <font color="red">2、智芯半导体发布第二个产品家族Z20K148</font>
+
+近日，中国专业汽车级芯片供应商 - 智芯半导体，推出基于Arm Cortex M4F的汽车级微控制器Z20K148，主要面向汽车车身控制、功能网关，智能座舱、新能源BMS、电机控制等多种应用。
+
+> * 产品主页：https://www.zhixin-semi.com/product?productid=61f34e4d219b6b640f115bed
+
+ZC20K148采用业界领先的40nm生产制造工艺，主频高达160MHz，通过AEC-Q100认证，按照ISO26262流程开发，满足ASIL-B。Z20K148的AUTOSAR MCAL, SDK，评估板，参考设计陆续上线。
+
+![](http://henjay724.com/image/biweekly20220213/zhixin_Z20K148.PNG)
+
 ## 项目类
 
 ### <font color="red">1、</font>
@@ -34,7 +44,6 @@
 
 > * 项目来源：
 
-![](http://henjay724.com/image/biweekly20220213/.PNG)
 
 
 ## 工具类
