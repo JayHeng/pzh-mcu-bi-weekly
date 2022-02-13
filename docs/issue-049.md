@@ -14,7 +14,7 @@
 
 痞子衡祝各位读者在 2022 虎年里工作顺利，事业有成，爱情甜蜜，家庭幸福，专业技术突飞猛进，成为行业专家。
 
-本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,13 +38,25 @@ ZC20K148采用业界领先的40nm生产制造工艺，主频高达160MHz，通�
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、wolfSSL - 一个轻量级的嵌入式SSL/TLS加密库</font>
 
+wolfSSL 是一个基于C语言的轻量级 SSL/TLS 库，专门针对嵌入式和 RTOS 环境，主打特点是体积小，速度快，功能集。
 
+wolfSSL 的起源可追溯到2004年，当时Larry Stefonic和Todd Ouska意识到没有其他开源，双重授权的嵌入式SSL库可用。OpenSSL当时是可用的，但许多OpenSSL用户想要一个可以轻松便携，更小，更快，在明确的商业许可下可用的替代方案，配备了一个干净而现代的 API，并提供商业风格的开发人员支持。
 
-> * 项目来源：
+> * 项目地址：https://github.com/wolfSSL/wolfssl
 
+![](http://henjay724.com/image/biweekly20220213/wolfSSL.PNG)
 
+### <font color="red">2、wolfBoot - 一种开源的商用级嵌入式bootloader</font>
+
+wolfBoot 是一种可移植的，与操作系统无关的安全引导加载程序解决方案，它依靠 wolfCrypt 进行固件身份验证，并提供固件更新机制。
+
+> * 项目地址：https://github.com/wolfSSL/wolfBoot
+
+wolfBoot 支持多个密钥库和/或基于硬件的公共密钥加速器，例如Freescale-LTE和STM32-PKA。通过与wolfTPM的集成提供了TPM-2.0支持。wolfBoot 不执行任何特定的密钥配置，在最简单的情况下，只需创建一个私钥并使用它为目标签名更新。
+
+![](http://henjay724.com/image/biweekly20220213/wolfBoot.PNG)
 
 ## 工具类
 
