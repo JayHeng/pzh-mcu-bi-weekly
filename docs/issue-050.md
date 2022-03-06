@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：2017年3月6日，“海翼”号水下滑翔机刷新世界纪录，最大下潜深度达到6329米。
 
-本期共收录 0个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 0个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,7 +36,28 @@ X-TRACK软件架构示意图如下：由HAL、Framework 和 APP 三层组成，F
 
 ![](http://henjay724.com/image/biweekly20220306/X-TRACK.gif)
 
+### <font color="red">2、Daytripper - 激光绊脚器（智能摸鱼神器）</font>
 
+最近发现一个好玩的开源项目 Daytripper。有了它，再也不用担心摸鱼的时候被人发现了。Daytripper 其实是一个激光绊脚器，在接收到触发信号时：
+
+```text
+• 可以隐藏你的电脑桌面应用
+• 锁定电脑屏幕
+• 可以执行定制化脚本，完成任何你想做的事情
+```
+
+> * 项目地址：https://github.com/dekuNukem/daytripper
+
+该项目包括主要包括两部分：
+
+```text
+• 发送器。负责运动检测，发送信号给接收器。
+• 接收器。负责接收信号，转发给 PC。
+```
+
+![](http://henjay724.com/image/biweekly20220306/Daytripper.jpg)
+
+![](http://henjay724.com/image/biweekly20220306/Daytripper.gif)
 
 ## 工具类
 
