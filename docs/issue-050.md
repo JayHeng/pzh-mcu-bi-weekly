@@ -12,15 +12,19 @@
 
 昨天是惊蛰，历史上的今天：2017年3月6日，“海翼”号水下滑翔机刷新世界纪录，最大下潜深度达到6329米。
 
-本期共收录 0个资讯、3个项目、1个工具，希望对你有帮助！
+本期共收录 1个资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU</font>
 
+瑞萨电子近日宣布，推出基于64位RISC-V CPU内核的RZ/Five通用微处理器（MPU）——RZ/Five采用Andes AX45MP，基于RISC-V CPU指令集架构（ISA），增强了瑞萨现有基于Arm® CPU内核的MPU阵容，扩充了客户的选择，并在产品开发过程中提供更大灵活性。
 
+> * 资讯来源：https://www2.renesas.cn/cn/zh/about/press-room/renesas-pioneers-risc-v-technology-rzfive-general-purpose-mpus-based-64-bit-risc-v-cpu-core
 
-![](http://henjay724.com/image/biweekly20220306/.PNG)
+RZ/Five的外围功能和封装与基于Arm内核的RZ/G2UL产品相兼容，可灵活重复使用经过验证的设计。RZ/Five还采用更小、更紧凑的封装，以更有效地满足复杂度较低的设计。RZ/Five MPU样片即日起发售，并计划于2022年7月开始量产。
+
+![](http://henjay724.com/image/biweekly20220306/renesas-RZ-Five.PNG)
 
 ## 项目类
 
