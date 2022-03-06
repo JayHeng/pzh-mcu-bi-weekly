@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 049 期](docs/issue-049.md)
+[第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
 ## 2021农历辛丑牛年
 
@@ -112,6 +112,7 @@
 > * 【第 048 期】71、云途半导体首款微控制器YTM32B1L通过AEC-Q100车规认证
 > * 【第 049 期】72、英伟达并购ARM案告吹，ARM谋求IPO
 > * 【第 049 期】73、智芯半导体发布第二个产品家族Z20K148
+> * 【第 050 期】74、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU
 
 **项目(软)**
 
@@ -273,6 +274,9 @@
 > * 【第 047 期】53、advent-calendar-of-circuits-2020 - 一个月每天用KiCad设计一个PCB项目
 > * 【第 048 期】54、串口U盘 - 基于STM32+CH375的郁闷的工程师利器
 > * 【第 048 期】55、Arduino Laser Infrared Thermometer - 基于 Arduino 的便携式红外测温仪
+> * 【第 050 期】56、[X-TRACK - 一款开源GPS自行车码表](https://github.com/FASTSHIFT/X-TRACK)
+> * 【第 050 期】57、[Daytripper - 激光绊脚器（智能摸鱼神器）](https://github.com/dekuNukem/daytripper)
+> * 【第 050 期】58、[the-little-bili-tv - 基于ESP32的哔哩哔哩小电视](https://gitee.com/wangpeng25/the-little-bili-tv)
 
 **工具(软)**
 
@@ -335,6 +339,7 @@
 > * 【第 047 期】57、Enterprise Architect - 最全面的UML建模和生命周期工具
 > * 【第 048 期】58、WOKWI - 在线的Arduino/ESP32/树莓派Pico仿真学习平台
 > * 【第 049 期】59、MCU_Font - LVGL的多语言转换工具
+> * 【第 050 期】60、[Ghidra - 开源软件逆向工程（SRE）框架](https://github.com/NationalSecurityAgency/ghidra)
 
 **工具(硬)**
 
