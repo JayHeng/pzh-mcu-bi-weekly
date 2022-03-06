@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：2017年3月6日，“海翼”号水下滑翔机刷新世界纪录，最大下潜深度达到6329米。
 
-本期共收录 0个资讯、2个项目、1个工具，希望对你有帮助！
+本期共收录 0个资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -58,6 +58,14 @@ X-TRACK软件架构示意图如下：由HAL、Framework 和 APP 三层组成，F
 ![](http://henjay724.com/image/biweekly20220306/Daytripper.jpg)
 
 ![](http://henjay724.com/image/biweekly20220306/Daytripper.gif)
+
+### <font color="red">3、the-little-bili-tv - 基于ESP32的哔哩哔哩小电视</font>
+
+这款哔哩哔哩小电视采用 esp32 作为主控，lvgl GUI 界面设计，基于 idf4.0 开发 支持 smartconfig 或微信 airkiss 配网，功能包括：网络连接显示、网络获取时间、天气显示、温湿度采集、粉丝数显示、mqtt温湿度上传等。所有软硬全部开源。  
+
+> * 项目地址：https://gitee.com/wangpeng25/the-little-bili-tv
+
+![](http://henjay724.com/image/biweekly20220306/the-little-bili-tv.jpg)
 
 ## 工具类
 
