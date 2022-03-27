@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：1973年3月27日，《教父》获第45届奥斯卡最佳影片等3项大奖。
 
-本期共收录 2个资讯、2个项目、1个工具，希望对你有帮助！
+本期共收录 2个资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,7 +36,13 @@
 
 ## 项目类
 
-### <font color="red">1、libinimini - 适用单片机的 ini 极简解析库</font>
+### <font color="red">1、TinyUF2 - 面向 UF2 文件格式的 Bootloader</font>
+
+TinyUF2 主要针对使用 TinyUSB 协议栈的 MCU，目前支持ESP32-S2、i.MXRT10xx、LPC55xx、STM32F4。使用 UF2 bootloader，可以方便的通过 USB 以磁盘模式更新程序，无需其它软件，非常方便。
+
+> * 项目地址：https://github.com/adafruit/tinyuf2
+
+### <font color="red">2、libinimini - 适用单片机的 ini 极简解析库</font>
 
 市面上大多数 ini 解析库几乎都涉及到了 fopen()/fgets().. 以及 malloc()，所以主要适用于 linux 系统。libinimini 是一个非常简单的 ini 配置文件解析库，适用于 RTOS 或裸跑的单片机。
 
@@ -50,7 +56,7 @@ libinimini 具有以下几种特点：
 3. 使用方便简单易上手，用户只需实现以行为单位的文本数据回调接口，之后只需等待 libinimini 解析结果即可。
 ```
 
-### <font color="red">2、heatshrink - 面向嵌入式领域的超小型压缩库</font>
+### <font color="red">3、heatshrink - 面向嵌入式领域的超小型压缩库</font>
 
 heatshrink 是基于 LZSS 的小型压缩库，声称使用 50-300 字节的内存可以很好地运行。支持压缩和解压，没有版权设置，随意使用。Flash需求方面，作者用avr-gcc测试，仅需1KB的空间。
 
