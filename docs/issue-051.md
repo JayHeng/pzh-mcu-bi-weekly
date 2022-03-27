@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：1973年3月27日，《教父》获第45届奥斯卡最佳影片等3项大奖。
 
-本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,11 +36,32 @@
 
 ## 项目类
 
+### <font color="red">1、libinimini - 适用单片机的 ini 极简解析库</font>
 
+市面上大多数 ini 解析库几乎都涉及到了 fopen()/fgets().. 以及 malloc()，所以主要适用于 linux 系统。libinimini 是一个非常简单的 ini 配置文件解析库，适用于 RTOS 或裸跑的单片机。
+
+> * 项目地址：https://github.com/lovemengx/libinimini
+
+libinimini 具有以下几种特点：
+
+```text
+1. 内存空间占用可控，libinimini 只使用用户指定的一段内存空间进行解析和返回结果。
+2. 不关心数据的来源，libinimini 通过回调用户的接口获取每一行文本，不关心文本来自文件还是其它通信接口。
+3. 使用方便简单易上手，用户只需实现以行为单位的文本数据回调接口，之后只需等待 libinimini 解析结果即可。
+```
+
+### <font color="red">2、heatshrink - 面向嵌入式领域的超小型压缩库</font>
+
+heatshrink 是基于 LZSS 的小型压缩库，声称使用 50-300 字节的内存可以很好地运行。支持压缩和解压，没有版权设置，随意使用。Flash需求方面，作者用avr-gcc测试，仅需1KB的空间。
+
+> * 项目地址：https://github.com/atomicobject/heatshrink
+
+heatshrink 与 gzip 性能比较：
+
+![](http://henjay724.com/image/biweekly20220327/heatshrink.PNG)
 
 ## 工具类
 
-### <font color="red">1、</font>
 
 
 ### 欢迎订阅
