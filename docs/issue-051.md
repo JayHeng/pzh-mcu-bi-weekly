@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：1973年3月27日，《教父》获第45届奥斯卡最佳影片等3项大奖。
 
-本期共收录 1个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、0个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -22,9 +22,17 @@
 
 > * 资讯来源：https://www.keil.com/pr/article/1299.htm
 
-相比前身 MDK-Lite，这个新增的 MDK-Community 就是你想要的那种真正无套路免费版，单片机型号齐全，没有代码大小限制，可以使用高级功能。
-
 ![](http://henjay724.com/image/biweekly20220327/Keil_MDK_Community.PNG)
+
+### <font color="red">2、微软正式推出VS Code嵌入式插件</font>
+
+早在 2021 年底微软就宣布 VS2022 预览版将支持嵌入式编程，近日微软发布了基于 VS Code 的嵌入式开发插件（Embedded Tools），支持Azure RTOS、FreeRTOS操作系统。这个插件尚处于早期版本，支持嵌入式 MCU 这方面的功能可能相对要弱一点，当然，基本的功能肯定是有的，比如：调试、断点、查看寄存器等功能。  
+
+> * 资讯来源：https://devblogs.microsoft.com/cppblog/vscode-embedded-development/
+
+![](http://henjay724.com/image/biweekly20220327/vsc_embedded_tools.png)
+
+![](http://henjay724.com/image/biweekly20220327/vscode_embedded.png)
 
 ## 项目类
 
