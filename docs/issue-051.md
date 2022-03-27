@@ -12,7 +12,7 @@
 
 昨天是惊蛰，历史上的今天：1973年3月27日，《教父》获第45届奥斯卡最佳影片等3项大奖。
 
-本期共收录 2个资讯、2个项目、0个工具，希望对你有帮助！
+本期共收录 2个资讯、2个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -62,7 +62,13 @@ heatshrink 与 gzip 性能比较：
 
 ## 工具类
 
+### <font color="red">1、Renode - 嵌入式平台的开源模拟器</font>
 
+Renode 是一个用于嵌入式平台的开源仿真器。它支持 x86(Intel Quark)、 Cortex-A (NVIDIA Tegra)、 Cortex-M、 SPARC (Leon)和基于risc-v 的平台。Renode 不仅可以模拟 CPU指令，还可以模拟外设，甚至可以模拟板载的外设。
+
+> * 软件官网：https://renode.io/
+
+![](http://henjay724.com/image/biweekly20220327/Renode.PNG)
 
 ### 欢迎订阅
 
