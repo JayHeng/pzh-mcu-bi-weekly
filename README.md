@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
+[第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
 ## 2021农历辛丑牛年
 
@@ -113,6 +113,8 @@
 > * 【第 049 期】72、英伟达并购ARM案告吹，ARM谋求IPO
 > * 【第 049 期】73、智芯半导体发布第二个产品家族Z20K148
 > * 【第 050 期】74、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU
+> * 【第 051 期】75、Keil MDK新增完全免费的Community版本
+> * 【第 051 期】76、微软正式推出VS Code嵌入式插件
 
 **项目(软)**
 
@@ -216,6 +218,9 @@
 > * 【第 049 期】98、wolfSSL - 一个轻量级的嵌入式SSL/TLS加密库
 > * 【第 049 期】99、wolfBoot - 一种开源的商用级嵌入式bootloader
 > * 【第 049 期】100、QueueForMcu - 用于单片机的队列功能模块
+> * 【第 051 期】101、[TinyUF2 - 面向 UF2 文件格式的 Bootloader](https://github.com/adafruit/tinyuf2)
+> * 【第 051 期】102、[libinimini - 适用单片机的 ini 极简解析库](https://github.com/lovemengx/libinimini)
+> * 【第 051 期】103、[heatshrink - 面向嵌入式领域的超小型压缩库](https://github.com/atomicobject/heatshrink)
 
 **项目(硬)**
 
@@ -340,6 +345,7 @@
 > * 【第 048 期】58、WOKWI - 在线的Arduino/ESP32/树莓派Pico仿真学习平台
 > * 【第 049 期】59、MCU_Font - LVGL的多语言转换工具
 > * 【第 050 期】60、[Ghidra - 开源软件逆向工程（SRE）框架](https://github.com/NationalSecurityAgency/ghidra)
+> * 【第 051 期】61、[Renode - 嵌入式平台的开源模拟器](https://renode.io/)
 
 **工具(硬)**
 
