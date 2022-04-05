@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
+[第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
 ## 2021农历辛丑牛年
 
@@ -221,6 +221,8 @@
 > * 【第 051 期】101、[TinyUF2 - 面向 UF2 文件格式的 Bootloader](https://github.com/adafruit/tinyuf2)
 > * 【第 051 期】102、[libinimini - 适用单片机的 ini 极简解析库](https://github.com/lovemengx/libinimini)
 > * 【第 051 期】103、[heatshrink - 面向嵌入式领域的超小型压缩库](https://github.com/atomicobject/heatshrink)
+> * 【第 052 期】104、[Qfplib - 专为ARM Cortex-M内核设计的浮点库](https://www.quinapalus.com/qfplib.html)
+> * 【第 052 期】105、[Opus - 高灵活度的开源音频编解码器](https://www.opus-codec.org/)
 
 **项目(硬)**
 
@@ -282,6 +284,7 @@
 > * 【第 050 期】56、[X-TRACK - 一款开源GPS自行车码表](https://github.com/FASTSHIFT/X-TRACK)
 > * 【第 050 期】57、[Daytripper - 激光绊脚器（智能摸鱼神器）](https://github.com/dekuNukem/daytripper)
 > * 【第 050 期】58、[the-little-bili-tv - 基于ESP32的哔哩哔哩小电视](https://gitee.com/wangpeng25/the-little-bili-tv)
+> * 【第 052 期】59、[NumWorks - 一款基于STM32F412设计的图形计算器](https://www.numworks.com/simulator/)
 
 **工具(软)**
 
@@ -346,6 +349,9 @@
 > * 【第 049 期】59、MCU_Font - LVGL的多语言转换工具
 > * 【第 050 期】60、[Ghidra - 开源软件逆向工程（SRE）框架](https://github.com/NationalSecurityAgency/ghidra)
 > * 【第 051 期】61、[Renode - 嵌入式平台的开源模拟器](https://renode.io/)
+> * 【第 052 期】62、[Tracealyzer - RTOS可视化追踪调试软件](https://percepio.com/tracealyzer/)
+> * 【第 052 期】63、[Virtual Eval - ADI公司ADC产品在线评估工具](http://beta-tools.analog.com/virtualeval/)
+> * 【第 052 期】64、[Mbed Simulator - 在线 Mbed 模拟器](https://simulator.mbed.com/)
 
 **工具(硬)**
 
