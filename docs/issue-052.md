@@ -12,7 +12,7 @@
 
 明天是清明，历史上的今天：1815年4月5日，印度尼西亚坦博拉火山喷发，是人类历史上有记载的最猛烈火山爆发事件。
 
-本期共收录 3个项目、0个工具，希望对你有帮助！
+本期共收录 3个项目、1个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -69,6 +69,21 @@ Opus 特点包括：
 
 ## 工具类
 
+### <font color="red">1、Tracealyzer - RTOS可视化追踪调试软件</font>
+
+Tracealyzer是 Percepio 公司开发的一款用于RTOS或基于linux的嵌入式软件系统的可视化跟踪工具，对系统运行时的行为提供了前所未有的洞察方法。帮助开发人员加快固件的开发，减少对系统验证和性能优化所需要的时间。
+
+目前Tracealyzer提供了30多种相互关联的运行时行为视图，包括任务调度、中断、任务之间的相互作用，以及从应用程序代码中记录的用户事件。Tracealyzer作为传统调试的补充，提供更高层次的调试视图，非常适合理解典型的实时问题。
+
+> * 工具主页：https://percepio.com/tracealyzer/
+
+Tracealyzer支持的OS包括：
+
+```text
+FreeRTOS、Embedded Studio、Keil RTX5、Linux、On Time RTOS-32、ThreadX、µC/OS-III、VxWorks
+```
+
+![](http://henjay724.com/image/biweekly20220404/Tracealyzer.PNG)
 
 ### 欢迎订阅
 
