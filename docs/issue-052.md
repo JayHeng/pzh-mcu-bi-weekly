@@ -12,7 +12,7 @@
 
 明天是清明，历史上的今天：1815年4月5日，印度尼西亚坦博拉火山喷发，是人类历史上有记载的最猛烈火山爆发事件。
 
-本期共收录 3个项目、1个工具，希望对你有帮助！
+本期共收录 3个项目、2个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -84,6 +84,14 @@ FreeRTOS、Embedded Studio、Keil RTX5、Linux、On Time RTOS-32、ThreadX、µC
 ```
 
 ![](http://henjay724.com/image/biweekly20220404/Tracealyzer.PNG)
+
+### <font color="red">2、Virtual Eval - ADI公司ADC产品在线评估工具</font>
+
+Virtual Eval（虚拟评估）是ADI公司推出的一款综合性在线产品评估工具。Virtual Eval采用详细软件模型来模拟器件关键性能特征，而不要求购买硬件。辛苦劳累的工程师可以配置不同的工作条件和器件特性来建立自定义使用案例。配置设置被发送到ADI公司服务器以执行仿真作业。数秒之内，完成后的仿真结果就会以图表和性能指标的形式显示在浏览器窗口中。 
+
+> * 工具主页：http://beta-tools.analog.com/virtualeval/
+
+![](http://henjay724.com/image/biweekly20220404/VirtualEval.PNG)
 
 ### 欢迎订阅
 
