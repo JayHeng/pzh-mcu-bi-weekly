@@ -12,7 +12,7 @@
 
 明天是谷雨，历史上的今天：1971年4月19日，苏联用质子号运载火箭将世界上首个太空站礼炮1号送上太空。
 
-本期共收录 1个项目、0个工具，希望对你有帮助！
+本期共收录 2个项目、0个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -28,11 +28,20 @@ EventOS Basic 是一个超级简洁的协作式内核。它的特点有二：一
 
 > * 项目主页：https://gitee.com/event-os/eventos-basic
 
+### <font color="red">2、AVR-Crypto-Lib - 适用于小内存MCU的开源加密算法库</font>
 
+AVR-Crypto-Lib 是一组不同加密算法实现的合辑。由于微控制器的特殊限制(非常小的空间，RAM和Flash的范围从几个字节到几个KiB)，正常的算法优化实现是不可用的。 因此，AVR-Crypto-Lib 提供特殊的实现，以适用微控制器应用程序的极端有限的资源。
+
+> * 项目官网：https://wiki.das-labor.org/w/AVR-Crypto-Lib/en
+> * 项目主页：https://git.cryptolib.org/avr-crypto-lib.git
+
+AVR-Crypto-Lib 虽然于 2015 年已经停止更新，但是对于资源受限的芯片，如果需要加密功能，还是非常合适的。
+
+![](http://henjay724.com/image/biweekly20220419/AVR-Crypto-Lib.PNG)
 
 ## 工具类
 
-![](http://henjay724.com/image/biweekly20220419/.PNG)
+
 
 ### 欢迎订阅
 
