@@ -12,7 +12,7 @@
 
 明天是谷雨，历史上的今天：1989年5月3日，卡内基·梅伦大学研制出无人驾驶汽车。
 
-本期共收录 1个资讯、1个项目、0个工具、1个 RT 产品，希望对你有帮助！
+本期共收录 1个资讯、2个项目、0个工具、1个 RT 产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,11 +28,21 @@
 
 ### <font color="red">1、STMBL - 基于STM32F4的开源伺服驱动器</font>
 
-STMBL 是一款开源伺服驱动器，专为 CNC 机床和机器人改造而设计。它支持高达 320V 和 2kW 的工业交流和直流伺服。软硬件已经升级了好几个版本（目前最新版本 v4.1），所有资料齐全。
+STMBL 是一款开源伺服驱动器，专为 CNC 机床和机器人改造而设计。它支持高达 320V 和 2kW 的工业交流和直流伺服。软硬件已经升级了好几个版本（目前最新版本 v4.1），主控是 STM32F4 系列，所有资料齐全。
 
 > * 项目主页：https://github.com/rene-dev/stmbl
 
 ![](http://henjay724.com/image/biweekly20220503/STMBL.PNG)
+
+### <font color="red">2、CortexProg - 半开源Cortex-M下载器</font>
+
+CortexProg 可用于给 Cortex-M 内核芯片下载程序。分为两大版本，早期版本基于 ATTiny85，这个版本是全开源的，但是由于性能有限，最新版本采用 EFM32 来实现。最新版本上位机是开源的，而 EFM32 的程序仅提供了固件，没有提供源码，但是用户可以通过上位机扩展新的芯片支持。  
+
+> * 项目主页：https://cortexprog.com/
+
+![](http://henjay724.com/image/biweekly20220503/CortexProg.PNG)
+
+![](http://henjay724.com/image/biweekly20220503/CortexProg_VS.PNG)
 
 ## 工具类
 
