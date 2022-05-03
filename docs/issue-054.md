@@ -12,7 +12,17 @@
 
 明天是谷雨，历史上的今天：1989年5月3日，卡内基·梅伦大学研制出无人驾驶汽车。
 
-本期共收录 0个项目、0个工具、1个 RT 产品，希望对你有帮助！
+本期共收录 1个资讯、0个项目、0个工具、1个 RT 产品，希望对你有帮助！
+
+## 资讯类
+
+### <font color="red">1、ARM公司发布Cortex-M85内核</font>
+
+近日 Arm 发布了新一代的 Cortex-M 处理器，Cortex-M85。简单说：Cortex-M85 ≈ Cortex-M7 + TrustZone + Helium（Cortex-M版本的NEON)，最大特色：支持Helium可以通过SIMD指令集提供强大的DSP性能。
+
+> * 资讯主页：https://www.arm.com/company/news/2022/04/arm-expands-total-solutions-for-iot-portfolio
+
+![](http://henjay724.com/image/biweekly20220503/Cortex-M85.PNG)
 
 ## 项目类
 
