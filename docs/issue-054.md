@@ -12,7 +12,7 @@
 
 明天是谷雨，历史上的今天：1989年5月3日，卡内基·梅伦大学研制出无人驾驶汽车。
 
-本期共收录 1个资讯、2个项目、0个工具、1个 RT 产品，希望对你有帮助！
+本期共收录 1个资讯、3个项目、0个工具、1个 RT 产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,7 +28,7 @@
 
 ### <font color="red">1、STMBL - 基于STM32F4的开源伺服驱动器</font>
 
-STMBL 是一款开源伺服驱动器，专为 CNC 机床和机器人改造而设计。它支持高达 320V 和 2kW 的工业交流和直流伺服。软硬件已经升级了好几个版本（目前最新版本 v4.1），主控是 STM32F4 系列，所有资料齐全。
+STMBL 是一款基于 STM32F4 系列的开源伺服驱动器，专为 CNC 机床和机器人改造而设计。它支持高达 320V 和 2kW 的工业交流和直流伺服。软硬件已经升级了好几个版本（目前最新版本 v4.1），资料齐全。
 
 > * 项目主页：https://github.com/rene-dev/stmbl
 
@@ -43,6 +43,24 @@ CortexProg 可用于给 Cortex-M 内核芯片下载程序。分为两大版本�
 ![](http://henjay724.com/image/biweekly20220503/CortexProg.PNG)
 
 ![](http://henjay724.com/image/biweekly20220503/CortexProg_VS.PNG)
+
+### <font color="red">3、Pixy2 - 可媲美OpenMV的图像识别模块</font>
+
+Pixy 是一种用于 DIY 机器人和类似应用的快速视觉传感器。只需按下一个按钮，你就可以教 Pixy 一个对象。可以将Pixy 用于许多不同的应用程序! 它能够同时跟踪数百个物体，并且只提供你感兴趣的数据。  
+
+> * 项目主页：https://pixycam.com/pixy2/
+
+模块功能包括：
+
+```text
+1. 可以检测线，交叉点和小条形码。
+2. 支持 60 fps帧率。
+3. 跟踪算法已添加到基于颜色的对象检测中.
+4. 改进和简化了Arduino，Raspberry Pi和其他控制器的库
+5. 集成光源，两个白色LED可提供约20流明的亮度
+```
+
+![](http://henjay724.com/image/biweekly20220503/Pixy.PNG)
 
 ## 工具类
 
