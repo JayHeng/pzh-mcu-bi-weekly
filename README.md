@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
+[第 054 期](docs/issue-054.md) | [第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
 ## 2021农历辛丑牛年
 
@@ -115,6 +115,7 @@
 > * 【第 050 期】74、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU
 > * 【第 051 期】75、Keil MDK新增完全免费的Community版本
 > * 【第 051 期】76、微软正式推出VS Code嵌入式插件
+> * 【第 054 期】77、ARM公司发布Cortex-M85内核
 
 **项目(软)**
 
@@ -288,6 +289,9 @@
 > * 【第 050 期】58、[the-little-bili-tv - 基于ESP32的哔哩哔哩小电视](https://gitee.com/wangpeng25/the-little-bili-tv)
 > * 【第 052 期】59、[NumWorks - 一款基于STM32F412设计的图形计算器](https://www.numworks.com/simulator/)
 > * 【第 053 期】60、[TI-RSLK - TI公司推出的小车开发套件](https://university.ti.com/programs/RSLK/)
+> * 【第 054 期】61、[STMBL - 基于STM32F4的开源伺服驱动器](https://github.com/rene-dev/stmbl)
+> * 【第 054 期】62、[CortexProg - 半开源Cortex-M下载器](https://cortexprog.com/)
+> * 【第 054 期】63、[Pixy2 - 可媲美OpenMV的图像识别模块](https://pixycam.com/pixy2/)
 
 **工具(软)**
 
@@ -356,6 +360,7 @@
 > * 【第 052 期】63、[Virtual Eval - ADI公司ADC产品在线评估工具](http://beta-tools.analog.com/virtualeval/)
 > * 【第 052 期】64、[Mbed Simulator - 在线 Mbed 模拟器](https://simulator.mbed.com/)
 > * 【第 053 期】65、[emWin字体生成器](https://www.armbbs.cn/forum.php?mod=viewthread&tid=87428)
+> * 【第 054 期】66、[PSLab - 全开源的多功能测量仪](https://pslab.io/)
 
 **工具(硬)**
 
@@ -388,3 +393,4 @@
 > * 【第 048 期】21、野火电子 - fireFlasher Mini脱机下载器
 > * 【第 053 期】22、大疆创新 - 手持云台(如影RONIN-S)
 > * 【第 053 期】23、大疆创新 - 口袋云台相机(灵眸OSMO pocket)
+> * 【第 054 期】24、索尼 - 2022新一代游戏电视(XR-X90K)
