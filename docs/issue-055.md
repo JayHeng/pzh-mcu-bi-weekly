@@ -12,7 +12,7 @@
 
 上周六是小满，历史上的今天：1936年5月28日，艾伦·图灵发表《论可计算数及其在判定问题上的应用》，提出图灵机模型。
 
-本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -37,6 +37,14 @@ Bllimpduino 2 是一款成本非常低的开源自主飞艇。它由 Arduino M0 
 ![](http://henjay724.com/image/biweekly20220528/Blimpduino-2.PNG)
 
 ![](http://henjay724.com/image/biweekly20220528/Blimpduino-2_ctrl.PNG)
+
+### <font color="red">2、miniDDS - 基于STM32F3的精简DDS库</font>
+
+FatFS 作者 ChaN 老师做的一个 miniDDS 库。方案基于 ST 公司的 STM32F303K8T6，该芯片集成了三个12位D-A转换器（高转换率、多通道、1 Msa/sec）。ChaN 老师在方案实现中详细研究了利用 LUT 数据插值提高合成波形精度的方法。 
+
+> * 项目主页：http://elm-chan.org/junk/mdds_ipol/report.html
+
+![](http://henjay724.com/image/biweekly20220528/miniDDS.PNG)
 
 ## 工具类
 
