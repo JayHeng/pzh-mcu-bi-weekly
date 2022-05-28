@@ -12,7 +12,7 @@
 
 上周六是小满，历史上的今天：1936年5月28日，艾伦·图灵发表《论可计算数及其在判定问题上的应用》，提出图灵机模型。
 
-本期共收录 1个资讯、3个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、3个项目、2个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -68,9 +68,23 @@ FatFS 作者 ChaN 老师做的一个 miniDDS 库。方案基于 ST 公司的 STM
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、SnapEDA - 硬件设计界的 github</font>
 
+SnapEDA 对于硬件工程师就相当于 GitHub 对于软件工程师，SnapEDA 能够提供硬件设计中的原理图，封装等。支持Eagle, Altium, OrCad, Allegro, KiCad, PADS 等主流 PCB 设计软件。
 
+> * 网站地址：https://www.snapeda.com/
+
+比如搜索恩智浦的 MKL25：
+
+![](http://henjay724.com/image/biweekly20220528/SnapEDA.PNG)
+
+### <font color="red">2、Visuino - 可视化 Arduino 仿真编程环境</font>
+
+Visuino 是来自 Mitov 软件的最新创新软件。一个可视化编程环境，允许仿真编程Arduino板。它目前支持官方Arduino板，树莓派，Teensy, Femto IO, ESP8266, ESP32, Controllino, Goldilocks Analogue, FreeSoC2, chipKIT, micro:bit, Maple Mini，和其他Arduino衍生板。
+
+> * 软件官网：http://www.visuino.com/
+
+![](http://henjay724.com/image/biweekly20220528/Visuino.PNG)
 
 ### 欢迎订阅
 
