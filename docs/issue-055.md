@@ -12,7 +12,7 @@
 
 上周六是小满，历史上的今天：1936年5月28日，艾伦·图灵发表《论可计算数及其在判定问题上的应用》，提出图灵机模型。
 
-本期共收录 1个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,11 +28,15 @@ HPM6300 延承了 HPM6700 高性能的特点，在成本，功耗，DSP等各个
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Blimpduino-2 - 开源的小飞艇</font>
 
+Bllimpduino 2 是一款成本非常低的开源自主飞艇。它由 Arduino M0 飞艇控制器板和车载 WIFI 和激光传感器组成。两个矢量差动推进器和一个升力推进器。设计简单,但令人兴奋。 
 
+> * 项目主页：https://www.jjrobots.com/blimpduino-2/
 
-![](http://henjay724.com/image/biweekly20220528/.PNG)
+![](http://henjay724.com/image/biweekly20220528/Blimpduino-2.PNG)
+
+![](http://henjay724.com/image/biweekly20220528/Blimpduino-2_ctrl.PNG)
 
 ## 工具类
 
