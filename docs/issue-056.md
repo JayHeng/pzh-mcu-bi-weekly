@@ -1,0 +1,47 @@
+# 痞子衡嵌入式半月刊： 第 56 期
+
+![](http://henjay724.com/image/cnblogs/pzh_mcu_bi_weekly.PNG)
+
+这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
+
+本期刊是开源项目（GitHub: [JayHeng/pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly)），欢迎提交 issue，投稿或推荐你知道的嵌入式那些事儿。
+
+**上期回顾** ：[《痞子衡嵌入式半月刊： 第 55 期》](https://www.cnblogs.com/henjay724/p/16321972.html)
+
+## 唠两句
+
+上周六是小满，历史上的今天：1999年6月19日，由 Valve 公司制作的经典游戏《反恐精英》（Counter-Strike） 正式在美国发售。
+
+本期共收录 0个资讯、1个项目、0个工具，希望对你有帮助！
+
+## 资讯类
+
+### <font color="red">1、</font>
+
+
+
+## 项目类
+
+### <font color="red">1、 TFDB - 超轻量的可纠错的通用单片机flash存储方案</font>
+
+不同于其他很多的KV型数据库，TinyFlashDB 为每一个需要存储的变量都会分配一个单独的单片机flash扇区，变量长度不可变。所以TinyFlashDB仅适用于存储几个关键性变量（例如：IAP跳转标志、系统断电时间等等），不适合大规模数据存储。
+
+> * 项目主页：https://github.com/smartmx/TFDB
+
+TinyFlashDB在设计时就考虑了写入错误的影响，追求力所能及的安全保障、资源占用方面尽可能的缩小（不到1kb代码占用）、尽可能的通用性（可以移植到51等8位机，无法逆序写入的stm32L4系列，某些flash加密的单片机和其他普通32位机上）。
+
+![](http://henjay724.com/image/biweekly20220619/CherryUSB.PNG)
+
+
+## 工具类
+
+
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](http://henjay724.com/image/github/pzhMcu_qrcode_258x258.jpg)
+
