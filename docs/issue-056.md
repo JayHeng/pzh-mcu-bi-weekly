@@ -12,7 +12,7 @@
 
 下周二是夏至，历史上的今天：1999年6月19日，由 Valve 公司制作的经典游戏《反恐精英》（Counter-Strike） 正式在美国发售。
 
-本期共收录 1个资讯、2个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、3个项目、1个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -71,10 +71,17 @@ Dhara 特点包括：
 
 TinyFlashDB在设计时就考虑了写入错误的影响，追求力所能及的安全保障、资源占用方面尽可能的缩小（不到1kb代码占用）、尽可能的通用性（可以移植到51等8位机，无法逆序写入的stm32L4系列，某些flash加密的单片机和其他普通32位机上）。
 
-
 ## 工具类
 
+### <font color="red">1、 ASN Filter Designer - 模拟滤波生成ARM DSP库代码的专用软件</font>
 
+ASN Filter Designer 是一个强大的 DSP 实验平台，可以在几分钟内交互式设计和验证数字滤波器。它提供实时的设计反馈，从而消除了在开始设计之前明确定义技术规范的需要。
+
+> * 软件主页：https://www.advsolned.com/asn_filter_designer_digital_filter_software/
+
+我们可以部署到CMSIS-DSP库，以便轻松地将设计的过滤器块与其他应用程序代码集成。使用逻辑分析仪，当过滤器在目标设备上运行时，可以在μ Vision调试器中显示信号。
+
+![](http://henjay724.com/image/biweekly20220619/ASN-Filter-Designer.PNG)
 
 ### 欢迎订阅
 
