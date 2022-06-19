@@ -12,13 +12,19 @@
 
 上周六是小满，历史上的今天：1999年6月19日，由 Valve 公司制作的经典游戏《反恐精英》（Counter-Strike） 正式在美国发售。
 
-本期共收录 0个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、</font>
+### <font color="red">1、云途推出第二款高端车规级MCU - YTM32B1ME</font>
 
+继去年年底量产 L 系列 MCU 后，今年上半年苏州云途半导体又量产了第二款高端车规级MCU - M系列产品YTM32B1ME，这是目前国内唯一实现量产的基于ARM Cortex-M33的高端32位车规级MCU。
 
+> * 产品主页：https://github.com/smartmx/TFDB
+
+![](http://henjay724.com/image/biweekly20220619/YTM32B1M.PNG)
+
+YTM32B1ME芯片采用行业领先的40nm e-Flash工艺，基于32位车规级ARM Cortex-M33内核，CPU全温域主频高达120MHz，提供1.25MB嵌入式闪存，符合ISO26262的ASIL-B等级要求，可靠性满足AEC-Q100、Grade1标准，信息安全方面支持AES、SHA以及国密SM4等多种加密算法，并提供符合AUTOSAR标准的MCAL。
 
 ## 项目类
 
@@ -29,8 +35,6 @@
 > * 项目主页：https://github.com/smartmx/TFDB
 
 TinyFlashDB在设计时就考虑了写入错误的影响，追求力所能及的安全保障、资源占用方面尽可能的缩小（不到1kb代码占用）、尽可能的通用性（可以移植到51等8位机，无法逆序写入的stm32L4系列，某些flash加密的单片机和其他普通32位机上）。
-
-![](http://henjay724.com/image/biweekly20220619/CherryUSB.PNG)
 
 
 ## 工具类
