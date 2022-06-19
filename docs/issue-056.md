@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-上周六是小满，历史上的今天：1999年6月19日，由 Valve 公司制作的经典游戏《反恐精英》（Counter-Strike） 正式在美国发售。
+下周二是夏至，历史上的今天：1999年6月19日，由 Valve 公司制作的经典游戏《反恐精英》（Counter-Strike） 正式在美国发售。
 
-本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,7 +28,27 @@ YTM32B1ME芯片采用行业领先的40nm e-Flash工艺，基于32位车规级ARM
 
 ## 项目类
 
-### <font color="red">1、 TFDB - 超轻量的可纠错的通用单片机flash存储方案</font>
+### <font color="red">1、 RL-USB - 集成在MDK中间件里的USB协议栈</font>
+
+RL-USB 是 ARM 官方提供的 USB 协议栈，DAP-LINK 中的 USB 源码就是采用的RL-USB实现。RL-USB 的最大优势就是简单易用，创建各种类和 USB 复合设备都可以通过 MDK RTE 环境一键添加。
+
+> * 项目主页：https://www.keil.com/pack/doc/mw/USB/html/index.html
+
+![](http://henjay724.com/image/biweekly20220619/RL-USB.PNG)
+
+RL-USB 协议栈特点包括：
+
+```text
+1. RL-USB支持USB Host和USB Device。
+2. RL-USB可以同时管理芯片的多个USB外设。
+3. USB Host支持的类：HID，CDC，MSC，自定义类。
+4. USB Device支持的类：HID，CDC，MSC，ADC和自定义类。
+5. 支持多线程和线程安全操作。
+6. 通过MDK的RTE开发环境可以一键添加。
+7. 使用MDK基于对话框的配置向导，可以很方便的完成MDK的配置。
+```
+
+### <font color="red">2、 TFDB - 超轻量的可纠错的通用单片机flash存储方案</font>
 
 不同于其他很多的KV型数据库，TinyFlashDB 为每一个需要存储的变量都会分配一个单独的单片机flash扇区，变量长度不可变。所以TinyFlashDB仅适用于存储几个关键性变量（例如：IAP跳转标志、系统断电时间等等），不适合大规模数据存储。
 
