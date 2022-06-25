@@ -12,7 +12,7 @@
 
 历史上的今天：1998年6月25日，微软公司发布 Microsoft Windows 98 操作系统。
 
-本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、2个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -50,6 +50,16 @@ Somu 具体规格包括：
 - Size: 0.5 x 0.5 x 0.1 inches (13 x 13 x 2.4 mm)
 - Weight: 0.11 ounces (3 g)
 ```
+
+### <font color="red">2、Minimal printf - Mbed推出的精简 printf 实现</font>
+
+鉴于 C 标准库里的 printf 实现比较占空间，Mbed 自己造了个 Minimal printf 库。
+
+> * 项目主页：https://github.com/ARMmbed/mbed-os/tree/master/platform/source/minimal-printf
+
+下面是一个基于恩智浦 K64 的裸机工程在 MDK，GCC 和 IAR 平台下 Flash 以及 RAM 空间占用比较：
+
+![](http://henjay724.com/image/biweekly20220625/Minimal-printf.PNG)
 
 ## 工具类
 
