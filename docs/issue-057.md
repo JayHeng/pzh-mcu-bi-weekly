@@ -12,7 +12,7 @@
 
 历史上的今天：1998年6月25日，微软公司发布 Microsoft Windows 98 操作系统。
 
-本期共收录 1个资讯、0个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、1个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,10 +28,28 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Somu - 基于STM32L432设计的安全密钥小产品</font>
 
+Somu 是一个很小的 FIDO2 安全密钥，你可以用它与谷歌、Twitter和GitHub账户进行双重认证，或者用它与微软账户进行无密码登录。 Somu适合你的USB接口，所以你再也不会忘记你的钥匙。
 
+> * 项目主页：https://solokeys.com/collections/all/products/somu-tiny-security-key-two-factor-authentication-u2f-and-fido2-usb-a
 
+![](http://henjay724.com/image/biweekly20220625/somu.PNG)
+
+Somu 具体规格包括：
+
+```text
+- Supported Protocols: FIDO2, U2F
+- Supported Operating Systems: Linux, Microsoft Windows, Mac OS X, Chrome OS
+- Supported Browsers: Chrome, Firefox, Edge, and Safari support is coming soon (GA in MacOS Catalina)
+- Secure Processor: STM32L432KC (with TRNG, security isolation for keys, two levels of locked flash)
+- Crypto Algorithms: ECC P256 (as per FIDO2 standard)
+- Host Interface: USB-A
+- Interaction: two touch buttons - in our FIDO2 firmware the two buttons behave as a single one
+- Feedback: RGB LED
+- Size: 0.5 x 0.5 x 0.1 inches (13 x 13 x 2.4 mm)
+- Weight: 0.11 ounces (3 g)
+```
 
 ## 工具类
 
