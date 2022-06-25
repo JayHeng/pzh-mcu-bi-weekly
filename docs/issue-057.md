@@ -12,7 +12,7 @@
 
 历史上的今天：1998年6月25日，微软公司发布 Microsoft Windows 98 操作系统。
 
-本期共收录 1个资讯、2个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、3个项目、0个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -60,6 +60,34 @@ Somu 具体规格包括：
 下面是一个基于恩智浦 K64 的裸机工程在 MDK，GCC 和 IAR 平台下 Flash 以及 RAM 空间占用比较：
 
 ![](http://henjay724.com/image/biweekly20220625/Minimal-printf.PNG)
+
+### <font color="red">3、ctxLink - 面向Cortex-M的无线调试器</font>
+
+ctxLink 是基于 Black Magic Probe（BMP）的开放式硬件，开放式固件调试开发板，支持WiFi连接和电池供电的操作。它实现了SWD和JTAG接口，用于ARM Cortex-M微控制器的远程无电缆编程和调试。
+
+> * 项目主页：https://www.crowdsupply.com/sid-price/ctxlink
+
+![](http://henjay724.com/image/biweekly20220625/ctxLink.PNG)
+
+```text
+易用性
+- 基于BMP的开放式硬件和开源固件
+- 使用内置的STM32系统引导加载程序进行固件更新
+- 与Windows，Mac和Linux兼容
+调试
+- 实现SWD和JTAG接口
+- 支持广泛的ARM Cortex目标，包括ST，Atmel，Nordic，NXP等
+- 包括一个内置的GDB服务器，可以与各种集成开发环境（IDE）一起使用
+- 支持多种目标电压（1.7 V至5 V）
+连接性
+- 支持与主机的USB和Wi-Fi连接
+- 可以使用WPS或通过智能手机的HTTP设置来配置Wi-Fi
+功率
+- 可以从目标电源供电（仅3 V至5 V目标）
+- 可以由LiPo电池（不包括在内）供电。已通过Adafruit的3.7V 1200mAh电池进行测试
+- 电池可以通过USB充电
+- 无论ctxLink本身是由电池供电还是通过USB供电，均可用于为目标供电（最大100 mA）
+```
 
 ## 工具类
 
