@@ -12,7 +12,7 @@
 
 历史上的今天：1998年6月25日，微软公司发布 Microsoft Windows 98 操作系统。
 
-本期共收录 1个资讯、3个项目、0个工具，希望对你有帮助！
+本期共收录 1个资讯、4个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -61,7 +61,15 @@ Somu 具体规格包括：
 
 ![](http://henjay724.com/image/biweekly20220625/Minimal-printf.PNG)
 
-### <font color="red">3、ctxLink - 面向Cortex-M的无线调试器</font>
+### <font color="red">3、Black Magic Probe - 开源的标准 GNU 调试器</font>
+
+Black Magic Probe 是一个现代的在应用程序调试工具。用户可以使用GNU源代码级调试软件GDB精确地控制发生的事情。 串行线输出(SWO)允许目标器在不使用usb或串口的情况下向主机写入跟踪和日志记录。 在探针中解码SWO本身使得SWO的查看就像连接到串口一样简单。 
+
+> * 项目主页：https://github.com/blackmagic-debug/blackmagic
+
+![](http://henjay724.com/image/biweekly20220625/Black-Magic.PNG)
+
+### <font color="red">4、ctxLink - 面向Cortex-M的无线调试器</font>
 
 ctxLink 是基于 Black Magic Probe（BMP）的开放式硬件，开放式固件调试开发板，支持WiFi连接和电池供电的操作。它实现了SWD和JTAG接口，用于ARM Cortex-M微控制器的远程无电缆编程和调试。
 
@@ -88,9 +96,6 @@ ctxLink 是基于 Black Magic Probe（BMP）的开放式硬件，开放式固件
 - 电池可以通过USB充电
 - 无论ctxLink本身是由电池供电还是通过USB供电，均可用于为目标供电（最大100 mA）
 ```
-
-## 工具类
-
 
 ### 欢迎订阅
 
