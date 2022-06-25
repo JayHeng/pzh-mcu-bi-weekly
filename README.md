@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 055 期](docs/issue-055.md)
+[第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
 [第 054 期](docs/issue-054.md) | [第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
@@ -119,6 +119,8 @@
 > * 【第 051 期】76、微软正式推出VS Code嵌入式插件
 > * 【第 054 期】77、ARM公司发布Cortex-M85内核
 > * 【第 055 期】78、先楫半导体推出高性价比RISC-V微控制器 - HPM6300
+> * 【第 056 期】79、云途推出第二款高端车规级MCU - YTM32B1ME
+> * 【第 057 期】80、恩智浦发布全新MCX微控制器产品组合
 
 **项目(软)**
 
@@ -231,6 +233,10 @@
 > * 【第 053 期】107、[AVR-Crypto-Lib - 适用于小内存MCU的开源加密算法库](https://wiki.das-labor.org/w/AVR-Crypto-Lib/en)
 > * 【第 055 期】108、[CherryUSB - 小而美的、用于嵌入式系统的USB主从协议栈](https://github.com/sakumisu/CherryUSB)
 > * 【第 055 期】109、[miniDDS - 基于STM32F3的精简DDS库](http://elm-chan.org/junk/mdds_ipol/report.html)
+> * 【第 056 期】110、[RL-USB - 集成在MDK中间件里的USB协议栈](https://www.keil.com/pack/doc/mw/USB/html/index.html)
+> * 【第 056 期】111、[Dhara - 用于小型单片机的 NAND 闪存转换层(FTL)](https://github.com/dlbeer/dhara)
+> * 【第 056 期】112、[TFDB - 超轻量的可纠错的通用单片机flash存储方案](https://github.com/smartmx/TFDB)
+> * 【第 057 期】113、[Minimal printf - Mbed推出的精简 printf 实现](https://github.com/ARMmbed/mbed-os/tree/master/platform/source/minimal-printf)
 
 **项目(硬)**
 
@@ -298,6 +304,10 @@
 > * 【第 054 期】62、[CortexProg - 半开源Cortex-M下载器](https://cortexprog.com/)
 > * 【第 054 期】63、[Pixy2 - 可媲美OpenMV的图像识别模块](https://pixycam.com/pixy2/)
 > * 【第 055 期】64、[Blimpduino-2 - 开源的小飞艇](https://www.jjrobots.com/blimpduino-2/)
+> * 【第 057 期】65、[Somu - 基于STM32L432设计的安全密钥小产品](https://solokeys.com/collections/all/products/somu-tiny-security-key-two-factor-authentication-u2f-and-fido2-usb-a)
+> * 【第 057 期】66、[Black Magic Probe - 开源的标准 GNU 调试器](https://github.com/blackmagic-debug/blackmagic)
+> * 【第 057 期】67、[ctxLink - 面向Cortex-M的无线调试器](https://www.crowdsupply.com/sid-price/ctxlink)
+> * 【第 057 期】68、[SEGGER (Q) SPI Flash Evaluator - 快速评估QSPI/SPI Flash](https://blog.segger.com/finding-the-right-qspi-flash-for-your-project/)
 
 **工具(软)**
 
@@ -369,6 +379,7 @@
 > * 【第 054 期】66、[PSLab - 全开源的多功能测量仪](https://pslab.io/)
 > * 【第 055 期】67、[SnapEDA - 硬件设计界的 github](https://www.snapeda.com/)
 > * 【第 055 期】68、[Visuino - 可视化 Arduino 仿真编程环境](http://www.visuino.com/)
+> * 【第 056 期】69、[ASN Filter Designer - 模拟滤波生成ARM DSP库代码的专用软件](https://www.advsolned.com/asn_filter_designer_digital_filter_software/)
 
 **工具(硬)**
 
