@@ -12,7 +12,7 @@
 
 历史上的今天：1998年6月25日，微软公司发布 Microsoft Windows 98 操作系统。
 
-本期共收录 1个资讯、4个项目，希望对你有帮助！
+本期共收录 1个资讯、5个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -96,6 +96,16 @@ ctxLink 是基于 Black Magic Probe（BMP）的开放式硬件，开放式固件
 - 电池可以通过USB充电
 - 无论ctxLink本身是由电池供电还是通过USB供电，均可用于为目标供电（最大100 mA）
 ```
+
+### <font color="red">5、SEGGER (Q) SPI Flash Evaluator - 快速评估QSPI/SPI Flash</font>
+
+Segger 公司为它们的 Flasher 工具项目配套设计的一款 QSPI Flash 快速评估套件，有了它，你可以在 15 分钟之内快速测试任意一款 NOR Flash。
+
+> * 项目主页：https://blog.segger.com/finding-the-right-qspi-flash-for-your-project/
+
+![](http://henjay724.com/image/biweekly20220625/SEGGER-SPI-Flash-Evaluator.PNG)
+
+![](http://henjay724.com/image/biweekly20220625/SEGGER-SPI-Flash-Evaluator-Sub.PNG)
 
 ### 欢迎订阅
 

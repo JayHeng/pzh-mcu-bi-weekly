@@ -20,7 +20,7 @@
 
 继去年年底量产 L 系列 MCU 后，今年上半年苏州云途半导体又量产了第二款高端车规级MCU - M系列产品YTM32B1ME，这是目前国内唯一实现量产的基于ARM Cortex-M33的高端32位车规级MCU。
 
-> * 产品主页：https://github.com/smartmx/TFDB
+> * 产品主页：http://ytmicro.com/product-2.php
 
 ![](http://henjay724.com/image/biweekly20220619/YTM32B1M.PNG)
 
