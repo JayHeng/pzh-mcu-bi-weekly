@@ -12,14 +12,21 @@
 
 历史上的今天：1968年7月16日，世界最大的半导体公司，英特尔公司成立。
 
-本期共收录 0个资讯、0个项目、3个工具，希望对你有帮助！
+本期共收录 1个项目、3个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、SimplePnP - 开源的PCB贴装机</font>
 
+印刷电路板组装是制造电子器件的关键环节。大批量的PCB通常由工厂流水线上的专门机器处理，而原型通常是手工制作的。手工组装是缓慢、困难和极其乏味的，SimplePnP 被设计成可靠、准确、价格合理，并适用于各种各样的组件。对于电子创业公司、发明家、研究人员和黑客空间来说，它是一个很好的选择。
 
+> * 项目主页：https://www.crowdsupply.com/citrus-cnc/simplepnp
 
+![](http://henjay724.com/image/biweekly20220716/SimplePnP.PNG)
+
+SimplePnP 与其它两款平台的比较：
+
+![](http://henjay724.com/image/biweekly20220716/SimplePnP_VS.PNG)
 
 ## 工具类
 
@@ -43,7 +50,7 @@ FatFS 作者 ChaN 老师也建议大家不要使用操作系统自带的工具�
 
 ![](http://henjay724.com/image/biweekly20220716/SD_Card_Formatter.PNG)
 
-### <font color="red">3、Altium 365 Viewer - Altium 出品的在线PCB查看器</font>
+### <font color="red">3、Altium 365 Viewer - Altium出品的在线PCB查看器</font>
 
 Altium 出品的线上PCB Viewer，对于没有安装PCB软件的用户来说，查看PCB将非常方便。本地 PCB 文件上传上去之后还可以很方便地分享给其他人。这个软件同时也支持 KiCad 格式。
 
