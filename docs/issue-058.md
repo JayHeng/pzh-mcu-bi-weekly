@@ -12,7 +12,7 @@
 
 历史上的今天：1968年7月16日，世界最大的半导体公司，英特尔公司成立。
 
-本期共收录 0个资讯、0个项目、1个工具，希望对你有帮助！
+本期共收录 0个资讯、0个项目、2个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -29,11 +29,19 @@ Wireshark 是世界上最重要的、被广泛使用的网络协议分析器。W
 
 > * 软件官网：https://www.wireshark.org/
 
-
-
 Wireshark 包含许多协议的解密支持，包括IPsec、ISAKMP、Kerberos、SNMPv3、SSL/TLS、WEP和WPA/WPA2。下面是 Wireshark 联合 USBpcap 驱动做得 USB 抓包示例。
 
 ![](http://henjay724.com/image/biweekly20220716/Wireshark.PNG)
+
+### <font color="red">2、SD Card Formatter - SD卡联盟发布的SD/SDHC/SDXC格式化小软件</font>
+
+SD卡联盟强烈强烈建议使用此软件来格式化 SD/SDHC/SDXC 卡，而不要使用各个操作系统随附的格式化工具。通常，操作系统附带的格式化工具可以格式化包括 SD/SDHC/SDXC 卡在内的各种存储介质，但是可能无法针对 SD/SDHC/SDXC 卡进行优化，并且可能导致性能降低。
+
+FatFS 作者 ChaN 老师也建议大家不要使用操作系统自带的工具来格式化。
+
+> * 软件下载：https://www.sdcard.org/downloads/formatter/
+
+![](http://henjay724.com/image/biweekly20220716/SD_Card_Formatter.PNG)
 
 ### 欢迎订阅
 
