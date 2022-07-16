@@ -12,11 +12,20 @@
 
 历史上的今天：1968年7月16日，世界最大的半导体公司，英特尔公司成立。
 
-本期共收录 1个项目、3个工具，希望对你有帮助！
+本期共收录 2个项目、3个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、SimplePnP - 开源的PCB贴装机</font>
+### <font color="red">1、CANT - CAN总线模拟实现</font>
+
+I/O 方式模拟 UART, SPI, I2C 协议的有很多，但是模拟 CAN 协议的却很少，今天介绍的 CANT 就是 CAN 总线模拟实现，原项目是在 ST Micro Nucleo-H743ZI 板子上示例的。作者近期推出了一个C和Python包 - canhack，方便大家移植到各种不带 CAN 的芯片。
+
+> * 项目地址1：https://github.com/bitbane/CANT
+> * 项目地址2：https://github.com/kentindell/canhack
+
+![](http://henjay724.com/image/biweekly20220716/CANT.PNG)
+
+### <font color="red">2、SimplePnP - 开源的PCB贴装机</font>
 
 印刷电路板组装是制造电子器件的关键环节。大批量的PCB通常由工厂流水线上的专门机器处理，而原型通常是手工制作的。手工组装是缓慢、困难和极其乏味的，SimplePnP 被设计成可靠、准确、价格合理，并适用于各种各样的组件。对于电子创业公司、发明家、研究人员和黑客空间来说，它是一个很好的选择。
 
