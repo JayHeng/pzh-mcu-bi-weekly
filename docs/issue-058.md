@@ -12,7 +12,7 @@
 
 历史上的今天：1968年7月16日，世界最大的半导体公司，英特尔公司成立。
 
-本期共收录 2个项目、3个工具，希望对你有帮助！
+本期共收录 2个项目、4个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -66,6 +66,16 @@ Altium 出品的线上PCB Viewer，对于没有安装PCB软件的用户来说，
 > * 软件官网：https://www.altium.com/viewer/
 
 ![](http://henjay724.com/image/biweekly20220716/Altium-365-Viewer.gif)
+
+### <font color="red">4、inspectAR - PCB增强现实工具包</font>
+
+inspectAR是一个集中制造和测试数据的中心，具有增值功能，使工程师和技术人员能够在协同工业4.0环境中竞争。
+
+> * 软件官网：https://www.inspectar.com/
+
+inspectAR 很好的将手机摄像头的美颜和各种装饰功能应用到PCB板子，效果非常好。大家将自己的PCB文件加载进去，就可以方便的展示。
+
+![](http://henjay724.com/image/biweekly20220716/inspectAR.PNG)
 
 ### 欢迎订阅
 
