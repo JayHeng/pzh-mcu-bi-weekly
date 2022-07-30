@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
+[第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
 [第 054 期](docs/issue-054.md) | [第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
@@ -237,6 +237,10 @@
 > * 【第 056 期】111、[Dhara - 用于小型单片机的 NAND 闪存转换层(FTL)](https://github.com/dlbeer/dhara)
 > * 【第 056 期】112、[TFDB - 超轻量的可纠错的通用单片机flash存储方案](https://github.com/smartmx/TFDB)
 > * 【第 057 期】113、[Minimal printf - Mbed推出的精简 printf 实现](https://github.com/ARMmbed/mbed-os/tree/master/platform/source/minimal-printf)
+> * 【第 058 期】114、[CANT - CAN总线模拟实现](https://github.com/bitbane/CANT)
+> * 【第 059 期】115、[OpenSBI - RISC-V SBI 规范的开源参考实现](https://github.com/riscv-software-src/opensbi)
+> * 【第 059 期】116、[RustSBI - RISC-V SBI 规范的 Rust 实现](https://github.com/rustsbi/rustsbi)
+> * 【第 059 期】115、[OpenSK - 基于 Rust 语言编写的安全密钥软件包](https://github.com/google/OpenSK)
 
 **项目(硬)**
 
@@ -308,6 +312,9 @@
 > * 【第 057 期】66、[Black Magic Probe - 开源的标准 GNU 调试器](https://github.com/blackmagic-debug/blackmagic)
 > * 【第 057 期】67、[ctxLink - 面向Cortex-M的无线调试器](https://www.crowdsupply.com/sid-price/ctxlink)
 > * 【第 057 期】68、[SEGGER (Q) SPI Flash Evaluator - 快速评估QSPI/SPI Flash](https://blog.segger.com/finding-the-right-qspi-flash-for-your-project/)
+> * 【第 058 期】69、[SimplePnP - 开源的PCB贴装机](https://www.crowdsupply.com/citrus-cnc/simplepnp)
+> * 【第 059 期】70、[WiPhone - 基于ESP32的开源模块化手机](https://wiphone.io/)
+> * 【第 059 期】71、[EEZ Bench Box 3 - 开源的模块化，可编程直流电源](https://www.crowdsupply.com/envox/eez-bb3)
 
 **工具(软)**
 
@@ -380,6 +387,11 @@
 > * 【第 055 期】67、[SnapEDA - 硬件设计界的 github](https://www.snapeda.com/)
 > * 【第 055 期】68、[Visuino - 可视化 Arduino 仿真编程环境](http://www.visuino.com/)
 > * 【第 056 期】69、[ASN Filter Designer - 模拟滤波生成ARM DSP库代码的专用软件](https://www.advsolned.com/asn_filter_designer_digital_filter_software/)
+> * 【第 058 期】70、[Wireshark - 最广泛使用的开源网络协议分析器](https://www.wireshark.org/)
+> * 【第 058 期】71、[SD Card Formatter - SD卡联盟发布的SD/SDHC/SDXC格式化小软件](https://www.sdcard.org/downloads/formatter/)
+> * 【第 058 期】72、[Altium 365 Viewer - Altium出品的在线PCB查看器](https://www.altium.com/viewer/)
+> * 【第 058 期】73、[inspectAR - PCB增强现实工具包](https://www.inspectar.com/)
+> * 【第 059 期】74、[TinyPNG - 在线智能压缩WebP/PNG/JPEG格式图片](https://tinypng.com/)
 
 **工具(硬)**
 
