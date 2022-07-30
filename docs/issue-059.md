@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1个项目、1个工具，希望对你有帮助！
+本期共收录 2个项目、1个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -26,6 +26,15 @@ OpenSK 项目选择了 Nordic 的 nRF52840 加密狗套件作为初始参考硬�
 
 ![](http://henjay724.com/image/biweekly20220730/OpenSK.PNG)
 
+### <font color="red">2、WiPhone - 基于ESP32的开源模块化手机</font>
+
+WiPhone 是一款可破解的模块化手机，可以通过 WiFi 免费拨打高清语音。WiPhone 不仅具有完全免费的通话功能，而且还是一个基于 Arduino 的开源平台。
+
+> * 项目地址：https://wiphone.io/
+
+WiPhone 可以通过子板进行扩展。整个手机背面是一个可更换的面板，接受1.6毫米厚度的标准PCB，你可以用它添加任何你喜欢的功能。
+
+![](http://henjay724.com/image/biweekly20220730/WiPhone.PNG)
 
 ## 工具类
 
