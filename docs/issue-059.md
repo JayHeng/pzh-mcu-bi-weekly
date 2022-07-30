@@ -12,11 +12,34 @@
 
 历史上的今天：
 
-本期共收录 2个项目、1个工具，希望对你有帮助！
+本期共收录 4个项目、1个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、OpenSK - 基于 Rust 语言编写的安全密钥软件包</font>
+### <font color="red">1、OpenSBI - RISC-V SBI 规范的开源参考实现</font>
+
+RISC-V 处理器架构中，存在着定义于操作系统之下的环境，它被称作 SBI 标准。这个环境除了引导系统启动，还将常驻后台，在内核运行时提供处理器功能。RISC-V Supervisor 二进制接口（SBI）是以下之间的推荐接口：
+
+```text
+1. 在 M 模式下运行的特定于平台的固件，以 S 模式或 HS 模式执行的引导加载程序，管理程序或通用 OS。
+2. 在 HS 模式下运行的管理程序，以及在 VS 模式下执行的引导加载程序或通用 OS。
+```
+
+OpenSBI 项目的目标是为在 M 模式下执行的平台特定固件（上面提到的情况 1）提供 RISC-V SBI 规范的开源参考实现。 RISC-V 平台和片上系统供应商可以轻松扩展 OpenSBI 实现，以适应特定的硬件配置。
+
+> * 项目地址：https://github.com/riscv-software-src/opensbi
+
+OpenSBI 的主要组件以独立于平台的静态库 libsbi.a 的形式提供，实现了 SBI 接口。固件或引导加载程序实现可以链接到此库，以确保符合 SBI 接口规范。 libsbi.a 还定义了用于与平台固件实现提供的平台特定操作集成的接口（例如，控制台访问功能，处理器间中断控制等）。
+
+### <font color="red">2、RustSBI - RISC-V SBI 规范的 Rust 实现</font>
+
+RustSBI 是 RISC-V 平台下的引导程序实现，它完全由 Rust 编写，并已经被录入 RISC-V SBI 国际标准。
+
+> * 项目地址：https://github.com/rustsbi/rustsbi
+
+RustSBI 是一个扩展性较好的库，允许开发者自由地添加需要的功能模块，以支持芯片研发企业、应用厂商和板卡厂商提供自己芯片的 SBI 支持环境。
+
+### <font color="red">3、OpenSK - 基于 Rust 语言编写的安全密钥软件包</font>
 
 OpenSK 是谷歌推出的基于 Rust 语言编写的安全密钥，同时支持 FIDO U2F 和 FIDO2 标准。该项目是为了推进和改善对 FIDO 身份验证器的实现。
 
@@ -26,7 +49,7 @@ OpenSK 项目选择了 Nordic 的 nRF52840 加密狗套件作为初始参考硬�
 
 ![](http://henjay724.com/image/biweekly20220730/OpenSK.PNG)
 
-### <font color="red">2、WiPhone - 基于ESP32的开源模块化手机</font>
+### <font color="red">4、WiPhone - 基于ESP32的开源模块化手机</font>
 
 WiPhone 是一款可破解的模块化手机，可以通过 WiFi 免费拨打高清语音。WiPhone 不仅具有完全免费的通话功能，而且还是一个基于 Arduino 的开源平台。
 
