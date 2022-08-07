@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、2 个工具，希望对你有帮助！
+本期共收录 0 个项目、3 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -40,6 +40,14 @@ WebRISC-V 是一个基于 web 的图形流水线数据路径仿真环境，为 R
 > * 工具地址：https://github.com/Mariotti94/WebRISC-V
 
 ![](http://henjay724.com/image/biweekly20220807/WebRISC-V.PNG)
+
+### <font color="red">3、USBDeview - USB驱动查看和卸载软件</font>
+
+USBDeview 是一个小的实用程序，列出了当前连接到 PC 的所有 USB 设备，以及以前使用的所有USB设备。USBDeview还允许卸载以前使用的 USB 设备，断开当前连接到 PC 的 USB 设备，以及禁用和启用 USB 设备。
+
+> * 工具地址：http://www.nirsoft.net/utils/usb_devices_view.html
+
+![](http://henjay724.com/image/biweekly20220807/USBDeview.PNG)
 
 ### 欢迎订阅
 
