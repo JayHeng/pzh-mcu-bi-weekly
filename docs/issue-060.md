@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、4 个工具，希望对你有帮助！
+本期共收录 0 个项目、5 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -56,6 +56,14 @@ Fiddler 是位于客户端和服务器端的 HTTP 代理。目前最常用的 ht
 > * 工具地址：https://www.telerik.com/fiddler
 
 ![](http://henjay724.com/image/biweekly20220807/Fiddler.PNG)
+
+### <font color="red">5、I2C-DESIGNER - 德州仪器推出的I2C设计工具</font>
+
+利用 I2C 设计器工具，可快速解决基于 I2C 设计中寻址、电压电平和频率方面的冲突。输入主输入端和从输入端，以自动生成 I2C 树活轻松构建自定义解决方案。此工具可在调试缺失确认、选择上拉电阻器和满足 I2C 总线最大容性负载方面提供指导，从而帮助设计人员节省时间并遵循 I2C 标准。
+
+> * 工具地址：https://www.ti.com.cn/tool/cn/I2C-DESIGNER
+
+![](http://henjay724.com/image/biweekly20220807/I2C-DESIGNER.PNG)
 
 ### 欢迎订阅
 
