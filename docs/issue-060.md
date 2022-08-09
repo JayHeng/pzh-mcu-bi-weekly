@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、3 个工具，希望对你有帮助！
+本期共收录 0 个项目、4 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -48,6 +48,14 @@ USBDeview 是一个小的实用程序，列出了当前连接到 PC 的所有 US
 > * 工具地址：http://www.nirsoft.net/utils/usb_devices_view.html
 
 ![](http://henjay724.com/image/biweekly20220807/USBDeview.PNG)
+
+### <font color="red">4、Fiddler - 超级强劲的HTTP抓包软件</font>
+
+Fiddler 是位于客户端和服务器端的 HTTP 代理。目前最常用的 http 抓包工具之一，功能非常强大，是 Web 调试的利器。
+
+> * 工具地址：https://www.telerik.com/fiddler
+
+![](http://henjay724.com/image/biweekly20220807/Fiddler.PNG)
 
 ### 欢迎订阅
 
