@@ -12,7 +12,7 @@
 
 历史上的今天：1985年9月10日，中国第一个教师节。
 
-本期共收录 2 个资讯，0 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个资讯，1 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -33,6 +33,32 @@ FC7300产品系列同样基于真5V车规级工艺打造，是基于多个Cortex
 > * 资讯来源：https://www.gigadevice.com/zh-hans/press-release/gigadevice-launches-the-first-ddr3l/
 
 GDPxxxLM 系列产品采用长鑫存储（CXMT）先进工艺制程，符合 JEDEC 标准，读写速率为2133/1866 Mbps，容量为2Gb/4Gb，支持1.5V和1.35V两种电压。凭借着卓越的性能以及良好的兼容性，GDPxxxLM系列充分满足消费电子产品的主流需求，适用于机顶盒、电视、监控、网络通信、智慧家庭等诸多应用场景，同时也将会针对电力、工业、汽车等行业客户推出工业级颗粒，以满足特定行业市场的需求。  
+
+## 项目类
+
+### <font color="red">1、Open bootloader - ST推出的Bootloader中间件</font>
+
+Open Bootloader是STM32Cube MCU包中提供的应用内编程(IAP)。它与STM32系统引导加载器完全兼容，因此它具有相同的支持接口和命令。它也使用相同的上位机工具，如STM32CubeProgrammer。  
+
+> * 项目主页：https://github.com/STMicroelectronics/stm32-mw-openbl
+
+Open Bootloader 允许所有可能的引导加载程序操作(读，写，擦除，跳转…)到内部(Flash, SRAM, OTP…)或外部内存。Open Bootloader 支持的通信接口包括 USART, I2C, SPI, USB-DFU, FDCAN。
+
+Open Bootloader 支持的命令如下：  
+
+```text
+- Get Version
+- Get Device ID
+- Get Available Command List
+- Write Memory
+- Read Memory
+- Write Protection setting
+- Read Protection setting
+- Jump to Application
+- Flash Erase
+- Special Command
+- Extended Special Command
+```
 
 ## 工具类
 
