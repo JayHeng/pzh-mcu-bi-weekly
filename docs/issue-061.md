@@ -12,7 +12,7 @@
 
 历史上的今天：1985年9月10日，中国第一个教师节。
 
-本期共收录 2 个资讯，1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个资讯，2 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -59,6 +59,16 @@ Open Bootloader 支持的命令如下：
 - Special Command
 - Extended Special Command
 ```
+
+### <font color="red">2、The battery-free Game Boy - 开源软硬件的无电池供电掌机</font>
+
+这是一种由太阳能和在游戏过程中敲击按钮提供能量的电子游戏机。它是一个橙色的砖块，有一本平装小说那么大，但重量只有1989年发行的第一代任天堂Game Boy游戏机的一半。  
+
+该掌机设计最意思的地方是无电池的情况下，提供了点击按钮搜集能量和太阳能搜集能量。
+
+> * 项目主页：https://www.cnet.com/science/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/
+
+![](http://henjay724.com/image/biweekly20220913/The-battery-free-Game-Boy.PNG)
 
 ## 工具类
 
