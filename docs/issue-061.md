@@ -12,7 +12,7 @@
 
 历史上的今天：1985年9月10日，中国第一个教师节。
 
-本期共收录 2 个资讯，1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个资讯，1 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -62,7 +62,20 @@ Open Bootloader 支持的命令如下：
 
 ## 工具类
 
+### <font color="red">1、Virtual Oscilloscope - 可插入网页设计的虚拟示波器频谱仪插件</font>
 
+这个在线虚拟示波器允许可视化现场声音输入，并掌握如何调整显示。如果你想在自己的网站上嵌入示波器，可以直接复制并粘贴以下html到你的网页上。  
+
+```html
+<iframe src="https://academo.org/demos/virtual-oscilloscope/?embedded=true" width="800" height="380"></iframe>
+```
+
+> * 工具主页：https://academo.org/demos/virtual-oscilloscope/
+> * 工具主页：https://academo.org/demos/spectrum-analyzer/
+
+![](http://henjay724.com/image/biweekly20220913/academo-virtual-oscilloscope.PNG)
+-
+![](http://henjay724.com/image/biweekly20220913/academo-spectrum-analyzer.PNG)
 
 ### 欢迎订阅
 
