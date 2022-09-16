@@ -11,7 +11,9 @@
 
 ## 2022农历壬寅虎年
 
-[第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
+ [第 061 期](docs/issue-061.md)
+
+ [第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
 [第 054 期](docs/issue-054.md) | [第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
@@ -96,31 +98,32 @@
 > * 【第 032 期】53、恩智浦(NXP)全球首个AI应用创新中心于天津正式启动
 > * 【第 033 期】54、英特尔拟收购RISC-V阵营领头厂商SiFive
 > * 【第 033 期】55、Keil发布新一代开发工具 - Keil Studio
-> * 【第 033 期】56、英特尔拟收购RISC-V阵营领头厂商SiFive
-> * 【第 034 期】57、首届 RISC-V 中国峰会在上海举行
-> * 【第 034 期】58、中科院计算所公布开源 RISC-V 处理器核心 - 香山
-> * 【第 035 期】59、华米科技自研 OS 即将发布
-> * 【第 037 期】60、TI 发布全新 Sitara™ AM2x 系列高性能MCU
-> * 【第 037 期】61、乐鑫发布 IEEE 802.15.4 + Bluetooth 5.2 (LE) RISC-V SoC ESP32-H2
-> * 【第 039 期】62、知名媒体 Aspencore 主办的“全球 MCU 生态发展大会” 落幕
-> * 【第 040 期】63、2021全球电子成就奖评选已开启
-> * 【第 040 期】64、五菱 MCU 芯片首次公开亮相
-> * 【第 043 期】65、平头哥发布自研云芯片倚天710
-> * 【第 043 期】66、中国首款宇航级存储控制器芯片Bifort
-> * 【第 045 期】67、先楫半导体发布超高性能RISC-V微控制器 - HPM6700/6400
-> * 【第 046 期】68、首届“滴水湖中国RISC-V产业论坛”开启
-> * 【第 046 期】69、2021 RT-Thread开发者大会召开
-> * 【第 048 期】70、灵动微电子加推基于STAR-MC1内核的微控制器MM32F5270
-> * 【第 048 期】71、云途半导体首款微控制器YTM32B1L通过AEC-Q100车规认证
-> * 【第 049 期】72、英伟达并购ARM案告吹，ARM谋求IPO
-> * 【第 049 期】73、智芯半导体发布第二个产品家族Z20K148
-> * 【第 050 期】74、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU
-> * 【第 051 期】75、Keil MDK新增完全免费的Community版本
-> * 【第 051 期】76、微软正式推出VS Code嵌入式插件
-> * 【第 054 期】77、ARM公司发布Cortex-M85内核
-> * 【第 055 期】78、先楫半导体推出高性价比RISC-V微控制器 - HPM6300
-> * 【第 056 期】79、云途推出第二款高端车规级MCU - YTM32B1ME
-> * 【第 057 期】80、恩智浦发布全新MCX微控制器产品组合
+> * 【第 034 期】56、首届 RISC-V 中国峰会在上海举行
+> * 【第 034 期】57、中科院计算所公布开源 RISC-V 处理器核心 - 香山
+> * 【第 035 期】58、华米科技自研 OS 即将发布
+> * 【第 037 期】69、TI 发布全新 Sitara™ AM2x 系列高性能MCU
+> * 【第 037 期】60、乐鑫发布 IEEE 802.15.4 + Bluetooth 5.2 (LE) RISC-V SoC ESP32-H2
+> * 【第 039 期】61、知名媒体 Aspencore 主办的“全球 MCU 生态发展大会” 落幕
+> * 【第 040 期】62、2021全球电子成就奖评选已开启
+> * 【第 040 期】63、五菱 MCU 芯片首次公开亮相
+> * 【第 043 期】64、平头哥发布自研云芯片倚天710
+> * 【第 043 期】65、中国首款宇航级存储控制器芯片Bifort
+> * 【第 045 期】66、先楫半导体发布超高性能RISC-V微控制器 - HPM6700/6400
+> * 【第 046 期】67、首届“滴水湖中国RISC-V产业论坛”开启
+> * 【第 046 期】68、2021 RT-Thread开发者大会召开
+> * 【第 048 期】69、灵动微电子加推基于STAR-MC1内核的微控制器MM32F5270
+> * 【第 048 期】70、云途半导体首款微控制器YTM32B1L通过AEC-Q100车规认证
+> * 【第 049 期】71、英伟达并购ARM案告吹，ARM谋求IPO
+> * 【第 049 期】72、智芯半导体发布第二个产品家族Z20K148
+> * 【第 050 期】73、瑞萨推出64位RISC-V CPU内核RZ/Five通用MPU
+> * 【第 051 期】74、Keil MDK新增完全免费的Community版本
+> * 【第 051 期】75、微软正式推出VS Code嵌入式插件
+> * 【第 054 期】76、ARM公司发布Cortex-M85内核
+> * 【第 055 期】77、先楫半导体推出高性价比RISC-V微控制器 - HPM6300
+> * 【第 056 期】78、云途推出第二款高端车规级MCU - YTM32B1ME
+> * 【第 057 期】79、恩智浦发布全新MCX微控制器产品组合
+> * 【第 061 期】80、旗芯微发布最新一代Hyper控制器家族产品FC7300
+> * 【第 061 期】81、兆易创新推出首款自研DDR3L产品GDPxxxLM
 
 **项目(软)**
 
@@ -241,6 +244,7 @@
 > * 【第 059 期】115、[OpenSBI - RISC-V SBI 规范的开源参考实现](https://github.com/riscv-software-src/opensbi)
 > * 【第 059 期】116、[RustSBI - RISC-V SBI 规范的 Rust 实现](https://github.com/rustsbi/rustsbi)
 > * 【第 059 期】115、[OpenSK - 基于 Rust 语言编写的安全密钥软件包](https://github.com/google/OpenSK)
+> * 【第 060 期】116、[Cyclone TCP - 专用于嵌入式应用的双IPv4/IPv6栈](https://www.oryx-embedded.com/products/CycloneTCP)
 
 **项目(硬)**
 
@@ -392,6 +396,11 @@
 > * 【第 058 期】72、[Altium 365 Viewer - Altium出品的在线PCB查看器](https://www.altium.com/viewer/)
 > * 【第 058 期】73、[inspectAR - PCB增强现实工具包](https://www.inspectar.com/)
 > * 【第 059 期】74、[TinyPNG - 在线智能压缩WebP/PNG/JPEG格式图片](https://tinypng.com/)
+> * 【第 060 期】75、[EWPtool - 从其他工具链迁移到IAR的项目迁移工具](https://github.com/IARSystems/project-migration-tools)
+> * 【第 060 期】76、[WebRISC-V - 基于web的面向教育的RISC-V仿真环境](https://webriscv.dii.unisi.it/)
+> * 【第 060 期】77、[USBDeview - USB驱动查看和卸载软件](http://www.nirsoft.net/utils/usb_devices_view.html)
+> * 【第 060 期】78、[Fiddler - 超级强劲的HTTP抓包软件](https://www.telerik.com/fiddler)
+> * 【第 060 期】79、[I2C-DESIGNER - 德州仪器推出的I2C设计工具](https://www.ti.com.cn/tool/cn/I2C-DESIGNER)
 
 **工具(硬)**
 
