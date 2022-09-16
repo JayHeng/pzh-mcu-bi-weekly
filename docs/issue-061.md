@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：1985年9月10日，中国第一个教师节。
+历史上的今天：1956年9月13日，IBM研发成功世界上首个电脑磁盘储存设备。
 
-本期共收录 2 个资讯，2 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个资讯，3 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -69,6 +69,22 @@ Open Bootloader 支持的命令如下：
 > * 项目主页：https://www.cnet.com/science/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/
 
 ![](http://henjay724.com/image/biweekly20220913/The-battery-free-Game-Boy.PNG)
+
+### <font color="red">3、LCR Meter AU2019 - 开源LCR表</font>
+
+阻抗(Z)是表征无源电子元件(电阻、电容、电感)的重要参数。要确定阻抗，就必须测量至少两个值(大小和相位)，一般是元件两端的电压和流过该元件的电流。LCR Meter AU2019采用自平衡电桥方法，使用一个简单的运算放大器作为电流/电压转换器(I-V转换器)。这种简单的方法以合理的成本提供了良好的测量精度。它的主要缺点是所使用的运算放大器的性能限制其频率范围在高频。  
+
+> * 项目主页：https://www.elektormagazine.com/labs/remake-lcr-meter
+
+该表的特点如下：
+
+```text
+- 测试频率从50Hz到2MHz。
+- 4种可能的测试电压(100mV, 200mV, 500mV和1V有效值)。
+- 额外的直流极化可达5V的电容器和50mA的电感。
+```
+
+![](http://henjay724.com/image/biweekly20220913/LCR-Meter-AU2019.PNG)
 
 ## 工具类
 
