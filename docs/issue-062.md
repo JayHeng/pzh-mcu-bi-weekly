@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -34,7 +34,17 @@ Lua RTOS 有 3 层设计:
 
 ## 工具类
 
+### <font color="red">1、Power Profiler Kit II - Nordic出品的开源二代功耗测量套件</font>
 
+Power Profiler Kit II (PPK2)是一个独立的单元，除了外部硬件外，它可以测量并可选地提供所有 Nordic DK 板上从sub-uA到高达1A的电流。    
+
+> * 工具主页：https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2
+
+PPK2具有先进的模拟测量单元，具有较高的动态测量范围。这使得在低功耗嵌入式应用程序中可以精确测量整个范围的功耗，从单个μ a到1A。根据测量范围的不同，分辨率在100nA和1mA之间变化，并且足够高，可以检测在低功率优化系统中经常看到的小峰值。  
+
+PPK2还可以使用数字输入作为低端逻辑分析器，支持代码同步测量。这可以通过将数字输入连接到被测外部设备(DUT)上的I/O引脚来实现。  
+
+![](http://henjay724.com/image/biweekly20220918/Power-Profiler-Kit-II.PNG)
 
 ### 欢迎订阅
 
