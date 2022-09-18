@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -31,6 +31,19 @@ Lua RTOS 有 3 层设计:
 ```
 
 ![](http://henjay724.com/image/biweekly20220918/Lua-RTOS-ESP32.PNG)
+
+### <font color="red">2、SOEM,SOES - 工业以太网协议EtherCAT的开源主从协议栈</font>
+
+SOEM是一个用c语言编写的EtherCAT主库，其目的是学习和使用。邀请所有用户研究源，以了解EtherCAT主控器如何工作以及它如何与EtherCAT从器相互作用。由于所有的应用程序都是不同的，SOEM尽量不强加任何设计架构。在Linux下，它可以在一般用户模式、PREEMPT_RT或Xenomai下使用。在Windows下可以作为用户模式程序使用。    
+
+SOES (简单开源EtherCAT从栈)是一种非常容易使用且占用空间小的开源从栈。它是市场上更复杂的堆栈的一个很好的替代方案。
+
+> * 项目主页：https://github.com/OpenEtherCATsociety/SOEM
+> * 项目主页：https://github.com/OpenEtherCATsociety/SOES
+
+MBED里有该项目的移植，EasyCAT LAB是一个完整的教育和实验EtherCAT®系统，由一个主系统和两个从系统组成。
+
+![](http://henjay724.com/image/biweekly20220918/SOEM-SOES.PNG)
 
 ## 工具类
 
