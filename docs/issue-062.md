@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -45,6 +45,12 @@ MBED里有该项目的移植，EasyCAT LAB是一个完整的教育和实验Ether
 
 ![](http://henjay724.com/image/biweekly20220918/SOEM-SOES.PNG)
 
+### <font color="red">3、</font>
+
+> * 项目主页：https://github.com/MartinD-CZ/STM32F1-open-source-multimeter
+
+![](http://henjay724.com/image/biweekly20220918/.PNG)
+
 ## 工具类
 
 ### <font color="red">1、Power Profiler Kit II - Nordic出品的开源二代功耗测量套件</font>
@@ -58,6 +64,17 @@ PPK2具有先进的模拟测量单元，具有较高的动态测量范围。这�
 PPK2还可以使用数字输入作为低端逻辑分析器，支持代码同步测量。这可以通过将数字输入连接到被测外部设备(DUT)上的I/O引脚来实现。  
 
 ![](http://henjay724.com/image/biweekly20220918/Power-Profiler-Kit-II.PNG)
+
+### <font color="red">2、ChipWhisperer - 汽车级芯片爆破设备</font>
+
+ChipWhisperer 是 NewAE 公司推出的用于侧通道功率分析和故障攻击的完整的开源工具链。工具链含硬件，上位机软件，硬件芯片固件，均在 Github 上开源，这套设备主要是致力于硬件安全研究。  
+
+> * 工具主页：https://github.com/newaetech/chipwhisperer
+> * 工具主页：https://github.com/newaetech/ChipShover
+
+下图是在 NXP 汽车级芯片上的做的爆破演示，展示了绕过了芯片的安全启动，直接进入主程序，但攻击和理解结果的可移植性的想法适用于整个领域。 
+
+![](http://henjay724.com/image/biweekly20220918/ChipShover.PNG)
 
 ### 欢迎订阅
 
