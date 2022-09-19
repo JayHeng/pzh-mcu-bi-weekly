@@ -10,7 +10,7 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1830年9月18日，第一台美国人制造的火车头，彼得·库拍的“大拇指汤姆号”在返回巴尔的摩途中与一匹马赛跑失败。
 
 本期共收录 3 个项目、2 个工具，希望对你有帮助！
 
@@ -34,7 +34,7 @@ Lua RTOS 有 3 层设计:
 
 ### <font color="red">2、SOEM,SOES - 工业以太网协议EtherCAT的开源主从协议栈</font>
 
-SOEM是一个用c语言编写的EtherCAT主库，其目的是学习和使用。邀请所有用户研究源，以了解EtherCAT主控器如何工作以及它如何与EtherCAT从器相互作用。由于所有的应用程序都是不同的，SOEM尽量不强加任何设计架构。在Linux下，它可以在一般用户模式、PREEMPT_RT或Xenomai下使用。在Windows下可以作为用户模式程序使用。    
+SOEM是一个用C语言编写的EtherCAT主库，其目的是学习和使用。邀请所有用户研究源，以了解EtherCAT主控器如何工作以及它如何与EtherCAT从器相互作用。由于所有的应用程序都是不同的，SOEM尽量不强加任何设计架构。在Linux下，它可以在一般用户模式、PREEMPT_RT或Xenomai下使用。在Windows下可以作为用户模式程序使用。    
 
 SOES (简单开源EtherCAT从栈)是一种非常容易使用且占用空间小的开源从栈。它是市场上更复杂的堆栈的一个很好的替代方案。
 
@@ -45,11 +45,26 @@ MBED里有该项目的移植，EasyCAT LAB是一个完整的教育和实验Ether
 
 ![](http://henjay724.com/image/biweekly20220918/SOEM-SOES.PNG)
 
-### <font color="red">3、</font>
+### <font color="red">3、STM32 OpenSource Multimeter - 适合DIY入门的开源万用表</font>
+
+一个基于 STM32F1/F3 的开源万用表设计，具有双量程的V/I, RMS测量，连续性，组件测试等功能。作者将全部设计文件都开源了，非常适合 DIY 入门。
 
 > * 项目主页：https://github.com/MartinD-CZ/STM32F1-open-source-multimeter
 
-![](http://henjay724.com/image/biweekly20220918/.PNG)
+特性如下：
+
+```text
+1. voltage measurement: ±60 V, ±6 V, ±600 mV, ±60 m ranges, with DC or RMS data acquisition
+2. current measurement: ±250 or ±2500 mA ranges, again with DC or RMS
+3. can measure voltage and current simultaneously and display the product, ie power
+4. measures continuity and displays the resistance and voltage drop
+5. can perform simple component testing
+6. frequency measurement up to 10 MHz
+```
+
+![](http://henjay724.com/image/biweekly20220918/STM32-OpenSource-Multimeter.PNG)
+-
+![](http://henjay724.com/image/biweekly20220918/STM32-OpenSource-Multimeter2.PNG)
 
 ## 工具类
 
