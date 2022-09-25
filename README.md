@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
- [第 061 期](docs/issue-061.md)
+ [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
  [第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
@@ -245,6 +245,9 @@
 > * 【第 059 期】116、[RustSBI - RISC-V SBI 规范的 Rust 实现](https://github.com/rustsbi/rustsbi)
 > * 【第 059 期】115、[OpenSK - 基于 Rust 语言编写的安全密钥软件包](https://github.com/google/OpenSK)
 > * 【第 060 期】116、[Cyclone TCP - 专用于嵌入式应用的双IPv4/IPv6栈](https://www.oryx-embedded.com/products/CycloneTCP)
+> * 【第 061 期】117、[Open bootloader - ST推出的Bootloader中间件](https://github.com/STMicroelectronics/stm32-mw-openbl)
+> * 【第 062 期】118、[Lua-RTOS-ESP32 - 基于Lua语言面向嵌入式的RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32)
+> * 【第 062 期】119、[SOEM,SOES - 工业以太网协议EtherCAT的开源主从协议栈](https://github.com/OpenEtherCATsociety/SOEM)
 
 **项目(硬)**
 
@@ -319,6 +322,9 @@
 > * 【第 058 期】69、[SimplePnP - 开源的PCB贴装机](https://www.crowdsupply.com/citrus-cnc/simplepnp)
 > * 【第 059 期】70、[WiPhone - 基于ESP32的开源模块化手机](https://wiphone.io/)
 > * 【第 059 期】71、[EEZ Bench Box 3 - 开源的模块化，可编程直流电源](https://www.crowdsupply.com/envox/eez-bb3)
+> * 【第 061 期】72、[The battery-free Game Boy - 开源软硬件的无电池供电掌机](https://www.cnet.com/science/features/the-first-battery-free-game-boy-wants-to-power-a-gaming-revolution/)
+> * 【第 061 期】73、[LCR Meter AU2019 - 开源LCR表](https://www.elektormagazine.com/labs/remake-lcr-meter)
+> * 【第 062 期】74、[STM32 OpenSource Multimeter - 适合DIY入门的开源万用表](https://github.com/MartinD-CZ/STM32F1-open-source-multimeter)
 
 **工具(软)**
 
@@ -401,12 +407,15 @@
 > * 【第 060 期】77、[USBDeview - USB驱动查看和卸载软件](http://www.nirsoft.net/utils/usb_devices_view.html)
 > * 【第 060 期】78、[Fiddler - 超级强劲的HTTP抓包软件](https://www.telerik.com/fiddler)
 > * 【第 060 期】79、[I2C-DESIGNER - 德州仪器推出的I2C设计工具](https://www.ti.com.cn/tool/cn/I2C-DESIGNER)
+> * 【第 061 期】80、[Virtual Oscilloscope - 可插入网页设计的虚拟示波器频谱仪插件](https://academo.org/demos/virtual-oscilloscope/)
 
 **工具(硬)**
 
 > * 【第 001 期】1、H7-TOOL - 安富莱电子专为单片机工程师设计的一款开源多功能开发调试工具
 > * 【第 002 期】2、ADALM2000 - 亚德诺(ADI)半导体出品的11种功能合一的便携口袋仪器
 > * 【第 022 期】3、DSLogic - 梦源实验室出品的跨平台逻辑信号分析仪
+> * 【第 062 期】4、[Power Profiler Kit II - Nordic出品的开源二代功耗测量套件](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
+> * 【第 062 期】5、[ChipWhisperer - 汽车级芯片爆破设备](https://github.com/newaetech/chipwhisperer)
 
 **RT出品**
 
