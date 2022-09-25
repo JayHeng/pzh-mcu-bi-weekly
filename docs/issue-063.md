@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1952年9月25日，我国第一部自制三千瓦水轮发电机在东北电机厂试制成功。
 
-本期共收录 1 个资讯、3 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、3 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -60,6 +60,14 @@ QUARK 开箱即用，可以测量电压、电流、电阻、电容和电感等�
 
 ## 工具类
 
+### <font color="red">1、TI-84 Plus CE Python - TI出品支持Python编程的图形化显示计算器
+</font>
+
+编码是数字时代的基本素养，对于学生来说，理解并能够使用身边的技术是很重要的。TI-84 Plus CE绘图家族中新增的Python版本，学生可以学习使用他们在数学课上已经熟悉的专用的、不受干扰的工具来编程。    
+
+> * 项目主页：https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python
+
+![](http://henjay724.com/image/biweekly20220925/TI-84-Plus-CE-Python.PNG)
 
 ### 欢迎订阅
 
