@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、2 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、3 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -45,6 +45,18 @@ cola_os 是一个 300 行代码实现多任务管理的 OS，在很多 MCU 开�
 ![](http://henjay724.com/image/biweekly20220925/TMCM-1617-GRIP-REF-1.PNG)
 -
 ![](http://henjay724.com/image/biweekly20220925/TMCM-1617-GRIP-REF-2.PNG)
+
+### <font color="red">3、QUARK - 全开源的多功能手持测量工具</font>
+
+QUARK 是一个简单、易于使用的多功能开发工具，适用于 Arduino、ESP32、STM32 和类似的平台。它由在Arduino环境中编写的开源软件提供支持, 开发人员也可以修改设备固件来添加功能或修改现有的功能以满足自己的需求。  
+
+> * 项目主页：https://www.crowdsupply.com/mulin/quark
+
+QUARK 开箱即用，可以测量电压、电流、电阻、电容和电感等参数。它还有一个内置示波器，一个 UART 记录器，一个 UART 绘图仪和一个频率发生器。最后，它还可以通过蓝牙将数据发送到自定义的 iOS和Android 应用程序，在那里可以显示和分析数据。
+
+![](http://henjay724.com/image/biweekly20220925/QUARK.PNG)
+-
+![](http://henjay724.com/image/biweekly20220925/QUARK-2.PNG)
 
 ## 工具类
 
