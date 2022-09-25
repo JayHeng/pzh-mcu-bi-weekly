@@ -12,7 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、1 个项目、0 个工具，希望对你有帮助！
+
+## 资讯类
+
+### <font color="red">1、兆易创新发布GD32A503系列首款车规级MCU</font>
+
+近日兆易创新 GigaDevice 发布首款基于 Cortex®-M33 内核的 GD32A503 系列车规级微控制器，正式进入车规级 MCU 市场。GD32A503 新品采用 40nm 车规级制程和高速嵌入式闪存 eFlash 技术，并通过 DFM 可制造性设计及高测试向量覆盖，实现研发与制造的协同，以提升成品率和可靠性，满足严苛的车用市场需求。  
+
+> * 资讯来源：https://www.gigadevice.com/zh-hans/press-release/gigadevice-launches-gd32a503/
+
+GD32A503 系列 MCU 基于 100MHz Cortex®-M33 内核，配备 384KB Flash 和 48KB SRAM，另有专用代码空间可配置为 64KB DFlash/4KB EEPROM。芯片采用 2.7-5.5V 宽电压供电，工作温度范围 -40~+125℃，工作寿命 15 年以上。GD32A503 产品组合提供了 4 种封装共 10 个型号选择。
+
+![](http://henjay724.com/image/biweekly20220925/GD32A503.PNG)
 
 ## 项目类
 
@@ -23,8 +35,6 @@ cola_os 是一个 300 行代码实现多任务管理的 OS，在很多 MCU 开�
 > * 项目主页：https://gitee.com/schuck/cola_os
 
 ![](http://henjay724.com/image/biweekly20220925/cola_os.PNG)
-
-
 
 ## 工具类
 
