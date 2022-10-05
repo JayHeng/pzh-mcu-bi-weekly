@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 0 个资讯、4 个项目、0 个工具，希望对你有帮助！
+本期共收录 0 个资讯、4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -59,6 +59,16 @@ dyad.c 功能纯粹，API 简洁易使用，对于使用者而言，简直就是
 log.c 是一个 C 语言的日志功能模块。其代码简洁，就一个 .c 和 .h 文件，一共 200 行。log.c 设计优雅，打印日志的 API 只有 1 个，并且提供了将 log 输入到不同目标的接口，例如输入到文件，还提供了实现线程安全的接口。  
 
 > * 项目主页：https://github.com/rxi/log.c
+
+## 工具类
+
+### <font color="red">1、WaveDrom - 在线数字时序图渲染引擎</font>
+
+WaveDrom 是一个免费开源的在线数字时序图渲染引擎。它可以使用 JavaScript, HTML5 和 SVG 来将时序图的 WaveJSON 描述转成 SVG 矢量图形，从而进行显示。WaveDrom 可以嵌入到任何网页中。
+
+> * 工具主页：https://wavedrom.com/
+
+![](http://henjay724.com/image/biweekly20221005/WaveDrom.PNG)
 
 ### 欢迎订阅
 
