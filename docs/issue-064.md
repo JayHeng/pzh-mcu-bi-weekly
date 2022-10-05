@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 0 个资讯、1 个项目、0 个工具，希望对你有帮助！
+本期共收录 0 个资讯、2 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -20,7 +20,15 @@
 
 ## 项目类
 
-### <font color="red">1、dyad.c - 仅1300行代码的C语言异步网络库</font>
+### <font color="red">1、Mongoose - 开源嵌入式HTTP/Websocket/MQTT库</font>
+
+Mongoose 是一个非常小巧易用的网络库。它为 TCP、UDP、HTTP、WebSocket、MQTT 实现了基于事件驱动的非阻塞 API，非常适合在嵌入式系统上使用。  
+
+> * 项目主页：https://github.com/cesanta/mongoose
+
+Mongoose 解决了广泛的业务需求，如在设备上实现 Web UI 界面、RESTful API 服务、遥测数据交换、产品远程控制、远程软件更新、远程监控等。
+
+### <font color="red">2、dyad.c - 仅1300行代码的C语言异步网络库</font>
 
 dyad.c 是一个基于 C 语言的异步网络库，旨在轻量级、可移植和易用。它既可用于创建小型独立服务器，也可用于为现有的项目提供网络支持。  
 
