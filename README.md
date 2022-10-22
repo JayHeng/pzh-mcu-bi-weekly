@@ -11,9 +11,9 @@
 
 ## 2022农历壬寅虎年
 
- [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
+[第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
- [第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
+[第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
 [第 054 期](docs/issue-054.md) | [第 053 期](docs/issue-053.md) | [第 052 期](docs/issue-052.md) | [第 051 期](docs/issue-051.md) | [第 050 期](docs/issue-050.md) | [第 049 期](docs/issue-049.md)
 
@@ -250,6 +250,10 @@
 > * 【第 062 期】118、[Lua-RTOS-ESP32 - 基于Lua语言面向嵌入式的RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 > * 【第 062 期】119、[SOEM,SOES - 工业以太网协议EtherCAT的开源主从协议栈](https://github.com/OpenEtherCATsociety/SOEM)
 > * 【第 063 期】120、[cola_os - 300行代码实现的多任务管理的OS](https://gitee.com/schuck/cola_os)
+> * 【第 064 期】121、[VESC - 非常完整的开源无刷电机驱动项目](https://github.com/vedderb/bldc)
+> * 【第 064 期】122、[Mongoose - 开源嵌入式HTTP/Websocket/MQTT库](https://github.com/cesanta/mongoose)
+> * 【第 064 期】123、[dyad.c - 仅1300行代码的C语言异步网络库](https://github.com/rxi/dyad)
+> * 【第 064 期】124、[log.c - 简单到傻瓜都会用的日志库](https://github.com/rxi/log.c)
 
 **项目(硬)**
 
@@ -412,6 +416,7 @@
 > * 【第 060 期】78、[Fiddler - 超级强劲的HTTP抓包软件](https://www.telerik.com/fiddler)
 > * 【第 060 期】79、[I2C-DESIGNER - 德州仪器推出的I2C设计工具](https://www.ti.com.cn/tool/cn/I2C-DESIGNER)
 > * 【第 061 期】80、[Virtual Oscilloscope - 可插入网页设计的虚拟示波器频谱仪插件](https://academo.org/demos/virtual-oscilloscope/)
+> * 【第 064 期】81、[WaveDrom - 在线数字时序图渲染引擎](https://wavedrom.com/)
 
 **工具(硬)**
 
