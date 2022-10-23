@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -39,6 +39,18 @@ FreeEEG32 是一种可堆叠的，开源的，32通道，24位，sigma-delta，�
 FreeEEG32 与市面上其它 EEG 参考板的比较：
 
 ![](http://henjay724.com/image/biweekly20221023/FreeEEG32-2.PNG)
+
+### <font color="red">3、μSMU - 信用卡大小、USB供电的4象限源测量单元</font>
+
+源测量单元(SMU)，是一种能够同时进行源和测量的电子仪器。它可以精确地施加电压或电流，同时测量精确的电压和/或电流。μSMU 不是要取代精密的 SMU，而是在不需要精确性的，但成本敏感的领域补充 SMU。
+
+> * 项目地址：https://github.com/joeltroughton/uSMU
+
+![](http://henjay724.com/image/biweekly20221023/μSMU.PNG)
+
+μSMU 功能参数如下：
+
+![](http://henjay724.com/image/biweekly20221023/μSMU-2.PNG)
 
 ## 工具类
 
