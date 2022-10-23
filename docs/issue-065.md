@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -26,6 +26,19 @@ zBitsView 是一个基于单片机实现的多层菜单的屏幕界面。硬件�
 
 ![](http://henjay724.com/image/biweekly20221023/zBitsView.PNG)
 
+### <font color="red">2、FreeEEG32 - 开源EEG脑电图参考设计</font>
+
+FreeEEG32 是一种可堆叠的，开源的，32通道，24位，sigma-delta，多路采样板，旨在满足科学家和大脑黑客的需求。FreeEEG32 结合了 4 个 8 通道 AD7771，主控是 STM32H7。它足够敏感，可以处理高质量的脑电图数据采集。  
+
+> * 项目主页：https://www.crowdsupply.com/neuroidss/freeeeg32
+
+为了满足 EEG 标准，FreeEEG32 的固件在同时运行所有 32 个通道时优化为每个通道 512SPS。通过堆叠 FreeEEG32 板，可以实现 64-256 通道的同步流。每块板独立地连接到主机，但可以流到相同的软件实例进行大量数据收集。  
+
+![](http://henjay724.com/image/biweekly20221023/FreeEEG32.PNG)
+
+FreeEEG32 与市面上其它 EEG 参考板的比较：
+
+![](http://henjay724.com/image/biweekly20221023/FreeEEG32-2.PNG)
 
 ## 工具类
 
