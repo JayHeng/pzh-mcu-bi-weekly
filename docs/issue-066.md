@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、 1 个工具，希望对你有帮助！
+本期共收录 2 个项目、 1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -25,6 +25,12 @@ Aeropoint GUI 采用出色的色彩还原技术，还可以使用 PowerPoint 创
 > * 项目主页：https://www.cri-mw.co.jp/business/product/embedded/aeropointguien/
 
 ![](http://henjay724.com/image/biweekly20221106/AeropointGUI.PNG)
+
+### <font color="red">2、jsmn - 号称世界上最快的JSON解析器/标记器</font>
+
+jsmn 是基于 C 语言的一个极简的 JSON 解析器，它可以很容易地集成到资源有限或嵌入式项目中。大多数 JSON 解析器提供了一系列函数来加载 JSON 数据、解析数据并根据其名称提取任何值。jsmn 证明了检查每个 JSON 包的正确性或分配临时对象来存储解析的 JSON 字段通常是一种过度的做法。  
+
+> * 项目地址：https://github.com/zserge/jsmn
 
 ## 工具类
 
