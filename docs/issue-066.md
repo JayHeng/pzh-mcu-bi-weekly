@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 3 个项目、 2 个工具，希望对你有帮助！
+本期共收录 4 个项目、 2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,27 @@
 
 > * 项目地址：https://github.com/ARM-software/AVH-TFLmicrospeech
 
-### <font color="red">2、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
+### <font color="red">2、ThunderScope - 雷电USB4开源示波器</font>
+
+ThunderScope 是为 Thunderbolt 设计的第一个示波器，允许实时采样数据以超过 1 GB/s 的速度流到计算机。通过利用现代设备强大的处理能力，该设计消除了传统示波器的所有限制。ThunderScope 是完全开源的，所有的开发和设计决策都在其 hackaday 上详细说明。  
+
+> * 项目地址：https://github.com/EEVengers/ThunderScope
+> * 项目主页：https://hackaday.io/project/180090-thunderscope
+
+ThunderScope 参数指标：
+
+```text
+- Channels: Four
+- Analog Bandwidth: 350 MHz
+- Sample Rate: 1 GS/s
+- Resolution: 8-bit
+- Voltage ranges (with 1× probe): 1 mV to 10 V per division
+- Memory Depth: As many gigabytes as you can allocate!
+```
+
+![](http://henjay724.com/image/biweekly20221106/ThunderScope.PNG)
+
+### <font color="red">3、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
 
 Aeropoint GUI 是日本一家叫 CRI WARE 公司的产品，本是面向 PC 端的 GUI 解决方案。但其也推出了 Aeropoint GUI for RX，这是一个特殊版本，使所有基本的 Aeropoint 功能可用于普通的低成本微控制器，比如瑞萨的 RX65N・RZ/A 等。  
 
@@ -34,7 +54,7 @@ Aeropoint GUI 采用出色的色彩还原技术，还可以使用 PowerPoint 创
 
 ![](http://henjay724.com/image/biweekly20221106/AeropointGUI.PNG)
 
-### <font color="red">3、jsmn - 号称世界上最快的JSON解析器/标记器</font>
+### <font color="red">4、jsmn - 号称世界上最快的JSON解析器/标记器</font>
 
 jsmn 是基于 C 语言的一个极简的 JSON 解析器，它可以很容易地集成到资源有限或嵌入式项目中。大多数 JSON 解析器提供了一系列函数来加载 JSON 数据、解析数据并根据其名称提取任何值。jsmn 证明了检查每个 JSON 包的正确性或分配临时对象来存储解析的 JSON 字段通常是一种过度的做法。  
 
