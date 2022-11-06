@@ -12,11 +12,13 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、 1 个工具，希望对你有帮助！
+本期共收录 2 个项目、 2 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
+
+
+### <font color="red">2、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
 
 Aeropoint GUI 是日本一家叫 CRI WARE 公司的产品，本是面向 PC 端的 GUI 解决方案。但其也推出了 Aeropoint GUI for RX，这是一个特殊版本，使所有基本的 Aeropoint 功能可用于普通的低成本微控制器，比如瑞萨的 RX65N・RZ/A 等。  
 
@@ -26,7 +28,7 @@ Aeropoint GUI 采用出色的色彩还原技术，还可以使用 PowerPoint 创
 
 ![](http://henjay724.com/image/biweekly20221106/AeropointGUI.PNG)
 
-### <font color="red">2、jsmn - 号称世界上最快的JSON解析器/标记器</font>
+### <font color="red">3、jsmn - 号称世界上最快的JSON解析器/标记器</font>
 
 jsmn 是基于 C 语言的一个极简的 JSON 解析器，它可以很容易地集成到资源有限或嵌入式项目中。大多数 JSON 解析器提供了一系列函数来加载 JSON 数据、解析数据并根据其名称提取任何值。jsmn 证明了检查每个 JSON 包的正确性或分配临时对象来存储解析的 JSON 字段通常是一种过度的做法。  
 
@@ -34,7 +36,17 @@ jsmn 是基于 C 语言的一个极简的 JSON 解析器，它可以很容易地
 
 ## 工具类
 
-### <font color="red">1、EEZ Studio - 开源跨平台模块化可视化低代码开发工具</font>
+### <font color="red">1、IAR Build Tools - 用于CI/CD下进行高效构建和测试工具</font>
+
+IAR 为 Arm 提供支持 Linux 和 Windows 安装的 IAR Build tools，进一步扩展了 IAR Systems 提供的自动化构建的灵活自动化工作流。支持在基于跨平台的框架中实现自动化应用程序构建和测试过程，这些工具支持关键软件构建和测试的大规模部署。
+
+> * 项目主页：https://www.iar.com/bxarm
+
+如下是一个 IAR Build Tools、Gitea 和 Jenkins 部署集成设置的方法示例：
+
+![](http://henjay724.com/image/biweekly20221106/IAR-Build-Tools.PNG)
+
+### <font color="red">2、EEZ Studio - 开源跨平台模块化可视化低代码开发工具</font>
 
 EEZ Studio 是一个开源的跨平台(在电子中开发)模块化可视化低代码开发工具和SCPI控制器，适用于 EEZ BB3 T&M 设备和 EEZ H24005 可编程电源和其他 T&M 设备，支持来自Keysight, Rigol, Siglent, Tek/Keithley, R&S 等制造商的 SCPI。
 
