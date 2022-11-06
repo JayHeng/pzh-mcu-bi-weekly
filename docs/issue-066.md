@@ -12,11 +12,17 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、 2 个工具，希望对你有帮助！
+本期共收录 3 个项目、 2 个工具，希望对你有帮助！
 
 ## 项目类
 
+### <font color="red">1、AVH-TFLmicrospeech - 基于TFL-M的语音识别包入门</font>
 
+这是 ARM 发布的一个基于 TensorFlow Lite 的语音识别包，程序分析一个音频输入与语音识别模型，可以检测两个关键字- Yes 和 No，然后将识别的关键字打印到串口中。
+
+示例程序既可以在 Arm虚拟硬件(AVH)上执行，也可以在物理硬件目标（i.MXRT1050/1060）上执行。
+
+> * 项目地址：https://github.com/ARM-software/AVH-TFLmicrospeech
 
 ### <font color="red">2、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
 
