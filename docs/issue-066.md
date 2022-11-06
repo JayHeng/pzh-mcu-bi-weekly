@@ -12,11 +12,11 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目，希望对你有帮助！
+本期共收录 1 个项目、 1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Aeropoint GUI - 支持通过PPT文件创建界面的GUI</font>
+### <font color="red">1、Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案</font>
 
 Aeropoint GUI 是日本一家叫 CRI WARE 公司的产品，本是面向 PC 端的 GUI 解决方案。但其也推出了 Aeropoint GUI for RX，这是一个特殊版本，使所有基本的 Aeropoint 功能可用于普通的低成本微控制器，比如瑞萨的 RX65N・RZ/A 等。  
 
@@ -26,6 +26,16 @@ Aeropoint GUI 采用出色的色彩还原技术，还可以使用 PowerPoint 创
 
 ![](http://henjay724.com/image/biweekly20221106/AeropointGUI.PNG)
 
+## 工具类
+
+### <font color="red">1、EEZ Studio - 开源跨平台模块化可视化低代码开发工具</font>
+
+EEZ Studio 是一个开源的跨平台(在电子中开发)模块化可视化低代码开发工具和SCPI控制器，适用于 EEZ BB3 T&M 设备和 EEZ H24005 可编程电源和其他 T&M 设备，支持来自Keysight, Rigol, Siglent, Tek/Keithley, R&S 等制造商的 SCPI。
+
+> * 项目主页：https://www.envox.eu/studio/studio-introduction/
+> * 项目地址：https://github.com/eez-open/studio
+
+![](http://henjay724.com/image/biweekly20221106/EEZ-Studio.PNG)
 
 ### 欢迎订阅
 
