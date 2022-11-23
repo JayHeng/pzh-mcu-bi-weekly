@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、 0 个工具，希望对你有帮助！
+本期共收录 3 个项目、 0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -46,6 +46,15 @@ TinyMaix 关键特性：
 ![](http://henjay724.com/image/biweekly20221123/ZS1100A.PNG)
 
 ![](http://henjay724.com/image/biweekly20221123/ZS1100A-Spec.PNG)
+
+### <font color="red">3、dynamic_loader - 单片机上实现动态加载功能的函数库</font>
+
+dynamic_loader 是一个在单片机（如：STM32）上实现动态加载功能的函数库，与 Windows 中的 dll，Linux 中的 so 类似，可以将代码动态地从其他的存储介质，动态加载到 RAM 中。
+
+程序使用 dl_load_lib 加载相应的库文件到句柄中，加载成功后可使用 dl_get_func，通过函数名获得相应函数指针，在不需要使用时可使用 dl_destroy_lib 对句柄进行释放。
+
+> * 项目地址：https://gitee.com/wzh1845462801/dynamic_loader
+> * 详细介绍：https://www.armbbs.cn/forum.php?mod=viewthread&tid=109952
 
 ## 工具类
 
