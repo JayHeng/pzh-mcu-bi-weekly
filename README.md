@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
+[第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
 [第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
 
@@ -254,6 +254,11 @@
 > * 【第 064 期】122、[Mongoose - 开源嵌入式HTTP/Websocket/MQTT库](https://github.com/cesanta/mongoose)
 > * 【第 064 期】123、[dyad.c - 仅1300行代码的C语言异步网络库](https://github.com/rxi/dyad)
 > * 【第 064 期】124、[log.c - 简单到傻瓜都会用的日志库](https://github.com/rxi/log.c)
+> * 【第 065 期】125、[ESP-BLE-MESH - 乐鑫开源的蓝牙 mesh 协议栈](https://github.com/espressif/esp-idf/tree/master/components/bt/esp_ble_mesh)
+> * 【第 065 期】126、[zBitsView - 单片机实现多层菜单的屏幕界面](https://github.com/figght/zBitsView)
+> * 【第 066 期】127、[AVH-TFLmicrospeech - 基于TFL-M的语音识别包入门](https://github.com/ARM-software/AVH-TFLmicrospeech)
+> * 【第 066 期】128、[Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案](https://www.cri-mw.co.jp/business/product/embedded/aeropointguien/)
+> * 【第 066 期】129、[jsmn - 号称世界上最快的JSON解析器/标记器](https://github.com/zserge/jsmn)
 
 **项目(硬)**
 
@@ -333,6 +338,11 @@
 > * 【第 062 期】74、[STM32 OpenSource Multimeter - 适合DIY入门的开源万用表](https://github.com/MartinD-CZ/STM32F1-open-source-multimeter)
 > * 【第 063 期】75、[TMCM-1617-GRIP-REF - Trinamic推出的开源机械臂参考设计](https://www.trinamic.com/support/eval-kits/details/tmcm-1617-grip-ref/)
 > * 【第 063 期】76、[QUARK - 全开源的多功能手持测量工具](https://www.crowdsupply.com/mulin/quark)
+> * 【第 065 期】77、[FreeEEG32 - 开源EEG脑电图参考设计](https://www.crowdsupply.com/neuroidss/freeeeg32)
+> * 【第 065 期】78、[DIY-SMU - 源测量单元DIY](http://www.djerickson.com/diy_smu/)
+> * 【第 065 期】79、[μSMU - 信用卡大小、USB供电的4象限源测量单元](https://github.com/joeltroughton/uSMU)
+> * 【第 065 期】80、[LUNA - 开源USB多功能工具+Amaranth HDL框架](https://github.com/greatscottgadgets/luna)
+> * 【第 066 期】80、[ThunderScope - 雷电USB4开源示波器](https://github.com/EEVengers/ThunderScope)
 
 **工具(软)**
 
@@ -417,6 +427,8 @@
 > * 【第 060 期】79、[I2C-DESIGNER - 德州仪器推出的I2C设计工具](https://www.ti.com.cn/tool/cn/I2C-DESIGNER)
 > * 【第 061 期】80、[Virtual Oscilloscope - 可插入网页设计的虚拟示波器频谱仪插件](https://academo.org/demos/virtual-oscilloscope/)
 > * 【第 064 期】81、[WaveDrom - 在线数字时序图渲染引擎](https://wavedrom.com/)
+> * 【第 066 期】82、[IAR Build Tools - 用于CI/CD下进行高效构建和测试工具](https://www.iar.com/bxarm)
+> * 【第 066 期】83、[EEZ Studio - 开源跨平台模块化可视化低代码开发工具](https://github.com/eez-open/studio)
 
 **工具(硬)**
 
