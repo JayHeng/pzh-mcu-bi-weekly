@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、 0 个工具，希望对你有帮助！
+本期共收录 2 个项目、 0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -36,9 +36,16 @@ TinyMaix 关键特性：
 - MaixHub 在线模型训练支持
 ```
 
-![](http://henjay724.com/image/biweekly20221123/.PNG)
+### <font color="red">2、ZS1100A - 专用于物联网功耗测量的开源功率计</font>
 
+大多数用于创建物联网(IoT)的设备都是用小电池工作的。由于当前消费电子的动态性，测量这些物联网设备的能耗是一项艰巨的任务。开发人员经常需要使用多种仪器和手工计算来估计能源消耗。ZS1100A 型电能表就是为解决这些问题的。该工具可以非常准确和详细地绘制电流消耗与时间的关系，可以与电池模型一起使用，以估计电池的总体寿命。
 
+> * 项目主页：https://www.crowdsupply.com/zscircuits/zs1100a-power-meter
+> * 项目地址：https://github.com/zscircuits/zs1100a
+
+![](http://henjay724.com/image/biweekly20221123/ZS1100A.PNG)
+
+![](http://henjay724.com/image/biweekly20221123/ZS1100A-Spec.PNG)
 
 ## 工具类
 
