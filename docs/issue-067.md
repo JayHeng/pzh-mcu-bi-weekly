@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 3 个项目、 0 个工具，希望对你有帮助！
+本期共收录 4 个项目、 0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -55,6 +55,25 @@ dynamic_loader 是一个在单片机（如：STM32）上实现动态加载功能
 
 > * 项目地址：https://gitee.com/wzh1845462801/dynamic_loader
 > * 详细介绍：https://www.armbbs.cn/forum.php?mod=viewthread&tid=109952
+
+### <font color="red">4、little-bee-B1 - 开源实用的高性能电流和磁场探头</font>
+
+little-bee-B1 是一种基于各向异性磁电阻(AMR)磁传感器的开源磁场和电流探头。它直接感知磁场，并通过电流传感附件测量电流，该附件由放置在导线周围的有间隙的铁氧体环形体组成，在导线中的电流和传感器所受的磁场之间建立固定的关系。
+
+> * 项目地址：https://github.com/westonb/little-bee-B1
+
+特性如下：
+
+```text
+- 可调带宽(10mhz和1mhz)
+- 可调增益(1倍和4倍)
+- SMA输出连接器
+- 连接到任何标准1 MΩ阻抗示波器输入
+- 单节AA电池供电(续航4小时)
+- 自动归零
+```
+
+![](http://henjay724.com/image/biweekly20221123/little-bee-B1.PNG)
 
 ## 工具类
 
