@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 067 期](docs/issue-067.md)
+[第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
 
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
@@ -264,6 +264,9 @@
 > * 【第 067 期】130、[TinyMaix - 面向单片机的超轻量级的神经网络推理库](https://github.com/sipeed/TinyMaix)
 > * 【第 067 期】131、[dynamic_loader - 单片机上实现动态加载功能的函数库](https://gitee.com/wzh1845462801/dynamic_loader)
 > * 【第 067 期】132、[White Rabbit - 亚纳秒级同步精度的网络数据传输项目](https://ohwr.org/project/white-rabbit/wikis/home)
+> * 【第 068 期】133、[ECBM - 基于STC8系列的外设函数库](https://gitee.com/ecbm/ecbm-library-lite)
+> * 【第 068 期】134、[modbus - 全新可裁剪的modbus协议实现](https://gitee.com/ecbm/modbus)
+> * 【第 068 期】135、[ETP - 入门级时间片轮询程序框架](https://gitee.com/ecbm/timeslice-polling)
 
 **项目(硬)**
 
@@ -350,6 +353,8 @@
 > * 【第 066 期】81、[ThunderScope - 雷电USB4开源示波器](https://github.com/EEVengers/ThunderScope)
 > * 【第 067 期】82、[ZS1100A - 专用于物联网功耗测量的开源功率计](https://github.com/zscircuits/zs1100a)
 > * 【第 067 期】83、[little-bee-B1 - 开源实用的高性能电流和磁场探头](https://github.com/westonb/little-bee-B1)
+> * 【第 068 期】84、[USB Cable Tester - 各种接口类型USB电缆的便携测试仪](https://github.com/alvarop/usb_c_cable_tester)
+> * 【第 068 期】85、[BP3621&BP3622 - 面向超薄紧凑型充电设备的无线充电器模块](https://www.rohm.com/products/wireless-charger-modules/1356mhz-wireless-charger-modules/bp3622-product#productDetail)
 
 **工具(软)**
 
@@ -436,6 +441,7 @@
 > * 【第 064 期】81、[WaveDrom - 在线数字时序图渲染引擎](https://wavedrom.com/)
 > * 【第 066 期】82、[IAR Build Tools - 用于CI/CD下进行高效构建和测试工具](https://www.iar.com/bxarm)
 > * 【第 066 期】83、[EEZ Studio - 开源跨平台模块化可视化低代码开发工具](https://github.com/eez-open/studio)
+> * 【第 068 期】84、[USBDriveLog - USB驱动器的日志显示小软件](https://www.nirsoft.net/utils/usb_drive_log.html)
 
 **工具(硬)**
 
