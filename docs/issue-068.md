@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 4 个项目、1 个工具，希望对你有帮助！
+本期共收录 5 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -54,6 +54,19 @@ ETP 具有如下几个特点：
 - 任务之间不会抢占CPU，如果某个任务阻塞，那么整体都会卡主。
 - 由于任务按顺序执行，但如果某一任务的执行时间太长，会影响到其他任务的正常运行。
 ```
+
+### <font color="red">5、BP3621&BP3622 - 面向超薄紧凑型充电设备的无线充电器模块</font>
+
+ROHM 公司开发的具有集成天线板的紧凑型无线充电模块:BP3621(发射器)和BP3622(接收器)。该模块允许将无线电源功能添加到较小的设备，如智能标签/卡或PC外围设备。
+
+> * 发射器：https://www.rohm.com/products/wireless-charger-modules/1356mhz-wireless-charger-modules/bp3621-product#productDetail
+> * 接收器：https://www.rohm.com/products/wireless-charger-modules/1356mhz-wireless-charger-modules/bp3622-product#productDetail
+
+BP3621(发射器)和BP3622(接收器)的尺寸各为20mm2至30mm2，采用了优化的天线(线圈)布局。它可以配置一个紧凑的无线充电系统，使用13.56MHz频段提供高达200mW的功率。
+
+![](http://henjay724.com/image/biweekly20221211/BP3621-BP3622.PNG)
+
+![](http://henjay724.com/image/biweekly20221211/BP3621-BP3622-2.PNG)
 
 ## 工具类
 
