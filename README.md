@@ -11,6 +11,8 @@
 
 ## 2022农历壬寅虎年
 
+[第 067 期](docs/issue-067.md)
+
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
 [第 060 期](docs/issue-060.md) | [第 059 期](docs/issue-059.md) | [第 058 期](docs/issue-058.md) | [第 057 期](docs/issue-057.md) | [第 056 期](docs/issue-056.md) | [第 055 期](docs/issue-055.md)
@@ -259,6 +261,9 @@
 > * 【第 066 期】127、[AVH-TFLmicrospeech - 基于TFL-M的语音识别包入门](https://github.com/ARM-software/AVH-TFLmicrospeech)
 > * 【第 066 期】128、[Aeropoint GUI - 支持通过PPT文件创建界面的GUI方案](https://www.cri-mw.co.jp/business/product/embedded/aeropointguien/)
 > * 【第 066 期】129、[jsmn - 号称世界上最快的JSON解析器/标记器](https://github.com/zserge/jsmn)
+> * 【第 067 期】130、[TinyMaix - 面向单片机的超轻量级的神经网络推理库](https://github.com/sipeed/TinyMaix)
+> * 【第 067 期】131、[dynamic_loader - 单片机上实现动态加载功能的函数库](https://gitee.com/wzh1845462801/dynamic_loader)
+> * 【第 067 期】132、[White Rabbit - 亚纳秒级同步精度的网络数据传输项目](https://ohwr.org/project/white-rabbit/wikis/home)
 
 **项目(硬)**
 
@@ -342,7 +347,9 @@
 > * 【第 065 期】78、[DIY-SMU - 源测量单元DIY](http://www.djerickson.com/diy_smu/)
 > * 【第 065 期】79、[μSMU - 信用卡大小、USB供电的4象限源测量单元](https://github.com/joeltroughton/uSMU)
 > * 【第 065 期】80、[LUNA - 开源USB多功能工具+Amaranth HDL框架](https://github.com/greatscottgadgets/luna)
-> * 【第 066 期】80、[ThunderScope - 雷电USB4开源示波器](https://github.com/EEVengers/ThunderScope)
+> * 【第 066 期】81、[ThunderScope - 雷电USB4开源示波器](https://github.com/EEVengers/ThunderScope)
+> * 【第 067 期】82、[ZS1100A - 专用于物联网功耗测量的开源功率计](https://github.com/zscircuits/zs1100a)
+> * 【第 067 期】83、[little-bee-B1 - 开源实用的高性能电流和磁场探头](https://github.com/westonb/little-bee-B1)
 
 **工具(软)**
 
