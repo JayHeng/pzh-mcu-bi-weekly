@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 4 个项目，希望对你有帮助！
+本期共收录 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -55,6 +55,15 @@ ETP 具有如下几个特点：
 - 由于任务按顺序执行，但如果某一任务的执行时间太长，会影响到其他任务的正常运行。
 ```
 
+## 工具类
+
+### <font color="red">1、USBDriveLog - USB驱动器的日志显示小软件</font>
+
+USBDriveLog 是一款适用于 Windows 10 和 Windows 11 的工具，它可以显示插入计算机的所有 USB 驱动器的日志。对于每个u盘事件，显示以下信息:设备型号，修订，制造商，序列号，插拔时间，拔插时间，设备ID，设备容量等。
+
+> * 工具地址：https://www.nirsoft.net/utils/usb_drive_log.html
+
+![](http://henjay724.com/image/biweekly20221211/USBDriveLog.PNG)
 
 ### 欢迎订阅
 
