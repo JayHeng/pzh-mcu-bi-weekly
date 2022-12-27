@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、2 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、3 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -44,9 +44,36 @@ mOTA 固件更新流程:
 
 ### <font color="red">2、crc-lib-c - 一个基于C语言的CRC校验库</font>
 
-crc-lib-c 是一个基于C语言的CRC校验库，包括常用的21个CRC参数模型实现。
+crc-lib-c 是一个基于C语言的CRC校验库，包括常用的21个CRC参数模型实现，包含CRC-4/5/6/7/8/16/32。
 
 > * 项目地址：https://github.com/whik/crc-lib-c
+
+### <font color="red">3、tiny-AES-c  - 最小巧可移植的AES算法实现库</font>
+
+tiny-AES-c 是一个用C语言编写的AES ECB、CTR和CBC加密算法的小型可移植实现。这个库是为小代码和简单性而设计的，适用于低内存占用和可移植性比高性能更重要的情况。如果速度是一个问题，可以尝试更复杂的库，例如Mbed TLS, OpenSSL等。
+
+> * 项目地址：https://github.com/kokke/tiny-AES-c
+
+tiny-AES-c 的 API 非常简单:
+
+```C
+/* Initialize context calling one of: */
+void AES_init_ctx(struct AES_ctx* ctx, const uint8_t* key);
+void AES_init_ctx_iv(struct AES_ctx* ctx, const uint8_t* key, const uint8_t* iv);
+
+/* ... or reset IV at random point: */
+void AES_ctx_set_iv(struct AES_ctx* ctx, const uint8_t* iv);
+
+/* Then start encrypting and decrypting with the functions below: */
+void AES_ECB_encrypt(const struct AES_ctx* ctx, uint8_t* buf);
+void AES_ECB_decrypt(const struct AES_ctx* ctx, uint8_t* buf);
+
+void AES_CBC_encrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, size_t length);
+void AES_CBC_decrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, size_t length);
+
+/* Same function for encrypting as for decrypting in CTR mode */
+void AES_CTR_xcrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, size_t length);
+```
 
 ## 工具类
 
