@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、3 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、3 个项目、2 个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -75,9 +75,27 @@ void AES_CBC_decrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, size_t length);
 void AES_CTR_xcrypt_buffer(struct AES_ctx* ctx, uint8_t* buf, size_t length);
 ```
 
-## 工具类
+## i.MXRT出品
 
+### <font color="red">1、谷歌 - 智能手表Pixel</font>
 
+2022年10月6日，谷歌举行新品发布会，正式发布Pixel Watch智能手表新品。Pixel Watch主要亮点是搭载自家智能手表操作系统Wear OS，同时还集成Fitbit，单次充电可以拥有24小时的续航表现，采用41毫米不锈钢表壳，配备1.6英寸AMOLED显示屏，支持DCI-P3色域，亮度高达1000尼特。
+
+> * RT芯片：i.MXRT595
+> * 产品主页： https://store.google.com
+> * 官网定价： 349.99 美元起
+
+![](http://henjay724.com/image/biweekly20221228/GooglePixel.PNG)
+
+### <font color="red">2、博能Polar - 智能手表Pacer</font>
+
+Polar Pacer是一款不折不扣的 GPS 跑步手表，它为现代跑步者提供了所有必备功能，同时还为他们提供了必需的专业训练工具，让他们只专心于一件事：跑步。
+
+> * RT芯片：i.MXRT595
+> * 产品主页： https://www.polar.com/zh-hans/pacer
+> * 官网定价： 199.9 欧元起
+
+![](http://henjay724.com/image/biweekly20221228/PolarPacer.PNG)
 
 ### 欢迎订阅
 
