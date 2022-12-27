@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、1 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,7 +28,19 @@
 
 ## 项目类
 
+### <font color="red">1、mOTA - 一款专为32位MCU开发的OTA组件</font>
 
+mOTA 是一款专为 32 位 MCU 开发的 OTA 组件，组件包含了 bootloader 、固件打包器 (Firmware_Packager) 、固件发送器三部分，并提供了一个基于 STM32F103 和 YModem-1K 协议的案例。
+
+> * 项目地址：https://gitee.com/DinoHaw/mOTA
+
+mOTA bootloader 架构:
+
+![](http://henjay724.com/image/biweekly20221228/mOTA_arch.PNG)
+
+mOTA 固件更新流程:
+
+![](http://henjay724.com/image/biweekly20221228/mOTA_flow.PNG)
 
 ## 工具类
 
