@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、1 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、2 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -41,6 +41,12 @@ mOTA bootloader 架构:
 mOTA 固件更新流程:
 
 ![](http://henjay724.com/image/biweekly20221228/mOTA_flow.PNG)
+
+### <font color="red">2、crc-lib-c - 一个基于C语言的CRC校验库</font>
+
+crc-lib-c 是一个基于C语言的CRC校验库，包括常用的21个CRC参数模型实现。
+
+> * 项目地址：https://github.com/whik/crc-lib-c
 
 ## 工具类
 
