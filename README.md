@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
+[第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
 
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
@@ -127,6 +127,8 @@
 > * 【第 061 期】80、旗芯微发布最新一代Hyper控制器家族产品FC7300
 > * 【第 061 期】81、兆易创新推出首款自研DDR3L产品GDPxxxLM
 > * 【第 063 期】82、兆易创新发布GD32A503系列首款车规级MCU
+> * 【第 069 期】83、先楫半导体发布主频1GHz的RISC-V微控制器 - HPM64G0
+> * 【第 069 期】84、澎湃微电子S038系列Cortex-M0 MCU创造主频记录200MHz
 
 **项目(软)**
 
@@ -267,6 +269,9 @@
 > * 【第 068 期】133、[ECBM - 基于STC8系列的外设函数库](https://gitee.com/ecbm/ecbm-library-lite)
 > * 【第 068 期】134、[modbus - 全新可裁剪的modbus协议实现](https://gitee.com/ecbm/modbus)
 > * 【第 068 期】135、[ETP - 入门级时间片轮询程序框架](https://gitee.com/ecbm/timeslice-polling)
+> * 【第 069 期】136、[mOTA - 一款专为32位MCU开发的OTA组件](https://gitee.com/DinoHaw/mOTA)
+> * 【第 069 期】137、[crc-lib-c - 一个基于C语言的CRC校验库](https://github.com/whik/crc-lib-c)
+> * 【第 069 期】138、[tiny-AES-c  - 最小巧可移植的AES算法实现库](https://github.com/kokke/tiny-AES-c)
 
 **项目(硬)**
 
@@ -478,3 +483,5 @@
 > * 【第 053 期】22、大疆创新 - 手持云台(如影RONIN-S)
 > * 【第 053 期】23、大疆创新 - 口袋云台相机(灵眸OSMO pocket)
 > * 【第 054 期】24、索尼 - 2022新一代游戏电视(XR-X90K)
+> * 【第 069 期】25、谷歌 - 智能手表Pixel
+> * 【第 069 期】26、博能Polar - 智能手表Pacer
