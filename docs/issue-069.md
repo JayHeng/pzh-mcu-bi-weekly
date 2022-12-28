@@ -10,13 +10,21 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1612年12月28日，意大利天文学家伽利略成为首个观测到行星海王星的天文学家，但他误以为是一颗恒星。
 
-本期共收录 1 个资讯、3 个项目、2 个RT产品，希望对你有帮助！
+本期共收录 2 个资讯、3 个项目、2 个RT产品，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、澎湃微电子S038系列Cortex-M0 MCU创造主频记录200MHz</font>
+### <font color="red">1、先楫半导体发布主频1GHz的RISC-V微控制器 - HPM64G0</font>
+
+先楫半导体近日宣布正式推出主频高达1GHz的MCU产品 HPM64G0，这是一款基于RISC-V内核的高性能、低功耗、高集成度微控制器芯片，是行业内首个采用 40nm工艺突破1GHz 主频的MCU产品。HPM64G0 MCU单核主频算力可超1Ghz，主频运算可高达5650 Coremark 和2850 DMIPS。
+
+> * 资讯来源：http://www.hpmicro.com/
+
+![](http://henjay724.com/image/biweekly20221228/HPM64G0.PNG)
+
+### <font color="red">2、澎湃微电子S038系列Cortex-M0 MCU创造主频记录200MHz</font>
 
 澎湃微电子日前宣布，其新品 PT32S038 系列 Cortex-M0 MCU 创造了新的工作时钟主频记录，以 200M 的 CPU 主时钟工作频率，大幅超越全球已知 Cortex-M0 MCU，全球主流厂商的 Cortex-M0 MCU 时钟主频通常在 48M~72M，少数公司提供 96M 的产品。
 
