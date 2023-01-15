@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个资讯、0 个项目、2 个RT产品，希望对你有帮助！
+本期共收录 0 个资讯、0 个项目、1 个工具、2 个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -32,6 +32,16 @@
 
 
 
+## 工具类
+
+### <font color="red">1、JSON Crack - 一款非常优雅的 JSON 数据可视化工具</font>
+
+JSON Crack 是一个很方便的 JSON 数据可视化工具。 该项目不是简单的展示 JSON 数据,而是将其转化为类似思维导图的形式,支持放大/缩小、展开/收缩、搜索节点、导出图片等操作。对于经常和json格式的数据打交道的人会非常有帮助。 
+
+> * 工具官网：https://jsoncrack.com/
+
+![](http://henjay724.com/image/biweekly20230115/JSONCrack.PNG)
+
 ## i.MXRT出品
 
 ### <font color="red">1、佳明 - 智能手表 Enduro 2</font>
@@ -43,7 +53,6 @@ GARMIN 安夺 Enduro 2专为极限耐力运动员打造，采用轻量化防刮�
 > * 官网定价： 999 美元起
 
 ![](http://henjay724.com/image/biweekly20230115/Enduro2.PNG)
-
 
 ### <font color="red">2、大疆创新 - 运动相机（Action 2双屏套装）</font>
 
