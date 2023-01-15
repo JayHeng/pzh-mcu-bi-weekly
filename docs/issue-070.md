@@ -10,19 +10,21 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：2001年1月15日，维基百科，一个基于Wiki技术的多语言百科全书正式成立上线。
 
-本期共收录 0 个项目、2 个工具、2 个RT产品，希望对你有帮助！
-
-## 项目类
-
-### <font color="red">1、</font>
-
-
+本期共收录 3 个工具、2 个RT产品，希望对你有帮助！
 
 ## 工具类
 
-### <font color="red">1、Beremiz - 用于机械自动化的 PLC 集成开发环境</font>
+### <font color="red">1、CODESYS - 一款工业自动化领域的一款开发编程系统</font>
+
+CODESYS 是一款工业自动化领域的一款开发编程系统，应用领域涉及工厂自动化、汽车自动化、嵌入式自动化、过程自动化和楼宇自动化等等。CODESYS 软件可以分为两个部分，一部分是运行在各类硬件中的RTE（Runtime Environment），另一部分是运行在PC机上的IDE。因此CODESYS的用户既包括生产PLC、运动控制器的硬件厂商，也包括最终使用PLC、运动控制器的用户。
+
+> * 工具官网：https://www.codesys.com/
+
+![](http://henjay724.com/image/biweekly20230115/CODESYS.PNG)
+
+### <font color="red">2、Beremiz - 用于机械自动化的 PLC 集成开发环境</font>
 
 Beremiz 是一个用于机械自动化的 PLC 集成开发环境（IDE），符合 IEC61131-3 编程语言标准，可将任何处理器变成 PLC。Beremiz 还包含用于创建 HMI 并将 PLC 程序连接到现有的监控、数据库或现场总线的工具。
 
@@ -37,7 +39,7 @@ Beremiz 由两部分组成：
 
 ![](http://henjay724.com/image/biweekly20230115/Beremiz.PNG)
 
-### <font color="red">2、JSON Crack - 一款非常优雅的 JSON 数据可视化工具</font>
+### <font color="red">3、JSON Crack - 一款非常优雅的 JSON 数据可视化工具</font>
 
 JSON Crack 是一个很方便的 JSON 数据可视化工具。 该项目不是简单的展示 JSON 数据,而是将其转化为类似思维导图的形式,支持放大/缩小、展开/收缩、搜索节点、导出图片等操作。对于经常和json格式的数据打交道的人会非常有帮助。 
 
