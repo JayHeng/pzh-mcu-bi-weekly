@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个资讯、0 个项目、1 个RT产品，希望对你有帮助！
+本期共收录 0 个资讯、0 个项目、2 个RT产品，希望对你有帮助！
 
 ## 资讯类
 
@@ -44,6 +44,16 @@ GARMIN 安夺 Enduro 2专为极限耐力运动员打造，采用轻量化防刮�
 
 ![](http://henjay724.com/image/biweekly20230115/Enduro2.PNG)
 
+
+### <font color="red">2、大疆创新 - 运动相机（Action 2双屏套装）</font>
+
+DJI Action 2 是新一代磁吸式運動相機,多種形態自由切換,既可以手持或穿戴,也能粘附固定拍攝。具備旗艦拍攝性能,支援4K/120fps影片,155° 超廣角,防水耐摔,助你輕鬆玩轉全場。
+
+> * RT芯片：i.MXRT1064
+> * 产品主页： https://www.dji.com/cn/dji-action-2?from=store-product-page
+> * 官网定价： 3499 元起
+
+![](http://henjay724.com/image/biweekly20230115/Action2.PNG)
 
 ### 欢迎订阅
 
