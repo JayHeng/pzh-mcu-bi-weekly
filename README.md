@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
+[第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
 
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
@@ -447,6 +447,9 @@
 > * 【第 066 期】82、[IAR Build Tools - 用于CI/CD下进行高效构建和测试工具](https://www.iar.com/bxarm)
 > * 【第 066 期】83、[EEZ Studio - 开源跨平台模块化可视化低代码开发工具](https://github.com/eez-open/studio)
 > * 【第 068 期】84、[USBDriveLog - USB驱动器的日志显示小软件](https://www.nirsoft.net/utils/usb_drive_log.html)
+> * 【第 070 期】85、[CODESYS - 一款工业自动化领域的一款开发编程系统](https://www.codesys.com/)
+> * 【第 070 期】86、[Beremiz - 用于机械自动化的 PLC 集成开发环境](https://beremiz.org/)
+> * 【第 070 期】87、[JSON Crack - 一款非常优雅的 JSON 数据可视化工具](https://jsoncrack.com/)
 
 **工具(硬)**
 
@@ -485,3 +488,5 @@
 > * 【第 054 期】24、索尼 - 2022新一代游戏电视(XR-X90K)
 > * 【第 069 期】25、谷歌 - 智能手表Pixel
 > * 【第 069 期】26、博能Polar - 智能手表Pacer
+> * 【第 070 期】27、佳明 - 智能手表 Enduro 2
+> * 【第 070 期】28、大疆创新 - 运动相机（Action 2双屏套装）
