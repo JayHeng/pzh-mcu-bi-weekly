@@ -12,19 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 0 个资讯、0 个项目、1 个工具、2 个RT产品，希望对你有帮助！
-
-## 资讯类
-
-### <font color="red">1、</font>
-
-
-
-> * 资讯来源：
-
-![](http://henjay724.com/image/biweekly20230115/.PNG)
-
-
+本期共收录 0 个项目、2 个工具、2 个RT产品，希望对你有帮助！
 
 ## 项目类
 
@@ -34,7 +22,22 @@
 
 ## 工具类
 
-### <font color="red">1、JSON Crack - 一款非常优雅的 JSON 数据可视化工具</font>
+### <font color="red">1、Beremiz - 用于机械自动化的 PLC 集成开发环境</font>
+
+Beremiz 是一个用于机械自动化的 PLC 集成开发环境（IDE），符合 IEC61131-3 编程语言标准，可将任何处理器变成 PLC。Beremiz 还包含用于创建 HMI 并将 PLC 程序连接到现有的监控、数据库或现场总线的工具。
+
+> * 工具官网：https://beremiz.org/
+
+Beremiz 由两部分组成：
+
+```text
+- 集成开发环境（IDE），Beremiz.py。它运行在用户的计算机上，使用 C 代码作为中间语言，用于编写、编译、调试 PLC 程序和控制 PLC 运行时。
+- 引用 python 运行时实现，Beremiz_service.py，它在目标平台上运行，与 I/O 通信并执行 PLC 程序。
+```
+
+![](http://henjay724.com/image/biweekly20230115/Beremiz.PNG)
+
+### <font color="red">2、JSON Crack - 一款非常优雅的 JSON 数据可视化工具</font>
 
 JSON Crack 是一个很方便的 JSON 数据可视化工具。 该项目不是简单的展示 JSON 数据,而是将其转化为类似思维导图的形式,支持放大/缩小、展开/收缩、搜索节点、导出图片等操作。对于经常和json格式的数据打交道的人会非常有帮助。 
 
