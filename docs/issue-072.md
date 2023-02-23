@@ -1,0 +1,38 @@
+# 痞子衡嵌入式半月刊： 第 72 期
+
+![](http://henjay724.com/image/cnblogs/pzh_mcu_bi_weekly.PNG)
+
+这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
+
+本期刊是开源项目（GitHub: [JayHeng/pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly)），欢迎提交 issue，投稿或推荐你知道的嵌入式那些事儿。
+
+**上期回顾** ：[《痞子衡嵌入式半月刊： 第 71 期》](https://www.cnblogs.com/henjay724/p/17114904.html)
+
+## 唠两句
+
+历史上的今天：1983年2月12日，。
+
+本期共收录 1 个项目、0 个工具，希望对你有帮助！
+
+## 项目类
+
+### <font color="red">1、Flipper Zero - 面向极客的开源多功能工具</font>
+
+Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
+
+> * 项目主页：https://github.com/flipperdevices
+
+![](http://henjay724.com/image/biweekly20230223/FlipperZero.PNG)
+
+## 工具类
+
+
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](http://henjay724.com/image/github/pzhMcu_qrcode_258x258.jpg)
+
