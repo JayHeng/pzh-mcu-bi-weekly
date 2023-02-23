@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
+[第 071 期](docs/issue-071.md) | [第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
 
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
@@ -272,6 +272,11 @@
 > * 【第 069 期】136、[mOTA - 一款专为32位MCU开发的OTA组件](https://gitee.com/DinoHaw/mOTA)
 > * 【第 069 期】137、[crc-lib-c - 一个基于C语言的CRC校验库](https://github.com/whik/crc-lib-c)
 > * 【第 069 期】138、[tiny-AES-c  - 最小巧可移植的AES算法实现库](https://github.com/kokke/tiny-AES-c)
+> * 【第 071 期】139、[JxOS - 面向MCU的小型前后台系统](https://gitee.com/jeremyceng/JxOS)
+> * 【第 071 期】140、[uLisp - 专门设计用于在有限RAM的MCU上运行的Lisp版本](http://www.ulisp.com/)
+> * 【第 071 期】141、[LC-3 VM - 250行C代码实现简单的虚拟机(LC-3计算机)](https://github.com/justinmeiners/lc3-vm)
+> * 【第 071 期】142、[lc3-vm - 125行C代码实现简单的虚拟机(LC-3计算机)](https://github.com/nomemory/lc3-vm)
+> * 【第 071 期】143、[Reso - 一种使用PNG的视觉电路编程语言](https://github.com/lynnpepin/reso)
 
 **项目(硬)**
 
@@ -450,6 +455,7 @@
 > * 【第 070 期】85、[CODESYS - 一款工业自动化领域的一款开发编程系统](https://www.codesys.com/)
 > * 【第 070 期】86、[Beremiz - 用于机械自动化的 PLC 集成开发环境](https://beremiz.org/)
 > * 【第 070 期】87、[JSON Crack - 一款非常优雅的 JSON 数据可视化工具](https://jsoncrack.com/)
+> * 【第 071 期】88、[WinMerge - 堪比beyond compare的开源文件/文件夹比较工具](https://winmerge.org/)
 
 **工具(硬)**
 
