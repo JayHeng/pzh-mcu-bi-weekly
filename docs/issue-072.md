@@ -12,17 +12,15 @@
 
 历史上的今天：1983年2月12日，。
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Flipper Zero - 面向极客的开源多功能工具</font>
+### <font color="red">1、AVR LibC - Atmel AVR芯片及AVR-GCC工具链下标准库</font>
 
-Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
+AVR LibC 库包含了 ISO C 标准所要求的大部分功能，只有 wchar_t 支持是个明显的例外。它还包含许多针对 AVR 控制器家族的辅助功能。此外，它还包括可定制的启动代码，可以与 GNU binutils 提供的链接器脚本一起工作，因此对于大多数 AVR 应用程序来说，通常不需要为此目的提供特定于项目的文件。
 
-> * 项目主页：https://github.com/flipperdevices
-
-![](http://henjay724.com/image/biweekly20230223/FlipperZero.PNG)
+> * 项目主页：https://github.com/avrdudes/avr-libc
 
 ### <font color="red">2、Picolib - 基于newlib和AVR Libc的轻量型C库</font>
 
@@ -33,6 +31,14 @@ Picolibc 是一个提供标准 C 库 api 的库，针对内存有限的小型嵌
 Picolib 支持的架构如下：
 
 ![](http://henjay724.com/image/biweekly20230223/Picolib.PNG)
+
+### <font color="red">3、Flipper Zero - 面向极客的开源多功能工具</font>
+
+Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
+
+> * 项目主页：https://github.com/flipperdevices
+
+![](http://henjay724.com/image/biweekly20230223/FlipperZero.PNG)
 
 ## 工具类
 
