@@ -12,7 +12,7 @@
 
 历史上的今天：1983年2月12日，。
 
-本期共收录 3 个项目、0 个工具，希望对你有帮助！
+本期共收录 4 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -32,7 +32,15 @@ Picolib 支持的架构如下：
 
 ![](http://henjay724.com/image/biweekly20230223/Picolib.PNG)
 
-### <font color="red">3、Flipper Zero - 面向极客的开源多功能工具</font>
+### <font color="red">3、Libwebsockets - 轻量级用来开发服务器和客户端的C库</font>
+
+Libwebsockets (LWS)是一个灵活的、轻量级的纯C库，用于使用非阻塞事件循环轻松实现现代网络协议，占用空间很小。自2010年以来，它一直在不断开发，并被世界各地成千上万的开发人员用于数千万台设备中。
+
+> * 项目主页：https://libwebsockets.org/
+
+![](http://henjay724.com/image/biweekly20230223/Libwebsockets.PNG)
+
+### <font color="red">4、Flipper Zero - 面向极客的开源多功能工具</font>
 
 Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
 
