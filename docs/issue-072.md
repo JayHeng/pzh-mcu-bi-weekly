@@ -12,17 +12,25 @@
 
 历史上的今天：1983年2月12日，。
 
-本期共收录 4 个项目、0 个工具，希望对你有帮助！
+本期共收录 5 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、AVR LibC - Atmel AVR芯片及AVR-GCC工具链下标准库</font>
+### <font color="red">1、Newlib - 面向嵌入式系统的开源 C 运行库</font>
+
+Newlib 是一个面向嵌入式系统的 C 运行库。最初是由 Cygnus Solutions 收集组装的一个源代码集合，取名为 newlib，现在由 Red Hat 维护。
+
+对于与 GNU 兼容的嵌入式C运行库，Newlib 并不是唯一的选择，但是从成熟度来讲，Newlib 是最优秀的。Newlib 具有独特的体系结构，使得它能够非常好地满足深度嵌入式系统的要求。Newlib 可移植性强，具有可重入特性、功能完备等特点，已广泛应用于各种嵌入式系统中。
+
+> * 项目主页：https://sourceware.org/newlib/
+
+### <font color="red">2、AVR LibC - AVR芯片及AVR-GCC工具链下标准库</font>
 
 AVR LibC 库包含了 ISO C 标准所要求的大部分功能，只有 wchar_t 支持是个明显的例外。它还包含许多针对 AVR 控制器家族的辅助功能。此外，它还包括可定制的启动代码，可以与 GNU binutils 提供的链接器脚本一起工作，因此对于大多数 AVR 应用程序来说，通常不需要为此目的提供特定于项目的文件。
 
 > * 项目主页：https://github.com/avrdudes/avr-libc
 
-### <font color="red">2、Picolib - 基于newlib和AVR Libc的轻量型C库</font>
+### <font color="red">3、Picolib - 基于newlib和AVR Libc的轻量型C库</font>
 
 Picolibc 是一个提供标准 C 库 api 的库，针对内存有限的小型嵌入式 32bit/64bit 系统。Picolibc 是通过混合 Newlib 和 AVR Libc 的代码而形成的。
 
@@ -32,7 +40,7 @@ Picolib 支持的架构如下：
 
 ![](http://henjay724.com/image/biweekly20230223/Picolib.PNG)
 
-### <font color="red">3、Libwebsockets - 轻量级用来开发服务器和客户端的C库</font>
+### <font color="red">4、Libwebsockets - 轻量级用来开发服务器和客户端的C库</font>
 
 Libwebsockets (LWS)是一个灵活的、轻量级的纯C库，用于使用非阻塞事件循环轻松实现现代网络协议，占用空间很小。自2010年以来，它一直在不断开发，并被世界各地成千上万的开发人员用于数千万台设备中。
 
@@ -40,7 +48,7 @@ Libwebsockets (LWS)是一个灵活的、轻量级的纯C库，用于使用非阻
 
 ![](http://henjay724.com/image/biweekly20230223/Libwebsockets.PNG)
 
-### <font color="red">4、Flipper Zero - 面向极客的开源多功能工具</font>
+### <font color="red">5、Flipper Zero - 面向极客的开源多功能工具</font>
 
 Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
 
