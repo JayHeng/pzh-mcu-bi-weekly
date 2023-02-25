@@ -10,13 +10,13 @@
 
 ## 唠两句
 
-历史上的今天：1983年2月12日，。
+历史上的今天：1992年2月25日，中国已勘明稀土资源工业储量占世界的80%。
 
-本期共收录 5 个项目、0 个工具，希望对你有帮助！
+本期共收录 5 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Newlib - 面向嵌入式系统的开源 C 运行库</font>
+### <font color="red">1、Newlib - 面向嵌入式系统的开源C运行库</font>
 
 Newlib 是一个面向嵌入式系统的 C 运行库。最初是由 Cygnus Solutions 收集组装的一个源代码集合，取名为 newlib，现在由 Red Hat 维护。
 
@@ -58,7 +58,13 @@ Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体�
 
 ## 工具类
 
+### <font color="red">1、Kitspace - 入门级PCB项目分享网站</font>
 
+Kitspace 是一个分享现成电子产品设计（PCB）的地方，可以作为 PCB 入门设计参考，通过在线小工具可以看各种参数。
+
+> * 项目主页：https://kitspace.org/
+
+![](http://henjay724.com/image/biweekly20230223/Kitspace.PNG)
 
 ### 欢迎订阅
 
