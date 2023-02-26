@@ -11,7 +11,7 @@
 
 ## 2022农历壬寅虎年
 
-[第 071 期](docs/issue-071.md) | [第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
+[第 072 期](docs/issue-072.md) | [第 071 期](docs/issue-071.md) | [第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
 
 [第 066 期](docs/issue-066.md) | [第 065 期](docs/issue-065.md) | [第 064 期](docs/issue-064.md) | [第 063 期](docs/issue-063.md) | [第 062 期](docs/issue-062.md) | [第 061 期](docs/issue-061.md)
 
@@ -277,6 +277,10 @@
 > * 【第 071 期】141、[LC-3 VM - 250行C代码实现简单的虚拟机(LC-3计算机)](https://github.com/justinmeiners/lc3-vm)
 > * 【第 071 期】142、[lc3-vm - 125行C代码实现简单的虚拟机(LC-3计算机)](https://github.com/nomemory/lc3-vm)
 > * 【第 071 期】143、[Reso - 一种使用PNG的视觉电路编程语言](https://github.com/lynnpepin/reso)
+> * 【第 072 期】144、[Newlib - 面向嵌入式系统的开源 C 运行库](https://sourceware.org/newlib/)
+> * 【第 072 期】145、[AVR LibC - AVR芯片及AVR-GCC工具链下标准库](https://github.com/avrdudes/avr-libc)
+> * 【第 072 期】146、[Picolib - 基于newlib和AVR Libc的轻量型C库](https://github.com/picolibc/picolibc)
+> * 【第 072 期】147、[Libwebsockets - 轻量级用来开发服务器和客户端的C库](https://libwebsockets.org/)
 
 **项目(硬)**
 
@@ -365,6 +369,7 @@
 > * 【第 067 期】83、[little-bee-B1 - 开源实用的高性能电流和磁场探头](https://github.com/westonb/little-bee-B1)
 > * 【第 068 期】84、[USB Cable Tester - 各种接口类型USB电缆的便携测试仪](https://github.com/alvarop/usb_c_cable_tester)
 > * 【第 068 期】85、[BP3621&BP3622 - 面向超薄紧凑型充电设备的无线充电器模块](https://www.rohm.com/products/wireless-charger-modules/1356mhz-wireless-charger-modules/bp3622-product#productDetail)
+> * 【第 072 期】86、[Flipper Zero - 面向极客的开源多功能工具](https://github.com/flipperdevices)
 
 **工具(软)**
 
@@ -456,6 +461,7 @@
 > * 【第 070 期】86、[Beremiz - 用于机械自动化的 PLC 集成开发环境](https://beremiz.org/)
 > * 【第 070 期】87、[JSON Crack - 一款非常优雅的 JSON 数据可视化工具](https://jsoncrack.com/)
 > * 【第 071 期】88、[WinMerge - 堪比beyond compare的开源文件/文件夹比较工具](https://winmerge.org/)
+> * 【第 072 期】89、[Kitspace - 入门级PCB项目分享网站](https://kitspace.org/)
 
 **工具(硬)**
 

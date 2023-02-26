@@ -50,7 +50,7 @@ Libwebsockets (LWS)是一个灵活的、轻量级的纯C库，用于使用非阻
 
 ### <font color="red">5、Flipper Zero - 面向极客的开源多功能工具</font>
 
-Flipper Zero 是一款便携式多功能工具，适合在玩具一样的身体里测试者和极客。它喜欢入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
+Flipper Zero 是一款便携式多功能工具。它擅长入侵数字设备，比如无线电协议、访问控制系统、硬件等等。它是完全开源和可定制的，所以你可以以任何你喜欢的方式扩展它。Flipper Zero 主控是 STM32WB55RG。
 
 > * 项目主页：https://github.com/flipperdevices
 
