@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,15 @@ Slint 是一个工具包，可以有效地为任何显示器(嵌入式设备和�
 
 ![](http://henjay724.com/image/biweekly20230312/Slint.PNG)
 
-### <font color="red">2、ZSWatch - 基于 Zephyr 的开源智能手表</font>
+### <font color="red">2、Reflow-Controller - 全开源回流控制器</font>
+
+Reflow-Controller 是一个回流控制器，用来控制不同种类的回流炉，热板等。它基于 ESP32-S2，因此可以编程为与 WiFi App 或其他应用程序一起使用。不过，它也有一个板载 OLED 显示屏和三个按钮，可以作为独立的解决方案使用。
+
+> * 项目主页：https://github.com/makermoekoe/Reflow-Controller
+
+![](http://henjay724.com/image/biweekly20230312/Reflow-Controller.PNG)
+
+### <font color="red">3、ZSWatch - 基于 Zephyr 的开源智能手表</font>
 
 ZSWatch 是一个基于Zephyr™ RTOS 的从零开始的全开源智能手表项目，包括硬件和软件。ZSWatch 项目分为两代：V1、V2，其中 V1 已经全部完成，V2 正在进行中。
 
