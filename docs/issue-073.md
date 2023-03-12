@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1782年3月12日，中国古代最大的文化工程《四库全书》编成。
 
-本期共收录 3 个项目、1 个工具，希望对你有帮助！
+本期共收录 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,13 @@ Slint 是一个工具包，可以有效地为任何显示器(嵌入式设备和�
 
 ![](http://henjay724.com/image/biweekly20230312/Slint.PNG)
 
-### <font color="red">2、Reflow-Controller - 全开源回流控制器</font>
+### <font color="red">2、MRI - 用于Cortex-M设备的gdb兼容调试监视器</font>
+
+MRI 是一个调试监视器，它允许 GNU调试器 GDB 调试 Cortex-M3/M4 处理器。这使得使用功能齐全的源级调试器调试在 Cortex-M 设备上运行的应用程序成为可能，而不需要额外的硬件，只需一个串行连接。
+
+> * 项目主页：https://github.com/adamgreen/mri
+
+### <font color="red">3、Reflow-Controller - 全开源回流控制器</font>
 
 Reflow-Controller 是一个回流控制器，用来控制不同种类的回流炉，热板等。它基于 ESP32-S2，因此可以编程为与 WiFi App 或其他应用程序一起使用。不过，它也有一个板载 OLED 显示屏和三个按钮，可以作为独立的解决方案使用。
 
@@ -32,7 +38,7 @@ Reflow-Controller 是一个回流控制器，用来控制不同种类的回流�
 
 ![](http://henjay724.com/image/biweekly20230312/Reflow-Controller.PNG)
 
-### <font color="red">3、ZSWatch - 基于 Zephyr 的开源智能手表</font>
+### <font color="red">4、ZSWatch - 基于 Zephyr 的开源智能手表</font>
 
 ZSWatch 是一个基于Zephyr™ RTOS 的从零开始的全开源智能手表项目，包括硬件和软件。ZSWatch 项目分为两代：V1、V2，其中 V1 已经全部完成，V2 正在进行中。
 
