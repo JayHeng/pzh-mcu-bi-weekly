@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、ZSWatch - 基于 Zephyr 的开源智能手表</font>
+### <font color="red">1、Slint - 全开源跨平台UI设计库</font>
+
+Slint 是一个工具包，可以有效地为任何显示器(嵌入式设备和桌面应用程序)开发流畅的图形用户界面。Slint支持多种编程语言，如Rust、c++和JavaScript。Slint 官方已经为 STM32 和 RP2040 做了适配。
+
+> * 项目主页：https://github.com/slint-ui/slint
+
+![](http://henjay724.com/image/biweekly20230312/Slint.PNG)
+
+### <font color="red">2、ZSWatch - 基于 Zephyr 的开源智能手表</font>
 
 ZSWatch 是一个基于Zephyr™ RTOS 的从零开始的全开源智能手表项目，包括硬件和软件。ZSWatch 项目分为两代：V1、V2，其中 V1 已经全部完成，V2 正在进行中。
 
