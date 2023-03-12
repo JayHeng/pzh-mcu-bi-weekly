@@ -12,16 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、ZSWatch - 基于 Zephyr 的开源智能手表</font>
 
+ZSWatch 是一个基于Zephyr™ RTOS 的从零开始的全开源智能手表项目，包括硬件和软件。ZSWatch 项目分为两代：V1、V2，其中 V1 已经全部完成，V2 正在进行中。
 
-> * 项目主页：
+> * 项目主页：https://github.com/jakkra/ZSWatch
 
-![](http://henjay724.com/image/biweekly20230312/.PNG)
+![](http://henjay724.com/image/biweekly20230312/ZSWatch-1.PNG)
+
+![](http://henjay724.com/image/biweekly20230312/ZSWatch.PNG)
 
 ## 工具类
 
