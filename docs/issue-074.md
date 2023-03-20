@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、0 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个资讯、0 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -25,6 +25,16 @@
 与此同时，embedded world中国站首秀！第一届上海国际嵌入式展（embedded world China 2023）也将于今年6月14-16日在上海世博展览馆3号馆举办。
 
 ![](http://henjay724.com/image/biweekly20230320/embedded-world2023.PNG)
+
+### <font color="red">2、兆易创新高性能GD32H7系列MCU近期将正式发布</font>
+
+兆易创新的旗舰级高性能GD32H7系列MCU将于近期正式发布，embedded world 2023展会是GD32H7系列官方开发套件的首秀。
+
+> * 资讯来源：[Embedded World 2023沉浸式逛展，看GD32如何打造完善的生态补给 ](https://mp.weixin.qq.com/s?src=11&timestamp=1679321155&ver=4418&signature=cYyAAI48nTwcWdjuoKwIBN*fiXBov7yvrpfo6wnz6r8*VBC4VLqJSMhRRxcddgovWFryrqrgETBs-A8BYnUSjNAy8PiKivyK*PZ4aaTGVYyfGZT-*Ik8BwThTgW1cjpq&new=1)
+
+GD32H7系列以Arm® Cortex®-M7内核提供600MHz的处理能力，内置先进的DSP和FPU。配备1024KB到3840KB Flash和1024KB SRAM，其中包括512KB的紧耦合内存，以实现更佳处理效率。GD32H7集成了液晶显示屏和硬件图形加速器，可显著提升显示质量，同时还添加了数据安全加密功能。适用于数字信号处理、电机控制、电源、储能系统、音频和语音识别，以及边缘计算、AI等诸多创新应用场景。
+
+![](http://henjay724.com/image/biweekly20230320/GD32H7-EVK.jpg)
 
 ## 项目类
 
