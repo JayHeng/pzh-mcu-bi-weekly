@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个资讯、0 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个资讯、1 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,13 +38,15 @@ GD32H7系列以Arm® Cortex®-M7内核提供600MHz的处理能力，内置先进
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、USB-Cereal - 全开源的Type-C设备测试开发工具</font>
 
+USB-Cereal 是一个功能强大的完全开源的开发工具，可以简化支持USB Type-C设备的测试、开发、调试和制造。使用USB Type-C的扩展功能，这种独特的硬件附件通过启用调试和工厂日志的捕获，提供简单的命令行界面，并促进固件更新，从而节省时间和精力。
 
+> * 项目主页：https://github.com/oxda/usb-cereal
 
-> * 项目主页：
+![](http://henjay724.com/image/biweekly20230320/USB-Cereal2.PNG)
 
-
+![](http://henjay724.com/image/biweekly20230320/USB-Cereal1.PNG)
 
 
 ## 工具类
