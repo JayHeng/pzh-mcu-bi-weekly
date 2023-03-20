@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个资讯、1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个资讯、2 个项目、0 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -48,6 +48,11 @@ USB-Cereal 是一个功能强大的完全开源的开发工具，可以简化支
 
 ![](http://henjay724.com/image/biweekly20230320/USB-Cereal1.PNG)
 
+### <font color="red">2、MCUFont - 适用MCU系统的字体压缩、解压缩和渲染库</font>
+
+MCUFont 是一个用于 MCU 系统的字体压缩、解压缩和渲染库。它允许高质量的反锯齿文本渲染，同时占用足够小的空间以适应典型的闪存。MCUFont 解码器仅1-5KB，16级抗锯齿，纯C，支持ttf和bdf格式。
+
+> * 项目主页：https://github.com/mcufont/mcufont
 
 ## 工具类
 
