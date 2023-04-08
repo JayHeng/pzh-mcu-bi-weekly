@@ -9,6 +9,10 @@
 
 大家如果知道或者发现好的嵌入式工具或项目，欢迎给我提 issue。
 
+## 2023农历癸卯兔年
+
+[第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
+
 ## 2022农历壬寅虎年
 
 [第 072 期](docs/issue-072.md) | [第 071 期](docs/issue-071.md) | [第 070 期](docs/issue-070.md) | [第 069 期](docs/issue-069.md) | [第 068 期](docs/issue-068.md) | [第 067 期](docs/issue-067.md)
@@ -129,6 +133,8 @@
 > * 【第 063 期】82、兆易创新发布GD32A503系列首款车规级MCU
 > * 【第 069 期】83、先楫半导体发布主频1GHz的RISC-V微控制器 - HPM64G0
 > * 【第 069 期】84、澎湃微电子S038系列Cortex-M0 MCU创造主频记录200MHz
+> * 【第 074 期】85、2023德国嵌入式展会embedded world近日开幕
+> * 【第 074 期】86、兆易创新高性能GD32H7系列MCU近期将正式发布
 
 **项目(软)**
 
@@ -281,6 +287,9 @@
 > * 【第 072 期】145、[AVR LibC - AVR芯片及AVR-GCC工具链下标准库](https://github.com/avrdudes/avr-libc)
 > * 【第 072 期】146、[Picolib - 基于newlib和AVR Libc的轻量型C库](https://github.com/picolibc/picolibc)
 > * 【第 072 期】147、[Libwebsockets - 轻量级用来开发服务器和客户端的C库](https://libwebsockets.org/)
+> * 【第 073 期】148、[Slint - 全开源跨平台UI设计库](https://github.com/slint-ui/slint)
+> * 【第 073 期】149、[MRI - 用于Cortex-M设备的gdb兼容调试监视器](https://github.com/adamgreen/mri)
+> * 【第 074 期】150、[MCUFont - 适用MCU系统的字体压缩、解压缩和渲染库](https://github.com/mcufont/mcufont)
 
 **项目(硬)**
 
@@ -370,6 +379,10 @@
 > * 【第 068 期】84、[USB Cable Tester - 各种接口类型USB电缆的便携测试仪](https://github.com/alvarop/usb_c_cable_tester)
 > * 【第 068 期】85、[BP3621&BP3622 - 面向超薄紧凑型充电设备的无线充电器模块](https://www.rohm.com/products/wireless-charger-modules/1356mhz-wireless-charger-modules/bp3622-product#productDetail)
 > * 【第 072 期】86、[Flipper Zero - 面向极客的开源多功能工具](https://github.com/flipperdevices)
+> * 【第 073 期】87、[Reflow-Controller - 全开源回流控制器](https://github.com/makermoekoe/Reflow-Controller)
+> * 【第 073 期】88、[ZSWatch - 基于 Zephyr 的开源智能手表](https://github.com/jakkra/ZSWatch)
+> * 【第 074 期】89、[USB-Cereal - 全开源的Type-C设备测试开发工具](https://github.com/oxda/usb-cereal)
+> * 【第 074 期】90、[DDC OLED - 用电脑HDMI接口中的低速I2C驱动OLED屏](https://mitxela.com/projects/ddc-oled)
 
 **工具(软)**
 
@@ -462,6 +475,8 @@
 > * 【第 070 期】87、[JSON Crack - 一款非常优雅的 JSON 数据可视化工具](https://jsoncrack.com/)
 > * 【第 071 期】88、[WinMerge - 堪比beyond compare的开源文件/文件夹比较工具](https://winmerge.org/)
 > * 【第 072 期】89、[Kitspace - 入门级PCB项目分享网站](https://kitspace.org/)
+> * 【第 073 期】90、[aardio - 专注于桌面软件开发的动态编程语言](https://www.aardio.com/)
+> * 【第 074 期】91、[inspectrum - 开源的无线电信号分析软件](https://github.com/miek/inspectrum)
 
 **工具(硬)**
 
