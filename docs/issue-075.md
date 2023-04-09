@@ -40,10 +40,13 @@ OpenWrt 项目是一个针对嵌入式设备的 Linux 操作系统。OpenWrt 没
 
 ![](http://henjay724.com/image/biweekly20230409/NVM2.PNG)
 
-## 工具类
+### <font color="red">4、Embox - 复用Linux开源组件的RTOS</font>
 
-### <font color="red">1、</font>
+Embox 是为资源受限和嵌入式系统设计的可配置实时操作系统。Embox 的主要思想是在没有 Linux 的情况下使用 Linux 软件。
 
+> * 项目主页：https://github.com/embox/embox
+
+![](http://henjay724.com/image/biweekly20230409/Embox.PNG)
 
 ### 欢迎订阅
 
