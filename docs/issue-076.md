@@ -12,18 +12,33 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
 ### <font color="red">1、USB-C Power Supply - 基于STM32F091的USB-C电源</font>
 
-国外小伙 Andrew 建立的一个简单的电源项目，以此来获得一些相对较新的USB电源传输(USB- pd)技术的实际操作经验。USB-PD允许通过接口提供高达20V的电压和高达5A的电流。小伙分享了全部设计细节，可以让我们深入了解USB-PD的工作原理。
+国外小伙 Andrew 建立的一个简单的电源项目，以此来获得一些相对较新的USB电源传输(USB- pd)技术的实际操作经验。USB-PD 允许通过接口提供高达20V的电压和高达5A的电流。小伙分享了全部设计细节，可以让我们深入了解 USB-PD 的工作原理。
+
+这个电源主控为意法 STM32F091，测量前端 ADC 使用得德州仪器 INA233，PD 控制器是意法 STUSB4500。
 
 > * 项目主页：https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
 
 ![](http://henjay724.com/image/biweekly20230430/USB-C-PowerSupply.PNG)
 
+### <font color="red">2、LogicAnalyzer - 基于树莓Pico开源逻辑分析仪</font>
+
+此项目是一个非常便宜的基于树莓Pico逻辑分析仪。该分析仪提供多达24个数字通道，前置和后触发采样，边缘触发和模式触发高达16位。
+
+最基本的版本是纯Pico，只需要短接GPIO0和GPIO1，上传固件就可以了。当然，这有一些限制，因为Pico只支持3.3v，如果想用它来诊断5v信号，需要配套一个电平转换板。
+
+除了硬件之外，该逻辑分析仪还包括一个功能强大的软件(目前仅限Windows)，可以在其中可视化捕获的数据，导出捕获，使用协议分析器等。
+
+> * 项目主页：https://github.com/gusmanb/logicanalyzer
+
+![](http://henjay724.com/image/biweekly20230430/LogicAnalyzer0.PNG)
+
+![](http://henjay724.com/image/biweekly20230430/LogicAnalyzer1.PNG)
 
 ## 工具类
 
