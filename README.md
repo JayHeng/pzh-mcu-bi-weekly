@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
+[第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
 
 ## 2022农历壬寅虎年
 
@@ -290,6 +290,9 @@
 > * 【第 073 期】148、[Slint - 全开源跨平台UI设计库](https://github.com/slint-ui/slint)
 > * 【第 073 期】149、[MRI - 用于Cortex-M设备的gdb兼容调试监视器](https://github.com/adamgreen/mri)
 > * 【第 074 期】150、[MCUFont - 适用MCU系统的字体压缩、解压缩和渲染库](https://github.com/mcufont/mcufont)
+> * 【第 075 期】151、[Wasp-os - 基于nRF52系列微控制器的智能手表固件](https://github.com/wasp-os/wasp-os)
+> * 【第 075 期】152、[OpenWrt - 针对嵌入式网络设备的 Linux 操作系统](https://openwrt.org/)
+> * 【第 075 期】153、[Embox - 复用Linux开源组件的RTOS](https://github.com/embox/embox)
 
 **项目(硬)**
 
@@ -383,6 +386,12 @@
 > * 【第 073 期】88、[ZSWatch - 基于 Zephyr 的开源智能手表](https://github.com/jakkra/ZSWatch)
 > * 【第 074 期】89、[USB-Cereal - 全开源的Type-C设备测试开发工具](https://github.com/oxda/usb-cereal)
 > * 【第 074 期】90、[DDC OLED - 用电脑HDMI接口中的低速I2C驱动OLED屏](https://mitxela.com/projects/ddc-oled)
+> * 【第 075 期】91、[NVM - 全开源nV级测量仪表](https://github.com/jaromir-sukuba/nvm/)
+> * 【第 076 期】92、[USB-C Power Supply - 基于STM32F091的USB-C电源](https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/)
+> * 【第 076 期】93、[LogicAnalyzer - 基于树莓Pico开源逻辑分析仪](https://github.com/gusmanb/logicanalyzer)
+> * 【第 076 期】94、[moteus - 四足机器人开源BLDC电机控制器](https://github.com/mjbots/moteus)
+> * 【第 076 期】95、[RasPico_SHIBAKI_Board - 基于树莓Pico实现超低成本的双光纤网卡100BASE-FX](https://github.com/kingyoPiyo/RasPico_SHIBAKI_Board)
+> * 【第 076 期】96、[CatSniffer - 开源便携IoT设备监测器](https://github.com/ElectronicCats/CatSniffer)
 
 **工具(软)**
 
@@ -477,6 +486,8 @@
 > * 【第 072 期】89、[Kitspace - 入门级PCB项目分享网站](https://kitspace.org/)
 > * 【第 073 期】90、[aardio - 专注于桌面软件开发的动态编程语言](https://www.aardio.com/)
 > * 【第 074 期】91、[inspectrum - 开源的无线电信号分析软件](https://github.com/miek/inspectrum)
+> * 【第 075 期】92、[JITX - 支持通过编写代码方式生成PCB设计](https://www.jitx.com/)
+> * 【第 076 期】93、[得捷电子实时展示芯片厂家供货周期](https://www.digikey.cn/zh/resources/reports/lead-time-trends)
 
 **工具(硬)**
 
