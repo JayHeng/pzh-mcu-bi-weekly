@@ -12,18 +12,17 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、USB-C Power Supply - 基于STM32F091的USB-C电源</font>
 
+国外小伙 Andrew 建立的一个简单的电源项目，以此来获得一些相对较新的USB电源传输(USB- pd)技术的实际操作经验。USB-PD允许通过接口提供高达20V的电压和高达5A的电流。小伙分享了全部设计细节，可以让我们深入了解USB-PD的工作原理。
 
+> * 项目主页：https://circuitcellar.com/research-design-hub/basics-of-design/build-a-usb-c-power-supply/
 
-> * 项目主页：
-
-![](http://henjay724.com/image/biweekly20230429/.PNG)
-
+![](http://henjay724.com/image/biweekly20230430/USB-C-PowerSupply.PNG)
 
 
 ## 工具类
