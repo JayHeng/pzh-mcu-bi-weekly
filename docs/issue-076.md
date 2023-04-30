@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -39,6 +39,14 @@
 ![](http://henjay724.com/image/biweekly20230430/LogicAnalyzer0.PNG)
 
 ![](http://henjay724.com/image/biweekly20230430/LogicAnalyzer1.PNG)
+
+### <font color="red">3、moteus - 四足机器人开源BLDC电机控制器</font>
+
+moteus 无刷控制器可以将业余无刷电机转变为高性能伺服执行器。它集成了必要的驱动电子设备，高性能32位微控制器（STM32G4），绝对磁编码器和高速数据接口在一个紧凑的封装。电源和数据是菊花链集成到多个伺服系统。
+
+> * 项目主页：https://github.com/mjbots/moteus
+
+![](http://henjay724.com/image/biweekly20230430/moteus.PNG)
 
 ## 工具类
 
