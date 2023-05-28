@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 3 个项目、1 个工具，希望对你有帮助！
+本期共收录 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Secure Provisioning SDK - 面向NXP MCU的安全下载操作SDK</font>
+### <font color="red">1、Open-CMSIS-Pack - 简化物联网工作流和生命周期管理框架</font>
+
+Open-CMSIS-Pack 项目将提供集成和管理软件组件的基础设施，并改善嵌入式和物联网项目之间的代码重用。该项目目前作为一个孵化项目由Linaro与Arm、NXP和ST合作主持和管理。
+
+组件重用的软件兼容性长期以来一直是微控制器领域的一个挑战，特别是对于物联网来说，与PC或数据中心相比，物联网在硬件层面上更加多样化。Open-CMSIS-Pack将消除这种复杂性，为软件组件打包提供一个标准，并为验证、分发、集成、管理和维护提供相关的基础工具。
+
+> * 项目地址：https://www.open-cmsis-pack.org/
+
+### <font color="red">2、Secure Provisioning SDK - 面向NXP MCU的安全下载操作SDK</font>
 
 SPSDK 是一个统一的、可靠的、易于使用的 Python SDK 库，可在 NXP MCU 产品组合中工作，为快速的客户原型设计到生产部署提供坚实的基础。该库允许用户与设备进行连接和通信、配置设备、准备、下载和上传数据，包括安全操作。
 
@@ -31,7 +39,7 @@ SPSDK 以以下形式交付:
 api - Python库形式的函数。
 ```
 
-### <font color="red">2、ToolKit - 一套应用于嵌入式系统的通用工具包</font>
+### <font color="red">3、ToolKit - 一套应用于嵌入式系统的通用工具包</font>
 
 ToolKit 是一套应用于嵌入式系统的通用工具包，可灵活应用到有无RTOS的程序中，采用C语言面向对象的思路实现各个功能，尽可能最大化的复用代码，目前为止工具包包含：循环队列、软件定时器、事件集。
 
@@ -54,7 +62,7 @@ ToolKit 是一套应用于嵌入式系统的通用工具包，可灵活应用到
     3.事件的触发可配置为**“标志与”和“标志或”**。
 ```
 
-### <font color="red">3、tftpserver - 超简洁的tftp server</font>
+### <font color="red">4、tftpserver - 超简洁的tftp server</font>
 
 TFTP（Trivial File Transfer Protocol，简单文件传输协议），基于 UDP 实现，提供不复杂、开销不大的文件传输服务，端口号为 69。常见的 tftp server 是 tftp-hpa，但其配置起来不是特别方便。
 
