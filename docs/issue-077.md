@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -49,9 +49,15 @@ tftpserver 是一个超简单的 tftp server，C 语言编写，源码仅一个 
 
 ![](http://henjay724.com/image/biweekly20230528/.PNG)
 
-
 ## 工具类
 
+### <font color="red">1、serialporttool - 精品工控软件工具</font>
+
+该公司出品的每个软件工具都是工控精品。自2003年以来，他们一直致力于串口和网络通信软件的开发。这家公司不仅提供软件产品，还提供定制和咨询服务。
+
+> * 工具官网：https://www.serialporttool.com/GK/
+
+![](http://henjay724.com/image/biweekly20230528/serialporttool.PNG)
 
 ### 欢迎订阅
 
