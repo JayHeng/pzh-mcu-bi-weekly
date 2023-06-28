@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、LiteX - 高效创建FPGA内核/soc的基础框架</font>
+### <font color="red">1、sc - 可移植的且独立的C库和数据结构</font>
+
+sc 是一套可移植的、独立的 C 库和数据结构(C99)。每个文件夹都是独立的，其中有一个单独的头文件/源文件。例如，如果你想要记录器，复制 sc_log.h 和 sc_log.c 到你的项目。
+
+> * 项目地址：https://github.com/tezc/sc
+
+![](http://henjay724.com/image/biweekly20230628/sc.PNG)
+
+### <font color="red">2、LiteX - 高效创建FPGA内核/soc的基础框架</font>
 
 LiteX 框架提供了一个方便和高效的基础设施来创建 FPGA 内核/ soc，探索各种数字设计架构和创建完整的基于FPGA的系统。
 
@@ -30,7 +38,7 @@ LiteX提供了轻松创建 FPGA 核心/SoC 所需的所有常见组件:
 
 ![](http://henjay724.com/image/biweekly20230628/LiteX.PNG)
 
-### <font color="red">2、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
+### <font color="red">3、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
 
 xiotman 是一套致力于解决物联网终端应用多样化挑战的软件架构解决方案。目前默认的仓库代码下，主要支持了 app_uart_debug 应用，和 app_smart_room 应用（基于RA4M2），其他demo应用还在进一步完善中。
 
@@ -56,6 +64,14 @@ JI2C 是 Jooiee 出品的一款能直接读写芯片寄存器的USB转I2C模块�
 > * 工具官网：http://jooiee.com/cms/ruanjian/112.html
 
 ![](http://henjay724.com/image/biweekly20230628/JI2C.PNG)
+
+### <font color="red">2、ez-clang - 基于 Clang 的交叉编译器</font>
+
+ez-clang 是基于 Clang 的交叉编译器，具有面向裸机嵌入式设备的 LLVM 远程 JIT 后端。
+
+> * 工具主页：https://echtzeit.dev/ez-clang/
+
+![](http://henjay724.com/image/biweekly20230628/ez-clang.PNG)
 
 ### 欢迎订阅
 
