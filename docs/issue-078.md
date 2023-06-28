@@ -12,16 +12,26 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
 
+xiotman 是一套致力于解决物联网终端应用多样化挑战的软件架构解决方案。目前默认的仓库代码下，主要支持了 app_uart_debug 应用，和 app_smart_room 应用（基于RA4M2），其他demo应用还在进一步完善中。
 
+xiotman 的特点：
 
-> * 项目地址：
+```text
+- 应用的多样性：支持多应用开发
+- 组件的多样性：支持多组件解耦
+- RTOS的多样性：支持多RTOS
+- MCU的多样性：支持多MCU
+```
 
+> * 项目地址：https://github.com/recan-li/xiotman
+
+![](http://henjay724.com/image/biweekly20230628/xiotman.PNG)
 
 ## 工具类
 
