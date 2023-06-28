@@ -12,11 +12,25 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
+### <font color="red">1、LiteX - 高效创建FPGA内核/soc的基础框架</font>
+
+LiteX 框架提供了一个方便和高效的基础设施来创建 FPGA 内核/ soc，探索各种数字设计架构和创建完整的基于FPGA的系统。
+
+> * 项目地址：https://github.com/enjoy-digital/litex
+
+LiteX提供了轻松创建 FPGA 核心/SoC 所需的所有常见组件:
+
+![](http://henjay724.com/image/biweekly20230628/LiteX2.PNG)
+
+基于 VexRiscv-SMP CPU 的多核 Linux SoC, LiteDRAM, LiteSATA与LiteX构建并集成，运行在廉价的重新利用的Acorn CLE215+采矿板上：
+
+![](http://henjay724.com/image/biweekly20230628/LiteX.PNG)
+
+### <font color="red">2、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
 
 xiotman 是一套致力于解决物联网终端应用多样化挑战的软件架构解决方案。目前默认的仓库代码下，主要支持了 app_uart_debug 应用，和 app_smart_room 应用（基于RA4M2），其他demo应用还在进一步完善中。
 
