@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
+[第 078 期](docs/issue-078.md) | [第 077 期](docs/issue-077.md) | [第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
 
 ## 2022农历壬寅虎年
 
@@ -293,6 +293,14 @@
 > * 【第 075 期】151、[Wasp-os - 基于nRF52系列微控制器的智能手表固件](https://github.com/wasp-os/wasp-os)
 > * 【第 075 期】152、[OpenWrt - 针对嵌入式网络设备的 Linux 操作系统](https://openwrt.org/)
 > * 【第 075 期】153、[Embox - 复用Linux开源组件的RTOS](https://github.com/embox/embox)
+> * 【第 077 期】154、[Open-CMSIS-Pack - 简化物联网工作流和生命周期管理框架](https://www.open-cmsis-pack.org/)
+> * 【第 077 期】155、[Secure Provisioning SDK - 面向NXP MCU的安全下载操作SDK](https://github.com/NXPmicro/spsdk)
+> * 【第 077 期】156、[ToolKit - 一套应用于嵌入式系统的通用工具包](https://github.com/cproape/toolkit)
+> * 【第 077 期】157、[tftpserver - 超简洁的tftp server](https://github.com/crossbowerbt/tftpserver)
+> * 【第 078 期】158、[sc - 可移植的且独立的C库和数据结构](https://github.com/tezc/sc)
+> * 【第 078 期】159、[LiteX - 高效创建FPGA内核/soc的基础框架](https://github.com/enjoy-digital/litex)
+> * 【第 078 期】160、[xiotman - 一套解决物联网终端应用多样化挑战的软件架构](https://github.com/recan-li/xiotman)
+> * 【第 078 期】161、[LinaVG - 开源2D矢量图形渲染库](https://github.com/inanevin/LinaVG)
 
 **项目(硬)**
 
@@ -488,6 +496,8 @@
 > * 【第 074 期】91、[inspectrum - 开源的无线电信号分析软件](https://github.com/miek/inspectrum)
 > * 【第 075 期】92、[JITX - 支持通过编写代码方式生成PCB设计](https://www.jitx.com/)
 > * 【第 076 期】93、[得捷电子实时展示芯片厂家供货周期](https://www.digikey.cn/zh/resources/reports/lead-time-trends)
+> * 【第 077 期】94、[serialporttool - 精品工控软件工具](https://www.serialporttool.com/GK/)
+> * 【第 078 期】95、[ez-clang - 基于 Clang 的交叉编译器](https://echtzeit.dev/ez-clang/)
 
 **工具(硬)**
 
@@ -497,6 +507,7 @@
 > * 【第 062 期】4、[Power Profiler Kit II - Nordic出品的开源二代功耗测量套件](https://www.nordicsemi.com/Products/Development-hardware/Power-Profiler-Kit-2)
 > * 【第 062 期】5、[ChipWhisperer - 汽车级芯片爆破设备](https://github.com/newaetech/chipwhisperer)
 > * 【第 063 期】6、[TI-84 Plus CE Python - TI出品支持Python编程的图形化显示计算器](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python)
+> * 【第 078 期】7、[JI2C - 一款能直接读写芯片寄存器的USB转I2C模块上位机](http://jooiee.com/cms/ruanjian/112.html)
 
 **RT出品**
 
