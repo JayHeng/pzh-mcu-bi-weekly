@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：2008年6月28日，微软董事长比尔·盖茨向830名微软代表发表了告别演说，正式宣布辞去微软执行董事长的全职工作。
 
-本期共收录 3 个项目、2 个工具，希望对你有帮助！
+本期共收录 4 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -54,6 +54,14 @@ xiotman 的特点：
 > * 项目地址：https://github.com/recan-li/xiotman
 
 ![](http://henjay724.com/image/biweekly20230628/xiotman.PNG)
+
+### <font color="red">4、LinaVG - 开源2D矢量图形渲染库</font>
+
+LinaVG 是一个 2D 矢量图形库，提供低级功能来绘制各种抗锯齿凸形状和线条，以及传统和签名距离场(SDF)文本渲染。LinaVG 还提供了丰富的样式选项，包括渐变，轮廓，阴影，不同的厚度，填充和非填充形状，文本对齐/间距等。
+
+> * 项目地址：https://github.com/inanevin/LinaVG
+
+![](http://henjay724.com/image/biweekly20230628/LinaVG.PNG)
 
 ## 工具类
 
