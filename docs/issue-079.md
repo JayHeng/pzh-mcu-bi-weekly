@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -26,9 +26,17 @@ FlipDigits 是一个开源的处理应用程序，可以在7段数码管显示�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-079/FlipDigit-UI.gif)
 
-
 ## 工具类
 
+### <font color="red">1、2bit-Video-Processor - 二值视频格式转换工具</font>
+
+这是一个小程序，将视频图像序列转换为用于2bit显示器(如FlipDots)的原始数据文件。2位意味着两种单色或开/关，没有灰度和alpha。适合用在单色屏上，比如OLED这些。
+
+> * 项目地址：https://github.com/owenmcateer/2bit-Video-Processor
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-079/2bit-Video-Processor.PNG)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-079/2bit-Video-Processor.gif)
 
 ### 欢迎订阅
 
