@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、FlipDigits - 用于在7段数码管显示器上渲染图形的处理应用程序</font>
+### <font color="red">1、STM32 Emulator - 基于STM32的3D打印机模拟器</font>
+
+这个项目的目标是模拟3D打印机，适用于任何类型的 stm32 微控制器固件，STM32 硬件外设全部采用模拟的方式实现。这个模拟器是在作者对逆向工程3D打印机的工作背景下完成的。
+
+> * 项目地址：https://github.com/nviennot/stm32-emulator
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-079/STM32-Emulator.gif)
+
+### <font color="red">2、FlipDigits - 用于在7段数码管显示器上渲染图形的处理应用程序</font>
 
 FlipDigits 是一个开源的处理应用程序，可以在7段数码管显示器上运行图形，该项目基于的显示器是由448个7段数字组成的机械翻转数字显示器。
 
