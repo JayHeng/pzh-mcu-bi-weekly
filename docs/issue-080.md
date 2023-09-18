@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -34,12 +34,23 @@ mr-library 应用场景:
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-080/mr-library.png)
 
+### <font color="red">2、c-periphery - 在Linux中用于外围设备访问C库 </font>
+
+c-periphery是一个小型 C 库，用于在用户空间 Linux 中进行 GPIO，LED，PWM，SPI，I2C，MMIO 和串行外围设备 I/O 接口访问。 c-periphery 简化了本机 Linux API 并将其整合到这些接口。  
+
+c-periphery 在嵌入式 Linux 环境（包括 Raspberry Pi，BeagleBone 等平台）中可用于与外部外围设备接口。 c-periphery 是可重入的，在标准C库和Linux之外没有任何依赖关系，可编译成静态库以方便与其他项目集成。  
+
+> * 项目地址：https://github.com/vsergeev/c-periphery
 
 ## 工具类
 
-### <font color="red">1、</font>
+### <font color="red">1、SourceTrail - 可视化源代码编辑神器</font>
 
+ Sourcetrail 是一个免费开源、跨平台的可视化源码编辑器。不同于其他代码编辑器的导航栏， Sourcetrail 左侧使用图形直观地表示了调用上游和下游，类成员列表等等细节，使得理解源代码的结构变得很容易。目前支持 C、C++、Python 和 Java 语言，同时提供了相关 SDK 用于拓展支持其它语言。
 
+> * 软件官网：https://www.sourcetrail.com/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-080/sourcetrail.png)
 
 ### 欢迎订阅
 
