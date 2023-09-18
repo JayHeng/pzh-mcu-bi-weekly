@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -34,13 +34,26 @@ mr-library 应用场景:
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-080/mr-library.png)
 
-### <font color="red">2、c-periphery - 在Linux中用于外围设备访问C库 </font>
+### <font color="red">2、c-periphery - 在Linux中用于外围设备访问C库</font>
 
 c-periphery是一个小型 C 库，用于在用户空间 Linux 中进行 GPIO，LED，PWM，SPI，I2C，MMIO 和串行外围设备 I/O 接口访问。 c-periphery 简化了本机 Linux API 并将其整合到这些接口。  
 
 c-periphery 在嵌入式 Linux 环境（包括 Raspberry Pi，BeagleBone 等平台）中可用于与外部外围设备接口。 c-periphery 是可重入的，在标准C库和Linux之外没有任何依赖关系，可编译成静态库以方便与其他项目集成。  
 
 > * 项目地址：https://github.com/vsergeev/c-periphery
+
+### <font color="red">3、linkboy - 自研的编程语言和集成开发环境</font>
+
+LinkBoy 是自研的编程语言和集成开发环境，主要面向中小学信息技术教育，也用于大学工科教学，以及帮助工控、电子工程师快速开发构建项目。LinkBoy 作者王强老师于 2009 年在大学时率先启动该项目，因当时大学里普遍在用国外的 keil 等收费编程软件进行教学，于是王强立志开发一款国产的编程语言和环境。后来随着应用场景的不断深入，逐步增加图形化界面、IoT 库、软件仿真器等功能。
+
+> * 软件官网：http://linkboy.cc/
+> * 项目地址：https://gitee.com/linkboy_crux/linkboy
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-080/linkboy.PNG)
+
+LinkBoy 是生成自研编程语言程序代码，从源程序词法语法分析到后端机器码烧录文件的生成均是自主开发，并与图形界面做整合，因此可以支持图形界面的连线配置，程序的拟物化模拟仿真运行。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-080/linkboy2.PNG)
 
 ## 工具类
 
