@@ -11,6 +11,8 @@
 
 ## 2023农历癸卯兔年
 
+[第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
+
 [第 078 期](docs/issue-078.md) | [第 077 期](docs/issue-077.md) | [第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
 
 ## 2022农历壬寅虎年
@@ -301,6 +303,13 @@
 > * 【第 078 期】159、[LiteX - 高效创建FPGA内核/soc的基础框架](https://github.com/enjoy-digital/litex)
 > * 【第 078 期】160、[xiotman - 一套解决物联网终端应用多样化挑战的软件架构](https://github.com/recan-li/xiotman)
 > * 【第 078 期】161、[LinaVG - 开源2D矢量图形渲染库](https://github.com/inanevin/LinaVG)
+> * 【第 079 期】162、[RTIC - 基于RUST的开源免费实时中断驱动系统](https://github.com/rtic-rs/rtic)
+> * 【第 079 期】163、[ETL - 嵌入式C++模板库](https://github.com/ETLCPP/etl)
+> * 【第 079 期】164、[STM32 Emulator - 基于STM32的3D打印机模拟器](https://github.com/nviennot/stm32-emulator)
+> * 【第 079 期】165、[FlipDigits - 用于在7段数码管显示器上渲染图形的处理应用程序](https://github.com/owenmcateer/FlipDigits)
+> * 【第 080 期】166、[mr-library - 一个专为嵌入式系统设计的轻量级框架](https://gitee.com/MacRsh/mr-library)
+> * 【第 080 期】167、[c-periphery - 在Linux中用于外围设备访问C库](https://github.com/vsergeev/c-periphery)
+> * 【第 080 期】168、[linkboy - 自研的编程语言和集成开发环境](https://gitee.com/linkboy_crux/linkboy)
 
 **项目(硬)**
 
@@ -498,6 +507,8 @@
 > * 【第 076 期】93、[得捷电子实时展示芯片厂家供货周期](https://www.digikey.cn/zh/resources/reports/lead-time-trends)
 > * 【第 077 期】94、[serialporttool - 精品工控软件工具](https://www.serialporttool.com/GK/)
 > * 【第 078 期】95、[ez-clang - 基于 Clang 的交叉编译器](https://echtzeit.dev/ez-clang/)
+> * 【第 079 期】96、[2bit-Video-Processor - 二值视频格式转换工具](https://github.com/owenmcateer/2bit-Video-Processor)
+> * 【第 080 期】97、[SourceTrail - 可视化源代码编辑神器](https://www.sourcetrail.com/)
 
 **工具(硬)**
 
