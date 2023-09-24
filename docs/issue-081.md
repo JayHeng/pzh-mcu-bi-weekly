@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 3 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -66,7 +66,13 @@ FindMyCat 主要特点：
 
 ## 工具类
 
+### <font color="red">1、grep - 超强的代码片段搜索工具</font>
 
+grep 是一个超强的代码片段搜索工具，利用 grep 可以快速的在全球各大主流 GitHub 存储库中搜索代码片段或现有实现以供参考。
+
+> * 工具地址：https://grep.app/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-081/grep.PNG)
 
 ### 欢迎订阅
 
