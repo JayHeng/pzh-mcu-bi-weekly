@@ -12,11 +12,29 @@
 
 历史上的今天：
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、ESP32-Paxcounter - Wifi和BLE驱动的乘客流量测量仪</font>
+### <font color="red">1、mcu_bsdiff_upgrade - 适用于嵌入式单片机的差分升级通用库</font>
+
+mcu_bsdiff_upgrade 是一款适用于嵌入式单片机的差分升级库，通用所有单片机，如stm32、华大、复旦微、瑞萨等。适合嵌入式的差分升级又叫增量升级，顾名思义就是通过差分算法将源版本与目标版本之间差异的部分提取出来制作成差分包，然后在设备通过还原算法将差异部分在源版本上进行还原从而升级成目标版本的过程。 差分升级方案不仅可以节省MCU内部的资源空间、还可以节省下载流程及下载和升级过程中的功耗。
+
+mcu_bsdiff_upgrade 差分升级过程：
+
+```text
+1. 使用旧版本bin文件和新版本bin文件制作差分包
+2. 将差分包下载到设备内
+3. 设备使用差分算法还原出新版本bin
+4. 设备将新版本bin进行crc验证后刷到代码执行区
+5. 设备重启并以新版本运行
+```
+
+> * 项目地址：https://gitee.com/qq791314247/mcu_bsdiff_upgrade
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-081/mcu_bsdiff_upgrade.PNG)
+
+### <font color="red">2、ESP32-Paxcounter - Wifi和BLE驱动的乘客流量测量仪</font>
 
 Paxcounter是一个 proof-of-concept 设备，用于实时测量客流，它计算周围有多少移动设备，这可以估计出周围有多少人。Paxcounter检测空中的Wifi和蓝牙信号，通过过滤MAC地址中的供应商oui来关注移动设备。
 
@@ -26,7 +44,7 @@ Paxcounter是一个 proof-of-concept 设备，用于实时测量客流，它计�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-081/ESP32-Paxcounter.PNG)
 
-### <font color="red">2、FindMyCat - 基于NRF9160的全开源宠物跟踪器</font>
+### <font color="red">3、FindMyCat - 基于NRF9160的全开源宠物跟踪器</font>
 
 FindMyCat 是一款电池寿命长达数月 (Near Home 模式下，待机功耗18uA，350mA电池，可工作2年)，可在室外和室内工作的开源宠物跟踪器。从原理图，PCB，Gerber Files，软件，IOS APP程序都非常完善的一个全开源项目。
 
