@@ -12,18 +12,31 @@
 
 历史上的今天：2015年10月5日，中国药学家屠呦呦获得2015年诺贝尔生理学或医学奖，中国第一个诺贝尔奖女性得主诞生。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Cynthion - USB多功能协议分析仪</font>
+### <font color="red">1、ITTIA DB v8 - 双引擎实时嵌入式物联网数据库</font>
+
+ITTIA DB 是一个功能强大的实时嵌入式数据库，主要用于嵌入式系统和物联网设备，用于在设备上本地监控，存储和分析时间序列数据。
+
+> * 项目主页：https://www.ittia.com/products/ittia-db-sql/evaluation
+
+ITTIA DB v8 是微控制器和微处理器的混合事务/分析处理(HTAP)解决方案，结合了在线事务处理(OLTP)和在线分析处理(OLAP)的最佳特性，针对实时传感器数据进行了优化。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/ITTIA-DB-v8.PNG)
+
+ITTIA DB v8 的主要特性包括统一的流处理和持久存储、实时测量的实时分析、动态更新的设备参数、在滚动时间窗口上计算的滚动平均值以及ITTIA DB安全专家代理库(DB- seal)。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/ITTIA-DB-v8_2.PNG)
+
+### <font color="red">2、Cynthion - USB多功能协议分析仪</font>
 
 Cynthion 是一款用于构建、测试、监控和试验 USB 设备的一体化工具。Cynthion 的数字硬件围绕独特的 FPGA 的架构构建，可以完全定制以适应当前的应用。因此，它可以充当不折不扣的高速 USB 协议分析仪、USB 黑客多功能工具或 USB 开发平台。
 
 > * 项目主页：https://greatscottgadgets.com/cynthion/
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/Cynthion.PNG)
-
 
 ## 工具类
 
