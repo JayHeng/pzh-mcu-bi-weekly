@@ -1,0 +1,43 @@
+# 痞子衡嵌入式半月刊： 第 82 期
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/pzh_mcu_bi_weekly.PNG)
+
+这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
+
+本期刊是开源项目（GitHub: [JayHeng/pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly)），欢迎提交 issue，投稿或推荐你知道的嵌入式那些事儿。
+
+**上期回顾** ：[《痞子衡嵌入式半月刊： 第 81 期》](https://www.cnblogs.com/henjay724/p/17725725.html)
+
+## 唠两句
+
+历史上的今天：2015年10月5日，中国药学家屠呦呦获得2015年诺贝尔生理学或医学奖，中国第一个诺贝尔奖女性得主诞生。
+
+本期共收录 0 个项目、1 个工具，希望对你有帮助！
+
+## 项目类
+
+
+
+
+## 工具类
+
+### <font color="red">1、Sourcegraph - 代码界的Google</font>
+
+Sourcegraph 是一家公司，也是一个产品，它将 DevOps 的各个环节结合了起来，做成了一款能够根据语义来把 Web 上的开源代码编入索引的代码搜索浏览工具。
+
+借助 Sourcegraph，开发者可以从代码仓库、安装包，甚至是函数里搜索代码，也可以直接点击被完全创建了链接的代码来阅读文档、跳转到变量定义，或者马上找到可用的Demo。
+
+目前，Sourcegraph 已经将 GitHub 上的前 100 万个仓库和 GitLab 上大约 12000 个仓库编入了索引。
+
+> * 工具官网：https://sourcegraph.com/search
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/Sourcegraph.PNG)
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](https://raw.githubusercontent.com/JayHeng/pzhmcu-picture/master/wechat/pzhMcu_qrcode_258x258.jpg)
+
