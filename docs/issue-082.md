@@ -12,11 +12,17 @@
 
 历史上的今天：2015年10月5日，中国药学家屠呦呦获得2015年诺贝尔生理学或医学奖，中国第一个诺贝尔奖女性得主诞生。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
+### <font color="red">1、Cynthion - USB多功能协议分析仪</font>
 
+Cynthion 是一款用于构建、测试、监控和试验 USB 设备的一体化工具。Cynthion 的数字硬件围绕独特的 FPGA 的架构构建，可以完全定制以适应当前的应用。因此，它可以充当不折不扣的高速 USB 协议分析仪、USB 黑客多功能工具或 USB 开发平台。
+
+> * 项目主页：https://greatscottgadgets.com/cynthion/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/Cynthion.PNG)
 
 
 ## 工具类
