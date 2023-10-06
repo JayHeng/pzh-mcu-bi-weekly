@@ -10,13 +10,19 @@
 
 ## 唠两句
 
-历史上的今天：2015年10月5日，中国药学家屠呦呦获得2015年诺贝尔生理学或医学奖，中国第一个诺贝尔奖女性得主诞生。
+历史上的今天：1995年10月6日，天文学家发现太阳系外第一颗行星。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、ITTIA DB v8 - 双引擎实时嵌入式物联网数据库</font>
+### <font color="red">1、F Prime - NASA开源的飞行软件和嵌入式系统框架</font>
+
+F Prime 是用于快速开发和部署嵌入式系统和航天应用的软件框架。F Prime 是一款开源软件，最初由美国宇航局喷气推进实验室开发，已成功应用于多个空间应用。它已用于但不限于立方体卫星、小型卫星、仪器和可部署设备。
+
+> * 项目主页：https://nasa.github.io/fprime/
+
+### <font color="red">2、ITTIA DB v8 - 双引擎实时嵌入式物联网数据库</font>
 
 ITTIA DB 是一个功能强大的实时嵌入式数据库，主要用于嵌入式系统和物联网设备，用于在设备上本地监控，存储和分析时间序列数据。
 
@@ -30,7 +36,7 @@ ITTIA DB v8 的主要特性包括统一的流处理和持久存储、实时测�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/ITTIA-DB-v8_2.PNG)
 
-### <font color="red">2、Cynthion - USB多功能协议分析仪</font>
+### <font color="red">3、Cynthion - USB多功能协议分析仪</font>
 
 Cynthion 是一款用于构建、测试、监控和试验 USB 设备的一体化工具。Cynthion 的数字硬件围绕独特的 FPGA 的架构构建，可以完全定制以适应当前的应用。因此，它可以充当不折不扣的高速 USB 协议分析仪、USB 黑客多功能工具或 USB 开发平台。
 
