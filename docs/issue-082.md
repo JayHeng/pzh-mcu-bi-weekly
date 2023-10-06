@@ -12,7 +12,7 @@
 
 历史上的今天：1995年10月6日，天文学家发现太阳系外第一颗行星。
 
-本期共收录 3 个项目、2 个工具，希望对你有帮助！
+本期共收录 3 个项目、3 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -65,6 +65,14 @@ Sourcegraph 是一家公司，也是一个产品，它将 DevOps 的各个环节
 > * 工具官网：https://www.wch.cn/application.html
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/WCH_Apps.PNG)
+
+### <font color="red">3、Microchip大学做的免费视频课程</font>
+
+在线 Microchip 大学旨在：当客户采用 Microchip 解决方案进行稳健的嵌入式控制系统设计时，为客户提供所需的所有相关信息。目前，全部 Microchip 大学课程均免费。
+
+> * 工具官网：https://mu.microchip.com/page/cmu
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/Microchip-University.PNG)
 
 ### 欢迎订阅
 
