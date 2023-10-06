@@ -12,7 +12,7 @@
 
 历史上的今天：1995年10月6日，天文学家发现太阳系外第一颗行星。
 
-本期共收录 3 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -57,6 +57,14 @@ Sourcegraph 是一家公司，也是一个产品，它将 DevOps 的各个环节
 > * 工具官网：https://sourcegraph.com/search
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/Sourcegraph.PNG)
+
+### <font color="red">2、沁恒微电子的应用方案中心</font>
+
+沁恒微电子官网专门有一个页面收集了基于自家产品的各种应用方案，方案包含整体介绍，功能框图，技术特点，应用场景等。需要可直接找官方要资料。
+
+> * 工具官网：https://www.wch.cn/application.html
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-082/WCH_Apps.PNG)
 
 ### 欢迎订阅
 
