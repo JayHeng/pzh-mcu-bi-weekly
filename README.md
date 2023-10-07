@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
+[第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
 [第 078 期](docs/issue-078.md) | [第 077 期](docs/issue-077.md) | [第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
 
@@ -311,6 +311,8 @@
 > * 【第 080 期】167、[c-periphery - 在Linux中用于外围设备访问C库](https://github.com/vsergeev/c-periphery)
 > * 【第 080 期】168、[linkboy - 自研的编程语言和集成开发环境](https://gitee.com/linkboy_crux/linkboy)
 > * 【第 081 期】169、[mcu_bsdiff_upgrade - 适用于嵌入式单片机的差分升级通用库](https://gitee.com/qq791314247/mcu_bsdiff_upgrade)
+> * 【第 082 期】170、[F Prime - NASA开源的飞行软件和嵌入式系统框架](https://nasa.github.io/fprime/)
+> * 【第 082 期】171、[ITTIA DB v8 - 双引擎实时嵌入式物联网数据库](https://www.ittia.com/products/ittia-db-sql/evaluation)
 
 **项目(硬)**
 
@@ -412,6 +414,7 @@
 > * 【第 076 期】96、[CatSniffer - 开源便携IoT设备监测器](https://github.com/ElectronicCats/CatSniffer)
 > * 【第 081 期】97、[ESP32-Paxcounter - Wifi和BLE驱动的乘客流量测量仪](https://github.com/cyberman54/ESP32-Paxcounter)
 > * 【第 081 期】98、[FindMyCat - 基于NRF9160的全开源宠物跟踪器](https://github.com/FindMyCat/)
+> * 【第 082 期】99、[Cynthion - USB多功能协议分析仪](https://greatscottgadgets.com/cynthion/)
 
 **工具(软)**
 
@@ -513,6 +516,9 @@
 > * 【第 079 期】96、[2bit-Video-Processor - 二值视频格式转换工具](https://github.com/owenmcateer/2bit-Video-Processor)
 > * 【第 080 期】97、[SourceTrail - 可视化源代码编辑神器](https://www.sourcetrail.com/)
 > * 【第 081 期】98、[grep - 超强的代码片段搜索工具](https://grep.app/)
+> * 【第 082 期】99、[Sourcegraph - 代码界的Google](https://sourcegraph.com/search)
+> * 【第 082 期】100、[沁恒微电子的应用方案中心](https://www.wch.cn/application.html)
+> * 【第 082 期】101、[Microchip大学做的免费视频课程](https://mu.microchip.com/page/cmu)
 
 **工具(硬)**
 
