@@ -1,6 +1,6 @@
 # 痞子衡嵌入式半月刊： 第 78 期
 
-![](http://henjay724.com/image/cnblogs/pzh_mcu_bi_weekly.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/pzh_mcu_bi_weekly.PNG)
 
 这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
 
@@ -22,7 +22,7 @@ sc 是一套可移植的、独立的 C 库和数据结构(C99)。每个文件夹
 
 > * 项目地址：https://github.com/tezc/sc
 
-![](http://henjay724.com/image/biweekly20230628/sc.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/sc.PNG)
 
 ### <font color="red">2、LiteX - 高效创建FPGA内核/soc的基础框架</font>
 
@@ -32,11 +32,11 @@ LiteX 框架提供了一个方便和高效的基础设施来创建 FPGA 内核/ 
 
 LiteX提供了轻松创建 FPGA 核心/SoC 所需的所有常见组件:
 
-![](http://henjay724.com/image/biweekly20230628/LiteX2.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/LiteX2.PNG)
 
 基于 VexRiscv-SMP CPU 的多核 Linux SoC, LiteDRAM, LiteSATA与LiteX构建并集成，运行在廉价的重新利用的Acorn CLE215+采矿板上：
 
-![](http://henjay724.com/image/biweekly20230628/LiteX.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/LiteX.PNG)
 
 ### <font color="red">3、xiotman - 一套解决物联网终端应用多样化挑战的软件架构</font>
 
@@ -53,7 +53,7 @@ xiotman 的特点：
 
 > * 项目地址：https://github.com/recan-li/xiotman
 
-![](http://henjay724.com/image/biweekly20230628/xiotman.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/xiotman.PNG)
 
 ### <font color="red">4、LinaVG - 开源2D矢量图形渲染库</font>
 
@@ -61,7 +61,7 @@ LinaVG 是一个 2D 矢量图形库，提供低级功能来绘制各种抗锯齿
 
 > * 项目地址：https://github.com/inanevin/LinaVG
 
-![](http://henjay724.com/image/biweekly20230628/LinaVG.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/LinaVG.PNG)
 
 ## 工具类
 
@@ -71,7 +71,7 @@ JI2C 是 Jooiee 出品的一款能直接读写芯片寄存器的USB转I2C模块�
 
 > * 工具官网：http://jooiee.com/cms/ruanjian/112.html
 
-![](http://henjay724.com/image/biweekly20230628/JI2C.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/JI2C.PNG)
 
 ### <font color="red">2、ez-clang - 基于 Clang 的交叉编译器</font>
 
@@ -79,7 +79,7 @@ ez-clang 是基于 Clang 的交叉编译器，具有面向裸机嵌入式设备�
 
 > * 工具主页：https://echtzeit.dev/ez-clang/
 
-![](http://henjay724.com/image/biweekly20230628/ez-clang.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-078/ez-clang.PNG)
 
 ### 欢迎订阅
 
@@ -87,5 +87,5 @@ ez-clang 是基于 Clang 的交叉编译器，具有面向裸机嵌入式设备�
 
 微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
 
-![](http://henjay724.com/image/github/pzhMcu_qrcode_258x258.jpg)
+![](https://raw.githubusercontent.com/JayHeng/pzhmcu-picture/master/wechat/pzhMcu_qrcode_258x258.jpg)
 
