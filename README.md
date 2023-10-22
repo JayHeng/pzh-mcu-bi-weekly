@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
+[第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
 [第 078 期](docs/issue-078.md) | [第 077 期](docs/issue-077.md) | [第 076 期](docs/issue-076.md) | [第 075 期](docs/issue-075.md) | [第 074 期](docs/issue-074.md) | [第 073 期](docs/issue-073.md)
 
@@ -137,6 +137,7 @@
 > * 【第 069 期】84、澎湃微电子S038系列Cortex-M0 MCU创造主频记录200MHz
 > * 【第 074 期】85、2023德国嵌入式展会embedded world近日开幕
 > * 【第 074 期】86、兆易创新高性能GD32H7系列MCU近期将正式发布
+> * 【第 083 期】87、兆易创新推出GD32VW553系列全新Wi-Fi 6 MCU
 
 **项目(软)**
 
@@ -415,6 +416,8 @@
 > * 【第 081 期】97、[ESP32-Paxcounter - Wifi和BLE驱动的乘客流量测量仪](https://github.com/cyberman54/ESP32-Paxcounter)
 > * 【第 081 期】98、[FindMyCat - 基于NRF9160的全开源宠物跟踪器](https://github.com/FindMyCat/)
 > * 【第 082 期】99、[Cynthion - USB多功能协议分析仪](https://greatscottgadgets.com/cynthion/)
+> * 【第 083 期】100、[ATtiny412-USB-Power-Isolator - 低成本2.5KV USB电源隔离方案](https://github.com/wagiminator/ATtiny412-USB-Power-Isolator)
+> * 【第 083 期】101、[The-Open-Book - 软硬件全开源的电子书阅读器](https://github.com/joeycastillo/The-Open-Book)
 
 **工具(软)**
 
@@ -519,6 +522,8 @@
 > * 【第 082 期】99、[Sourcegraph - 代码界的Google](https://sourcegraph.com/search)
 > * 【第 082 期】100、[沁恒微电子的应用方案中心](https://www.wch.cn/application.html)
 > * 【第 082 期】101、[Microchip大学做的免费视频课程](https://mu.microchip.com/page/cmu)
+> * 【第 083 期】102、[KiKit - KiCAD开源拼板助手](https://github.com/yaqwsx/KiKit)
+> * 【第 083 期】103、[StateSmith - 开源状态机代码生成工具](https://github.com/StateSmith/StateSmith)
 
 **工具(硬)**
 
