@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1938年10月22日，美国物理学家卡尔森发明印刷史上的重大突破 - 静电复印技术。
 
-本期共收录 1 个资讯、1 个项目、2 个工具，希望对你有帮助！
+本期共收录 1 个资讯、2 个项目、2 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -30,7 +30,17 @@ GD32VW553 系列 MCU 片上集成的Bluetooth LE 5.2射频模块，能够以最�
 
 ## 项目类
 
-### <font color="red">1、The-Open-Book - 软硬件全开源的电子书阅读器</font>
+### <font color="red">1、ATtiny412-USB-Power-Isolator - 低成本2.5KV USB电源隔离方案</font>
+
+对于某些应用，需要电隔离电源以避免接地回路或短路，或仅仅是为了相互保护。ATtiny412-USB-Power-Isolator 提供了USB电源适配器的5V轨道的简单隔离(2.5kV)的可能性，输出不稳定，最大连续电流为1A。需要注意的是本项目仅隔离电源轨，要完全隔离包括数据线，请查看作者的另一个项目 ADuM3160-USB-Isolator。
+
+> * 项目地址：https://github.com/wagiminator/ATtiny412-USB-Power-Isolator
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-083/ATtiny412-USB-Power-Isolator1.PNG)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-083/ATtiny412-USB-Power-Isolator2.PNG)
+
+### <font color="red">2、The-Open-Book - 软硬件全开源的电子书阅读器</font>
 
 Open Book 是国外工程师 Joey 长期以来尝试设计的一款易于理解和使用的电子书阅读器。目前的版本是“精简版”或“开发者预览版”。它的设计非常简单: 有7个通孔和14个表面贴装组件，几乎全部在一个厚实的1206封装，很容易手工焊接。缺点是它没有LiPo充电电路; 相反，它使用AAA电池，使它比以前的版本更笨重。Open Book 软硬件是全开源的。
 
