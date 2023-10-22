@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个资讯、1 个项目、0 个工具，希望对你有帮助！
+本期共收录 1 个资讯、1 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -42,6 +42,20 @@ Open Book 是国外工程师 Joey 长期以来尝试设计的一款易于理解�
 
 ## 工具类
 
+### <font color="red">1、KiKit - KiCAD开源拼板助手</font>
+
+KiKit 是一个 Python 库，KiCAD 插件和 CLI 工具，用于自动执行标准 KiCAD 工作流中的若干任务，如:
+
+```text
+- 按特定规则和奇怪的形状嵌板
+- 根据制造商预设自动导出制造数据
+- KiCAD 多板项目
+- 创建板卡演示页面
+```
+
+> * 工具地址：https://github.com/yaqwsx/KiKit
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-083/KiKit.jpg)
 
 ### 欢迎订阅
 
