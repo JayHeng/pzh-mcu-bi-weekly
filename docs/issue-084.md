@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,15 @@ Olive.c 是非常简单的基于C语言的图形库，没有任何依赖关系�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/Olive_c.gif)
 
+### <font color="red">2、wifi_camera - 可实时查看WiFi信号强度的传感器方案</font>
 
+wifi_camera 方案利用传感器阵列从附近的 WiFi 网络捕获 RSSI 值，并将收集到的像素数据发送给主机，主机对捕获的数据进行处理和可视化。目标是制造一种传感器，使 WiFi 信号或多或少实时可见。
+
+> * 项目地址：https://github.com/Neumi/wifi_camera
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/wifi_camera.png)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/wifi_camera.gif)
 
 ## 工具类
 
