@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 3 个项目、0 个工具，希望对你有帮助！
+本期共收录 4 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -26,7 +26,17 @@ NuttX 从架构和风格与 linux 非常相似，NuttX 与 uCOS、FreeRTOS 这�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/NuttX.PNG)
 
-### <font color="red">2、Olive.c - 基于C的简单开源图形库</font>
+### <font color="red">2、Gobot - 下一代机器人/物联网框架</font>
+
+Gobot 是一个机器人、无人机和物联网(IoT)的框架，用 Go 编程语言编写，它提供了一种简单而强大的方法来创建同时包含多个不同硬件设备的解决方案。
+
+> * 项目地址：https://github.com/hybridgroup/gobot
+
+Gobot 目前支持多达 35 个平台：
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/Gobot.PNG)
+
+### <font color="red">3、Olive.c - 基于C的简单开源图形库</font>
 
 Olive.c 是非常简单的基于C语言的图形库，没有任何依赖关系，Olive.c 将所有内容逐像素地呈现到给定的内存中。Olive.c 库不关心图像的显示，它只会用像素填充内存，如何处理这些像素取决于用户。
 
@@ -34,7 +44,7 @@ Olive.c 是非常简单的基于C语言的图形库，没有任何依赖关系�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-084/Olive_c.gif)
 
-### <font color="red">3、wifi_camera - 可实时查看WiFi信号强度的传感器方案</font>
+### <font color="red">4、wifi_camera - 可实时查看WiFi信号强度的传感器方案</font>
 
 wifi_camera 方案利用传感器阵列从附近的 WiFi 网络捕获 RSSI 值，并将收集到的像素数据发送给主机，主机对捕获的数据进行处理和可视化。目标是制造一种传感器，使 WiFi 信号或多或少实时可见。
 
