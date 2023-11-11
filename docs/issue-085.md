@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 3 个项目，希望对你有帮助！
+本期共收录 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -51,6 +51,12 @@ Zorb Framework 的初步设计功能有：
 try catch 的作用是当程序发生错误时，能够保证程序继续执行下去，在 Java/C++/Python 上有专门的 try catch 供调用。本项目基于 C 语言做了实现。 
 
  * 项目地址：https://github.com/madler/pigz/blob/master/try.c
+
+### <font color="red">4、Zlib - 非常漂亮的无损数据压缩库</font>
+
+Zlib 是一个免费的且通用的可以在任何计算机硬件和操作系统上使用的无损数据压缩库。zlib 数据格式本身是跨平台可移植的。与 Unix compress(1) 和 GIF 图像格式中使用的 LZW 压缩方法不同，zlib 中目前使用的压缩方法基本上从不扩展数据。(LZW在极端情况下可以将文件大小增加一倍或三倍) zlib 的内存占用也与输入数据无关，如果有必要，可以在压缩方面付出一些代价来减少内存占用。
+
+ * 项目地址：https://github.com/madler/zlib
 
 ### 欢迎订阅
 
