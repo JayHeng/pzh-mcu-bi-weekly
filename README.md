@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 085 期](docs/issue-085.md)
+[第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
 [第 084 期](docs/issue-084.md) | [第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
@@ -232,6 +232,8 @@
 > * 【第 085 期】177、[try.c - C语言实现的try catch异常捕获](https://github.com/madler/pigz/blob/master/try.c)
 > * 【第 085 期】178、[Zlib - 非常漂亮的无损数据压缩库](https://github.com/madler/zlib)
 > * 【第 085 期】179、[Kaluma - 小而高效的单片机版JavaScript](https://kalumajs.org/)
+> * 【第 086 期】180、[emRun - Embedded Studio下C/C++标准库](https://www.segger.com/products/development-tools/runtime-library/)
+> * 【第 086 期】181、[cpost - C语言程序上下文切换和解耦](https://github.com/NevermindZZT/cpost)
 
 **项目(硬)**
 
@@ -338,6 +340,8 @@
 > * 【第 083 期】101、[The-Open-Book - 软硬件全开源的电子书阅读器](https://github.com/joeycastillo/The-Open-Book)
 > * 【第 084 期】102、[wifi_camera - 可实时查看WiFi信号强度的传感器方案](https://github.com/Neumi/wifi_camera)
 > * 【第 084 期】103、[Rodeostat - 用于进行电化学测量的电位器](https://iorodeo.com/products/rodeostat)
+> * 【第 086 期】104、[Magnetic_Rotary_Encoding - 高分辨率磁旋转编码库](https://github.com/ahmsville/Magnetic_rotary_encoding)
+> * 【第 086 期】105、[jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板](https://github.com/wntrblm/jellyfish-and-starfish)
 
 **工具(软)**
 
@@ -444,6 +448,7 @@
 > * 【第 082 期】101、[Microchip大学做的免费视频课程](https://mu.microchip.com/page/cmu)
 > * 【第 083 期】102、[KiKit - KiCAD开源拼板助手](https://github.com/yaqwsx/KiKit)
 > * 【第 083 期】103、[StateSmith - 开源状态机代码生成工具](https://github.com/StateSmith/StateSmith)
+> * 【第 086 期】104、[LibrePCB - 免费的跨平台 EDA](https://librepcb.org/)
 
 **工具(硬)**
 
