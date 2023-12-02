@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个资讯、2 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个资讯、3 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,7 +28,17 @@ Cortex-M52 采用与 Cortex-M55、Cortex-M85 相同的 Armv8.1-M架构，并支�
 
 ## 项目类
 
-### <font color="red">1、cpost - C语言程序上下文切换和解耦</font>
+### <font color="red">1、emRun - Embedded Studio下C/C++标准库</font>
+
+emRun 是 SEGGER 对大多数 GCC 工具链中使用的 newlib、newlib-nano 和 glibc 的替代品。与用于嵌入式系统的专业运行时库相比，这些库有明显的缺点。emRun 将任何基于 gcc 的工具链转换为专业的开发选择。
+
+ * 项目地址：https://www.segger.com/products/development-tools/runtime-library/
+
+在许多情况下，emRun 节省的 rom 可以使用更小的微控制器和更少的片上内存。这可以大大节省成本，特别是对于为大众市场大量生产的设备。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-086/emRun.PNG)
+
+### <font color="red">2、cpost - C语言程序上下文切换和解耦</font>
 
 cpost 是一个 C 语言编写的，用于 C 语言程序上下文切换和解耦的工具。cpost 包含 cpost 和 cevent 两个工具，cpost 用于 C 语言的上下文切换，cevent 用于程序模块之间的解耦。
 
@@ -38,7 +48,7 @@ cpos t借鉴了 Android 的 Handler 机制，在 C 语言环境中，可以通�
 
 cevent 借鉴了 Android 的广播机制，在 C 语言环境中，当程序运行至相应的位置，可以通过 cevent 接口抛出一个事件，其他模块可以通过注册的方式，监听这个事件，当事件发生时，调用注册的函数，能很大程度上实现模块间的解耦。 
 
-### <font color="red">2、jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板</font>
+### <font color="red">3、jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板</font>
 
 Starfish 是一个基于树莓派 RP2040 微控制器和 Trinamic TMC2209 电机驱动器构建的拾取和放置机的控制板。这个控制板与 3D 打印机控制板有一些相似之处，但它有一些独特的问题需要解决——包括控制螺线管和与真空传感器交互。
 
