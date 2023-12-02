@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个资讯、3 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个资讯、4 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -48,7 +48,17 @@ cpos t借鉴了 Android 的 Handler 机制，在 C 语言环境中，可以通�
 
 cevent 借鉴了 Android 的广播机制，在 C 语言环境中，当程序运行至相应的位置，可以通过 cevent 接口抛出一个事件，其他模块可以通过注册的方式，监听这个事件，当事件发生时，调用注册的函数，能很大程度上实现模块间的解耦。 
 
-### <font color="red">3、jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板</font>
+### <font color="red">3、Magnetic_Rotary_Encoding - 高分辨率磁旋转编码库</font>
+
+Magnetic_Rotary_Encoding 是一个用于在 C/C++ 和 MicroPython 中设置磁旋转编码的库，该库还具有一个触觉控制器，允许用户连接和控制振动电机作为步长计数触觉反馈。
+
+ * 项目地址：https://github.com/ahmsville/Magnetic_rotary_encoding
+
+该库一共有三种硬件版本，下图是其一，这是一个完全成熟的开发板与磁性旋转编码器相结合，它是用树莓派 RP2040 微控制器芯片构建的，基本分辨率为 36，可扩展到每转 36000 步。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-086/Magnetic_Rotary_Encoding.PNG)
+
+### <font color="red">4、jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板</font>
 
 Starfish 是一个基于树莓派 RP2040 微控制器和 Trinamic TMC2209 电机驱动器构建的拾取和放置机的控制板。这个控制板与 3D 打印机控制板有一些相似之处，但它有一些独特的问题需要解决——包括控制螺线管和与真空传感器交互。
 
