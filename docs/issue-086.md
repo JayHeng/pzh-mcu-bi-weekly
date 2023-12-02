@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个资讯，1 个项目，希望对你有帮助！
+本期共收录 1 个资讯、1 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -38,9 +38,17 @@ cpos t借鉴了 Android 的 Handler 机制，在 C 语言环境中，可以通�
 
 cevent 借鉴了 Android 的广播机制，在 C 语言环境中，当程序运行至相应的位置，可以通过 cevent 接口抛出一个事件，其他模块可以通过注册的方式，监听这个事件，当事件发生时，调用注册的函数，能很大程度上实现模块间的解耦。 
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-086/.PNG)
+## 工具类
 
+### <font color="red">1、LibrePCB - 免费的跨平台 EDA</font>
 
+LibrePCB 是一款免费的跨平台电子设计自动化套件，用于创建原理图和设计印刷电路板。它专为各种技能水平的创客、学生和专业人士而设计。
+
+ * 工具地址：https://librepcb.org/
+
+LibrePCB 易于学习和使用，具有简单直观的用户界面。它提供了智能库概念、干净的文件格式以及无缝安装库和订购 PCB 的能力。LibrePCB 还支持任务自动化，是一款根据 GPLv3 授权的开源软件。  
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-086/LibrePCB.PNG)
 
 ### 欢迎订阅
 
