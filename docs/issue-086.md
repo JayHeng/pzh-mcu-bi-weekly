@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个资讯，0 个项目，希望对你有帮助！
+本期共收录 1 个资讯，1 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,13 +28,15 @@ Cortex-M52 采用与 Cortex-M55、Cortex-M85 相同的 Armv8.1-M架构，并支�
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、cpost - C语言程序上下文切换和解耦</font>
 
+cpost 是一个 C 语言编写的，用于 C 语言程序上下文切换和解耦的工具。cpost 包含 cpost 和 cevent 两个工具，cpost 用于 C 语言的上下文切换，cevent 用于程序模块之间的解耦。
 
+ * 项目地址：https://github.com/NevermindZZT/cpost
 
- * 项目地址：
+cpos t借鉴了 Android 的 Handler 机制，在 C 语言环境中，可以通过调用 cpost 接口，将函数抛出到另外的线程(上下文)中运行，对于某些场景，尤其是嵌入式编程无操作系统环境下的中断延迟处理。
 
-
+cevent 借鉴了 Android 的广播机制，在 C 语言环境中，当程序运行至相应的位置，可以通过 cevent 接口抛出一个事件，其他模块可以通过注册的方式，监听这个事件，当事件发生时，调用注册的函数，能很大程度上实现模块间的解耦。 
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-086/.PNG)
 
