@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Ethersweep - 开源以太网可控步进电机</font>
+### <font color="red">1、NanoVNA - 非常小的手持矢量网络分析仪</font>
+
+NanoVNA 是非常小的手持矢量网络分析仪(VNA)。它有独立的液晶显示器，配有电池，便于携带，测量频率范围是 50KHz - 300MHz。本项目旨在为爱好者提供一个实用的射频小工具。  
+
+ * 项目地址：https://github.com/ttrftech/NanoVNA
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/nanovna.jpg)
+
+### <font color="red">2、Ethersweep - 开源以太网可控步进电机</font>
 
 Ethersweep 是 NEMA17 步进电机的电机控制器，可以从普通以太网网络来控制。我们可以从任何机器发送 UDP 消息来控制电机，也可以控制多个电机，因为每个电机从网络上的 DHCP 服务器获得一个 IP 地址。此外还可以将 End-stop 和 e-stop 连接到控制器。传感器数据，如编码器反馈，电压，运行和按钮状态也可以通过网络请求来请求。
 
@@ -31,7 +39,7 @@ Trinamic TMC2209 Stepper motor driver
 AS5600 magnetic rotary encoder
 ```
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/Ethersweep.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/Ethersweep.png)
 
 ## 工具类
 
