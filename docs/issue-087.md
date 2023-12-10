@@ -10,13 +10,21 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1918年12月10日，普朗克因发现量子理论而获诺贝尔奖。
 
-本期共收录 3 个项目、1 个工具，希望对你有帮助！
+本期共收录 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、hello-algo - 对新手极其友好的算法入门教程</font>
+### <font color="red">1、Pico3D - 开源单片机3D游戏图形引擎</font>
+
+Pico3D 是开源的 3D 游戏引擎，硬件基于 PicoSystem 和 RP2040 微控制器。这个引擎利用 RP2040 的第二个核心作为专用 GPU。它包含一个小城市以及一个以射击僵尸为特色的郊区。
+
+ * 项目地址：https://github.com/bernhardstrobl/Pico3D
+
+  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/Pico3D.PNG)
+
+### <font color="red">2、hello-algo - 对新手极其友好的算法入门教程</font>
 
 hello-algo 项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。它目前的版本支持多达 10 多种编程语言，例如 C、C++、Java、Python、Go 等主流编程语言。作者靳宇栋 (Krahets)，力扣（LeetCode）全网阅读量最高博主。
 
@@ -30,7 +38,7 @@ hello-algo 项目旨在打造一本开源免费、新手友好的数据结构与
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/hello-algo.PNG)
 
-### <font color="red">2、NanoVNA - 非常小的手持矢量网络分析仪</font>
+### <font color="red">3、NanoVNA - 非常小的手持矢量网络分析仪</font>
 
 NanoVNA 是非常小的手持矢量网络分析仪(VNA)。它有独立的液晶显示器，配有电池，便于携带，测量频率范围是 50KHz - 300MHz。本项目旨在为爱好者提供一个实用的射频小工具。  
 
@@ -38,7 +46,7 @@ NanoVNA 是非常小的手持矢量网络分析仪(VNA)。它有独立的液晶�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/nanovna.jpg)
 
-### <font color="red">3、Ethersweep - 开源以太网可控步进电机</font>
+### <font color="red">4、Ethersweep - 开源以太网可控步进电机</font>
 
 Ethersweep 是 NEMA17 步进电机的电机控制器，可以从普通以太网网络来控制。我们可以从任何机器发送 UDP 消息来控制电机，也可以控制多个电机，因为每个电机从网络上的 DHCP 服务器获得一个 IP 地址。此外还可以将 End-stop 和 e-stop 连接到控制器。传感器数据，如编码器反馈，电压，运行和按钮状态也可以通过网络请求来请求。
 
