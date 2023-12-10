@@ -12,11 +12,25 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、NanoVNA - 非常小的手持矢量网络分析仪</font>
+### <font color="red">1、hello-algo - 对新手极其友好的算法入门教程</font>
+
+hello-algo 项目旨在打造一本开源免费、新手友好的数据结构与算法入门教程。它目前的版本支持多达 10 多种编程语言，例如 C、C++、Java、Python、Go 等主流编程语言。作者靳宇栋 (Krahets)，力扣（LeetCode）全网阅读量最高博主。
+
+ * 项目地址：https://github.com/krahets/hello-algo
+
+```text
+- 全书采用动画图解，内容清晰易懂、学习曲线平滑，引导初学者探索数据结构与算法的知识地图。
+- 源代码可一键运行，帮助读者在练习中提升编程技能，了解算法工作原理和数据结构底层实现。
+- 鼓励读者互助学习，提问与评论通常可在两日内得到回复。
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/hello-algo.PNG)
+
+### <font color="red">2、NanoVNA - 非常小的手持矢量网络分析仪</font>
 
 NanoVNA 是非常小的手持矢量网络分析仪(VNA)。它有独立的液晶显示器，配有电池，便于携带，测量频率范围是 50KHz - 300MHz。本项目旨在为爱好者提供一个实用的射频小工具。  
 
@@ -24,7 +38,7 @@ NanoVNA 是非常小的手持矢量网络分析仪(VNA)。它有独立的液晶�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/nanovna.jpg)
 
-### <font color="red">2、Ethersweep - 开源以太网可控步进电机</font>
+### <font color="red">3、Ethersweep - 开源以太网可控步进电机</font>
 
 Ethersweep 是 NEMA17 步进电机的电机控制器，可以从普通以太网网络来控制。我们可以从任何机器发送 UDP 消息来控制电机，也可以控制多个电机，因为每个电机从网络上的 DHCP 服务器获得一个 IP 地址。此外还可以将 End-stop 和 e-stop 连接到控制器。传感器数据，如编码器反馈，电压，运行和按钮状态也可以通过网络请求来请求。
 
