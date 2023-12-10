@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
+[第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
 [第 084 期](docs/issue-084.md) | [第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
@@ -234,6 +234,8 @@
 > * 【第 085 期】179、[Kaluma - 小而高效的单片机版JavaScript](https://kalumajs.org/)
 > * 【第 086 期】180、[emRun - Embedded Studio下C/C++标准库](https://www.segger.com/products/development-tools/runtime-library/)
 > * 【第 086 期】181、[cpost - C语言程序上下文切换和解耦](https://github.com/NevermindZZT/cpost)
+> * 【第 087 期】182、[Pico3D - 开源单片机3D游戏图形引擎](https://github.com/bernhardstrobl/Pico3D)
+> * 【第 087 期】183、[hello-algo - 对新手极其友好的算法入门教程](https://github.com/krahets/hello-algo)
 
 **项目(硬)**
 
@@ -342,6 +344,8 @@
 > * 【第 084 期】103、[Rodeostat - 用于进行电化学测量的电位器](https://iorodeo.com/products/rodeostat)
 > * 【第 086 期】104、[Magnetic_Rotary_Encoding - 高分辨率磁旋转编码库](https://github.com/ahmsville/Magnetic_rotary_encoding)
 > * 【第 086 期】105、[jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板](https://github.com/wntrblm/jellyfish-and-starfish)
+> * 【第 087 期】106、[NanoVNA - 非常小的手持矢量网络分析仪](https://github.com/ttrftech/NanoVNA)
+> * 【第 087 期】107、[Ethersweep - 开源以太网可控步进电机](https://github.com/neumi/ethersweep)
 
 **工具(软)**
 
@@ -449,6 +453,7 @@
 > * 【第 083 期】102、[KiKit - KiCAD开源拼板助手](https://github.com/yaqwsx/KiKit)
 > * 【第 083 期】103、[StateSmith - 开源状态机代码生成工具](https://github.com/StateSmith/StateSmith)
 > * 【第 086 期】104、[LibrePCB - 免费的跨平台 EDA](https://librepcb.org/)
+> * 【第 087 期】105、[SWIG - 将C/C++程序转换成其他高级编程语言](https://www.swig.org/)
 
 **工具(硬)**
 
