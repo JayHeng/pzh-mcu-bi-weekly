@@ -12,21 +12,26 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Ethersweep - 开源以太网可控步进电机</font>
 
+Ethersweep 是 NEMA17 步进电机的电机控制器，可以从普通以太网网络来控制。我们可以从任何机器发送 UDP 消息来控制电机，也可以控制多个电机，因为每个电机从网络上的 DHCP 服务器获得一个 IP 地址。此外还可以将 End-stop 和 e-stop 连接到控制器。传感器数据，如编码器反馈，电压，运行和按钮状态也可以通过网络请求来请求。
 
+ * 项目地址：https://github.com/neumi/ethersweep
 
- * 项目地址：
+Ethersweep 主要硬件包括：
 
+```text
+W5500 Ethernet controller
+STM32F103 Microcontroller @ 72MHz
+Trinamic TMC2209 Stepper motor driver
+AS5600 magnetic rotary encoder
+```
 
-
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/.PNG)
-
-
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-087/Ethersweep.PNG)
 
 ## 工具类
 
