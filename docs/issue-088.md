@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1906年12月24日，美国无线电爱好者费森登首次在世界上进行了无线电广播。
 
-本期共收录 3 个项目、0 个工具，希望对你有帮助！
+本期共收录 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -36,10 +36,15 @@ RoenDi 是一个视觉适应性强的旋转编码器，能够显示定制的图�
 
 ### <font color="red">3、Marlin - 基于Arduino平台的RepRap 3D打印机优化固件</font>
 
+Marlin 是一个开源固件，用于复制快速原型机的 RepRap 家族-通常被称为“3D打印机”。它源自于Sprinter 和 grbl，并于2011年8月12日在Github上发布，成为一个独立的开源项目。
 
-Marlin 支持各种各样的 3D 打印机，包括所有 RAMPS 变体，并通过引脚映射-将引脚与其功能相关联，适用于几乎任何基于 Arduino/ genuino 的电子产品。最初，Marlin 被设计为运行在低功耗的 8 位 AVR 板上，但从 Marlin 1.1.9 开始，它已经获得了几十个基于 arm 的板的支持。为 Marlin 2.0 创建的硬件抽象层提供了一组一致的接口，使得添加对新平台的支持变得更加容易。
+从一开始，Marlin就是由RepRap爱好者构建的，它是一个简单、可靠、适应性强的打印机驱动程序，“只是工作”。作为其质量的证明，Marlin被几个受人尊敬的商业3D打印机使用。LulzBot, Průša Research, Creality3D, BIQU, Geeetech和Ultimaker只是一些提供Marlin变体的供应商。Marlin还能驾驶数控机床和激光雕刻机。
 
  * 项目地址：https://github.com/MarlinFirmware/Marlin
+
+Marlin受欢迎的一个关键是它运行在便宜的8位Atmel AVR微控制器- Marlin 2上。X增加了对32位板的支持。这些芯片是流行的开源Arduino/Genuino平台的核心。Marlin的参考平台是带有RAMPS 1.4的Arduino Mega2560和带有RAMPS 1.4的rearm。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-088/Marlin.PNG)
 
 ### <font color="red">4、esp_ghota - 从Github版本更新esp32固件的OTA组件</font>
 
@@ -64,12 +69,6 @@ esp_ghota 特性包括：
 - 支持Github个人访问令牌，以克服Github API速率限制
 - 通过esp_event_loop发送更新的进度
 ```
-
-## 工具类
-
-### <font color="red">1、</font>
-
-
 
 ### 欢迎订阅
 
