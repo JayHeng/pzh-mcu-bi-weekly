@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,24 @@
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-088/ethernet-to-spi.PNG)
 
-### <font color="red">2、esp_ghota - 从Github版本更新esp32固件的OTA组件</font>
+### <font color="red">2、RoenDi - 带TFT显示的开源旋转编码器</font>
+
+RoenDi 是一个视觉适应性强的旋转编码器，能够显示定制的图形。有一个内置的屏幕允许它提供视觉反馈，不像任何其他我们见过的编码器。RoenDi 的设计思路是简单和多功能性，只需连接 microrousb 电缆或 ST-LINK 连接器，将代码上传到 MCU，就可以开始了。
+
+ * 项目地址：https://github.com/MitkoDyakov/Roendi
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-088/RoenDi.PNG)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-088/RoenDi2.PNG)
+
+### <font color="red">3、Marlin - 基于Arduino平台的RepRap 3D打印机优化固件</font>
+
+
+Marlin 支持各种各样的 3D 打印机，包括所有 RAMPS 变体，并通过引脚映射-将引脚与其功能相关联，适用于几乎任何基于 Arduino/ genuino 的电子产品。最初，Marlin 被设计为运行在低功耗的 8 位 AVR 板上，但从 Marlin 1.1.9 开始，它已经获得了几十个基于 arm 的板的支持。为 Marlin 2.0 创建的硬件抽象层提供了一组一致的接口，使得添加对新平台的支持变得更加容易。
+
+ * 项目地址：https://github.com/MarlinFirmware/Marlin
+
+### <font color="red">4、esp_ghota - 从Github版本更新esp32固件的OTA组件</font>
 
 这个项目可以帮助自动化 OTA 和 CI/CD 管道，其可以直接从 Github 版本发布来更新 ESP32 芯片。
 
