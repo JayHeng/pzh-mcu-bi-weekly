@@ -11,7 +11,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
+[第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
 [第 084 期](docs/issue-084.md) | [第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
@@ -236,6 +236,8 @@
 > * 【第 086 期】181、[cpost - C语言程序上下文切换和解耦](https://github.com/NevermindZZT/cpost)
 > * 【第 087 期】182、[Pico3D - 开源单片机3D游戏图形引擎](https://github.com/bernhardstrobl/Pico3D)
 > * 【第 087 期】183、[hello-algo - 对新手极其友好的算法入门教程](https://github.com/krahets/hello-algo)
+> * 【第 088 期】184、[Marlin - 基于Arduino平台的RepRap 3D打印机优化固件](https://github.com/MarlinFirmware/Marlin)
+> * 【第 088 期】185、[esp_ghota - 从Github版本更新esp32固件的OTA组件](https://github.com/Fishwaldo/esp_ghota)
 
 **项目(硬)**
 
@@ -346,6 +348,8 @@
 > * 【第 086 期】105、[jellyfish-and-starfish - 用于电子元件拾取放置的电机控制板](https://github.com/wntrblm/jellyfish-and-starfish)
 > * 【第 087 期】106、[NanoVNA - 非常小的手持矢量网络分析仪](https://github.com/ttrftech/NanoVNA)
 > * 【第 087 期】107、[Ethersweep - 开源以太网可控步进电机](https://github.com/neumi/ethersweep)
+> * 【第 088 期】108、[ethernet-to-spi - 以太网10BASE-T转SPI硬件实现](https://github.com/imihajlow/ethernet-to-spi)
+> * 【第 088 期】109、[RoenDi - 带TFT显示的开源旋转编码器](https://github.com/MitkoDyakov/Roendi)
 
 **工具(软)**
 

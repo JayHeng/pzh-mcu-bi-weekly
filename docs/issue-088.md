@@ -54,7 +54,7 @@ Marlin受欢迎的一个关键是它运行在便宜的8位Atmel AVR微控制器-
 
 esp_ghota 特性包括：
 
-```
+```text
 - 使用底层的esp_htps_ota库来更新固件映像
 - 还可以更新spiffs/littlefs/fatfs分区
 - 使用SemVer比较版本，仅在有新版本可用时更新
