@@ -12,7 +12,7 @@
 
 历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 0 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -45,6 +45,16 @@ SuperCom 美观、流畅、功能丰富、高效，支持以下特点：
 - 可发送各种 AT 指令
 - 具有各种特性
 ```
+
+### <font color="red">2、com0com - 开源的虚拟串口软件</font>
+
+com0com 又名 Null-modem emulator，是一款开源的 Windows 系统内核模式虚拟串行端口驱动程序。com0com 允许创建无限数量的虚拟 COM 端口对以及使用任意端口对连接两个基于 COM 端口的应用程序。每个 COM 端口对提供两个 COM 端口，从一个端口向另一个端口的输出对那个端口来说是输入，反之亦然。
+
+com0com 可以用于为设备模拟器提供串行接口。这种情况下设备模拟程序使用端口对的一个端口，另一个端口由需要通过 COM 端口与设备通信的 Windows 或 DOS 应用程序使用。
+
+ * 工具地址：https://com0com.sourceforge.net/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/com0com.PNG)
 
 ### 欢迎订阅
 
