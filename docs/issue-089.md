@@ -12,18 +12,21 @@
 
 历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
 
-本期共收录 0 个项目、2 个工具，希望对你有帮助！
+本期共收录 1 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、EmberGL - 为MCU实时2D/3D渲染而设计的开源图形库</font>
 
+EmberGL(Ember Graphics Library) 是一个底层开源图形库，类似于OpenGL/DirectX/Vulkan，专为 MCU 和其他内存受限的非 GPU 系统上的实时 2D/3D 渲染而设计。图形 API 是专门为这样的系统设计的，利用现代技术能够在紧张的内存空间下最大化渲染性能，同时提供了大量的灵活性和可定制性。
 
+EmberGL 库也可以用于内存更充裕的其他目标，并且可以使用 Visual Studio 和 GCC 等进行编译。因为 EmberGL 是一个低级库，它只提供了灵活高效的 triangle rasterization 的核心呈现功能，以及支持组件和一组显示驱动程序。这些底层特性既可以用于直接的应用程序开发，也可以用于高效的高级图形库(如GUI库或3D引擎)的开发。
 
- * 项目地址：
+ * 项目地址：https://github.com/EmberGL-org/EmberGL
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/.PNG)
+下图展示的是一款 MCU 下 DMA 方式驱动 ILI9341 型 LCD 的效果：
 
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/EmberGL.gif)
 
 ## 工具类
 
