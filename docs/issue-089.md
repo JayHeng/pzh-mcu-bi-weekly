@@ -1,0 +1,56 @@
+# 痞子衡嵌入式半月刊： 第 89 期
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/pzh_mcu_bi_weekly.PNG)
+
+这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
+
+本期刊是开源项目（GitHub: [JayHeng/pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly)），欢迎提交 issue，投稿或推荐你知道的嵌入式那些事儿。
+
+**上期回顾** ：[《痞子衡嵌入式半月刊： 第 88 期》](https://www.cnblogs.com/henjay724/p/17924789.html)
+
+## 唠两句
+
+历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
+
+本期共收录 0 个项目、1 个工具，希望对你有帮助！
+
+## 项目类
+
+### <font color="red">1、</font>
+
+
+
+ * 项目地址：
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/.PNG)
+
+
+## 工具类
+
+### <font color="red">1、SuperCom - 超强日志显示的串口调试工具</font>
+
+SuperCom 是超级串口调试工具，用于 Window 串口日志的采集、存储、可视化等功能。
+
+ * 工具地址：https://github.com/SuperStudio/SuperCom
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/SuperCom.PNG)
+
+SuperCom 美观、流畅、功能丰富、高效，支持以下特点：
+
+```text
+- 同时打开多个串口进行监听
+- 串口日志自动保存
+- 串口日志支持滚屏/固定
+- 可以设置波特率、位大小等串口设置
+- 可发送各种 AT 指令
+- 具有各种特性
+```
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](https://raw.githubusercontent.com/JayHeng/pzhmcu-picture/master/wechat/pzhMcu_qrcode_258x258.jpg)
+
