@@ -12,7 +12,7 @@
 
 历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
 
-本期共收录 1 个项目、2 个工具，希望对你有帮助！
+本期共收录 2 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -27,6 +27,14 @@ EmberGL 库也可以用于内存更充裕的其他目标，并且可以使用 Vi
 下图展示的是一款 MCU 下 DMA 方式驱动 ILI9341 型 LCD 的效果：
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/EmberGL.gif)
+
+### <font color="red">2、Mini-Mars-Rover - 为教育平台建造的火星探测器</font>
+
+Mini-Mars-Rover 是作为一个教育平台建造的火星探测器，它可以激发大家学习编程、电子、技术和太空。围绕新的树莓派 Pico W 的构建可以用 MicroPython 编程，并通过用 Python 编写的服务器应用程序通过 WiFi 进行控制。当然，所有的电子设备都可以用 Arduino 来代替。机器人的底盘是用开放式机器人平台建造的，所以很容易设计支架、适配器和零件。
+
+ * 项目地址：https://github.com/NikodemBartnik/Mini-Mars-Rover
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/Mini-Mars-Rover.PNG)
 
 ## 工具类
 
