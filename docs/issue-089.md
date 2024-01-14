@@ -12,7 +12,7 @@
 
 历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
 
-本期共收录 2 个项目、2 个工具，希望对你有帮助！
+本期共收录 3 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -35,6 +35,14 @@ Mini-Mars-Rover 是作为一个教育平台建造的火星探测器，它可以�
  * 项目地址：https://github.com/NikodemBartnik/Mini-Mars-Rover
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/Mini-Mars-Rover.PNG)
+
+### <font color="red">3、USB_C_Industrial_Camera_FPGA_USB3 - 开源USB C口镜头工业相机</font>
+
+这是一个带有可互换 USB C 卡口镜头的开源 USB C 工业相机，带有 Lattice Crosslink NX FPGA 的可互换 MIPI 传感器和 Cypress FX3 USB 3.0 控制器。PCB板，FPGA，相机和USB以及FPGA固件和USB控制器固件全开源。作者在自己的帖子里面进行了详细的设计介绍。
+
+ * 项目地址：https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-089/USB_C_Industrial_Camera_FPGA_USB3.PNG)
 
 ## 工具类
 
