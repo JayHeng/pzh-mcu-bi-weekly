@@ -9,6 +9,8 @@
 
 大家如果知道或者发现好的嵌入式工具或项目，欢迎给我提 issue。
 
+![star-history](https://api.star-history.com/svg?repos=JayHeng/pzh-mcu-bi-weekly&type=Date)
+
 ## 2023农历癸卯兔年
 
 [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
