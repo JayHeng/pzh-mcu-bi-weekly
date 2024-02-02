@@ -12,11 +12,19 @@
 
 历史上的今天：1982年1月14日，中国成功完成酵母菌丙氨酸转移核糖核酸的人工全合成。
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、TFT_eSPI - 一个功能强大的TFT屏驱动库</font>
+### <font color="red">1、EEPROMWearLevel - 一个开源EEPROM磨损均衡算法</font>
+
+EEPROMWearLevel 基于 Arduino 框架中包含的 EEPROM 库。它通过将每个新值写入其他 EEPROM 位置来减少 EEPROM 磨损。为此，需要将当前位置存储在已知位置。  
+
+EEPROMWearLevel 使用控制字节来记住当前位置，并通过从 1 到 0 写入单个比特来减少控制字节的磨损。  
+
+ * 项目地址：https://github.com/PRosenb/EEPROMWearLevel
+
+### <font color="red">2、TFT_eSPI - 一个功能强大的TFT屏驱动库</font>
 
 TFT_eSPI 是一个为 MCU 设计且兼容 Arduino IDE 的图形和字体库，它已针对 RP2040, STM32, ESP8266 和 ESP32 类 MCU 进行了性能优化，当然也可以配合其他 32 位处理器使用，但将使用较慢的通用 Arduino 接口调用。
 
@@ -26,7 +34,7 @@ TFT_eSPI 是一个为 MCU 设计且兼容 Arduino IDE 的图形和字体库，�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-090/TFT_eSPI.jpg)
 
-### <font color="red">2、LovyanGFX - 又一个功能完善的TFT屏驱动库</font>
+### <font color="red">3、LovyanGFX - 又一个功能完善的TFT屏驱动库</font>
 
 LovyanGFX 是一个为 MCU 设计的 TFT 图形驱动库，底层主要适配 ESP32 SPI, I2C, 8bitParallel / ESP8266 SPI, I2C / ATSAMD51 SPI，同时支持非常多的 LCD 驱动芯片。  
 
