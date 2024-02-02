@@ -463,8 +463,8 @@
 > * 【第 083 期】103、[StateSmith - 开源状态机代码生成工具](https://github.com/StateSmith/StateSmith)
 > * 【第 086 期】104、[LibrePCB - 免费的跨平台 EDA](https://librepcb.org/)
 > * 【第 087 期】105、[SWIG - 将C/C++程序转换成其他高级编程语言](https://www.swig.org/)
-> * 【第 089 期】105、[SuperCom - 超强日志显示的串口调试工具](https://github.com/SuperStudio/SuperCom)
-> * 【第 089 期】105、[com0com - 开源的虚拟串口软件](https://com0com.sourceforge.net/)
+> * 【第 089 期】106、[SuperCom - 超强日志显示的串口调试工具](https://github.com/SuperStudio/SuperCom)
+> * 【第 089 期】107、[com0com - 开源的虚拟串口软件](https://com0com.sourceforge.net/)
 
 **工具(硬)**
 
