@@ -13,7 +13,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
+[第 089 期](docs/issue-089.md) | [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
 [第 084 期](docs/issue-084.md) | [第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
@@ -240,6 +240,7 @@
 > * 【第 087 期】183、[hello-algo - 对新手极其友好的算法入门教程](https://github.com/krahets/hello-algo)
 > * 【第 088 期】184、[Marlin - 基于Arduino平台的RepRap 3D打印机优化固件](https://github.com/MarlinFirmware/Marlin)
 > * 【第 088 期】185、[esp_ghota - 从Github版本更新esp32固件的OTA组件](https://github.com/Fishwaldo/esp_ghota)
+> * 【第 089 期】186、[EmberGL - 为MCU实时2D/3D渲染而设计的开源图形库](https://github.com/EmberGL-org/EmberGL)
 
 **项目(硬)**
 
@@ -352,6 +353,8 @@
 > * 【第 087 期】107、[Ethersweep - 开源以太网可控步进电机](https://github.com/neumi/ethersweep)
 > * 【第 088 期】108、[ethernet-to-spi - 以太网10BASE-T转SPI硬件实现](https://github.com/imihajlow/ethernet-to-spi)
 > * 【第 088 期】109、[RoenDi - 带TFT显示的开源旋转编码器](https://github.com/MitkoDyakov/Roendi)
+> * 【第 089 期】110、[Mini-Mars-Rover - 为教育平台建造的火星探测器](https://github.com/NikodemBartnik/Mini-Mars-Rover)
+> * 【第 089 期】111、[USB_C_Industrial_Camera_FPGA_USB3 - 开源USB C口镜头工业相机](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
 
 **工具(软)**
 
@@ -460,6 +463,8 @@
 > * 【第 083 期】103、[StateSmith - 开源状态机代码生成工具](https://github.com/StateSmith/StateSmith)
 > * 【第 086 期】104、[LibrePCB - 免费的跨平台 EDA](https://librepcb.org/)
 > * 【第 087 期】105、[SWIG - 将C/C++程序转换成其他高级编程语言](https://www.swig.org/)
+> * 【第 089 期】105、[SuperCom - 超强日志显示的串口调试工具](https://github.com/SuperStudio/SuperCom)
+> * 【第 089 期】105、[com0com - 开源的虚拟串口软件](https://com0com.sourceforge.net/)
 
 **工具(硬)**
 
