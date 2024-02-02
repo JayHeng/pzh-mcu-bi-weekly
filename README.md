@@ -13,7 +13,7 @@
 
 ## 2023农历癸卯兔年
 
-[第 089 期](docs/issue-089.md) | [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
+[第 090 期](docs/issue-090.md) | [第 089 期](docs/issue-089.md) | [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
 [第 084 期](docs/issue-084.md) | [第 083 期](docs/issue-083.md) | [第 082 期](docs/issue-082.md) | [第 081 期](docs/issue-081.md) | [第 080 期](docs/issue-080.md) | [第 079 期](docs/issue-079.md)
 
@@ -241,6 +241,10 @@
 > * 【第 088 期】184、[Marlin - 基于Arduino平台的RepRap 3D打印机优化固件](https://github.com/MarlinFirmware/Marlin)
 > * 【第 088 期】185、[esp_ghota - 从Github版本更新esp32固件的OTA组件](https://github.com/Fishwaldo/esp_ghota)
 > * 【第 089 期】186、[EmberGL - 为MCU实时2D/3D渲染而设计的开源图形库](https://github.com/EmberGL-org/EmberGL)
+> * 【第 090 期】187、[EEPROMWearLevel - 一个开源EEPROM磨损均衡算法](https://github.com/PRosenb/EEPROMWearLevel)
+> * 【第 090 期】188、[TFT_eSPI - 一个功能强大的TFT屏驱动库](https://github.com/Bodmer/TFT_eSPI)
+> * 【第 090 期】189、[LovyanGFX - 又一个功能完善的TFT屏驱动库](https://github.com/lovyan03/LovyanGFX)
+> * 【第 090 期】190、[FakePGA - 在单片机仿真运行Verilog](https://github.com/tvlad1234/FakePGA)
 
 **项目(硬)**
 
