@@ -12,11 +12,17 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目，希望对你有帮助！
+本期共收录 3 个项目，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、Genann - 纯C实现的简单神经网络库</font>
+### <font color="red">1、C4 - 4个函数实现的C语言编译器</font>
+
+C4 是用 4 个函数实现的 C 语言编译器。该项目仅用了 500+ 行代码、4 个函数，就实现了一个小型 C 语言编译器。但因为它的代码过于精简，所以源码阅读起来并不轻松。  
+
+ * 项目地址：https://github.com/rswier/c4
+
+### <font color="red">2、Genann - 纯C实现的简单神经网络库</font>
 
 Genann 是一个经过精心测试的库，用于在 C 中训练和使用前馈人工神经网络（ANN）。它的主要特点是简单、快速、可靠和可魔改（hackable），它只需要提供一些必要功能和一点额外功能就能实现这些。  
 
@@ -34,7 +40,7 @@ Genann 特点包含：
 - 在zlib许可下发布-几乎免费用于任何用途。
 ```
 
-### <font color="red">2、excelCPU - 在Excel中构建出的16位CPU</font>
+### <font color="red">3、excelCPU - 在Excel中构建出的16位CPU</font>
 
 excelCPU 是一位业余爱好者通过 Excel 创建的一个 16 位 CPU。它在 Excel 中构建，以 3Hz 时钟频率运行，并具有 128KB RAM、16 色 128x128 像素显示屏和自定义汇编语言 Excel-ASM16。  
 
