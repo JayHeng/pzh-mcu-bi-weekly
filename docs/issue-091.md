@@ -10,7 +10,7 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1908年2月11日，爱迪生获得发明电影放映机专利权。
 
 本期共收录 5 个项目，希望对你有帮助！
 
@@ -40,7 +40,7 @@ output> Hello World!
 
 foolrenderer 是用 C 语言从零实现的软件渲染器。不用图形 API 仅用几千行 C 代码，实现了一套类似 OpenGL 的基本图形功能，以及应用于游戏开发的实时渲染技术，如阴影、切线空间法线映射、基于物理的材质系统等。该项目包含丰富的注释和数学计算推导过程的说明，可用于帮助理解和学习 GPU 的基本工作原理、基础渲染知识和着色器原理。  
 
- * 项目地址：https://github.com/antirez/sds
+ * 项目地址：https://github.com/cadenji/foolrenderer
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-091/foolrenderer.gif)
 

@@ -11,6 +11,10 @@
 
 ![star-history](https://api.star-history.com/svg?repos=JayHeng/pzh-mcu-bi-weekly&type=Date)
 
+## 2024农历甲辰龙年
+
+[第 091 期](docs/issue-091.md)
+
 ## 2023农历癸卯兔年
 
 [第 090 期](docs/issue-090.md) | [第 089 期](docs/issue-089.md) | [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
@@ -245,6 +249,11 @@
 > * 【第 090 期】188、[TFT_eSPI - 一个功能强大的TFT屏驱动库](https://github.com/Bodmer/TFT_eSPI)
 > * 【第 090 期】189、[LovyanGFX - 又一个功能完善的TFT屏驱动库](https://github.com/lovyan03/LovyanGFX)
 > * 【第 090 期】190、[FakePGA - 在单片机仿真运行Verilog](https://github.com/tvlad1234/FakePGA)
+> * 【第 091 期】191、[C4 - 4个函数实现的C语言编译器](https://github.com/rswier/c4)
+> * 【第 091 期】192、[SDS - 简单的C语言动态字符串库](https://github.com/antirez/sds)
+> * 【第 091 期】193、[foolrenderer - C语言从零实现的软件渲染器](https://github.com/cadenji/foolrenderer)
+> * 【第 091 期】194、[Genann - 纯C实现的简单神经网络库](https://github.com/codeplea/genann)
+> * 【第 091 期】195、[excelCPU - 在Excel中构建出的16位CPU](https://github.com/InkboxSoftware/excelCPU)
 
 **项目(硬)**
 
