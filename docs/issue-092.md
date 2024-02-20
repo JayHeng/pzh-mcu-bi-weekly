@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1986年2月20日，被命名为“蜜蜂六号”的我国第一艘热飞艇在北京试飞成功，填补了我国飞行器在这一项目的空白。
 
-本期共收录 1 条资讯、4 个项目，希望对你有帮助！
+本期共收录 1 条资讯、5 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -33,8 +33,6 @@ probe-rs 是一个嵌入式调试和目标交互的工具包，它使用户可�
  * 项目地址：https://github.com/probe-rs/probe-rs
 
 probe-rs 用于实现来自不同制造商和不同芯片架构的硬件调试器的协议。它的目标是提供一个工具集来与各种嵌入式MCU和调试探针进行交互。类似的项目如 OpenOCD、PyOCD、Segger Toolset、ST Tooling等也存在。它们都实现了GDB协议和它们自己的协议，以使GDB能够与调试探针通信。probe-rs 项目去掉了GDB层，并提供了一个到调试探针的直接接口，从而使其他软件能够使用其调试功能。
-
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-092/)
 
 ### <font color="red">2、uthash - 一个为C语言提供哈希表的库</font>
 
@@ -71,6 +69,14 @@ chibicc 是一个实现了大多数 C11 特性的小型 C 编译器。尽管它�
 tinysshd 是一个简约的 SSH 服务器，它只实现了SSHv2功能的一个子集。它支持安全加密(最低128位安全性，防止缓存定时攻击)，不实现旧的加密(如RSA, DSA, HMAC-MD5, HMAC-SHA1, 3DES, RC4，…)，不实现不安全的特性(如密码或基于主机的身份验证)，也没有SSH1协议、压缩、端口转发、代理转发、X11转发等功能，未使用动态内存分配(没有分配失败等)。
 
  * 项目地址：https://github.com/janmojzis/tinyssh
+
+ ### <font color="red">5、Quadsort - 一种比快速排序快且稳定的归并排序算法</font>
+
+Quadsort 是一种比快速排序快，稳定的归并排序算法。项目包含原理讲解、C 语言实现、性能对比和排序过程。
+
+ * 项目地址：https://github.com/scandum/quadsort
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-092/Quadsort.PNG)
 
 ### 欢迎订阅
 
