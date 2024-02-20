@@ -254,11 +254,11 @@
 > * 【第 091 期】193、[foolrenderer - C语言从零实现的软件渲染器](https://github.com/cadenji/foolrenderer)
 > * 【第 091 期】194、[Genann - 纯C实现的简单神经网络库](https://github.com/codeplea/genann)
 > * 【第 091 期】195、[excelCPU - 在Excel中构建出的16位CPU](https://github.com/InkboxSoftware/excelCPU)
-> * 【第 092 期】196、[probe-rs - 嵌入式调试和目标交互的工具包](https://github.com/InkboxSoftware/excelCPU)
-> * 【第 092 期】197、[uthash - 一个为C语言提供哈希表的库](https://github.com/InkboxSoftware/excelCPU)
-> * 【第 092 期】198、[chibicc - 一个实现了大多数C11特性的小型C编译器](https://github.com/InkboxSoftware/excelCPU)
-> * 【第 092 期】199、[TinySSH - 一个极简的SSH服务器实现](https://github.com/InkboxSoftware/excelCPU)
-> * 【第 092 期】200、[Quadsort - 一种比快速排序快且稳定的归并排序算法](https://github.com/InkboxSoftware/excelCPU)
+> * 【第 092 期】196、[probe-rs - 嵌入式调试和目标交互的工具包](https://github.com/probe-rs/probe-rs)
+> * 【第 092 期】197、[uthash - 一个为C语言提供哈希表的库](https://github.com/troydhanson/uthash)
+> * 【第 092 期】198、[chibicc - 一个实现了大多数C11特性的小型C编译器](https://github.com/rui314/chibicc)
+> * 【第 092 期】199、[TinySSH - 一个极简的SSH服务器实现](https://github.com/janmojzis/tinyssh)
+> * 【第 092 期】200、[Quadsort - 一种比快速排序快且稳定的归并排序算法](https://github.com/scandum/quadsort)
 
 **项目(硬)**
 
