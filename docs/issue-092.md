@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 条资讯、0 个项目，希望对你有帮助！
+本期共收录 1 条资讯、1 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -26,11 +26,13 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、probe-rs - 嵌入式调试和目标交互的工具包</font>
 
+probe-rs 是一个嵌入式调试和目标交互的工具包，它使用户可以对微控制器进行编程和调试。
 
+ * 项目地址：https://github.com/probe-rs/probe-rs
 
- * 项目地址：
+probe-rs 用于实现来自不同制造商和不同芯片架构的硬件调试器的协议。它的目标是提供一个工具集来与各种嵌入式MCU和调试探针进行交互。类似的项目如 OpenOCD、PyOCD、Segger Toolset、ST Tooling等也存在。它们都实现了GDB协议和它们自己的协议，以使GDB能够与调试探针通信。probe-rs 项目去掉了GDB层，并提供了一个到调试探针的直接接口，从而使其他软件能够使用其调试功能。
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-092/)
 
