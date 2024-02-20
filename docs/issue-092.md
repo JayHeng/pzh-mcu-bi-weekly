@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 条资讯、1 个项目，希望对你有帮助！
+本期共收录 1 条资讯、2 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -36,6 +36,27 @@ probe-rs 用于实现来自不同制造商和不同芯片架构的硬件调试�
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-092/)
 
+### <font color="red">2、uthash - 一个为C语言提供哈希表的库</font>
+
+uthash 是为 C 语言提供哈希表的库。由于 C 语言中没有类似字典的数据结构，该库提供了哈希表常见的查询、插入、删除、排序等函数。使用方法简单，仅需引入一个头文件。
+
+ * 项目地址：https://github.com/troydhanson/uthash
+
+```C
+#include "uthash.h"
+
+struct my_struct {
+    int id;            /* we'll use this field as the key */
+    char name[10];
+    UT_hash_handle hh; /* makes this structure hashable */
+};
+
+struct my_struct *users = NULL;
+
+void add_user(struct my_struct *s) {
+    HASH_ADD_INT( users, id, s );
+}
+```
 
 ### 欢迎订阅
 
