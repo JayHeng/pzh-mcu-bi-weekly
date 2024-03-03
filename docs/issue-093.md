@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 2 个项目，希望对你有帮助！
+本期共收录 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -33,6 +33,12 @@ Zstandard，简称 zstd，是一种快速无损压缩算法，针对 zlib 级的
 如下表是使用 lzbench (@inikep使用gcc 9.3.0编译的开源内存基准)在 Silesia 压缩语料上测试和比较了几种快速压缩算法：
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-093/Zstandard.PNG)
+
+### <font color="red">3、linq4c - C#的linq方法之C实现</font>
+
+C# LINQ（Language Integrated Query）是一种强大且灵活的查询语言，可以将数据查询、过滤、排序和转换等操作无缝集成到 C# 代码中。如果你想在 C 中使用 C# 的 linq 方法，那么不妨来使用这个项目！这是它的 C 语言版。实现了 linq 的大部分方法（60+）。
+
+ * 项目地址：https://github.com/haifenghuang/linq4c
 
 ### 欢迎订阅
 
