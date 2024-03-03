@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个项目，希望对你有帮助！
+本期共收录 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,15 @@
 
 MiniLisp 实现了整数、符号、局部变量、条件语句、宏和垃圾回收等功能。
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-093/.PNG)
+### <font color="red">2、Zstandard - 快速无损的数据压缩算法Zstandard的实现</font>
+
+Zstandard，简称 zstd，是一种快速无损压缩算法，针对 zlib 级的实时压缩场景和更好的压缩比。在相似的压缩比情况下，它解压缩的速度比其他的算法都要快。很多知名项目都有这个算法的身影。
+
+ * 项目地址：https://github.com/facebook/zstd
+
+如下表是使用 lzbench (@inikep使用gcc 9.3.0编译的开源内存基准)在 Silesia 压缩语料上测试和比较了几种快速压缩算法：
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-093/Zstandard.PNG)
 
 ### 欢迎订阅
 
