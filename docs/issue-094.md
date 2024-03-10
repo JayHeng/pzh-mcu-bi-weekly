@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 2 个项目，希望对你有帮助！
+本期共收录 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -39,8 +39,24 @@ Microui 作为一个微小而便携的 ANSI C 立即模式 UI 库，其特点是
 
 Microui 内置了多种控件，包括窗口、可滚动面板、按钮、滑块、文本框、标签、复选框和自动换行的文本。
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-093/microui.PNG)
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-094/microui.PNG)
 
+### <font color="red">3、ESPUI - 一个适用ESP32/8266的web用户界面库</font>
+
+ESPUI 是一个为 ESP32 和 ESP8266 设备设计的简单的网络用户界面库。它使用户能够轻松地创建和管理设备的 Web 界面，无需任何 HTML、CSS 或 JavaScript 前端开发知识。ESPUI 库可以让用户通过网络浏览器轻松地与设备进行通信和控制，为用户提供了方便、直观的操作界面。
+
+ * 项目地址：https://github.com/s00500/ESPUI
+
+ESPUI 的特点：
+
+```text
+1. 简单易用：ESPUI提供了简单易懂的API，用户可以轻松地使用这些API创建自己的Web界面，并且无需掌握专业的前端开发知识。
+2. 灵活定制：ESPUI库允许用户根据自己的需要对Web界面进行定制，包括样式、布局和功能等方面。
+3. 轻量级：ESPUI库的体积较小，运行效率高，可以在资源受限的微控制器上运行。
+4. 支持多种控件：ESPUI库提供了丰富的控件库，包括文本框、按钮、滑块等，满足用户对Web界面的各种需求。
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-094/ESPUI.PNG)
 
 ### 欢迎订阅
 
