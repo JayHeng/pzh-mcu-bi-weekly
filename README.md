@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
+[第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
 ## 2023农历癸卯兔年
 
@@ -259,6 +259,11 @@
 > * 【第 092 期】198、[chibicc - 一个实现了大多数C11特性的小型C编译器](https://github.com/rui314/chibicc)
 > * 【第 092 期】199、[TinySSH - 一个极简的SSH服务器实现](https://github.com/janmojzis/tinyssh)
 > * 【第 092 期】200、[Quadsort - 一种比快速排序快且稳定的归并排序算法](https://github.com/scandum/quadsort)
+> * 【第 093 期】201、[FP-AUD-SMARTMIC1 - ST开源的各类音频算法](https://github.com/STMicroelectronics/fp-aud-smartmic1)
+> * 【第 093 期】202、[raspberry-pi-os - 学习使用Linux内核和树莓派开发操作系统](https://github.com/s-matyukevich/raspberry-pi-os)
+> * 【第 093 期】203、[MiniLisp - 1K行C语言写的Lisp解释器](https://github.com/rui314/minilisp)
+> * 【第 093 期】204、[Zstandard - 快速无损的数据压缩算法Zstandard的实现](https://github.com/facebook/zstd)
+> * 【第 093 期】205、[linq4c - C#的linq方法之C实现](https://github.com/haifenghuang/linq4c)
 
 **项目(硬)**
 
