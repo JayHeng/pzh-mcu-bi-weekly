@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1876年3月10日，美国发明家贝尔发明电话。
 
-本期共收录 4 个项目，希望对你有帮助！
+本期共收录 5 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -77,6 +77,20 @@ ESPUI 的特点：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-094/ESPUI.PNG)
 
+### <font color="red">5、WLED - 一套适用WS2812B等数字RGB LED的无线控制库</font>
+
+WLED 是一个快速和功能丰富的实现 ESP8266/ESP32 网络服务器来控制 NeoPixel (WS2812B, WS2811, SK6812) led 或基于 SPI 的芯片组，如 WS2801和APA102。它提供了丰富的功能和灵活的配置选项，使用户能够轻松地创建独特的照明效果。
+
+ * 项目地址：https://github.com/Aircoookie/WLED
+
+WLED 的特点：
+
+```text
+1. 多种LED灯带支持：WLED不仅支持WS2812B，还兼容许多其他类型的数字RGB LED灯带，如APA102、SK6812等。这使得用户可以根据自己的需求选择合适的LED灯带。
+2. WiFi控制：WLED通过WiFi连接，可以通过智能手机、平板电脑或电脑等设备进行远程控制。用户只需在设备上安装WLED应用程序或通过Web浏览器访问WLED的Web界面，即可方便地控制LED灯带。
+3. 丰富的动画效果：WLED内置了大量的动画效果，如彩虹、呼吸灯、闪烁等，用户可以根据自己的喜好选择合适的动画效果，为房间或场景增添独特的氛围。
+4. 定时任务和计划：WLED支持设置定时任务和计划，用户可以根据需要自动调整LED灯带的亮度、颜色和动画效果。例如，可以设置在特定时间自动开启或关闭LED灯带，或者在特定日期播放特定的动画效果。
+```
 ### 欢迎订阅
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
