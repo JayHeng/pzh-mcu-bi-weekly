@@ -1,7 +1,7 @@
 # pzh-mcu-bi-weekly
 痞子衡嵌入式半月刊，农历年分二十四节气，每个交节之日发布
 
-<img src="http://henjay724.com/image/cnblogs/pzh_mcu_bi_weekly.PNG" style="zoom:100%" />
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/pzh_mcu_bi_weekly.PNG)
 
 从2020年2月份（2020农历庚子鼠年正月）开始我将为大家带来《痞子衡嵌入式半月刊》，分享嵌入式领域有用有趣的工具或项目以及一些热点新闻。  
 
@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
+[第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
 ## 2023农历癸卯兔年
 
@@ -264,6 +264,11 @@
 > * 【第 093 期】203、[MiniLisp - 1K行C语言写的Lisp解释器](https://github.com/rui314/minilisp)
 > * 【第 093 期】204、[Zstandard - 快速无损的数据压缩算法Zstandard的实现](https://github.com/facebook/zstd)
 > * 【第 093 期】205、[linq4c - C#的linq方法之C实现](https://github.com/haifenghuang/linq4c)
+> * 【第 094 期】206、[At-RTOS - 一个用户友好的嵌入式RTOS](https://github.com/At-EC/At-RTOS)
+> * 【第 094 期】207、[microui - 一个极精简且用ANSI C编写的即时模式UI库](https://github.com/rxi/microui)
+> * 【第 094 期】208、[Blinker Library - 一套跨硬件、跨平台的物联网解决方案](https://github.com/blinker-iot/blinker-library)
+> * 【第 094 期】209、[ESPUI - 一个适用ESP32/8266的web用户界面库](https://github.com/s00500/ESPUI)
+> * 【第 094 期】210、[WLED - 一套适用WS2812B等数字RGB LED的无线控制库](https://github.com/Aircoookie/WLED)
 
 **项目(硬)**
 

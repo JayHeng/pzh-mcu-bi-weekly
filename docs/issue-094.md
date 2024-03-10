@@ -91,6 +91,7 @@ WLED 的特点：
 3. 丰富的动画效果：WLED内置了大量的动画效果，如彩虹、呼吸灯、闪烁等，用户可以根据自己的喜好选择合适的动画效果，为房间或场景增添独特的氛围。
 4. 定时任务和计划：WLED支持设置定时任务和计划，用户可以根据需要自动调整LED灯带的亮度、颜色和动画效果。例如，可以设置在特定时间自动开启或关闭LED灯带，或者在特定日期播放特定的动画效果。
 ```
+
 ### 欢迎订阅
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
