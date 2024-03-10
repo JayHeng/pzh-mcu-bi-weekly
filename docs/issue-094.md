@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 3 个项目，希望对你有帮助！
+本期共收录 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -41,7 +41,26 @@ Microui 内置了多种控件，包括窗口、可滚动面板、按钮、滑块
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-094/microui.PNG)
 
-### <font color="red">3、ESPUI - 一个适用ESP32/8266的web用户界面库</font>
+### <font color="red">3、Blinker Library - 一套跨硬件、跨平台的物联网解决方案</font>
+
+Blinker Library 是一套跨硬件、跨平台的物联网解决方案，提供 APP 端、设备端、服务器端支持，使用公有云服务进行数据传输存储。可用于智能家居、数据监测等领域，可以帮助用户更好更快地搭建物联网项目。
+
+ * 项目地址：https://github.com/blinker-iot/blinker-library
+
+Blinker Library 的特点：
+
+```text
+- 其由服务器端、app端、设备端组成，可以部署到几乎所有物联网平台
+- app端支持ios、android
+- 设备端可以使用蓝牙、WiFi、MQTT等方式接入，支持Arduino、freeRTOS、mbed OS、Linux等开发平台
+- 服务器端可以部署到阿里云、腾讯云、OneNET、百度云、AWS、google cloud等平台
+- 通过界面布局器，免费版用户可自己拖拽布局设备控制界面，自由打造您的物联网设备
+- 通过专属SDK，专业版用户可以使用Blinker开发自己的产品，并用于商业用途
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-094/BlinkerLibrary.PNG)
+
+### <font color="red">4、ESPUI - 一个适用ESP32/8266的web用户界面库</font>
 
 ESPUI 是一个为 ESP32 和 ESP8266 设备设计的简单的网络用户界面库。它使用户能够轻松地创建和管理设备的 Web 界面，无需任何 HTML、CSS 或 JavaScript 前端开发知识。ESPUI 库可以让用户通过网络浏览器轻松地与设备进行通信和控制，为用户提供了方便、直观的操作界面。
 
