@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个资讯、1 个项目，希望对你有帮助！
+本期共收录 1 个资讯、1 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
@@ -41,9 +41,17 @@ qmk_firmware 功能和特点：
 • 活跃的开源社区：作为一个开源项目，qmk_firmware拥有活跃的社区支持。用户可以在论坛、GitHub和社交媒体上与其他开发者和用户交流思想、分享自己的项目和成果，从中获取技术支持和灵感。
 ```
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/.PNG)
+## 工具类
 
+### <font color="red">1、LVGLBuilder - 一个开源的LVGL界面编辑器</font>
 
+LVGLBuilder 是一款强大而简便的 UI 界面设计工具，通过可视化的方式帮助开发者快速创建令人惊艳的用户界面。无论是初学者还是有经验的开发者，都可以轻松使用 LVGLBuilder 实现自己的创意和项目需求，省去繁琐的手动编码步骤。
+
+ * 工具地址：https://github.com/CURTLab/LVGLBuilder
+
+LVGLBuilder 支持多种嵌入式平台，包括但不限于 Arduino、ESP32、Raspberry Pi 等。这使得开发者能够在各种不同的硬件平台上使用 LVGLBuilder，实现跨平台开发，方便快捷地构建出精美的 UI 界面。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/LVGLBuilder.PNG)
 
 ### 欢迎订阅
 
