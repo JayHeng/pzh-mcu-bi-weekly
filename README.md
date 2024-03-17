@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
+[第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
 ## 2023农历癸卯兔年
 
@@ -269,6 +269,8 @@
 > * 【第 094 期】208、[Blinker Library - 一套跨硬件、跨平台的物联网解决方案](https://github.com/blinker-iot/blinker-library)
 > * 【第 094 期】209、[ESPUI - 一个适用ESP32/8266的web用户界面库](https://github.com/s00500/ESPUI)
 > * 【第 094 期】210、[WLED - 一套适用WS2812B等数字RGB LED的无线控制库](https://github.com/Aircoookie/WLED)
+> * 【第 095 期】211、[qmk_firmware - 一个开源的键盘固件](https://github.com/qmk/qmk_firmware)
+> * 【第 095 期】212、[FabGL - 一个面向ESP32的图形库](https://github.com/fdivitto/FabGL)
 
 **项目(硬)**
 
@@ -493,6 +495,7 @@
 > * 【第 087 期】105、[SWIG - 将C/C++程序转换成其他高级编程语言](https://www.swig.org/)
 > * 【第 089 期】106、[SuperCom - 超强日志显示的串口调试工具](https://github.com/SuperStudio/SuperCom)
 > * 【第 089 期】107、[com0com - 开源的虚拟串口软件](https://com0com.sourceforge.net/)
+> * 【第 095 期】108、[LVGLBuilder - 一个开源的LVGL界面编辑器](https://github.com/CURTLab/LVGLBuilder)
 
 **工具(硬)**
 

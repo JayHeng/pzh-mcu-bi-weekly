@@ -34,7 +34,7 @@
 
  * 资讯来源：http://www.hpmicro.com/product/series.html?id=0710b474-83e2-47b9-8631-784fa60a49bb
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/hpm6800.PNG)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/hpm6800.png)
 
 ## 项目类
 
