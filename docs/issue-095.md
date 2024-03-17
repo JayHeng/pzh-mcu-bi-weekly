@@ -10,19 +10,31 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1950年3月17日，美国加州伯克利大学发现第98号元素锎(Cf, californium)。
 
-本期共收录 1 个资讯、2 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个资讯、2 个项目、1 个工具，希望对你有帮助！
 
 ## 资讯类
 
-### <font color="red">1、先楫半导体推出面向数字仪表显示及人机界面应用的HPM6800</font>
+### <font color="red">1、意法半导体推出600MHz主频的STM32H7R/S</font>
+
+近日，意法半导体发布了一款新的集MPU和MCU两者之长的高性能产品 STM32H7R/S，搭载了在意法半导体迄今发布的产品中性能最高的Arm®Cortex®-M内核(最高运行频率600MHz的Cortex-M7。新微控制器具有强大的安全功能，能够满足物联网(IoT)应用对网络安全的要求。两款产品的共同安全功能包括防止物理攻击、存储器保护、在运行时保护应用程序的代码隔离保护功能，以及平台验证。此外，STM32H7S产品还增加了更多的强化的安全功能，集成了不可变的信任根、调试验证，以及硬件加密加速器，其中，硬件加密加速器支持最新的加密算法，防止非法访问代码和数据。利用这些安全保护功能，这两款产品聚焦于SESIP3和PSA 3级以下安全认证，满足业内最高的网络安全保护标准。
+
+ * 资讯来源：https://newsroom.st.com/zh/media-center/press-item.html/p4615.html
+
+新产品细分为两个产品线：STM32H7R3/S3 通用MCU和图形处理能力增强的 STM32H7R7/S7。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/STM32H7RS.PNG)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/STM32H7RS-2.PNG)
+
+### <font color="red">2、先楫半导体推出面向数字仪表显示及人机界面应用的HPM6800</font>
 
 近日，先楫半导体推出了新一代数字仪表显示及人机界面系统应用平台——HPM6800系列。该系列产品结合主频600MHz RISC-V CPU内核，算力高达1710DMIPS，采用了芯原的高性能2.5D OpenVG GPU，支持OpenVG Lite图形库和2D图形加速PDMA，内置1MB RAM，支持DDR2/DDR3/DDR3L接口，集成2组 4 Lane MIPI-DSI/LVDS-Tx 显示接口和2组 2 Lane MIPI-CSI/LVDS-Rx 摄像头接口，单芯片MCU开发简便，启动时间低至百毫秒，系统功耗低，赋予数字仪表显示和人机界面应用巨大的发展潜力。
 
  * 资讯来源：http://www.hpmicro.com/product/series.html?id=0710b474-83e2-47b9-8631-784fa60a49bb
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/hpm6800.png)
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-095/hpm6800.PNG)
 
 ## 项目类
 
