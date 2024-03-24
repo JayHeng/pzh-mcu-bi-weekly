@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 2 个项目，1 个工具，希望对你有帮助！
+本期共收录 3 个项目，1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -42,6 +42,13 @@ SOF 固件和 SDK 适用于对现代 dsp 上的音频或信号处理感兴趣的
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/SOF.PNG)
+
+### <font color="red">3、hoard-of-bitfonts - 包含大量旧式电脑上使用的位图字体</font>
+
+随着操作系统和 gui 转向可伸缩的矢量字体，在20世纪80年代和90年代占主导地位的位图字体在不明显的二进制格式中逐渐消失，并迅速陷入默默无闻。这个存储库的主要目的是将这些位图字体从二进制的束缚中解放出来，保留单色位图排版的古老艺术以供人类欣赏。
+
+ * 项目地址：https://github.com/robhagemans/hoard-of-bitfonts
+
 
 ## 工具类
 
