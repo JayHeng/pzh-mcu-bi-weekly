@@ -12,11 +12,21 @@
 
 历史上的今天：
 
-本期共收录 1 个项目，1 个工具，希望对你有帮助！
+本期共收录 2 个项目，1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、SOF - 一个开源的音频数字信号处理(DSP)固件</font>
+### <font color="red">1、CHERIoT RTOS - 面向嵌入式安全物联网的RTOS</font>
+
+CHERI 的全称是 Capability Hardware Enhanced RISC Instructions，硬件增强 RISC 指令，由英国剑桥大学与美国 SRI International 的合作研究项目。
+
+CHERIoT（用于物联网的RISC-V功能硬件扩展）建立在 CHERI 和 RISC-V 之上，提供 ISA 和软件模型，让依赖于对象粒度空间的软件在内存释放后具有确定性和安全性，直接暴露给 C/C++ 语言模型的轻量级划分。这可以在全新的RTOS上运行现有的嵌入式软件组件，该 RTOS 可扩展到大量隔离（安全通信）空间，即使在SRAM低于256 KB的系统上也是如此。
+
+ * 项目地址：https://github.com/Microsoft/cheriot-rtos
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/SOF.PNG)
+
+### <font color="red">2、SOF - 一个开源的音频数字信号处理(DSP)固件</font>
 
 Sound Open Firmware (SOF) 是一个开源的音频数字信号处理(DSP)固件基础设施和SDK。SOF 作为一个社区项目提供基础设施、实时控制部件和音频驱动程序。
 
