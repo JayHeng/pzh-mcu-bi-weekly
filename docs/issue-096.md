@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 3 个项目，1 个工具，希望对你有帮助！
+本期共收录 3 个项目，2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -49,7 +49,6 @@ SOF 固件和 SDK 适用于对现代 dsp 上的音频或信号处理感兴趣的
 
  * 项目地址：https://github.com/robhagemans/hoard-of-bitfonts
 
-
 ## 工具类
 
 ### <font color="red">1、HexEd.it - 一款在线的Hex编辑器</font>
@@ -59,6 +58,14 @@ HexEd.it 是完全免费的商业和非商业用途的 Hex 编辑器，无需安
  * 软件主页：https://hexed.it/
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/HexEd-it.PNG)
+
+### <font color="red">2、FreeType - 一个开源软件字体引擎</font>
+
+FreeType 是一个免费提供的软件库，用于渲染字体。它是用 C 语言编写的，设计成小巧、高效、高度可定制和可移植的，同时能够生成大多数矢量和位图字体格式的高质量输出(字形图像)。
+
+ * 软件主页：https://freetype.org/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/FreeType.PNG)
 
 ### 欢迎订阅
 
