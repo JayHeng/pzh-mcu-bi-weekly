@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共收录 1 个项目，希望对你有帮助！
+本期共收录 1 个项目，1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -32,6 +32,16 @@ SOF 固件和 SDK 适用于对现代 dsp 上的音频或信号处理感兴趣的
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/SOF.PNG)
+
+## 工具类
+
+### <font color="red">1、HexEd.it - 一款在线的Hex编辑器</font>
+
+HexEd.it 是完全免费的商业和非商业用途的 Hex 编辑器，无需安装即可在所有现代浏览器中运行。
+
+ * 软件主页：https://hexed.it/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/HexEd-it.PNG)
 
 ### 欢迎订阅
 
