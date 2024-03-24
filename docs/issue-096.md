@@ -24,8 +24,6 @@ CHERIoT（用于物联网的RISC-V功能硬件扩展）建立在 CHERI 和 RISC-
 
  * 项目地址：https://github.com/Microsoft/cheriot-rtos
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-096/SOF.PNG)
-
 ### <font color="red">2、SOF - 一个开源的音频数字信号处理(DSP)固件</font>
 
 Sound Open Firmware (SOF) 是一个开源的音频数字信号处理(DSP)固件基础设施和SDK。SOF 作为一个社区项目提供基础设施、实时控制部件和音频驱动程序。
