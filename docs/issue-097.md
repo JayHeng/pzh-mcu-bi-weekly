@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目，希望对你有帮助！
+本期共收录 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -23,6 +23,16 @@ headphones 是一套 3D 打印耳机，主控采用 RP2040 + TI 96/192kHz 采样
  * 项目地址：https://github.com/ploopyco/headphones
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/headphones.PNG)
+
+### <font color="red">2、neuralSPOT - Ambiq推出的全功能AI SDK</font>
+
+NeuralSPOT 是一个全功能的 AI SDK 和工具包，针对 Ambiqs 的 Apollo 系列超低功耗 soc 进行了优化。它是开源的、实时的、与操作系统无关的。它是为微控制器设计的 Tensorflow Lite，但可以与任何 AI 运行时一起工作。
+
+ * 项目地址：https://github.com/AmbiqAI/neuralSPOT
+
+ NeuralSPOT 围绕 AmbiqSuite SDK (Ambiq的硬件抽象层)封装了一个以人工智能为中心的 API，以简化常见任务，如传感器数据的传感、计算功能、性能分析和控制 Ambiq 的许多车载外设。
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/neuralSPOT.PNG)
 
 ### 欢迎订阅
 
