@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、headphones - 软硬件全开源的耳机设计</font>
+### <font color="red">1、easings.net - 一系列运动轨迹函数源码实现</font>
+
+easings.net 整理了各种运动轨迹函数，支持的效果非常多，且都有源码实现，图文并茂。
+
+ * 项目地址：https://github.com/ai/easings.net
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/easings_net.PNG)
+
+### <font color="red">2、headphones - 软硬件全开源的耳机设计</font>
 
 headphones 是一套 3D 打印耳机，主控采用 RP2040 + TI 96/192kHz 采样速率的 24 位异步立体声音频编解码器 PCM3060。此仓库包含制作耳机所需的所有设计和生产文件。作者还在 Wiki 中包含了一些关于如何制作、组装和编程的详细文档。
 
@@ -24,7 +32,7 @@ headphones 是一套 3D 打印耳机，主控采用 RP2040 + TI 96/192kHz 采样
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/headphones.PNG)
 
-### <font color="red">2、neuralSPOT - Ambiq推出的全功能AI SDK</font>
+### <font color="red">3、neuralSPOT - Ambiq推出的全功能AI SDK</font>
 
 NeuralSPOT 是一个全功能的 AI SDK 和工具包，针对 Ambiqs 的 Apollo 系列超低功耗 soc 进行了优化。它是开源的、实时的、与操作系统无关的。它是为微控制器设计的 Tensorflow Lite，但可以与任何 AI 运行时一起工作。
 
