@@ -13,6 +13,8 @@
 
 ## 2024农历甲辰龙年
 
+[第 097 期](docs/issue-097.md)
+
 [第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
 ## 2023农历癸卯兔年
@@ -275,6 +277,8 @@
 > * 【第 096 期】214、[SOF - 一个开源的音频数字信号处理(DSP)固件](https://github.com/thesofproject/sof)
 > * 【第 096 期】215、[hoard-of-bitfonts - 包含大量旧式电脑上使用的位图字体](https://github.com/robhagemans/hoard-of-bitfonts)
 > * 【第 096 期】216、[grayscale_lcd - 单色屏实现视频播放效果](https://www.zephray.me/post/grayscale_lcd/)
+> * 【第 097 期】217、[easings.net - 一系列运动轨迹函数源码实现](https://github.com/ai/easings.net)
+> * 【第 097 期】218、[neuralSPOT - Ambiq推出的全功能AI SDK](https://github.com/AmbiqAI/neuralSPOT)
 
 **项目(硬)**
 
@@ -389,6 +393,7 @@
 > * 【第 088 期】109、[RoenDi - 带TFT显示的开源旋转编码器](https://github.com/MitkoDyakov/Roendi)
 > * 【第 089 期】110、[Mini-Mars-Rover - 为教育平台建造的火星探测器](https://github.com/NikodemBartnik/Mini-Mars-Rover)
 > * 【第 089 期】111、[USB_C_Industrial_Camera_FPGA_USB3 - 开源USB C口镜头工业相机](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
+> * 【第 097 期】112、[headphones - 软硬件全开源的耳机设计](https://github.com/ploopyco/headphones)
 
 **工具(软)**
 
