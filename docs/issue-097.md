@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -33,6 +33,16 @@ NeuralSPOT 是一个全功能的 AI SDK 和工具包，针对 Ambiqs 的 Apollo 
  NeuralSPOT 围绕 AmbiqSuite SDK (Ambiq的硬件抽象层)封装了一个以人工智能为中心的 API，以简化常见任务，如传感器数据的传感、计算功能、性能分析和控制 Ambiq 的许多车载外设。
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/neuralSPOT.PNG)
+
+## 工具类
+
+### <font color="red">1、CrypTool 2 - 开源可视化密码学和密码分析工具</font>
+
+CrypTool 2 (CT2) 是一个用于 Windows 的现代电子学习程序，它可以可视化密码学和密码分析。它不仅包括密码的加密和密码分析，还包括它们的基础知识和现代密码学的整个范围。
+
+ * 软件地址：https://www.cryptool.org/en/ct2/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-097/CrypTool2.gif)
 
 ### 欢迎订阅
 
