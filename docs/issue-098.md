@@ -1,0 +1,40 @@
+# 痞子衡嵌入式半月刊： 第 98 期
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/pzh_mcu_bi_weekly.PNG)
+
+这里分享嵌入式领域有用有趣的项目/工具以及一些热点新闻，农历年分二十四节气，希望在每个交节之日准时发布一期。
+
+本期刊是开源项目（GitHub: [JayHeng/pzh-mcu-bi-weekly](https://github.com/JayHeng/pzh-mcu-bi-weekly)），欢迎提交 issue，投稿或推荐你知道的嵌入式那些事儿。
+
+**上期回顾** ：[《痞子衡嵌入式半月刊： 第 97 期》](https://www.cnblogs.com/henjay724/p/18125131)
+
+## 唠两句
+
+历史上的今天：。
+
+本期共收录 1 个项目、0 个工具，希望对你有帮助！
+
+## 项目类
+
+### <font color="red">1、P-Net - 一个用C语言编写的Profinet IO设备</font>
+
+P-Net 是一个 Profinet IO 设备，用C语言编写，可以在裸机硬件、RTOS(如RT-Kernel)或 Linux 上运行。主要要求是平台可以发送和接收 RAW 以太网第2层帧。Profinet 堆栈提供了完整的源代码，包括一个移植层。P-Net 易于使用，占用空间小，特别适合于资源有限且效率至关重要的嵌入式系统。
+
+ * 项目地址：https://github.com/rtlabs-com/p-net
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-098/.PNG)
+
+
+
+## 工具类
+
+
+
+### 欢迎订阅
+
+文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
+
+微信搜索"__痞子衡嵌入式__"或者扫描下面二维码，就可以在手机上第一时间看了哦。
+
+![](https://raw.githubusercontent.com/JayHeng/pzhmcu-picture/master/wechat/pzhMcu_qrcode_258x258.jpg)
+
