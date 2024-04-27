@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、0 个工具，希望对你有帮助！
+本期共收录 3 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -32,7 +32,13 @@ onps 栈设计实现了一套完整的 tcp/ip 协议模型。从数据链路层�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-098/onps.jpg)
 
+ ### <font color="red">3、lcd-clock - 一个非常低功耗的LCD时钟</font>
 
+这是一个非常低功耗的 LCD 时钟，基于 AVR128DA48，使用 CR2032 纽扣电池能够运行超过三年。每分钟它会简短地显示温度，使用 AVR128DA48 的片上温度传感器，和电池电压，通过使用 ADC 读取自己的电源电压。还有一个 I2C 连接，所以你可以添加一个外部传感器，例如，除了显示其他读数外，还可以显示湿度。
+
+ * 项目地址：https://github.com/technoblogy/lcd-clock
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-098/lcd-clock.PNG)
 
 ## 工具类
 
