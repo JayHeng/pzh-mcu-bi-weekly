@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目、1 个工具，希望对你有帮助！
+本期共收录 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -29,6 +29,14 @@ Wheelbot 是一辆对称的反作用轮独轮车，可以从任何初始位置�
  * 项目地址：https://github.com/AndReGeist/wheelbot-v2.5
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/Wheelbot.PNG)
+
+ ### <font color="red">3、Intelligent Cooling Plate - 基于MCU的智能冷却板设计</font>
+
+这是一个 Microchip 推出的智能冷却板(cold plate)参考设计，主控基于 PIC16F17146，可以冷却其金属表面和上面的任何东西。该系统由单个20针8位微控制器(MCU)控制，具有温度测量、电流监测、用户界面控制和安全功能。由于其广泛的核心独立外设(cip)阵列，MCU可以单独处理此任务。
+
+ * 项目地址：https://github.com/microchip-pic-avr-examples/pic16f17146-cold-plate-mplab-mcc
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/IntelligentCoolingPlate.PNG)
 
  ## 工具类
 
