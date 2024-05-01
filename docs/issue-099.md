@@ -12,17 +12,15 @@
 
 历史上的今天：。
 
-本期共收录 0 个项目、1 个工具，希望对你有帮助！
+本期共收录 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Terathon-Math-Library - 用于2D/3D/4D矢量及矩阵的C++数学库</font>
 
+这是一个用于2D/3D/4D矢量，矩阵，四元数和几何代数的 C++ 数学库。作者主要是做游戏引擎和计算机图形开发，大家有需要做一些稍复杂图形绘制可以试试这个库，作者尤其在文档方面花了很多心思。  
 
-
- * 项目地址：
-
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/.PNG)
+ * 项目地址：https://github.com/EricLengyel/Terathon-Math-Library
 
  ## 工具类
 
