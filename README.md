@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
+[第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
 [第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
@@ -282,6 +282,7 @@
 > * 【第 098 期】219、[P-Net - 一个用C语言编写的Profinet IO设备](https://github.com/rtlabs-com/p-net)
 > * 【第 098 期】220、[onps - 一个开源且完全自主开发的国产网络协议栈](https://gitee.com/Neo-T/open-npstack)
 > * 【第 098 期】221、[tiny-i2c - 适用所有AVR的最小I2C主机程序](https://github.com/technoblogy/tiny-i2c/)
+> * 【第 099 期】222、[Terathon-Math-Library - 用于2D/3D/4D矢量及矩阵的C++数学库](https://github.com/EricLengyel/Terathon-Math-Library)
 
 **项目(硬)**
 
@@ -398,6 +399,9 @@
 > * 【第 089 期】111、[USB_C_Industrial_Camera_FPGA_USB3 - 开源USB C口镜头工业相机](https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3)
 > * 【第 097 期】112、[headphones - 软硬件全开源的耳机设计](https://github.com/ploopyco/headphones)
 > * 【第 098 期】113、[lcd-clock - 一个非常低功耗的LCD时钟](https://github.com/technoblogy/lcd-clock)
+> * 【第 098 期】114、[Wheelbot - 一辆对称的反作用轮独轮车](https://github.com/AndReGeist/wheelbot-v2.5)
+> * 【第 098 期】115、[Intelligent Cooling Plate - 一个基于MCU的智能冷却板设计](https://github.com/microchip-pic-avr-examples/pic16f17146-cold-plate-mplab-mcc)
+> * 【第 098 期】116、[studio_mic - 一个简单易于构建的电容麦克风](https://github.com/Spirit532/studio_mic)
 
 **工具(软)**
 
@@ -511,6 +515,7 @@
 > * 【第 095 期】108、[LVGLBuilder - 一个开源的LVGL界面编辑器](https://github.com/CURTLab/LVGLBuilder)
 > * 【第 096 期】109、[HexEd.it - 一款在线的Hex编辑器](https://hexed.it/)
 > * 【第 096 期】110、[FreeType - 一个开源软件字体引擎](https://freetype.org/)
+> * 【第 099 期】111、[Quick Connect Studio - 基于云的瑞萨嵌入式系统设计平台](https://www.renesas.cn/cn/zh/software-tool/quick-connect-studio)
 
 **工具(硬)**
 
