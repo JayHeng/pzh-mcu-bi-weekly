@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1908年5月1日，中国工人阶级第一次纪念“五一国际劳动节”。
 
-本期共收录 3 个项目、1 个工具，希望对你有帮助！
+本期共收录 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -30,13 +30,21 @@ Wheelbot 是一辆对称的反作用轮独轮车，可以从任何初始位置�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/Wheelbot.PNG)
 
- ### <font color="red">3、Intelligent Cooling Plate - 基于MCU的智能冷却板设计</font>
+ ### <font color="red">3、Intelligent Cooling Plate - 一个基于MCU的智能冷却板设计</font>
 
 这是一个 Microchip 推出的智能冷却板(cold plate)参考设计，主控基于 PIC16F17146，可以冷却其金属表面和上面的任何东西。该系统由单个20针8位微控制器(MCU)控制，具有温度测量、电流监测、用户界面控制和安全功能。由于其广泛的核心独立外设(cip)阵列，MCU可以单独处理此任务。
 
  * 项目地址：https://github.com/microchip-pic-avr-examples/pic16f17146-cold-plate-mplab-mcc
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/IntelligentCoolingPlate.PNG)
+
+  ### <font color="red">4、studio_mic - 一个简单易于构建的电容麦克风</font>
+
+这是一个高质量的麦克风项目，麦克风构建使用克隆RK12/CK12胶囊，U87麦克风和定制前置放大器板。该板非常简单，但高性能 - 它在单个封装中使用双 FET 输入运放来转换胶囊的阻抗并提供差分信号，而偏置则由六角施密特触发逆变器电荷泵提供。由于电路的简单性和所选运放的性能、充足的动态范围和无信号失真，几乎没有自噪声。  
+
+ * 项目地址：https://github.com/Spirit532/studio_mic
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/studio_mic.PNG)
 
  ## 工具类
 
