@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、1 个工具，希望对你有帮助！
+本期共收录 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -21,6 +21,14 @@
 这是一个用于2D/3D/4D矢量，矩阵，四元数和几何代数的 C++ 数学库。作者主要是做游戏引擎和计算机图形开发，大家有需要做一些稍复杂图形绘制可以试试这个库，作者尤其在文档方面花了很多心思。  
 
  * 项目地址：https://github.com/EricLengyel/Terathon-Math-Library
+
+### <font color="red">2、Wheelbot - 一辆对称的反作用轮独轮车</font>
+
+Wheelbot 是一辆对称的反作用轮独轮车，可以从任何初始位置跳上车轮。车轮机器人具有非完整和欠驱动的动力学特性，以及两个耦合的不稳定自由度，为非线性和数据驱动控制研究提供了一个具有挑战性的平台。项目文档介绍了 Wheelbot 的机械和电气设计，其估计和控制算法，以及初步的实验，以证明在平衡时自立和抗干扰。  
+
+ * 项目地址：https://github.com/AndReGeist/wheelbot-v2.5
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-099/Wheelbot.PNG)
 
  ## 工具类
 
