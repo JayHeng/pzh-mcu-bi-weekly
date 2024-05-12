@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1951年5月12日，第一颗氢弹爆炸试验成功。
 
-本期共收录 3 个项目，希望对你有帮助！
+本期共收录 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -73,7 +73,31 @@ inav 特性：
 - 屏幕显示(OSD) -字符和像素样式
 ```
 
-### <font color="red">3、OV-Watch - 硬件成本仅80元的开源智能手表</font>
+### <font color="red">3、betaflight - 多旋翼/固定翼飞行控制器</font>
+
+betaflight 是用于多旋翼飞行器和固定翼飞行器飞行的飞行控制器软件(固件)。这个分叉与Baseflight和Cleanflight的不同之处在于，它专注于飞行性能，领先的功能添加和广泛的目标支持。
+
+ * 项目地址：https://github.com/betaflight/betaflight
+
+betaflight 特性：
+
+```text
+- 支持多色RGB LED条(每个LED可以是不同的颜色，使用可变长度WS2811可寻址RGB条-用于方向指示，低电量警告，飞行模式状态，初始化故障排除等)
+- DShot(150,300和600)，Multishot, Oneshot(125和42)和Proshot1000电机协议支持
+- 黑匣子飞行记录仪记录(如果配备了机载闪存或外置microSD卡)
+- 支持使用STM32 F4, G4, F7和H7处理器的目标
+- PWM, PPM, SPI和串行(SBus, SumH, SumD，频谱1024/2048,XBus等)RX连接与故障安全检测
+- 多种遥测协议(CRSF, FrSky, HoTT smart-port, MSP等)
+- RSSI通过ADC -使用ADC读取PWM RSSI信号，用FrSky D4R-II, X8R, X4R-SB和XSR进行测试
+- OSD支持和配置，无需第三方OSD软件/固件/通信设备
+- OLED显示器-显示信息:电池电压/电流/毫安时，配置文件，速率配置文件，模式，版本，传感器等
+- 飞行中手动PID调整和速率调整
+- 使用滑块进行PID和滤波器调谐
+- 速率配置文件和它们的飞行选择
+- 可配置串行端口，用于串行RX，遥测，ESC遥测，MSP, GPS, OSD，声纳等-使用任何端口上的大多数设备，包括softserial
+```
+
+### <font color="red">4、OV-Watch - 硬件成本仅80元的开源智能手表</font>
 
 OV-Watch 是一个基于STM32, FreeRTOS, LVGL的功能强大的智能手表设计。软硬件全开源，目前版本是 V2.3。手表的模式分为3个。第一个是正常的运行模式，手表正常运行；第二个是睡眠模式，MCU进入STOP模式，MPU6050仍在记步数；第三个是关机模式，TPS63020直接关闭使能，此时无3V3供电，只有Vbat有供电。  
 
