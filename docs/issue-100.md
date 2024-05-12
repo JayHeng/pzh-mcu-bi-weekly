@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 个项目、0 个工具，希望对你有帮助！
+本期共收录 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -47,11 +47,17 @@ GT-HMI 特性：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-100/GT-HMI-Engine.gif)
 
- ## 工具类
+### <font color="red">2、OV-Watch - 硬件成本仅80元的开源智能手表</font>
 
- ### <font color="red">1、</font>
+OV-Watch 是一个基于STM32, FreeRTOS, LVGL的功能强大的智能手表设计。软硬件全开源，目前版本是 V2.3。手表的模式分为3个。第一个是正常的运行模式，手表正常运行；第二个是睡眠模式，MCU进入STOP模式，MPU6050仍在记步数；第三个是关机模式，TPS63020直接关闭使能，此时无3V3供电，只有Vbat有供电。  
 
+ * 项目地址：https://github.com/No-Chicken/OV-Watch
 
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-100/OV-Watch.png)
+
+从 V1.0 到 V2.3 的版本功能演进：
+
+  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-100/OV-Watch2.png)
 
 ### 欢迎订阅
 
