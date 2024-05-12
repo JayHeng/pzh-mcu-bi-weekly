@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 2 个项目，希望对你有帮助！
+本期共收录 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -47,7 +47,33 @@ GT-HMI 特性：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-100/GT-HMI-Engine.gif)
 
-### <font color="red">2、OV-Watch - 硬件成本仅80元的开源智能手表</font>
+### <font color="red">2、inav - 基于STM32F411的导航飞行控制器</font>
+
+inav 是一款基于 STM32F411 设计的导航飞行控制器，全开源，给功能非常强大，目前版本已经演进到 V7。
+
+ * 项目地址：https://github.com/iNavFlight/inav
+
+inav 特性：
+
+```text
+- 运行在最流行的STM32F4, AT32, STM32F7和STM32H7飞行控制器
+- 屏幕显示(OSD) -字符和像素样式
+- DJI OSD集成:所有元素，系统消息和警告
+- 出色的开箱即用性能
+- 保持位置，保持高度，返回家园和航路点任务
+- 优秀的固定翼无人机支持:飞机，飞翼
+- 黑匣子飞行记录器记录
+- 先进陀螺仪滤波
+- 完全可配置的混合器，允许运行任何硬件:多旋翼，固定翼，漫游者，船和其他实验设备
+- 多种传感器支持:GPS，皮托管，声纳，激光雷达，温度，ESC与BlHeli_32遥测
+- 逻辑条件，全局函数和全局变量:你可以用GUI编程INAV
+- SmartAudio和IRC Tramp VTX支持
+- 遥测:SmartPort, FPort, MAVlink, LTM, CRSF
+- 多色RGB LED带支持
+- 屏幕显示(OSD) -字符和像素样式
+```
+
+### <font color="red">3、OV-Watch - 硬件成本仅80元的开源智能手表</font>
 
 OV-Watch 是一个基于STM32, FreeRTOS, LVGL的功能强大的智能手表设计。软硬件全开源，目前版本是 V2.3。手表的模式分为3个。第一个是正常的运行模式，手表正常运行；第二个是睡眠模式，MCU进入STOP模式，MPU6050仍在记步数；第三个是关机模式，TPS63020直接关闭使能，此时无3V3供电，只有Vbat有供电。  
 
