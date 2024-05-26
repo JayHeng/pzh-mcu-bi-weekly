@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 条资讯、1 个项目，希望对你有帮助！
+本期共收录 1 条资讯、2 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -34,8 +34,17 @@ Zilog 公司近日末发布通知，因为老旧的 Z80 架构无法与 8-bit RI
 
  * 项目地址：https://github.com/rejunity/z80-open-silicon
 
+### <font color="red">2、EEGwithRaspberryPI - 成本经济的开源脑机接口套件</font>
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/HS32F7.PNG)
+这个脑机接口套件使用了树莓派 3/4 作为主控，具有 8 个通道，用于连接湿电极或干电极，可以测量生物信号，例如脑电图 EEG、肌电图 EMG 和心电图 ECG 中使用的信号。
+
+ * 项目地址：https://github.com/Pi-EEG/EEGwithRaspberryPI
+
+当前 Github 包含了允许用户通过眨眼操作遥控玩具的 Python 脚本示例。
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/PiEEG1.PNG)
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/PiEEG2.PNG)
 
 ### 欢迎订阅
 
