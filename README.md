@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
+[第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
 [第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
@@ -283,6 +283,11 @@
 > * 【第 098 期】220、[onps - 一个开源且完全自主开发的国产网络协议栈](https://gitee.com/Neo-T/open-npstack)
 > * 【第 098 期】221、[tiny-i2c - 适用所有AVR的最小I2C主机程序](https://github.com/technoblogy/tiny-i2c/)
 > * 【第 099 期】222、[Terathon-Math-Library - 用于2D/3D/4D矢量及矩阵的C++数学库](https://github.com/EricLengyel/Terathon-Math-Library)
+> * 【第 100 期】223、[GT-HMI-Engine - 专为国内嵌入式GUI设计开发打造的免费神器](https://gitee.com/genitop/GT-HMI-Engine)
+> * 【第 100 期】224、[inav - 基于STM32F411的导航飞行控制器](https://github.com/iNavFlight/inav)
+> * 【第 100 期】225、[betaflight - 多旋翼/固定翼飞行控制器](https://github.com/betaflight/betaflight)
+> * 【第 101 期】226、[Z80 - 传奇嵌入式芯片的开源替代](https://github.com/rejunity/z80-open-silicon)
+> * 【第 101 期】227、[ChatDBG - 一款集成大语言模型的调试器](https://github.com/plasma-umass/ChatDBG)
 
 **项目(硬)**
 
@@ -402,6 +407,8 @@
 > * 【第 098 期】114、[Wheelbot - 一辆对称的反作用轮独轮车](https://github.com/AndReGeist/wheelbot-v2.5)
 > * 【第 098 期】115、[Intelligent Cooling Plate - 一个基于MCU的智能冷却板设计](https://github.com/microchip-pic-avr-examples/pic16f17146-cold-plate-mplab-mcc)
 > * 【第 098 期】116、[studio_mic - 一个简单易于构建的电容麦克风](https://github.com/Spirit532/studio_mic)
+> * 【第 100 期】117、[OV-Watch - 硬件成本仅80元的开源智能手表](https://github.com/No-Chicken/OV-Watch)
+> * 【第 101 期】118、[EEGwithRaspberryPI - 成本经济的开源脑机接口套件](https://github.com/Pi-EEG/EEGwithRaspberryPI)
 
 **工具(软)**
 
