@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共收录 1 条资讯、0 个项目，希望对你有帮助！
+本期共收录 1 条资讯、1 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -26,12 +26,13 @@
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、Z80 - 传奇嵌入式芯片的开源替代</font>
 
+Zilog 公司近日末发布通知，因为老旧的 Z80 架构无法与 8-bit RISC 和低成本的 32-bit 嵌入式处理器竞争，Zilog 决定停止生产 Z80 系列。但是 Z80 仍然没有“退役”，依然存在大量应用，甚至包括飞机、军工。
 
- * 项目地址：
+为了让这些应用快速替代现有 Zilog 的 Z80 方案，并将 Z80 的设计继续延续下去，最近，开源和硬件保护社区正在开发 Z80 的免费开源芯片 (FOSS) 替代品。
 
-GT-HMI 特性：
+ * 项目地址：https://github.com/rejunity/z80-open-silicon
 
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/HS32F7.PNG)
