@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：。
+历史上的今天：1967年5月26日，中国首次成功发射地对地中程导弹。
 
-本期共收录 1 条资讯、2 个项目，希望对你有帮助！
+本期共收录 1 条资讯、3 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -45,6 +45,14 @@ Zilog 公司近日末发布通知，因为老旧的 Z80 架构无法与 8-bit RI
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/PiEEG1.PNG)
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/PiEEG2.PNG)
+
+### <font color="red">3、ChatDBG - 一款集成大语言模型的调试器</font>
+
+ChatDBG 是一个基于人工智能的调试助手，用于C/ c++ /Python/Rust 代码，它将大型语言模型集成到标准调试器(pdb, lldb, gdb和windbg)中，以帮助调试代码。使用ChatDBG，可以与调试器进行对话，询问有关程序的开放式问题，例如为什么x为空? ChatDBG 将控制调试器来回答。ChatDBG可以提供错误诊断和修复建议。
+
+ * 项目地址：https://github.com/plasma-umass/ChatDBG
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-101/ChatDBG.PNG)
 
 ### 欢迎订阅
 
