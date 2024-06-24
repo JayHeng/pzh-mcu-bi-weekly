@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -24,8 +24,13 @@ eepromfs 是一个基于 EEPROM 的简易类文件的数据读写库，方便做
 
  * 项目地址：https://gitee.com/wtau_zaozao/eepromfs
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/.PNG)
+### <font color="red">2、PDHV - 可调高压USB PD电源</font>
 
+PDHV 是一个可调 300V 高压 USB PD 电源，所有 USB 端口都彼此隔离并与高压隔离。
+
+ * 项目地址：https://github.com/Aylo6061/PDHV
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/PHDV.PNG)
 
 ### 欢迎订阅
 
