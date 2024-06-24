@@ -10,7 +10,7 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1991年6月24日，中国首座脉冲反应堆建成。
 
 本期共 4 个项目，希望对你有帮助！
 
@@ -42,7 +42,7 @@ Modular-Things 项目可以让你使用硬件设备，并为其添加一个库�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/Modular-Things.PNG)
 
- ### <font color="red">4、OpenEarable - </font>
+ ### <font color="red">4、OpenEarable - 基于Arduino的入耳式传感应用平台</font>
 
 OpenEarable 是一个新的、开源的、基于 Arduino 的基于耳朵的传感应用平台。它提供了一个多功能的原型平台，支持各种传感器和执行器，使其适合耳式研究和开发。  
 

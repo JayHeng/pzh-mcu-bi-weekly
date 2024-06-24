@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
+[第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
 [第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
@@ -288,6 +288,8 @@
 > * 【第 100 期】225、[betaflight - 多旋翼/固定翼飞行控制器](https://github.com/betaflight/betaflight)
 > * 【第 101 期】226、[Z80 - 传奇嵌入式芯片的开源替代](https://github.com/rejunity/z80-open-silicon)
 > * 【第 101 期】227、[ChatDBG - 一款集成大语言模型的调试器](https://github.com/plasma-umass/ChatDBG)
+> * 【第 102 期】228、[eepromfs - 基于EEPROM的简易类文件数据读写库](https://gitee.com/wtau_zaozao/eepromfs)
+> * 【第 102 期】229、[Modular-Things - 基于OSAP协议实现的简化硬件设计](https://github.com/modular-things/modular-things)
 
 **项目(硬)**
 
@@ -409,6 +411,8 @@
 > * 【第 098 期】116、[studio_mic - 一个简单易于构建的电容麦克风](https://github.com/Spirit532/studio_mic)
 > * 【第 100 期】117、[OV-Watch - 硬件成本仅80元的开源智能手表](https://github.com/No-Chicken/OV-Watch)
 > * 【第 101 期】118、[EEGwithRaspberryPI - 成本经济的开源脑机接口套件](https://github.com/Pi-EEG/EEGwithRaspberryPI)
+> * 【第 102 期】119、[PDHV - 可调高压USB PD电源](https://github.com/Aylo6061/PDHV)
+> * 【第 102 期】120、[OpenEarable - 基于Arduino的入耳式传感应用平台](https://github.com/teco-kit/open-earable)
 
 **工具(软)**
 
