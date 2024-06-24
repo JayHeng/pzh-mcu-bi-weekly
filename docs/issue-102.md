@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 3 个项目，希望对你有帮助！
+本期共 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -32,13 +32,15 @@ PDHV 是一个可调 300V 高压 USB PD 电源，所有 USB 端口都彼此隔�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/PHDV.PNG)
 
- ### <font color="red">3、Modular-Things - </font>
+ ### <font color="red">3、Modular-Things - 基于OSAP协议实现的简化硬件设计</font>
 
+Modular-Things 项目是一种构建可在软件中组成的模块化硬件系统的方法。底层技术是一个小型网络库，用于跨设备打包和路由消息(OSAP)，以及一个基于 web 的编辑器，用于将硬件组合成软件中的功能系统。
 
+Modular-Things 项目可以让你使用硬件设备，并为其添加一个库，该库允许你将该设备插入基于浏览器的编辑器中，在那里你可以编写控制它和其他设备的程序。因为它是浏览器中的 JavaScript，所以你也可以用 HTML/CSS/JS 编写接口，并导入各种与物理计算系统交互和控制的高级库。
 
  * 项目地址：https://github.com/modular-things/modular-things
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/.PNG)
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/Modular-Things.PNG)
 
  ### <font color="red">4、OpenEarable - </font>
 
