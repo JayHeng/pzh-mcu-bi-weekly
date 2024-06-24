@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -31,6 +31,26 @@ PDHV 是一个可调 300V 高压 USB PD 电源，所有 USB 端口都彼此隔�
  * 项目地址：https://github.com/Aylo6061/PDHV
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/PHDV.PNG)
+
+ ### <font color="red">3、Modular-Things - </font>
+
+
+
+ * 项目地址：https://github.com/modular-things/modular-things
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/.PNG)
+
+ ### <font color="red">4、OpenEarable - </font>
+
+OpenEarable 是一个新的、开源的、基于 Arduino 的基于耳朵的传感应用平台。它提供了一个多功能的原型平台，支持各种传感器和执行器，使其适合耳式研究和开发。  
+
+ * 项目地址：https://github.com/teco-kit/open-earable
+
+OpenEarable 旨在通过提供灵活的开源硬件平台来实现基于耳朵的传感应用。它集成了一系列传感器，包括一个 9 轴惯性测量单元，一个耳道压力和温度传感器，一个向内超声波麦克风，一个扬声器，一个按钮和一个可控的 RGB LED。通过这些特性，OpenEarable 为研究人员和开发人员提供了探索各种应用场景的能力。
+
+OpenEarable 通过 BLE (低功耗蓝牙)控制和传输传感器数据。音频播放和记录到内部 SD 卡(所需卡SanDisk Extreme Class 3，必须格式化为 exFAT)。OpenEarable 与提供的仪表板和 edge-ml 兼容。
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-102/OpenEarable.PNG)
 
 ### 欢迎订阅
 
