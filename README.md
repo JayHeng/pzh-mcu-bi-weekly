@@ -13,6 +13,8 @@
 
 ## 2024农历甲辰龙年
 
+[第 103 期](docs/issue-103.md) 
+
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
 [第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
@@ -290,6 +292,11 @@
 > * 【第 101 期】227、[ChatDBG - 一款集成大语言模型的调试器](https://github.com/plasma-umass/ChatDBG)
 > * 【第 102 期】228、[eepromfs - 基于EEPROM的简易类文件数据读写库](https://gitee.com/wtau_zaozao/eepromfs)
 > * 【第 102 期】229、[Modular-Things - 基于OSAP协议实现的简化硬件设计](https://github.com/modular-things/modular-things)
+> * 【第 103 期】230、[CherryUSB - 小而美的嵌入式USB主从协议栈](https://github.com/cherry-embedded/CherryUSB)
+> * 【第 103 期】231、[tslib - 嵌入式中使用最广泛的电阻触摸屏校正算法库](https://github.com/libts/tslib)
+> * 【第 103 期】232、[cotParam - 基于C语言的轻量级参数管理框架](https://gitee.com/cot_package/cot_param)
+> * 【第 103 期】233、[cotMenu - 轻量级多级菜单控制框架程序](https://gitee.com/cot_package/cot_menu)
+> * 【第 103 期】234、[cotLed - 轻量级LED控制模块](https://gitee.com/cot_package/cot_led)
 
 **项目(硬)**
 
