@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -26,6 +26,25 @@ M17 是一个由开源开发者和无线电爱好者组成的社区，社区正�
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/M17.png)
 
+### <font color="red">2、DeviceScript - 用于微型物联网设备的编程语言</font>
+
+DeviceScript 为基于低资源微控制器的设备带来了 TypeScript 开发人员的体验，DeviceScript 被编译成一个定制的 VM 字节码，它可以在非常受限的环境中运行。
+
+ * 项目地址：https://github.com/microsoft/devicescript/
+
+DeviceScript 特点包括：
+
+```text
+- 类似 TypeScript 熟悉的语法和工具
+- 小内存占用 DeviceScript 字节码解释器
+- 在抽象硬件服务之上编写可重用的应用程序/固件
+- 专为低功耗，低闪存，低内存嵌入式项目
+- 使用模拟或真实的传感器开发和测试固件
+- 完整的调试经验，在Visual Studio Code，硬件或模拟设备
+- 利用npm、yarn或pnpm来分发和使用DeviceScript包。
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/DeviceScript.png)
 
 ### 欢迎订阅
 
