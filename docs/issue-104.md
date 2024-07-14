@@ -12,19 +12,19 @@
 
 历史上的今天：
 
-本期共 3 个项目，希望对你有帮助！
+本期共 4 个项目，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、M17 - 开源业余无线电</font>
+### <font color="red">1、M17 - 开源业余无线电套件</font>
 
 M17 是一个由开源开发者和无线电爱好者组成的社区，社区正在开发开源硬件、软件，并为业余无线电操作员提供完整的数据和语音数字无线电协议。协议的语音模式使用免费和开放的 Codec 2 语音编码器。
 
  * 项目地址：https://github.com/M17-Project
 
-硬件部分包含一个完整的低射频功率 I/Q 收发器，能够支持几乎任何模式(包括M17和FreeDV)。它是围绕 AT86RF215 芯片构建的，由 Microchip/Atmel 和 Lattice 的 LIFCL-40-9SG72C FPGA作为 stm32f469 板的屏蔽。该板可以与其他 MCU 平台配合使用。
+硬件部分包含一个完整的低射频功率 I/Q 收发器，能够支持几乎任何模式(包括M17和FreeDV)。它是围绕 AT86RF215 芯片构建的，由 Microchip/Atmel 和 Lattice 的 LIFCL-40-9SG72C FPGA 作为 stm32f469 板的屏蔽。该板可以与其他 MCU 平台配合使用。
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/M17.png)
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-104/M17.png)
 
 ### <font color="red">2、DeviceScript - 用于微型物联网设备的编程语言</font>
 
@@ -44,7 +44,7 @@ DeviceScript 特点包括：
 - 利用npm、yarn或pnpm来分发和使用DeviceScript包。
 ```
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/DeviceScript.png)
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-104/DeviceScript.png)
 
 ### <font color="red">3、usb-switch - 软硬件全开源的USB-C双向切换器</font>
 
@@ -52,7 +52,15 @@ usb-switch 是 USB-C 双向切换器，它可以实际控制 USB 设备和主机
 
  * 项目地址：https://gitlab.com/CodethinkLabs/usb-switch
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/usb-switch.PNG)
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-104/usb-switch.PNG)
+
+### <font color="red">4、rogowski-relief - 基于罗氏线圈的电流探头</font>
+
+该项目是一个基于 rogowski 线圈的电流探头，旨在测量狭小空间中的高频交流电流。感应线圈被优化得足够小，可以安装在 to -220 晶体管的引线之间，并且可以绕着许多通孔功率元件的引线滑动，以进行非侵入式电流测量。该项目由 rogowski 线圈和积分器/放大器组成，积分器/放大器调节来自 rogowski 线圈的信号，并提供与流过由 rogowski 线圈环绕的导体的电流成比例的输出电压。
+
+ * 项目地址：https://github.com/westonb/rogowski-relief
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-104/rogowski-relief.PNG)
 
 ### 欢迎订阅
 
