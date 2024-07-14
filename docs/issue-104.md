@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -45,6 +45,14 @@ DeviceScript 特点包括：
 ```
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/DeviceScript.png)
+
+### <font color="red">3、usb-switch - 软硬件全开源的USB-C双向切换器</font>
+
+usb-switch 是 USB-C 双向切换器，它可以实际控制 USB 设备和主机之间的切换连接，对于 USB-C 的基础功能都支持，如高速通信和充电功能。这个项目主要解决了一个主机和多个设备，或者一个设备和多个主机的无痛切换问题。
+
+ * 项目地址：https://gitlab.com/CodethinkLabs/usb-switch
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-103/usb-switch.PNG)
 
 ### 欢迎订阅
 
