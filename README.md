@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 103 期](docs/issue-103.md) 
+[第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
@@ -297,6 +297,7 @@
 > * 【第 103 期】232、[cotParam - 基于C语言的轻量级参数管理框架](https://gitee.com/cot_package/cot_param)
 > * 【第 103 期】233、[cotMenu - 轻量级多级菜单控制框架程序](https://gitee.com/cot_package/cot_menu)
 > * 【第 103 期】234、[cotLed - 轻量级LED控制模块](https://gitee.com/cot_package/cot_led)
+> * 【第 104 期】235、[DeviceScript - 用于微型物联网设备的编程语言](https://github.com/microsoft/devicescript/)
 
 **项目(硬)**
 
@@ -420,6 +421,9 @@
 > * 【第 101 期】118、[EEGwithRaspberryPI - 成本经济的开源脑机接口套件](https://github.com/Pi-EEG/EEGwithRaspberryPI)
 > * 【第 102 期】119、[PDHV - 可调高压USB PD电源](https://github.com/Aylo6061/PDHV)
 > * 【第 102 期】120、[OpenEarable - 基于Arduino的入耳式传感应用平台](https://github.com/teco-kit/open-earable)
+> * 【第 104 期】121、[M17 - 开源业余无线电套件](https://github.com/M17-Project)
+> * 【第 104 期】122、[usb-switch - 软硬件全开源的USB-C双向切换器](https://gitlab.com/CodethinkLabs/usb-switch)
+> * 【第 104 期】123、[rogowski-relief - 基于罗氏线圈的电流探头](https://github.com/westonb/rogowski-relief)
 
 **工具(软)**
 
