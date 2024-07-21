@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 3 个项目、1 个工具，希望对你有帮助！
+本期共 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -54,6 +54,14 @@ Joulescope 是一款经济实惠的精密能量分析仪，它能精确地同时
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/Joulescope-1.PNG)
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/Joulescope-2.PNG)
+
+ ### <font color="red">4、OMOTE - 基于ESP32和LVGL的开源万能遥控</font>
+
+OMOTE 是一个基于 ESP32 的开源通用遥控器。它的电容式 2.8 英寸触摸屏为切换设备和设置提供了直观而快捷的用户界面。由于遥控器具有红外、Wi-Fi和蓝牙连接功能，因此不需要集线器或坞站。由于其优化的功耗，OMOTE 充电一次可以运行数月。其所有设计文件都是开源的，可以根据自己的设备和需求完全定制它们。
+
+ * 项目地址：https://github.com/CoretechR/OMOTE
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/OMOTE.gif)
 
 ## 工具类
 
