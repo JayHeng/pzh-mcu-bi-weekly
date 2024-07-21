@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -35,7 +35,21 @@ DC-UPS 特性包括：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/DC-UPS.PNG)
 
+## 工具类
 
+### <font color="red">1、fq - 支持各种流媒体格式解析的小软件</font>
+
+fq 受 jq 工具和语言的启发，允许用户以相同的方式处理二进制格式。除了使用 jq 表达式，它还可以显示解码的树结构，转换，切片和连接二进制数据。它还支持嵌套格式，并具有可自动完成函数和名称的交互式 REPL。fq 最初设计用于查询、检查和调试媒体编解码器和容器，如 MP4、FLAC和JPEG，但后来扩展到支持各种格式。
+
+ * 工具地址：https://github.com/wader/fq
+
+fq 支持的格式如下：  
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/fq-formats.PNG)
+
+fq 解析效果如下：  
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/fq.PNG)
 
 ### 欢迎订阅
 
