@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目、1 个工具，希望对你有帮助！
+本期共 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -34,6 +34,16 @@ DC-UPS 特性包括：
 ```
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/DC-UPS.PNG)
+
+ ### <font color="red">2、Moddable SDK - 为嵌入式软件开发带来JavaScript生态系统</font>
+
+Moddable SDK 改变了嵌入式软件的构建方式，它将为网络提供动力的 JavaScript 语言引入为消费者和工业物联网产品提供动力的低成本硬件。软件开发人员现在可以自由地使用许多标准的 web 开发工具，而不必纠结于专有的嵌入式 sdk。modable SDK 集成了对网络、传感器、视觉丰富的触摸显示、安全、音频、数据存储等的支持。
+
+ * 项目地址：https://github.com/Moddable-OpenSource/moddable
+
+基于 Moddable SDK 开发的产品界面效果：
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/ModdableSDK.PNG)
 
 ## 工具类
 
