@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 2 个项目、1 个工具，希望对你有帮助！
+本期共 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -44,6 +44,16 @@ Moddable SDK 改变了嵌入式软件的构建方式，它将为网络提供动�
 基于 Moddable SDK 开发的产品界面效果：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/ModdableSDK.PNG)
+
+ ### <font color="red">3、Joulescope - 廉价、精密的功耗分析仪</font>
+
+Joulescope 是一款经济实惠的精密能量分析仪，它能精确地同时测量提供给目标设备的电压和电流，然后计算功率和能量。最早是在 kickstarter 上发起的众筹项目，发布时开源了图形用户界面(UI)，UI 在主机上运行，并通过 USB 与 Jouescope 设备通信。
+
+ * 项目地址：https://github.com/jetperch/pyjoulescope_ui
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/Joulescope-1.PNG)
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-105/Joulescope-2.PNG)
 
 ## 工具类
 
