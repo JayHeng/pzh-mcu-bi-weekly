@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1997年8月15，Linux平台上主流的桌面环境GNOME创始人 Miguel de Icaza 通过电子邮件宣布GNOME问世。
 
-本期共 3 个项目、1 个工具，希望对你有帮助！
+本期共 4 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -32,13 +32,30 @@ grblHAL 是针对 32 位处理器的 Grbl v1.1 的重写版。引入硬件抽象
 
  * 项目地址：https://github.com/grblHAL
 
-### <font color="red">3、linux-ch32v003 - 在ch32v003单片机上运行Linux</font>
+ ### <font color="red">3、PicoCNC - 4轴CNC运动控制器</font>
+
+PicoCNC 是一个控制子板，可与 grblHAL 和 Rapsberry Pi Pico 微控制器一起，为路由器、铣床、激光和车床等设备创建了一个强大的 CNC 运动控制器。软件基于 grblHAL，它构成了具有先进功能的运动控制系统的基础。
+
+ * 项目地址：https://github.com/phil-barrett/PicoCNC/
+
+PicoCNC 特性包括：
+
+```text
+- 通过螺钉端子和销头支持多达4轴
+- 主轴控制：PWM (5 v)、方向(5 v)、0-10V、支持12V PWM(通过开路集电极输出)
+- 每个轴增加限位开关
+- 包含继电器的支持
+- 隔离标准Grbl输入控制: 循环启动，饲料保持，停止和安全门
+- 光隔离探头输入
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-106/PicoCNC.PNG)
+
+### <font color="red">4、linux-ch32v003 - 在ch32v003单片机上运行Linux</font>
 
 这个项目实现了在 CH32V003 微控制器上运行 Linux 操作系统。它通过使用一个 8MB 的 SPI PSRAM 芯片和一个 RISC-V 模拟器(mini-rv32ima)来实现这一点。模拟器是必需的，因为 PSRAM 不能映射到微控制器的地址空间。Linux 内核和 rootfs 在引导时从 SD 卡加载到 PSRAM 中，文件系统基于 FatFs 库。
 
  * 项目地址：https://github.com/tvlad1234/linux-ch32v003
-
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-106/.PNG)
 
 ## 工具类
 
