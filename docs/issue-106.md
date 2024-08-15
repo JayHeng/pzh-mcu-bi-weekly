@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,15 @@
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-106/.PNG)
 
+## 工具类
 
+### <font color="red">1、exe_to_dll - 将EXE转换为DLL的小工具</font>
+
+这个小工具可以转换 EXE，以便它可以像 DLL 一样加载。工具支持 32 位和 64 位 DLL。
+
+ * 工具地址：https://github.com/hasherezade/exe_to_dll
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-106/exe_to_dll.PNG)
 
 ### 欢迎订阅
 
