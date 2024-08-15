@@ -12,11 +12,25 @@
 
 历史上的今天：
 
-本期共 1 个项目、1 个工具，希望对你有帮助！
+本期共 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、linux-ch32v003 - 在ch32v003单片机上运行Linux</font>
+### <font color="red">1、Grbl - 开源嵌入式G代码解析器</font>
+
+Grbl 是一个高性能，低成本的以并行端口为基础的 CNC 运动控制器固件。它可以运行在 Arduino (Duemillanove/Uno) 上。控制器是用高度优化的 C 语言编写的，利用 avr 芯片的外设功能来实现精确的定时和异步操作。它能够保持高达 30kHz 的稳定，无抖动控制脉冲。
+
+Grbl 接受符合标准的 G 代码，并已与几个 CAM 工具的输出进行了测试。弧，圆和螺旋运动完全支持，以及所有其他主要的 G 代码命令。
+
+ * 项目地址：https://github.com/grbl/grbl
+
+### <font color="red">2、grblHAL - </font>
+
+
+
+ * 项目地址：https://github.com/grblHAL
+
+### <font color="red">3、linux-ch32v003 - 在ch32v003单片机上运行Linux</font>
 
 这个项目实现了在 CH32V003 微控制器上运行 Linux 操作系统。它通过使用一个 8MB 的 SPI PSRAM 芯片和一个 RISC-V 模拟器(mini-rv32ima)来实现这一点。模拟器是必需的，因为 PSRAM 不能映射到微控制器的地址空间。Linux 内核和 rootfs 在引导时从 SD 卡加载到 PSRAM 中，文件系统基于 FatFs 库。
 
