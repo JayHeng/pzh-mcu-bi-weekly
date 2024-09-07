@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
+[第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
@@ -298,6 +298,7 @@
 > * 【第 103 期】233、[cotMenu - 轻量级多级菜单控制框架程序](https://gitee.com/cot_package/cot_menu)
 > * 【第 103 期】234、[cotLed - 轻量级LED控制模块](https://gitee.com/cot_package/cot_led)
 > * 【第 104 期】235、[DeviceScript - 用于微型物联网设备的编程语言](https://github.com/microsoft/devicescript/)
+> * 【第 105 期】236、[Moddable SDK - 为嵌入式软件开发带来JavaScript生态系统](https://github.com/Moddable-OpenSource/moddable)
 
 **项目(硬)**
 
@@ -424,6 +425,9 @@
 > * 【第 104 期】121、[M17 - 开源业余无线电套件](https://github.com/M17-Project)
 > * 【第 104 期】122、[usb-switch - 软硬件全开源的USB-C双向切换器](https://gitlab.com/CodethinkLabs/usb-switch)
 > * 【第 104 期】123、[rogowski-relief - 基于罗氏线圈的电流探头](https://github.com/westonb/rogowski-relief)
+> * 【第 105 期】124、[DC-UPS - 开源小型直流60W UPS电源](https://github.com/TobleMiner/DC-UPS)
+> * 【第 105 期】125、[Joulescope - 廉价、精密的功耗分析仪](https://github.com/jetperch/pyjoulescope_ui)
+> * 【第 105 期】126、[OMOTE - 基于ESP32和LVGL的开源万能遥控](https://github.com/CoretechR/OMOTE)
 
 **工具(软)**
 
@@ -538,6 +542,7 @@
 > * 【第 096 期】109、[HexEd.it - 一款在线的Hex编辑器](https://hexed.it/)
 > * 【第 096 期】110、[FreeType - 一个开源软件字体引擎](https://freetype.org/)
 > * 【第 099 期】111、[Quick Connect Studio - 基于云的瑞萨嵌入式系统设计平台](https://www.renesas.cn/cn/zh/software-tool/quick-connect-studio)
+> * 【第 105 期】112、[fq - 支持各种流媒体格式解析的小软件](https://github.com/wader/fq)
 
 **工具(硬)**
 
