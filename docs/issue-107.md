@@ -12,11 +12,17 @@
 
 历史上的今天：
 
-本期共 1 个项目、0 个工具，希望对你有帮助！
+本期共 2 个项目、0 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、letter-shell - 一个特别适用MCU的嵌入式小型shell</font>
+### <font color="red">1、varch - 一个嵌入式C语言常用代码模块库</font>
+
+varch（we-architecture，意为我们的框架库）是嵌入式 C 语言常用代码模块库，包含了嵌入式中常用的算法库, 数据结构（容器）库, 解析器库, 独立C语言 std 库, 工具库等等。具有简单, 通用, 高效的特点，目的为了学习以及在开发中拿来就用，提高开发效率以及代码可靠稳定性。
+
+ * 项目地址：https://gitee.com/Lamdonn/varch
+
+### <font color="red">2、letter-shell - 一个特别适用MCU的嵌入式小型shell</font>
 
 letter shell 是一个 C 语言编写的，可以嵌入在程序中的嵌入式 shell，主要面向嵌入式设备，以 C 语言函数为运行单位，可以通过命令行调用，运行程序中的函数。  
 
