@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1999年9月8日，中国第一台交流传动内燃机车研制成功。
 
-本期共 3 个项目、0 个工具，希望对你有帮助！
+本期共 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -58,9 +58,15 @@ letter shell 3.x 主要功能有：
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-107/shell_end_line_mode.gif)
 
-## 工具类
+### <font color="red">4、usb-sniffer-lite - 一个基于RP2040的USB2.0分析仪</font>
 
+这是一个简单的基于树莓派 RP2040 的 USB 2.0 分析仪。它支持低速和全速模式。固件将自己呈现为虚拟 com 端口(VCP)，因此不需要额外的软件，并且它与所有操作系统兼容。
 
+这个分析仪没有数据包解码功能，但是有一个优秀的在线 USB 描述符和请求解析器，它对解码标准描述符和请求非常有帮助。编译后的二进制文件需要更新 CRC 值才能被 RP2040 识别。这可以使用 bin2uf2 工具完成。  
+
+ * 项目地址：https://github.com/ataradov/usb-sniffer-lite
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-107/usb-sniffer-lite.PNG)
 
 ### 欢迎订阅
 
