@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1925年10月2日，英国科学家贝尔德制成世界上第一个电视雏型。
 
-本期共 3 个项目，希望对你有帮助！
+本期共 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -50,6 +50,29 @@ JPL 开源火星车是一个开源的，自己建造的用来探索火星表面�
  * 项目地址：https://github.com/nasa-jpl/open-source-rover
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/open-source-rover.gif)
+
+### <font color="red">4、MagiClick S3 - 一款基于ESP32-S3的机械宏键盘</font>
+
+MagiClick S3 是一个单键键盘，基于 ESP32-S3 设计的，带有彩色屏幕。软件开发默认使用 CircuitPython。也可以使用 MicroPython, Arduino。
+
+ * 项目地址：https://github.com/MakerM0/MagiClick-esp32s3
+
+MagiClick S3 规格包括：
+
+```text
+- 0.85英寸彩色屏幕，128x128分辨率
+- esp32-s3，它支持WiFi，闪存和足够大的RAM来帮助添加更多的功能脚本
+- 整体操作主要以中间的机械轴按钮为主，机身左右两侧一般作为辅助
+- 键盘轴采用可插拔设计，您可以自由选择静音轴或其他
+- 内置一个小扬声器，听一个声音是如此容易
+- 机载6轴运动传感器
+- 在机身后部有一个扩展口
+- USB Type-C接口
+- 底部有一个重置按钮
+- 车载彩色led。
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/MagiClickS3.png)
 
 ### 欢迎订阅
 
