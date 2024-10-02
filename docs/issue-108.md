@@ -12,11 +12,11 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、AimRT - 一个面向现代机器人领域的运行时开发框架。</font>
+### <font color="red">1、AimRT - 一个面向现代机器人领域的运行时开发框架</font>
 
 AimRT 是一个面向现代机器人领域的运行时开发框架。 它基于 Modern C++ 开发，轻量且易于部署，在资源管控、异步编程、部署配置等方面具有更现代的设计。AimRT 致力于整合机器人端侧、边缘端、云端等各种部署场景的研发。 它服务于现代基于人工智能和云的机器人应用，提供完善的调试和性能分析工具链，以及良好的可观测性支持。
 
@@ -24,8 +24,26 @@ AimRT 还提供了全面的插件开发接口，具有高度可扩展性。 它�
 
  * 项目地址：https://github.com/AimRT/AimRT
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/)
+### <font color="red">2、QuarkTS - 用于小型嵌入式应用程序的开源操作系统</font>
 
+QuarkTS 是一个操作系统，它提供了一个现代环境来构建稳定且可预测的事件驱动多任务嵌入式软件。该操作系统建立在一个协作的准静态调度程序之上，其简化的内核使用链链方法和事件队列实现了一个专门的轮询方案，以提供真正的 FIFO 优先级调度。
+
+QuarkTS 是使用符合 MISRA C 2012 和 CERT 编码标准指南的正式和严格的流程开发的，并辅以针对安全关键应用的多个静态分析检查。
+
+ * 项目地址：https://github.com/kmilo17pet/QuarkTS
+
+QuarkTS 有如下特点： 
+
+```text
+- 优先协同调度。
+- 时间控制(定时任务和软件计时器)
+- 任务间通信原语、队列、通知和事件标志。
+- 状态机(分层支持)
+- 协同例程。
+- 命令行接口(CLI)
+```
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/)
 
 ### 欢迎订阅
 
