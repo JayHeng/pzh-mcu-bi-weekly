@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -43,7 +43,13 @@ QuarkTS 有如下特点：
 - 命令行接口(CLI)
 ```
 
- ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/)
+### <font color="red">3、JPL open-source-rover - 一款开源的缩小版6轮火星漫游车</font>
+
+JPL 开源火星车是一个开源的，自己建造的用来探索火星表面的6轮火星车设计的缩小版。“开源漫游者”的设计完全基于消费者的现货(COTS)部件。该项目旨在为那些想要参与机械工程，软件，电子，机器人技术的人提供教学和学习经验，同时也是崎岖地形的优秀研究平台。不需要事先的技能或知识。
+
+ * 项目地址：https://github.com/nasa-jpl/open-source-rover
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-108/open-source-rover.gif)
 
 ### 欢迎订阅
 
