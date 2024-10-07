@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
+[第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
@@ -302,6 +302,11 @@
 > * 【第 106 期】237、[Grbl - 开源嵌入式G代码解析器](https://github.com/grbl/grbl)
 > * 【第 106 期】238、[grblHAL - 可定制的CNC控制器解决方案](https://github.com/grblHAL)
 > * 【第 106 期】239、[linux-ch32v003 - 在ch32v003单片机上运行Linux](https://github.com/tvlad1234/linux-ch32v003)
+> * 【第 107 期】240、[str - 一个方便直观的C字符串处理库](https://github.com/mickjc750/str)
+> * 【第 107 期】241、[varch - 一个嵌入式C语言常用代码模块库](https://gitee.com/Lamdonn/varch)
+> * 【第 107 期】242、[letter-shell - 一个特别适用MCU的嵌入式小型shell](https://gitee.com/zhang-ge/letter-shell)
+> * 【第 108 期】243、[AimRT - 一个面向现代机器人领域的运行时开发框架](https://github.com/AimRT/AimRT)
+> * 【第 108 期】244、[QuarkTS - 用于小型嵌入式应用程序的开源操作系统](https://github.com/kmilo17pet/QuarkTS)
 
 **项目(硬)**
 
@@ -432,6 +437,9 @@
 > * 【第 105 期】125、[Joulescope - 廉价、精密的功耗分析仪](https://github.com/jetperch/pyjoulescope_ui)
 > * 【第 105 期】126、[OMOTE - 基于ESP32和LVGL的开源万能遥控](https://github.com/CoretechR/OMOTE)
 > * 【第 106 期】127、[PicoCNC - 4轴CNC运动控制器](https://github.com/phil-barrett/PicoCNC/)
+> * 【第 107 期】128、[usb-sniffer-lite - 一个基于RP2040的USB2.0分析仪](https://github.com/ataradov/usb-sniffer-lite)
+> * 【第 108 期】129、[JPL open-source-rover - 一款开源的缩小版6轮火星漫游车](https://github.com/nasa-jpl/open-source-rover)
+> * 【第 108 期】130、[MagiClick S3 - 一款基于ESP32-S3的机械宏键盘](https://github.com/MakerM0/MagiClick-esp32s3)
 
 **工具(软)**
 
