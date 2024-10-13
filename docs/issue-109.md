@@ -12,11 +12,19 @@
 
 历史上的今天：。
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、programmable_precision_resistor - 一个开源可编程精密电阻仪</font>
+### <font color="red">1、canopen - ECSS组织创建的适用于航天器的CANopen</font>
+
+该项目是 ECSS（(European Cooperation for Space Standardization，欧洲空间标准化合作组织）创建的一个适用用于航天器的 CANopen 版本，提供完整的 CANopen 软件栈实现，符合 CiA 301， CiA 306 和 ECSS-E-ST-50-15C 标准，针对关键嵌入式系统的高度可定制和可配置的开源库。
+
+ * 项目地址：https://gitlab.com/n7space/canopen
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-109/canopen.PNG)
+
+### <font color="red">2、programmable_precision_resistor - 一个开源可编程精密电阻仪</font>
 
 该项目是一个纯开源的可编程电阻仪，其电阻值可以通过数字信号来调节，可调范围 1Ω - 999.999KΩ，支持 SCPI 可编程仪器标准命令。
 
