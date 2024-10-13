@@ -18,13 +18,21 @@
 
 ### <font color="red">1、canopen - ECSS组织创建的适用于航天器的CANopen</font>
 
-该项目是 ECSS（(European Cooperation for Space Standardization，欧洲空间标准化合作组织）创建的一个适用用于航天器的 CANopen 版本，提供完整的 CANopen 软件栈实现，符合 CiA 301， CiA 306 和 ECSS-E-ST-50-15C 标准，针对关键嵌入式系统的高度可定制和可配置的开源库。
+该项目是 ECSS（(European Cooperation for Space Standardization，欧洲空间标准化合作组织）创建的一个适用于航天器的 CANopen 版本，提供完整的 CANopen 软件栈实现，符合 CiA 301， CiA 306 和 ECSS-E-ST-50-15C 标准，针对关键嵌入式系统的高度可定制和可配置的开源库。
 
  * 项目地址：https://gitlab.com/n7space/canopen
 
  ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-109/canopen.PNG)
 
-### <font color="red">2、programmable_precision_resistor - 一个开源可编程精密电阻仪</font>
+### <font color="red">2、ecat_servo - 基于STM32的EtherCAT CiA402伺服驱动</font>
+
+EtherCAT 是用于自动化的实时以太网协议，目前最流行的 EtherCAT 伺服驱动应用协议是 CANopen（基于EtherCAT） CiA402。该项目是 CoE CiA402 标准的开源实现，用于开放式电机控制器，如 ODrive， STMBL 等。该项目展示了如何使用免费和开源工具进行 EtherCAT 设备开发。
+
+ * 项目地址：https://github.com/kubabuda/ecat_servo
+
+ ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-109/ecat_servo.PNG)
+
+### <font color="red">3、programmable_precision_resistor - 一个开源可编程精密电阻仪</font>
 
 该项目是一个纯开源的可编程电阻仪，其电阻值可以通过数字信号来调节，可调范围 1Ω - 999.999KΩ，支持 SCPI 可编程仪器标准命令。
 
