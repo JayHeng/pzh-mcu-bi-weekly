@@ -13,6 +13,8 @@
 
 ## 2024农历甲辰龙年
 
+[第 109 期](docs/issue-109.md)
+
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
@@ -307,6 +309,8 @@
 > * 【第 107 期】242、[letter-shell - 一个特别适用MCU的嵌入式小型shell](https://gitee.com/zhang-ge/letter-shell)
 > * 【第 108 期】243、[AimRT - 一个面向现代机器人领域的运行时开发框架](https://github.com/AimRT/AimRT)
 > * 【第 108 期】244、[QuarkTS - 用于小型嵌入式应用程序的开源操作系统](https://github.com/kmilo17pet/QuarkTS)
+> * 【第 109 期】245、[RAMTEX - 适用于RGB/多级灰度/黑白屏的GUI](https://www.ramtex.dk/)
+> * 【第 109 期】246、[canopen - ECSS组织创建的适用于航天器的CANopen]https://gitlab.com/n7space/canopen)
 
 **项目(硬)**
 
@@ -440,6 +444,8 @@
 > * 【第 107 期】128、[usb-sniffer-lite - 一个基于RP2040的USB2.0分析仪](https://github.com/ataradov/usb-sniffer-lite)
 > * 【第 108 期】129、[JPL open-source-rover - 一款开源的缩小版6轮火星漫游车](https://github.com/nasa-jpl/open-source-rover)
 > * 【第 108 期】130、[MagiClick S3 - 一款基于ESP32-S3的机械宏键盘](https://github.com/MakerM0/MagiClick-esp32s3)
+> * 【第 109 期】131、[ecat_servo - 基于STM32的EtherCAT CiA402伺服驱动](https://github.com/kubabuda/ecat_servo)
+> * 【第 109 期】132、[programmable_precision_resistor - 一个开源可编程精密电阻仪](https://github.com/sbstnh/programmable_precision_resistor)
 
 **工具(软)**
 

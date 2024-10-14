@@ -30,6 +30,8 @@ RAMTEX 是一家软件公司，专注于黑白/RGB/多级灰度屏的图形用�
 
 其中 IOTester 将“嵌入式”I/O硬件连接到 PC，并使硬件可以直接从用 C 或 c++ 编写的普通 PC 程序应用程序访问和控制。
 
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-109/RAMTEX-4.PNG)
+
 ### <font color="red">2、canopen - ECSS组织创建的适用于航天器的CANopen</font>
 
 该项目是 ECSS（(European Cooperation for Space Standardization，欧洲空间标准化合作组织）创建的一个适用于航天器的 CANopen 版本，提供完整的 CANopen 软件栈实现，符合 CiA 301， CiA 306 和 ECSS-E-ST-50-15C 标准，针对关键嵌入式系统的高度可定制和可配置的开源库。
