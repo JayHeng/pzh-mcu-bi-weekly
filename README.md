@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 109 期](docs/issue-109.md)
+[第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
@@ -311,6 +311,8 @@
 > * 【第 108 期】244、[QuarkTS - 用于小型嵌入式应用程序的开源操作系统](https://github.com/kmilo17pet/QuarkTS)
 > * 【第 109 期】245、[RAMTEX - 适用于RGB/多级灰度/黑白屏的GUI](https://www.ramtex.dk/)
 > * 【第 109 期】246、[canopen - ECSS组织创建的适用于航天器的CANopen](https://gitlab.com/n7space/canopen)
+> * 【第 110 期】247、[embedded-hal - 嵌入式系统通用HAL驱动](https://github.com/rust-embedded/embedded-hal)
+> * 【第 110 期】248、[generative-ai-for-beginners - 微软出品免费人工智能入门课程](https://github.com/microsoft/generative-ai-for-beginners)
 
 **项目(硬)**
 
@@ -446,6 +448,8 @@
 > * 【第 108 期】130、[MagiClick S3 - 一款基于ESP32-S3的机械宏键盘](https://github.com/MakerM0/MagiClick-esp32s3)
 > * 【第 109 期】131、[ecat_servo - 基于STM32的EtherCAT CiA402伺服驱动](https://github.com/kubabuda/ecat_servo)
 > * 【第 109 期】132、[programmable_precision_resistor - 一个开源可编程精密电阻仪](https://github.com/sbstnh/programmable_precision_resistor)
+> * 【第 110 期】133、[Bus Pirate - 开源总线协议转换调试工具](https://hardware.buspirate.com/)
+> * 【第 110 期】134、[quadrant - 开源多通道手势音频控制](https://github.com/chronopoulos/quadrant-firmware)
 
 **工具(软)**
 
