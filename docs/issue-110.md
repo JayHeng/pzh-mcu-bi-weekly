@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -32,6 +32,14 @@
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/generative-ai-for-beginners.PNG)
+
+### <font color="red">2、quadrant - 开源多通道手势音频控制</font>
+
+quadrant 是一种基于距离传感器阵列的人机界面。该设备由4个 TOF 传感器组成，专门用于检测用户手在自由空间中的位置、速度和方向。机载信号处理用于识别手势和其他事件，这些值可以映射到软件和硬件合成器中的各种音乐参数。quadrant 具有 USB， CV 和硬件 midi 输出，因此可以将其连接到计算机，模拟合成器或任何其他兼容设备。  
+
+ * 项目地址：https://github.com/chronopoulos/quadrant-firmware
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/quadrant.PNG)
 
 ### 欢迎订阅
 
