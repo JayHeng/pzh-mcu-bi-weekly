@@ -12,11 +12,27 @@
 
 历史上的今天：。
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、generative-ai-for-beginners - 微软出品免费人工智能入门课程</font>
+### <font color="red">1、Bus Pirate - 开源多通道手势音频控制</font>
+
+Bus Pirate 是一个开源硬件调试工具，可以将简单的命令转换为常见的总线协议，如 1-Wire， I2C， SPI， UART，几个led 等。向芯片或传感器发送命令并获得响应，而无需编写一行代码。  
+
+ * 项目地址：https://hardware.buspirate.com/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/BusPirate.PNG)
+
+### <font color="red">2、quadrant - 开源多通道手势音频控制</font>
+
+quadrant 是一种基于距离传感器阵列的人机界面。该设备由4个 TOF 传感器组成，专门用于检测用户手在自由空间中的位置、速度和方向。机载信号处理用于识别手势和其他事件，这些值可以映射到软件和硬件合成器中的各种音乐参数。quadrant 具有 USB， CV 和硬件 midi 输出，因此可以将其连接到计算机，模拟合成器或任何其他兼容设备。  
+
+ * 项目地址：https://github.com/chronopoulos/quadrant-firmware
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/quadrant.PNG)
+
+### <font color="red">3、generative-ai-for-beginners - 微软出品免费人工智能入门课程</font>
 
 微软该课程总共 12 周 24 课，帮助初学者探索人工智能（AI）的世界！它包括实践课程、测验和实验，对初学者非常友好。  
 
@@ -32,14 +48,6 @@
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/generative-ai-for-beginners.PNG)
-
-### <font color="red">2、quadrant - 开源多通道手势音频控制</font>
-
-quadrant 是一种基于距离传感器阵列的人机界面。该设备由4个 TOF 传感器组成，专门用于检测用户手在自由空间中的位置、速度和方向。机载信号处理用于识别手势和其他事件，这些值可以映射到软件和硬件合成器中的各种音乐参数。quadrant 具有 USB， CV 和硬件 midi 输出，因此可以将其连接到计算机，模拟合成器或任何其他兼容设备。  
-
- * 项目地址：https://github.com/chronopoulos/quadrant-firmware
-
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-110/quadrant.PNG)
 
 ### 欢迎订阅
 
