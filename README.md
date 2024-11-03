@@ -310,7 +310,7 @@
 > * 【第 108 期】243、[AimRT - 一个面向现代机器人领域的运行时开发框架](https://github.com/AimRT/AimRT)
 > * 【第 108 期】244、[QuarkTS - 用于小型嵌入式应用程序的开源操作系统](https://github.com/kmilo17pet/QuarkTS)
 > * 【第 109 期】245、[RAMTEX - 适用于RGB/多级灰度/黑白屏的GUI](https://www.ramtex.dk/)
-> * 【第 109 期】246、[canopen - ECSS组织创建的适用于航天器的CANopen]https://gitlab.com/n7space/canopen)
+> * 【第 109 期】246、[canopen - ECSS组织创建的适用于航天器的CANopen](https://gitlab.com/n7space/canopen)
 
 **项目(硬)**
 
