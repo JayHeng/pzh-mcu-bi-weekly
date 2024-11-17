@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
+[第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
@@ -313,6 +313,7 @@
 > * 【第 109 期】246、[canopen - ECSS组织创建的适用于航天器的CANopen](https://gitlab.com/n7space/canopen)
 > * 【第 110 期】247、[embedded-hal - 嵌入式系统通用HAL驱动](https://github.com/rust-embedded/embedded-hal)
 > * 【第 110 期】248、[generative-ai-for-beginners - 微软出品免费人工智能入门课程](https://github.com/microsoft/generative-ai-for-beginners)
+> * 【第 111 期】249、[Zephyr - 面向物联网嵌入式小型可扩展RTOS](https://www.zephyrproject.org/)
 
 **项目(硬)**
 
@@ -566,6 +567,10 @@
 > * 【第 099 期】111、[Quick Connect Studio - 基于云的瑞萨嵌入式系统设计平台](https://www.renesas.cn/cn/zh/software-tool/quick-connect-studio)
 > * 【第 105 期】112、[fq - 支持各种流媒体格式解析的小软件](https://github.com/wader/fq)
 > * 【第 106 期】113、[exe_to_dll - 将EXE转换为DLL的小工具](https://github.com/hasherezade/exe_to_dll)
+> * 【第 111 期】114、[CMake - 一个跨平台的自动化构建系统](https://cmake.org/)
+> * 【第 111 期】115、[Ninja - 开源的轻量级快速构建工具](https://ninja-build.org/)
+> * 【第 111 期】116、[Kconfig - 一种用于配置系统选项和特性的配置系统](https://github.com/zephyrproject-rtos/zephyr/blob/main/doc/build/kconfig)
+> * 【第 111 期】117、[West - 用于Zephyr项目的可扩展命令行管理工具](https://github.com/zephyrproject-rtos/west)
 
 **工具(硬)**
 
