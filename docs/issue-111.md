@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 1 个项目、1 个工具，希望对你有帮助！
+本期共 1 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -37,6 +37,12 @@ Cmake 并不直接建构出最终的软件，而是产生标准的建构档（�
  * 项目地址：https://cmake.org/
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-111/CMake.PNG)
+
+### <font color="red">2、Ninja - 开源的轻量级快速构建工具</font>
+
+Ninja 是一个小型、快速的依赖驱动的构建系统，由 Google 的 Chris Martine 开发‌。它旨在提高构建速度，通过与其他构建系统（如 CMake 或 Meson）配合使用，生成中间构建文件，从而高效地编译源代码。Ninja 的设计哲学是简化构建过程并优化磁盘和内存的使用，特别适合大规模软件工程的构建‌。
+
+ * 项目地址：https://ninja-build.org/
 
 ### 欢迎订阅
 
