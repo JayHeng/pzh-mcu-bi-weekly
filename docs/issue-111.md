@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 1 个项目、2 个工具，希望对你有帮助！
+本期共 1 个项目、3 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -44,7 +44,13 @@ Ninja 是一个小型、快速的依赖驱动的构建系统，由 Google 的 Ch
 
  * 项目地址：https://ninja-build.org/
 
-### 欢迎订阅
+ ### <font color="red">3、West - 用于Zephyr项目的可扩展命令行工具</font>
+
+West 是 Zephyr 项目提供的一款命令行工具，也被 Zephyr 官网称作”瑞士军刀“，可扩展的命令行工具，负责 Zephyr 工作区管理，管理不同的仓库，下载所有 Zephyr 源码以及其他依赖包配置工作区，通过调用其他工具，来实现工程的构建，烧写以及调试，支持添加自定义扩展指令。
+
+ * 项目地址：https://github.com/zephyrproject-rtos/west
+
+### 欢迎订阅325228
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
 
