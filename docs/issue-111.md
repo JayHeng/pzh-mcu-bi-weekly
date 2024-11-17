@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 1 个项目，希望对你有帮助！
+本期共 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -25,6 +25,18 @@ Zephyr 内核具有占用空间较小、高性能、多线程的执行环境及�
  * 项目地址：https://www.zephyrproject.org/
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-111/Zephyr.PNG)
+
+## 工具类
+
+### <font color="red">1、CMake - 一个跨平台的自动化构建系统</font>
+
+CMake 是一个跨平台的安装（编译）工具，可以用简单的语句来描述所有平台的安装(编译过程)。它能够输出各种各样的 makefile 或者 project 文件，能测试编译器所支持的 C++ 特性,类似 UNIX下 的automake。只是 CMake 的组态档取名为 CMakeLists.txt。
+
+Cmake 并不直接建构出最终的软件，而是产生标准的建构档（如 Unix 的 Makefile 或 Windows Visual C++ 的 projects/workspaces），然后再依一般的建构方式使用。这使得熟悉某个集成开发环境（IDE）的开发者可以用标准的方式建构他的软件，这种可以使用各平台的原生建构系统的能力是 CMake 和 SCons 等其他类似系统的区别之处。
+
+ * 项目地址：https://cmake.org/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-111/CMake.PNG)
 
 ### 欢迎订阅
 
