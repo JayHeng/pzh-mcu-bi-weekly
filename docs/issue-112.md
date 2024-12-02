@@ -12,7 +12,7 @@
 
 Linus Torvalds 是非常厉害的程序员，他有两个名扬天下的作品：Linux 和 Git。但如果单论技术能力，有一个人也许比 Linus 更强，他就是法国程序员 Fabrice Bellard。本期项目均出自 Fabrice Bellard，他的博客 [bellard.org](https://bellard.org/) 有很多很棒的开源项目。
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -38,6 +38,15 @@ FFmpeg 是广泛使用的多媒体解决方案，既是一款音视频编解码�
  * 项目地址：https://ffmpeg.org//
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-112/FFmpeg.PNG)
+
+### <font color="red">3、TCC - 一个体积小巧但功能完整的C语言编译器</font>
+
+Tiny C Compiler（TCC）是一个开源的 C 语言编译器项目，旨在创建一个体积小巧但功能完整的 C 语言编译器。随着技术的发展，TCC 已经成为了许多开发者和研究者进行编译器学习和研究的首选工具。
+
+TCC 的特点是快速编译和小巧的体积，它支持标准  C语言（ISO C99），并且可以在多种操作系统上运行，包括 Linux、Windows、Mac OS X 等。由于其轻量级的特性，TCC 非常适合于嵌入式系统、教学和简单的项目。尽管它的功能和性能无法与 GCC 或 Clang 等大型编译器相比，但它在快速原型设计和学习领域中的应用尤为突出。 
+
+ * 项目地址：https://bellard.org/tcc/
+
 
 ### 欢迎订阅
 
