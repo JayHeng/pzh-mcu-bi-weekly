@@ -68,7 +68,7 @@ West 是 Zephyr 项目提供的一款命令行工具，也被 Zephyr 官网称�
 
  * 项目地址：https://github.com/zephyrproject-rtos/west
 
-### 欢迎订阅325228
+### 欢迎订阅
 
 文章会同时发布到我的 [博客园主页](https://www.cnblogs.com/henjay724/)、[CSDN主页](https://blog.csdn.net/henjay724)、[知乎主页](https://www.zhihu.com/people/henjay724)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=痞子衡嵌入式) 平台上。
 
