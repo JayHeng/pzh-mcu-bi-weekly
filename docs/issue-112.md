@@ -12,7 +12,7 @@
 
 Linus Torvalds 是非常厉害的程序员，他有两个名扬天下的作品：Linux 和 Git。但如果单论技术能力，有一个人也许比 Linus 更强，他就是法国程序员 Fabrice Bellard。本期项目均出自 Fabrice Bellard，他的博客 [bellard.org](https://bellard.org/) 有很多很棒的开源项目。
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -31,7 +31,13 @@ TinyGL 基于原始的 OpenGL 规范，但进行了大幅简化。它包含了�
 变换操作：支持平移、旋转和缩放等基本几何变换。
 ```
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-112/.PNG)
+### <font color="red">2、FFmpeg - 一个完整的跨平台音视频处理框架</font>
+
+FFmpeg 是广泛使用的多媒体解决方案，既是一款音视频编解码工具，同时也是一组音视频编解码开发套件，作为编解码开发套件，它为开发者提供了丰富的音视频处理的调用接口。其包括了目前领先的音/视频编码库 libavcodec。FFmpeg 提供了多种媒体格式的封装和解封装，包括多种音视频编码，多种协议的流媒体，多种色彩格式转换，多种采样率转换，多种码率转换等。FFmpeg 发展至今，已经被许多开源项目使用。
+
+ * 项目地址：https://ffmpeg.org//
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-112/FFmpeg.PNG)
 
 ### 欢迎订阅
 
