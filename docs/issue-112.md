@@ -12,7 +12,7 @@
 
 Linus Torvalds 是非常厉害的程序员，他有两个名扬天下的作品：Linux 和 Git。但如果单论技术能力，有一个人也许比 Linus 更强，他就是法国程序员 Fabrice Bellard。本期项目均出自 Fabrice Bellard，他的博客 [bellard.org](https://bellard.org/) 有很多很棒的开源项目。
 
-本期共 3 个项目，希望对你有帮助！
+本期共 4 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -47,6 +47,17 @@ TCC 的特点是快速编译和小巧的体积，它支持标准  C语言（ISO 
 
  * 项目地址：https://bellard.org/tcc/
 
+### <font color="red">4、QEMU - 一个通用的开源机器仿真器和虚拟器</font>
+
+QEMU（Quick EMUlator）是一种开源的虚拟机监视器和模拟器，它可以模拟多个硬件平台，包括 x86、ARM、PowerPC 等。QEM U广泛应用于虚拟化、嵌入式系统开发和仿真等领域。
+
+作为虚拟机监视器，QEMU 允许在一个物理主机上同时运行多个虚拟机，并提供对这些虚拟机的管理和控制能力。它支持各种操作系统，包括 Linux、Windows 和其他许多操作系统。作为模拟器，QEMU 可以将不同架构的二进制代码在一个主机上进行执行，从而实现跨平台的软件开发与测试。这使得开发人员可以在自己的工作环境中运行并调试不同体系结构下的程序。
+
+QEMU 还提供了丰富的功能和扩展性，如硬件加速、网络配置、磁盘镜像和快照等。它被广泛应用于云计算、容器技术、嵌入式系统仿真和移动设备开发等领域，并受到众多开发者和组织的支持与贡献。 
+
+ * 项目地址：https://www.qemu.org/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-112/QEMU.PNG)
 
 ### 欢迎订阅
 
