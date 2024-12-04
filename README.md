@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
+[第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
@@ -314,6 +314,8 @@
 > * 【第 110 期】247、[embedded-hal - 嵌入式系统通用HAL驱动](https://github.com/rust-embedded/embedded-hal)
 > * 【第 110 期】248、[generative-ai-for-beginners - 微软出品免费人工智能入门课程](https://github.com/microsoft/generative-ai-for-beginners)
 > * 【第 111 期】249、[Zephyr - 面向物联网嵌入式小型可扩展RTOS](https://www.zephyrproject.org/)
+> * 【第 112 期】250、[TinyGL - 一个轻量级的OpenGL库实现](https://bellard.org/TinyGL/)
+> * 【第 112 期】251、[FFmpeg - 一个完整的跨平台音视频处理框架](https://ffmpeg.org//)
 
 **项目(硬)**
 
@@ -571,6 +573,8 @@
 > * 【第 111 期】115、[Ninja - 开源的轻量级快速构建工具](https://ninja-build.org/)
 > * 【第 111 期】116、[Kconfig - 一种用于配置系统选项和特性的配置系统](https://github.com/zephyrproject-rtos/zephyr/blob/main/doc/build/kconfig)
 > * 【第 111 期】117、[West - 用于Zephyr项目的可扩展命令行管理工具](https://github.com/zephyrproject-rtos/west)
+> * 【第 112 期】118、[TCC - 一个体积小巧但功能完整的C语言编译器](https://bellard.org/tcc/)
+> * 【第 112 期】119、[QEMU - 一个通用的开源机器仿真器和虚拟器](https://www.qemu.org/)
 
 **工具(硬)**
 
