@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
+[第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
@@ -316,6 +316,9 @@
 > * 【第 111 期】249、[Zephyr - 面向物联网嵌入式小型可扩展RTOS](https://www.zephyrproject.org/)
 > * 【第 112 期】250、[TinyGL - 一个轻量级的OpenGL库实现](https://bellard.org/TinyGL/)
 > * 【第 112 期】251、[FFmpeg - 一个完整的跨平台音视频处理框架](https://ffmpeg.org//)
+> * 【第 113 期】252、[JesFs - 专门为小型低功耗设备设计的文件系统](https://github.com/joembedded/JesFs)
+> * 【第 113 期】253、[Spiffs - 专门为嵌入式设备设计的轻量级文件系统](https://github.com/pellepl/spiffs)
+> * 【第 113 期】254、[modm - 精简高效的嵌入式库生成工具](https://github.com/modm-io/modm)
 
 **项目(硬)**
 
@@ -453,6 +456,7 @@
 > * 【第 109 期】132、[programmable_precision_resistor - 一个开源可编程精密电阻仪](https://github.com/sbstnh/programmable_precision_resistor)
 > * 【第 110 期】133、[Bus Pirate - 开源总线协议转换调试工具](https://hardware.buspirate.com/)
 > * 【第 110 期】134、[quadrant - 开源多通道手势音频控制](https://github.com/chronopoulos/quadrant-firmware)
+> * 【第 113 期】135、[USB-SERIAL-L - 设计先进的USB转串口的开源硬件](https://github.com/OLIMEX/USB-SERIAL-L/)
 
 **工具(软)**
 
