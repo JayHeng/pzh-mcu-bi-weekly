@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 条资讯、1 个项目，希望对你有帮助！
+本期共 1 条资讯、2 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -28,7 +28,23 @@ STM32N6 是首款采用 Arm Cortex-M55 并提供高达 4.2MB 连续嵌入式 RAM
 
 ## 项目类
 
-### <font color="red">1、SKRTOS_sparrow - 极其微小的实时操作系统内核</font>
+### <font color="red">1、LK - 专为小型系统而设计的SMP内核</font>
+
+LK 是一种 smp 内核，专为移植到各种平台和 cpu 体系结构的小型系统而设计。其本质是一种 BootLoader，类似于 u-boot。它和 u-boot 最大的差别在于，LK 使用了多线程，而 u-boot 是一个单线程的流程。
+
+ * 项目地址：https://github.com/littlekernel/lk
+
+LK 高级特性如下：  
+
+```text
+- 完全可重入的多线程抢占内核
+- 可移植到许多 32 位和 64 位体系结构
+- 支持各种嵌入式和大型平台
+- 强大的模块化构建系统
+- 在构建时可选择大量实用工具组件
+```
+
+### <font color="red">2、SKRTOS_sparrow - 极其微小的实时操作系统内核</font>
 
 SKRTOS_sparrow 是一款极小型 RTOS，代码仅有 400 行，可以将它看成是一个 mini 版本的 FreeRTOS 内核。作者写了多篇博客讲解它的原理，并指导读者一步步完成一个实时操作系统。
 
