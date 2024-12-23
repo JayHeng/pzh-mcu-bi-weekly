@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
+[第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
 
@@ -319,6 +319,8 @@
 > * 【第 113 期】252、[JesFs - 专门为小型低功耗设备设计的文件系统](https://github.com/joembedded/JesFs)
 > * 【第 113 期】253、[Spiffs - 专门为嵌入式设备设计的轻量级文件系统](https://github.com/pellepl/spiffs)
 > * 【第 113 期】254、[modm - 精简高效的嵌入式库生成工具](https://github.com/modm-io/modm)
+> * 【第 114 期】255、[LK - 专为小型系统而设计的SMP内核](https://github.com/littlekernel/lk)
+> * 【第 114 期】256、[SKRTOS_sparrow - 极其微小的实时操作系统内核](https://github.com/skaiui2/SKRTOS_sparrow)
 
 **项目(硬)**
 
