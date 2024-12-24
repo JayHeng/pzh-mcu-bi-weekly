@@ -12,14 +12,17 @@
 
 历史上的今天：
 
-本期共 0 个项目、1 个工具，希望对你有帮助！
+本期共 1 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、</font>
+### <font color="red">1、hackbat - 用于试验不同的渗透测试技术的开源设备</font>
 
+HackBat 是一款开源设备，专为黑客和制造商设计，用于试验不同的渗透测试技术。该设备基于树莓派 RP2040 微控制器，具有射频收发器，NFC， WIFI， OLED 显示器。
 
- * 项目地址：
+ * 项目地址：https://github.com/controlpaths/hackbat
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-115/hackbat.PNG)
 
 ## 工具类
 
