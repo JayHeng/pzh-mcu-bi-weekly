@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目、1 个工具，希望对你有帮助！
+本期共 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -23,6 +23,14 @@ HackBat 是一款开源设备，专为黑客和制造商设计，用于试验不
  * 项目地址：https://github.com/controlpaths/hackbat
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-115/hackbat.PNG)
+
+### <font color="red">2、microscope - 可3D打印的实验室级别自动化显微镜</font>
+
+OpenFlexure 是一种可 3D 打印的显微镜，包括一个精确的机械平台来移动样品和聚焦光学。光学器件有许多不同的选择，从网络摄像头镜头到100倍的油浸物镜。OpenFlexure 可以实现非常精细（亚微米）的样品和镜头的机械定位，具有令人惊讶的良好的机械稳定性。
+
+ * 项目地址：https://gitlab.com/openflexure/openflexure-microscope
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-115/microscope.PNG)
 
 ## 工具类
 
