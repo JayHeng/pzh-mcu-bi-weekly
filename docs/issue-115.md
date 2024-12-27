@@ -10,9 +10,9 @@
 
 ## 唠两句
 
-历史上的今天：
+历史上的今天：1978年12月25日，哈雷彗星第一次在人们预言的时间里出现。
 
-本期共 2 个项目、1 个工具，希望对你有帮助！
+本期共 2 个项目、2 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -49,6 +49,14 @@ ngscopeclient 主要特性如下：
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-115/ngscopeclient.PNG)
+
+### <font color="red">2、Compiler Explorer - 在线编译器测试</font>
+
+Compiler Explorer 是一个集成各种编程语言，各种架构编译器版本的在线编程测试网站。
+
+ * 工具地址：https://godbolt.org/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-115/CompilerExplorer.PNG)
 
 ### 欢迎订阅
 
