@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 115 期](docs/issue-115.md) | 
+[第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
 
 [第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
@@ -323,6 +323,10 @@
 > * 【第 113 期】254、[modm - 精简高效的嵌入式库生成工具](https://github.com/modm-io/modm)
 > * 【第 114 期】255、[LK - 专为小型系统而设计的SMP内核](https://github.com/littlekernel/lk)
 > * 【第 114 期】256、[SKRTOS_sparrow - 极其微小的实时操作系统内核](https://github.com/skaiui2/SKRTOS_sparrow)
+> * 【第 116 期】257、[CosyOS - 零中断延迟的RTOS](https://gitee.com/cosyos/cosyos)
+> * 【第 116 期】258、[EFSMC - 一个基于事件驱动的有限状态机](https://gitee.com/simpost/EFSMC)
+> * 【第 116 期】259、[eLab - 集成多种开源项目和多个技术特性的嵌入式开发平台](https://gitee.com/event-os/elab)
+> * 【第 116 期】260、[YMCV - 跨平台迷你计算视觉库](https://gitee.com/yao_mi/ymcv)
 
 **项目(硬)**
 
