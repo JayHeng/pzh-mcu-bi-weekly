@@ -13,6 +13,8 @@
 
 ## 2024农历甲辰龙年
 
+[第 115 期](docs/issue-115.md) | 
+
 [第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
 [第 108 期](docs/issue-108.md) | [第 107 期](docs/issue-107.md) | [第 106 期](docs/issue-106.md) | [第 105 期](docs/issue-105.md) | [第 104 期](docs/issue-104.md) | [第 103 期](docs/issue-103.md) 
@@ -459,6 +461,8 @@
 > * 【第 110 期】133、[Bus Pirate - 开源总线协议转换调试工具](https://hardware.buspirate.com/)
 > * 【第 110 期】134、[quadrant - 开源多通道手势音频控制](https://github.com/chronopoulos/quadrant-firmware)
 > * 【第 113 期】135、[USB-SERIAL-L - 设计先进的USB转串口的开源硬件](https://github.com/OLIMEX/USB-SERIAL-L/)
+> * 【第 115 期】136、[hackbat - 用于试验不同的渗透测试技术的开源设备](https://github.com/controlpaths/hackbat)
+> * 【第 115 期】137、[microscope - 可3D打印的实验室级别自动化显微镜](https://gitlab.com/openflexure/openflexure-microscope)
 
 **工具(软)**
 
@@ -581,6 +585,8 @@
 > * 【第 111 期】117、[West - 用于Zephyr项目的可扩展命令行管理工具](https://github.com/zephyrproject-rtos/west)
 > * 【第 112 期】118、[TCC - 一个体积小巧但功能完整的C语言编译器](https://bellard.org/tcc/)
 > * 【第 112 期】119、[QEMU - 一个通用的开源机器仿真器和虚拟器](https://www.qemu.org/)
+> * 【第 115 期】120、[ngscopeclient - 多协议分析的开源上位机](https://github.com/ngscopeclient/scopehal-apps)
+> * 【第 115 期】121、[Compiler Explorer - 在线编译器测试](https://godbolt.org/)
 
 **工具(硬)**
 
