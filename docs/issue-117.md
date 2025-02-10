@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 3 个项目，希望对你有帮助！
+本期共 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -47,6 +47,18 @@ MiaoUI 主要特点如下：
 ```
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/MiaoUI.png)
+
+## 工具类
+
+### <font color="red">1、OpenEPT - 开源低功耗测试仪</font>
+
+OpenEPT 的主要目标是为工程师和研究人员提供一套全面的微控制器分析工具，促进对基于微控制器平台功耗的准确分析。所有资料全开源，还有一个上位机，方便查看功耗波形。
+
+ * 项目地址：https://www.openept.net/
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/OpenEPT1.png)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/OpenEPT2.png)
 
 ### 欢迎订阅
 
