@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 2 个项目，希望对你有帮助！
+本期共 3 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -31,6 +31,22 @@ ztask 是一个简单的基于计时器的调度器，除了 C 语言版本之�
  * 项目地址：https://github.com/dukelec/cdnet
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/CDNET.png)
+
+### <font color="red">3、MiaoUI - 一个基于C语言的单色OLED菜单UI框架</font>
+
+MiaoUI 是一个基于 u8g2 的单色 OLED 菜单 UI 框架。MiaoUI使用 C 语言实现，采用双向链表结构，使用非线性动画、移植方便、内存占用较小、能够快速部署，适用于具有小型 OLED 屏幕的嵌入式设备。
+
+ * 项目地址：https://github.com/JFeng-Z/MiaoUI
+
+MiaoUI 主要特点如下：
+
+```text
+- 多样化的菜单类型：支持 列表类菜单 和 图标类菜单，满足不同应用场景。
+- 流畅动画效果：内置 非线性动画，可动态打断，提升用户体验。
+- 灵活的自定义功能：支持菜单项自定义，列表与图标菜单可灵活嵌套。
+```
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/MiaoUI.png)
 
 ### 欢迎订阅
 
