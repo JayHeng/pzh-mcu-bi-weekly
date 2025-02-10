@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
+[第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
 
 [第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
@@ -21,9 +21,9 @@
 
 [第 102 期](docs/issue-102.md) | [第 101 期](docs/issue-101.md) | [第 100 期](docs/issue-100.md) | [第 099 期](docs/issue-099.md) | [第 098 期](docs/issue-098.md) | [第 097 期](docs/issue-097.md)
 
-[第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
-
 ## 2023农历癸卯兔年
+
+[第 096 期](docs/issue-096.md) | [第 095 期](docs/issue-095.md) | [第 094 期](docs/issue-094.md) | [第 093 期](docs/issue-093.md) | [第 092 期](docs/issue-092.md) | [第 091 期](docs/issue-091.md)
 
 [第 090 期](docs/issue-090.md) | [第 089 期](docs/issue-089.md) | [第 088 期](docs/issue-088.md) | [第 087 期](docs/issue-087.md) | [第 086 期](docs/issue-086.md) | [第 085 期](docs/issue-085.md)
 
@@ -327,6 +327,9 @@
 > * 【第 116 期】258、[EFSMC - 一个基于事件驱动的有限状态机](https://gitee.com/simpost/EFSMC)
 > * 【第 116 期】259、[eLab - 集成多种开源项目和多个技术特性的嵌入式开发平台](https://gitee.com/event-os/elab)
 > * 【第 116 期】260、[YMCV - 跨平台迷你计算视觉库](https://gitee.com/yao_mi/ymcv)
+> * 【第 117 期】261、[ztask - 一个简单的基于计时器的调度器](https://github.com/tomzbj/ztask)
+> * 【第 117 期】262、[CDNET - 面向CDBUS的可选高层协议](https://github.com/dukelec/cdnet)
+> * 【第 117 期】263、[MiaoUI - 一个基于C语言的单色OLED菜单UI框架](https://github.com/JFeng-Z/MiaoUI)
 
 **项目(硬)**
 
@@ -601,6 +604,7 @@
 > * 【第 062 期】5、[ChipWhisperer - 汽车级芯片爆破设备](https://github.com/newaetech/chipwhisperer)
 > * 【第 063 期】6、[TI-84 Plus CE Python - TI出品支持Python编程的图形化显示计算器](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python)
 > * 【第 078 期】7、[JI2C - 一款能直接读写芯片寄存器的USB转I2C模块上位机](http://jooiee.com/cms/ruanjian/112.html)
+> * 【第 117 期】8、[OpenEPT - 开源低功耗测试仪](https://www.openept.net/)
 
 **RT出品**
 
