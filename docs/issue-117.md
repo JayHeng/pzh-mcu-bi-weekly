@@ -12,7 +12,7 @@
 
 历史上的今天：
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -24,7 +24,13 @@ ztask 是一个简单的基于计时器的调度器，除了 C 语言版本之�
 
 因为 ztask 只是调度器，不是 OS，不支持抢占，所以要用户自己保证任务在短时间内退出，不会长期占用。许多 GUI 或者 OS 框架之类的内置调度器其实原理都差不多。
 
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/.png)
+### <font color="red">2、CDNET - 面向CDBUS的可选高层协议</font>
+
+传统串口协议很多，但是都不是很理想，譬如解析 AT 命令很麻烦、MODBUS 只支持单方向查询、PPP 协议要转义、字符串协议效率低。CDNET 协议非常简单，可以支持数据表读写、打印、IAP、波形显示 等功能，还可以使用配套开源上位机 cdbus_gui、cdnet_tun 等工具，把简单的串口数据包映射成电脑 UDP 数据包，上位机可以使用 UDP/IP 实现串口通讯，且解决了同一时间一个串口只能被一个软件打开的限制。
+
+ * 项目地址：https://github.com/dukelec/cdnet
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-117/CDNET.png)
 
 ### 欢迎订阅
 
