@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
+[第 118 期](docs/issue-118.md) | [第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
 
 [第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
@@ -470,6 +470,9 @@
 > * 【第 113 期】135、[USB-SERIAL-L - 设计先进的USB转串口的开源硬件](https://github.com/OLIMEX/USB-SERIAL-L/)
 > * 【第 115 期】136、[hackbat - 用于试验不同的渗透测试技术的开源设备](https://github.com/controlpaths/hackbat)
 > * 【第 115 期】137、[microscope - 可3D打印的实验室级别自动化显微镜](https://gitlab.com/openflexure/openflexure-microscope)
+> * 【第 118 期】138、[IMU_Array - 全开源32路IMU传感器矩阵列](https://github.com/will127534/IMU_Array)
+> * 【第 118 期】139、[USB-Insight-HUB - 硬件开源的USB3.0 HUB](https://github.com/Aeriosolutions/USB-Insight-HUB-Hardware)
+> * 【第 118 期】140、[smart-multipurpose-battery-tester - 开源多功能电池测试](https://hackaday.io/project/201803-smart-multipurpose-battery-tester/details)
 
 **工具(软)**
 
@@ -594,6 +597,7 @@
 > * 【第 112 期】119、[QEMU - 一个通用的开源机器仿真器和虚拟器](https://www.qemu.org/)
 > * 【第 115 期】120、[ngscopeclient - 多协议分析的开源上位机](https://github.com/ngscopeclient/scopehal-apps)
 > * 【第 115 期】121、[Compiler Explorer - 在线编译器测试](https://godbolt.org/)
+> * 【第 118 期】122、[emba - 嵌入式设备固件安全分析仪](https://github.com/e-m-b-a/emba)
 
 **工具(硬)**
 
