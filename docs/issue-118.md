@@ -12,11 +12,11 @@
 
 历史上的今天：。
 
-本期共 2 个项目、1 个工具，希望对你有帮助！
+本期共 3 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
-### <font color="red">1、IMU_Array- 全开源32路IMU传感器矩阵列</font>
+### <font color="red">1、IMU_Array - 全开源32路IMU传感器矩阵列</font>
 
 这个项目使用 iCE40 接了 32 路 IMU 传感器。使用 IMU 可以知道自己相对于地球的位置。它们本质上是机械设备，因此并非万无一失。一种引起关注的方法是将多个 MEMS IMU 放在单个 PCB 上，将其连接到 FPGA，然后将它们的数据一起处理，以获得更灵敏的 IMU 或过滤漂移。当前代码没做任何花哨的数据处理，只是读取 32 个 IMU 数据，或者发送所有数据，或者做一个简单的平均（实际上只是累积）并输出结果（它处理 IMU 的 4 个不同旋转）。
 
@@ -24,7 +24,7 @@
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/IMU_Array.png)
 
-### <font color="red">2、USB-Insight-HUB- 硬件开源的USB3.0 HUB</font>
+### <font color="red">2、USB-Insight-HUB - 硬件开源的USB3.0 HUB</font>
 
 USB Insight Hub 项目通过 USB Type-C 连接器插入 PC，并提供三个 USB 3.0 下行端口，每个端口都有一个 1.3 英寸的屏幕，显示所连接设备的相关信息。该信息包括操作系统枚举名（COMx、TTYx或驱动器号）、电压和电流。USB Insight Hub 还允许控制 D+/D- USB 2 数据线的单独激活和禁用，以强制枚举和控制每个下游设备的电源。主机上运行的一个小应用程序从操作系统中提取 USB 信息，并通过 USB 将其发送到 Hub。
 
@@ -33,6 +33,27 @@ USB Insight Hub 项目通过 USB Type-C 连接器插入 PC，并提供三个 USB
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB.png)
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB2.png)
+
+### <font color="red">3、smart-multipurpose-battery-tester - 开源多功能电池测试</font>
+
+这个项目作者曾经开发过电池容量测试仪(Battery Capacity Tester V2.0)，它主要用于放电电池以测量其容量。在这个新版本中，用户可以对电池充电和放电，有效地将设备变成了一个电池充电器。
+
+ * 项目地址：https://hackaday.io/project/201803-smart-multipurpose-battery-tester/details
+
+以下是与 V2.0 相比的主要升级特性：
+
+```text
+1. XIAO ESP32单片机：
+新版本使用XIAO ESP32而不是Arduino，在增加WiFi功能的同时提供更小的占地面积。这允许远程监控和控制，使用户能够从任何地方跟踪电池测试结果。
+2. 集成充电器电路：
+与测试前需要外部充电器给电池充满电的2.0版本不同，新版本的特点是集成了充电电路。这允许用户一次充电和测试电池，使过程更加简化和方便。
+3. 紧凑的SMD电流检测电阻：
+该版本用紧凑的SMD电流检测电阻取代了V2.0中使用的笨重的陶瓷电阻。这不仅节省了空间，还通过减少热量积累提高了效率，使测试仪更紧凑，更容易操作。
+4. 车载电池座：
+它包括一个直接安装在PCB上的18650电池支架。这种增强消除了通过螺钉端子连接外部电池的需要，这是V2.0型号的情况。现在，用户可以简单地将他们的18650电池插入板载支架进行快速测试。此外，提供了一个JST连接器，用于连接LiPo电池或其他不适合18650支架的电池尺寸，为可测试的电池类型提供更大的灵活性。
+```
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/smart-multipurpose-battery-tester.png)
 
 ## 工具类
 
