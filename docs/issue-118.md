@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 2 个项目，希望对你有帮助！
+本期共 2 个项目、1 个工具，希望对你有帮助！
 
 ## 项目类
 
@@ -33,6 +33,18 @@ USB Insight Hub 项目通过 USB Type-C 连接器插入 PC，并提供三个 USB
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB.png)
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB2.png)
+
+## 工具类
+
+### <font color="red">1、emba - 嵌入式设备固件安全分析仪</font>
+
+EMBA 是为渗透测试人员、产品安全团队、开发人员和负责任的产品经理设计的中央固件分析和 SBOM 工具。它支持完整的安全分析过程，从固件提取开始，通过仿真进行静态分析和动态分析，构建 SBOM，最后生成基于 web 的漏洞报告。EMBA 自动发现固件中可能存在的薄弱环节和漏洞。不安全的二进制文件、旧的和过时的软件组件、潜在的易受攻击的脚本或硬编码的密码就是一个例子。EMBA 是一个命令行工具，可以生成易于使用的网络报告以供进一步分析。
+
+EMBA 协助渗透测试人员、产品安全团队和开发人员识别固件映像中的薄弱环节和漏洞。EMBA 提供了尽可能多的关于固件的信息，测试人员可以决定关注的领域，并负责验证和解释结果。
+
+ * 项目地址：https://github.com/e-m-b-a/emba
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/emba.png)
 
 ### 欢迎订阅
 
