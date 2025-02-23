@@ -12,7 +12,7 @@
 
 历史上的今天：。
 
-本期共 1 个项目，希望对你有帮助！
+本期共 2 个项目，希望对你有帮助！
 
 ## 项目类
 
@@ -23,6 +23,16 @@
  * 项目地址：https://github.com/will127534/IMU_Array
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/IMU_Array.png)
+
+### <font color="red">2、USB-Insight-HUB- 硬件开源的USB3.0 HUB</font>
+
+USB Insight Hub 项目通过 USB Type-C 连接器插入 PC，并提供三个 USB 3.0 下行端口，每个端口都有一个 1.3 英寸的屏幕，显示所连接设备的相关信息。该信息包括操作系统枚举名（COMx、TTYx或驱动器号）、电压和电流。USB Insight Hub 还允许控制 D+/D- USB 2 数据线的单独激活和禁用，以强制枚举和控制每个下游设备的电源。主机上运行的一个小应用程序从操作系统中提取 USB 信息，并通过 USB 将其发送到 Hub。
+
+ * 项目地址：https://github.com/Aeriosolutions/USB-Insight-HUB-Hardware
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB.png)
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-118/USB-Insight-HUB2.png)
 
 ### 欢迎订阅
 
