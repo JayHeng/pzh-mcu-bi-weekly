@@ -330,6 +330,7 @@
 > * 【第 117 期】261、[ztask - 一个简单的基于计时器的调度器](https://github.com/tomzbj/ztask)
 > * 【第 117 期】262、[CDNET - 面向CDBUS的可选高层协议](https://github.com/dukelec/cdnet)
 > * 【第 117 期】263、[MiaoUI - 一个基于C语言的单色OLED菜单UI框架](https://github.com/JFeng-Z/MiaoUI)
+> * 【第 119 期】264、[fifofast - 一个为MCU精心设计的FIFO](https://github.com/nqtronix/fifofast)
 
 **项目(硬)**
 
@@ -473,6 +474,7 @@
 > * 【第 118 期】138、[IMU_Array - 全开源32路IMU传感器矩阵列](https://github.com/will127534/IMU_Array)
 > * 【第 118 期】139、[USB-Insight-HUB - 硬件开源的USB3.0 HUB](https://github.com/Aeriosolutions/USB-Insight-HUB-Hardware)
 > * 【第 118 期】140、[smart-multipurpose-battery-tester - 开源多功能电池测试](https://hackaday.io/project/201803-smart-multipurpose-battery-tester/details)
+> * 【第 119 期】141、[HydraMeter - 一个有趣的万用表项目](https://github.com/jduffy105/HydraMeter_0.4)
 
 **工具(软)**
 
