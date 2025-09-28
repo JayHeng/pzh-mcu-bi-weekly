@@ -331,6 +331,8 @@
 > * 【第 117 期】262、[CDNET - 面向CDBUS的可选高层协议](https://github.com/dukelec/cdnet)
 > * 【第 117 期】263、[MiaoUI - 一个基于C语言的单色OLED菜单UI框架](https://github.com/JFeng-Z/MiaoUI)
 > * 【第 119 期】264、[fifofast - 一个为MCU精心设计的FIFO](https://github.com/nqtronix/fifofast)
+> * 【第 119 期】265、[pebble - Kickstarter史上最成功的智能手表项目](https://github.com/google/pebble)
+> * 【第 119 期】266、[FluidNC - 一款专为ESP32控制器优化的CNC软件](https://github.com/bdring/FluidNC)
 
 **项目(硬)**
 
