@@ -12,7 +12,7 @@
 
 。  
 
-本期共 0 条资讯，1 个项目，希望对你有帮助！
+本期共 0 条资讯，2 个项目，希望对你有帮助！
 
 ## 资讯类
 
@@ -33,6 +33,12 @@ LwOW 还包含如下功能：
 - 设备扫描和识别:内置设备扫描和识别功能，轻松发现并管理OneWire网络上的设备。
 - 多驱动程序支持:支持多种不同的设备驱动程序，方便用户扩展和定制。
 ```
+
+### <font color="red">2、i2cdevlib - 为I2C设备设计的大一统抽象库</font>
+
+i2cdevlib 是一组结构大体统一且文档完善的类，用于为 I2C 设备提供简单直观的接口。每个设备类都基于通用的 “I2Cdev” 类构建，该类将 I2C 的位级和字节级通信从具体设备类中抽象出来，使设备类保持简洁，同时只需修改一个类即可将 I2C 通信代码移植到不同平台（如 Arduino、PIC、MSP430、Jennic、简单的位操作等）。设备类的设计目标是完整覆盖每个设备文档中描述的所有功能，并提供一些通用的便利函数。。
+
+ * 项目地址：https://github.com/jrowberg/i2cdevlib
 
 ![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-120/.png)
 
