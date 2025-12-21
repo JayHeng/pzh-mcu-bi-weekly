@@ -13,7 +13,7 @@
 
 ## 2024农历甲辰龙年
 
-[第 119 期](docs/issue-119.md) | [第 118 期](docs/issue-118.md) | [第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
+[第 120 期](docs/issue-120.md) | [第 119 期](docs/issue-119.md) | [第 118 期](docs/issue-118.md) | [第 117 期](docs/issue-117.md) | [第 116 期](docs/issue-116.md) | [第 115 期](docs/issue-115.md)
 
 [第 114 期](docs/issue-114.md) | [第 113 期](docs/issue-113.md) | [第 112 期](docs/issue-112.md) | [第 111 期](docs/issue-111.md) | [第 110 期](docs/issue-110.md) | [第 109 期](docs/issue-109.md)
 
@@ -333,6 +333,9 @@
 > * 【第 119 期】264、[fifofast - 一个为MCU精心设计的FIFO](https://github.com/nqtronix/fifofast)
 > * 【第 119 期】265、[pebble - Kickstarter史上最成功的智能手表项目](https://github.com/google/pebble)
 > * 【第 119 期】266、[FluidNC - 一款专为ESP32控制器优化的CNC软件](https://github.com/bdring/FluidNC)
+> * 【第 120 期】267、[LwOW - 适用于嵌入式的轻量级单总线协议库](https://github.com/MaJerle/lwow)
+> * 【第 120 期】268、[i2cdevlib - 为I2C设备设计的大一统抽象库](https://github.com/jrowberg/i2cdevlib)
+> * 【第 120 期】269、[lwext4 - 为微控制器提供的Ext2/3/4文件系统](https://github.com/gkostka/lwext4)
 
 **项目(硬)**
 
