@@ -12,9 +12,17 @@
 
 。  
 
-本期共 0 条资讯，3 个项目，希望对你有帮助！
+本期共 1 条资讯，3 个项目，希望对你有帮助！
 
 ## 资讯类
+
+### <font color="red">1、兆易创新推出新一代性能旗舰GD32H78D</font>
+
+兆易创新近日推出 [GD32H78D/77D系列](https://www.gigadevice.com.cn/product/mcu/high-performance-mcus/gd32h7xx-series/gd32h78dh77d) 高性能32位通用微控制器，产品基于高性能Arm® Cortex®-M7内核，主频高达750MHz，配备高速大容量内存架构及640KB可与CPU同频运行紧耦合内存（TCM），搭载专用数学加速引擎及丰富的外设接口，实现了高性能、低功耗与专用加速器的完美融合。该系列MCU全新集成MIPI DSI接口，提供出色的多媒体处理能力，广泛适用于高端嵌入式HMI、手持云台、专业声卡、便携医疗设备、智能家居等丰富人机交互场景，为高性能嵌入式系统提供全面可靠的硬件平台。
+
+ * 资讯来源：https://www.gigadevice.com.cn/about/news-and-event/news/gigadevice-launches-gd32h78d-77d-series-mcu
+
+![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-120/GD32H78D.png)
 
 ## 项目类
 
@@ -59,8 +67,6 @@ lwext4 有如下特点：
 - 内存占用小
 - 配置灵活
 ```
-
-![](https://raw.githubusercontent.com/JayHeng/pzh-mcu-bi-weekly/master/pics/issue-120/.png)
 
 ### 欢迎订阅
 
